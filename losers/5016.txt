@@ -1,0 +1,4 @@
+RIDE2ME is an iOS and web application that provides an easy way to meet your friends, send invitations and more, with UberX.
+Imagine you are at a bonfire at Ocean Beach and your friend wants to come.  Ocean Beach is a big place with little to no signs.  With RIDE2ME, you can send your friend your location and they can request and UberX to your location.
+Or if you are throwing a house warming party, simply include a RIDE2ME link in your invitation email.  No more dealing with messy addresses!
+Use the search feature and embed RIDE2ME on your website so customers can easily get to your business.

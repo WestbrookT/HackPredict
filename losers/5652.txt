@@ -1,0 +1,18 @@
+Milestone 2 Update:
+Art style has changed from simplistic cartoony environments to a much more abstract Tron/Matrix inspired approach.
+This was due to a few considerations.
+1) Performance reasons (the new style needs no lighting apart from on the players vehicle)
+2) Motion sickness issues.  The much more abstract environment allows things to be simplified or adapted much more easily to tweak specific problem sections.
+3) Screen considerations.  The predominantly green textures should give the best resolution considering the Note4's display design.
+3)  It just plain looks cool.
+The electronic computer look also allows for less natural movement, which would seem strange in a realistic environment but would present motion sickness concerns with "realistic" acceleration and deceleration being very good at prompting simulator sickness.
+Path branching and selection using the players gaze is operational, pickups and GUI elements on the players vehicle are still to be implemented.
+Attached files for this milestone are screenshot.jpg and labelled.jpg.  The former is a clean screenshot straight from Unity (with game window set to roughly Note4 aspect ratio) while the later is a copy of the same shot with gameplay elements noted.
+Milestone 1 Submission:
+A roller coaster game for Gear VR, designed to provide a motion sickness free (or at least low enough to be comfortable) experience.
+In the game the player moves along a track, at junction points selecting the direction of their further travel by the direction of their gaze.  If the player is looking at the left branch of the track they will move along that, if they are looking to the right they will move along that.  I'm interested to explore if that level of control over their movement will alleviate some player discomfort.
+The environment will be simplistic and stylised both to maximise performance on the mobile hardware and to help reduce motion sickness through not bombarding the player with a visually busy surroundings.
+All control will be through the players gaze, and by simplistic interaction with the Gear VR headset track pad.  The intent with this is to make a game that is easy for new VR users to pick up and enjoy.
+Pickups will be implemented that give the player both extra points and extra time.  Game will end once either all pickups are collected, or time runs out.
+From personal experience with demoing the Gear VR to friends and family members, simple and even static content can still be an amazing experience for newcomers.  For this reason the game experience is being kept short and simple, with focus on a comfortable VR experience over complicated interactions.
+Note: Attached images show my initial notes on coming up with the idea, and a shot from Unity showing an altered Curvy example scene I used to quickly test out if my mechanics would work.

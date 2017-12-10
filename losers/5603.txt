@@ -1,0 +1,3 @@
+Traditionally analysis of your business retail performance has been confined to the worlds of spreadsheets, printed documents and widget dashboards online. The application looks to make a common business process more engaging, valuable and offer true insight into how your sales process works.
+An example flow:
+To achieve this we use Unity3D connected through rest services to key business processes and a super fast  in memory SAP HANA database to analyse and deliver back data that is then rendered to give the user context relevant information. We aim to change the perception of Virtual Reality for enterprise.

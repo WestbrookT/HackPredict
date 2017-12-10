@@ -1,0 +1,3 @@
+GvM helps you make yes-no question decisions by having a girl fight a monster to determine the verdict. It's like the classic angel vs devil decision-maker... but you get to witness a fight each time! 
+And, because you have to take a moment to put on your Gear VR. It's a serious decision for thought. 
+Uses a real random number generator via photons via random.org!

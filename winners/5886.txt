@@ -1,0 +1,2 @@
+There are hundreds of concerts in New York every day, given by bands that we've never heard of. Some of them we would probably like. If only we had a way to find out... like Bandyo!
+Bandyo takes concert listings harvested from SoundKick and invites users to listen to 30-second demo clips from Spotify, and, if they like a band, informs the user about concerts and provides a way for the band to communicate about upcoming performances with the user.

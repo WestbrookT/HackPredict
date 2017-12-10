@@ -1,0 +1,30 @@
+How might we help people find financial balance in a fun, social, and meaningful way
+Profile:
+-Demographics:
+-Name: David Thompson
+-Age: 20 years old
+-Income: under $10,000
+-Education: currently student
+-Major: Psychology
+Geographics:
+ -Location: University of Kansas, Lawrence, Kansas
+Psychographics:
+-Social class: comes from a lower middle class family.
+-Lifestyle/Activities: class and studying Monday thru Friday, works part-time, involved on campus, parties with friends on the weekend.
+-Motivations: to graduate college and find a good paying job that will help him live the life he wants.
+Needs and Goals:
+-Wants to live in the moment and enjoy life with the people around him. 
+-Wants to be financially independent and have a successful financial life. 
+-Needs to support his basic needs every month on his own. 
+-Wants to be able to travel and take advantage of opportunities around him. 
+-Wants to be able to buy nice things.
+Apps:
+-Facebook, Twitter, Instagram, Snapchat, Gmail, Venmo, and Uber
+Interests:
+-Travel, learning, meeting new people, trying new things, music, partying, KU basketball, sports
+The problem we want to solve is enabling people to find financial balance. Our hypothesis is that by automating the bugeting process and encouraging users to focus on the things in their lives, we can help users save 10% more of their income on a monthly basis, while increasing their financial well-being.
+Using figma, framer, xcode, APIs
+Implimenting the Plaid API and figuring out our next steps. We could have definitely asked for more help.
+Leaving with a foundation to test and iterate on the core value of Livn, so we can solve the problem we are after. 
+Hack@Brown was an awesome experience that helped us learn and play around with new technologies, but the biggest lesson we are leaving with is knowledge of what we didn't know before. 
+Learn some things, try some things, break some things, and ask for help along the way until we create value.

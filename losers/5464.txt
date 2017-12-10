@@ -1,0 +1,2 @@
+This game is a form of interactive fiction, where the player plays the role of a famous character in a Shakespeare play.  Imagine playing Iago, striving to convince Othello to murder Desdemona, or experience Hamlet as he plots revenge on his enemies.
+The app will provide scenarios where the user can converse with other characters and take key actions to advance the plot, such as when Iago must stab Cassio to move the Othello plot forward.

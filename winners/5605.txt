@@ -1,0 +1,19 @@
+Searching for a parking space is a routine and often frustrating activity.
+This search burns about one million barrels of the world’s oil every day. 
+Cities continues to urbanize without a proper plan, these problems will worsen
+ParkingShare is an online marketplace connecting drivers with city parking: 
+Enables people to list their available parking and earn extra income in the form of rent. 
+Enables drivers to book unique home stays from local hosts, saving them money and giving them a chance to interact with locals. 
+Using Following APIs:
+TMF API
+    - CustomerManagement API
+    - Product Catalog Management API 
+Huawei API
+    - Digital CRM (SendSMS)
+    - Digital RM (Querying Balance)
+    - Digital RM (Deducting Balance) 
+    - Digital RM (Performing Payment)
+Lisbon Data
+    - ******
+Fiware APIs
+    - WeatherForecast

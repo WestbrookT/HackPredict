@@ -1,0 +1,3 @@
+We wanted to make a game that would help educate others at the same time.
+You start as a hydrogen  atom (1 proton). By moving around, you collect more protons and electrons, with the goal of obtaining  Ununoctium. At each step, you are able to see the element associated with your current atomic number. If there are too many electrons or too many protons, the particle becomes too positive or too negatively charged, so you lose.
+Elementor has mamy possible paths for the future, most of which involve adding additional concepts in chemistry. For example, we may also have the player pick up neutrons to obtain certain isotopes of an element.

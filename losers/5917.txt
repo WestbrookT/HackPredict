@@ -1,0 +1,6 @@
+Application is used by medical professionals to identify cardiac rhythm management devices (CRMDs: pacemakers, ICDs, CRTDs) simply by looking at the Xray of the patient.  
+Help in identifying the type of device
+Quick and easy identification of the manufacturer of the device 
+Useful in devices at end-of-life where the programmer is unable to communicate with the device
+This application is meant to simplify and expedite the work of medical practitioners by providing timely access to information and device identification.
+The next step will be to take a picture of the xray and the device and use image recognition and machine learning to identify the device.

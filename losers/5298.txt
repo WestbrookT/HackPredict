@@ -1,0 +1,8 @@
+While battles rage on the other side of the galaxy, someone’s got work to do! All those fancy spaceships need rare minerals to run and your team of robots are great at mining asteroids for them.
+Set in a far corner of an asteroid belt, your job is to find the best yielding asteroids, deploy your robots in the most optimum way and collect the minerals before they fly off into space and are lost forever!
+In this demo level:
+This game requires the GamePad.
+In this VRJam I wanted to explore simple ways to navigate in 3d space and create a casual game that would be accessible to more people, especially in a mobile context.
+I've used an orbiting system that doesn't seem to exhibit the same yaw-turn sickness problems as more traditional steering. 
+Players can easily travel between asteroid by using look-based targeting. 
+And while travelling, I've managed to completely avoid any yaw-turning to stop the sim-sickness that can trigger.

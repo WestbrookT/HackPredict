@@ -1,0 +1,7 @@
+We were inspired by open world adventure games and real world scavenger hunts. We decided to combine the two and create this game!
+It is a game where the player wanders through the forest searching for various times using riddles as clues. 
+We built the main game using Unity. The models were created in SketchUp and the music was composed in NoteFlight. 
+We ran into challenges using the colliders and while designing the compass tool. 
+We are most proud of the compass and the music. 
+We learned a lot more about GUI's in Unity and just overall ease of use in the engine. 
+We plan on adding different scenes with different scavengers hunts to explore. 

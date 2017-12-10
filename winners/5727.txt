@@ -1,0 +1,9 @@
+The Green Waste Bin is a waste bin that can sort the items that it is given. The current of the version of the bin can categorize the waste as garbage, plastics, or paper.
+The physical parts of the waste bin are the Lego, 2 stepper motors, a raspberry pi, and a webcam. The software of the Green Waste Bin was entirely python. The web app was done in html and javascript.
+When garbage is placed on the bin, a picture of it is taken by the web cam. The picture is then sent to Indico and labeled based on a collection that we trained. The raspberry pi then controls the stepper motors to drop the garbage in the right spot. All of the images that were taken are stored in AWS buckets and displayed on a web app. On the web app, images can be relabeled and the Indico collection is retrained.
+AWS was a new experience and any mistakes were made.  There were some challenges with adjusting hardware to the optimal positions. 
+Able to implement machine learning and using the Indico api
+Able to implement AWS
+Indico - never done machine learning before
+AWS
+Bringing the project to a larger scale and handling more garbage at a time.

@@ -1,0 +1,6 @@
+Ilina Dragonova is presumably the last living human being, her life perpetuated as a series of clones in order to visit a final act of vengeance against the Elder Gods.
+As a new clone you uncover previous memories through interactive cinematic experiences and room-based puzzles. These are used in a spell-based battle gameplay that involves selection of rune combinations from different pages in the Necronomicon.
+Another possible innovation is a semi-autonomous mecha NPC that fights alongside you.
+We use the GearVR touchpad for input. Both puzzle and battle modes make use of gestures.
+We will be making use of the Psai engine to provide a cinematic soundtrack that follows the intensity of the gameplay.
+Our challenges:

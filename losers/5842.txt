@@ -1,0 +1,7 @@
+to get history from taking a photo of a historic landmark
+when you take a photo, the GPS location will take you to a page with old photos of the building and a little history about it
+We used android studio to build the app with GooglePlaces API for the GPS, Picasso for the Images, and Camera API for the camera.
+Most of the team members were brand new to Android Studio.  We struggled for four hours to implement a swipe that ultimately didn't work.  Our proposed functionality was beyond our capabilities.
+We were able to access the GeoLocation, use the camera, switch between activities, and implementing Picasso.  
+We learned a lot about the structure of SML files.  We learned how to use APIs from reading about them.  We learned how to work as a team.  We learned that we should make our plan more achievable for our capabilities.
+User Interface improvements and implementing a real data base to make it extendible beyond our hard coded land marks.

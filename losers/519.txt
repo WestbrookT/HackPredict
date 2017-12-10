@@ -1,0 +1,18 @@
+University is a daunting place with classes of hundreds of people, weeks and weeks of exams and tons of stress. We want to make university a friendlier place for students. Classes are large, and sometimes we don’t feel comfortable speaking to our classmates. Thus, we often study by ourselves, and formulate questions that we alone can’t answer.
+Study with Company was created to bring students with common courses together. Through a live campus map and checking in through web as well as Pebble, one can broadcast their location and course they're studying for. 
+Once broadcasted, anyone on campus studying for the same course can join them to create a study group.
+Taking advantage of the Google maps API, jQuery and Firebase, we divided the project into three parts:
+- Web map
+The web app, hosting a map of University of Waterloo using Google maps, was integrated with Firebase to keep a real time record of all students looking to study. When location and course are pushed (by checking in), they appear as a marker on the map until removed.
+- Firebase
+Firebase was used as a replacement for the backend and as a hosting service. Location data, whether captured through Pebble or web, is pushed to Firebase. From Firebase, the web app pulls all the information about students looking to study.
+As a hosting service, Firebase is hosting our web map and related files.
+- Pebble app
+As a way of pushing location data, we decided to take advantage of the Pebble API. A user wearing the smart watch can open our app, select the course they want to study and have their location data pushed to Firebase. 
+Before Saturday, our experience in jQuery, Javascript, Pebble and Firebase was next to nothing. Starting Saturday afternoon, we started to familiar ourselves with Pebble hardware, Firebase and CloudPebbleIDE. All these things started to cause major problems with each other. Our Firebase was not syncing properly with the Pebble, the IDE was buggy and kept crashing, Javascript was connecting through the wrong sockets, it was a mess.
+We decided to use the free pop.co domain offered to us, what we didn't expect to happen was have their name servers not work. It took 6 hours and a lot of frustration to realize our DNS settings were never going to propagate, leading us to use 3rd party Dreamhost name servers.
+Even though this was our first hackathon and the first time touching Pebble and Firebase, we managed to learn enough in one afternoon to create our project. This was a major feat for us because of how intimidating everything was at first, but led to be manageable.
+I'm also proud of being able to stay awake 48 hours without more than a few hours of sleep.
+Since it was all of our first hackathons, to say we learned a lot is an understatement. Technical skills aside, we learned a lot about how we function late at night, how hungry everyone is at 4am and how much sleep is important.
+Our biggest lesson would probably be that it is okay to change your idea. We definitely had an idea going into the hackathon, but we changed it with about 18 hours left to code. It ended up working out since we’re submitting this!
+Integration with other API's to allow more features for users.

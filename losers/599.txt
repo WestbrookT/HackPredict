@@ -1,0 +1,3 @@
+I am a season ticket holder for the 49ers and I was looking to get more data about ticket sales, as well as seat license sales. With some individual seats at Levi's Stadium selling for $250,000 per seat, the stadium started looking more like a real estate map than just a stadium. I came up with the idea to create a Zillow for seat licenses so seat owners could get an idea of what their seat is worth on the aftermarket.
+Helps season ticket holders manage their tickets. Give them a real-time estimate of what their seat license is worth.
+PHP on top of WordPress, pretty boring.

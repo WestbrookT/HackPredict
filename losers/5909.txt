@@ -1,0 +1,6 @@
+As we were brainstorming for ideas for a long time, we thought what if we made an app for exactly this purpose. Making it social and collaborative would make it extendable to several fields such as business, education etc.
+The user is asked to enter a couple of words, and words related to those words, the app also provides some. A mind map is created and all the words are displayed together. This may help the user think of something new, if not he/she can continue brainstorming, enhancing the size of the map.
+The challenge we faced was Outlook API integration, because of insufficient platform support, and insufficient help.
+We are proud to have implemented the Nexmo API, researched about Yammer and Atlantic .net 
+We learnt more fluency in languages like C#, knowledge of some new APIs. Increased ability to make rapid protoptypes for Windows phones. 
+For the future, we plan to Implement different topics in brainstorming, as well as add some new methods to brainstorm. Improve group interaction dynamics in the app.

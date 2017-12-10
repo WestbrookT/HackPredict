@@ -1,0 +1,14 @@
+[Story]
+It's been four years since your feet have touched the soft dirt of earth.
+Your re-entry into Earth's Atmosphere starts as it should. As you drift toward the Karman Line, all systems look stable and your orbital trajectory is on target. EMMA, your automated computer guidance system, assures you that you will be home shortly. You take a deep breath and relax as you prepare for the last leg of your journey.
+Within moments of initiating your descent, something strikes your craft.  Your grip tightens as the explosion shakes you to your core. The red glow of emergency LEDs light up your face. As you spiral out of control, you craft begins to depressurize and alarms shriek. Your heat shields start to fail and the warmth creeps up through your suit. Your trajectory drifts and your hull starts to fracture. One thing has become abundantly clear: You are your only chance of survival.
+[Gameplay]
+Re-Entry is a high-intensity Virtual Reality game which places the player in the middle of a failing space descent. Players will face a variety of mini-game challenges, all of which utilize the unique features of the GearVR.
+Directions:
+Re-Entry is a game of multitasking.  Players will be faced with repairing their pod, destroying space debris and maintaining their trajectory through five randomly recurrent mini-game challenges.
+Autopilot Override Sequence - Watch for a pattern of four.  Look at and tap the buttons in the order you see them to override the autopilot system.
+Realign Trajectory - Look at the left and right arrows and tap the touch pad to realign your trajectory before time runs out. 
+Clear Space Debris - Look at space debris to destroy it.  Your pod cannot sustain more than three hits.  Don't forget to keep checking!  There's lots of space debris out there.
+Restore Auxiliary Power - Look at and tap each of the blue lights to restore auxiliary power. Don't wait too long - your ship will lose power permanently.
+Repair Heat Shields - Align the three discs to repair heat shields.  Tap the touch pad to stop each spinning disc.  Align all the discs before time runs out or you'll burn up.
+From the commander's chair, the player can turn and interact with the controls of the spacecraft as if he or she is actually there - making split second decisions to narrowly evade disaster.  Re-Entry features custom and highly cinematic audio timed perfectly for complete immersion as well as comfortable and intuitive controls.  Nothing is needed besides your Samsung phone, a GearVR and your instincts.  Can you survive?

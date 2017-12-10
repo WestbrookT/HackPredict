@@ -1,0 +1,5 @@
+We decided to make a game centered around an inside joke on our floor.
+You use the WASD keys to move the vacuum cleaner around, to chase and attempt to catch the figure.  As you catch figures, a new one will appear.  This will continue until time runs out.
+We didn't know any HTML, JavaScript, or CSS, or how to use a Google API, so we had to start from scratch.
+The game works.
+We learned how HTML, JavaScript, and CSS work, along with how to use the Google Maps API.

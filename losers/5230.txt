@@ -1,0 +1,7 @@
+Swirling stars against thick blue paint, oily roads across waterlily ponds and dadaist non-sense are all around. Burning giraffes, dancing ballerinas and modern art convertibles will be our guides in this fantastic journey.  
+Imagine Monet, Dali and Warhol had the technology we have today.
+Soon available on the AppStore for iPhone 6 and Zeiss VR One!
+Technical info:
+Most of the scenes are generated procedurally. Objects and effects are placed randomly. While working most of the time on rendering issues and visual optimization, I hope you will find my app enjoyable and entertaining. Please forgive me for the unfinished state.
+*Requires full Unity3D 5 SDK support
+ 

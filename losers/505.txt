@@ -1,0 +1,8 @@
+When we sent survey emails at work, I was always annoyed that users would have to click first onto an external page where they could do a survey. Why is this necessary? It adds one extra step: why not just respond from the email itself?
+That's exactly what SurveyHuman does. It's super simple; it just sends an email survey, and users can respond right within the email.
+Also, in real time, survey creators can see responses as they come in.
+We built SurveyHuman on top of a postgres server and a golang API (heroku), and ReactJS (native and web) front ends. It was a chance to learn the very newest in web and mobile technology; with ideas like functional reactive programming and single directional data flow (well, they're old ideas but history repeats itself right?).
+Heroku is currently down. This will be interesting. Also, Heroku seems to inconsistently log golang's output? Anyway, the real challenge is probably figuring out a user interface; we wanted the process to be as seamless as possible.
+We learned to use every step of the modern web/mobile application toolchain. From a SQL database to reactive front-ends.
+SurveyRobot?
+Heroku was down this morning, so some of the demo wasn't available for taking screenshots.

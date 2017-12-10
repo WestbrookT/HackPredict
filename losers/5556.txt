@@ -1,0 +1,8 @@
+When we saw foodparing , it is really interesting and give you a lots of fun. However at the same time, it seems for professional people, for example bartander or chef.
+We try to make a webapp to make easy to use foodparing service for ordinary people.
+At first by foodparing api, the app suggest you the ingredien.
+Secondly by foodparing api
+I focus on programming part.
+The UI/UX. Unfortunately in this time i could not finish on time. X(
+$.ajax.post
+connect with each apis

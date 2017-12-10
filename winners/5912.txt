@@ -1,0 +1,4 @@
+Our inspiration came from frustrating mornings of simple unawareness
+Hardware compatibility, interfacing between MTA api and familiar programming languages. 
+Grasping some of the knowledge needed to access live MTA data. Ability to complete (for a good chunk) our idea in such a short time span.
+Getting it to work on its own hardware.

@@ -1,0 +1,7 @@
+We needed a way to meet people as potential friends or other relationship wise through different kinds of like interests, and that is through memes. 
+Ranks users based on what they submit and then through a matchmaking system pairs those with like scores on their memes get a chance to hook up however they see fit.
+Used frameworks like Semantic UI and Flask to create the program as fast as possible for user management and pretty cute front-end. Used python for most of the program and then used javascript and html for the aesthetics. 
+Idea making, match making calculations, scoring systems, and combining the front end with the back end. Our team worked separately and was not able to work on syncing one another 
+Managed to do most of what we wanted in the few days that we got
+I learned that you can't build something in 12 hours with only caffeine and 4 hours of total sleep over the 36 hour weekend.
+Actually finishing it and turning it into something that we can use in the future for another project!

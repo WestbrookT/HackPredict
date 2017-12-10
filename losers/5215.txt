@@ -1,0 +1,37 @@
+Raze the planet as the turret gunner for an alien invasion. Level buildings and entire cities.  Shoot attacking enemies from the skies. You had better be good though, because you're hanging from the bottom of a flying saucer and it's a long way down if your turret is destroyed! 
+On the Day of Destruction, you will descend on Earth attached to the belly of an alien mother ship determined to eradicate the human pestilence. Fight Earthlings in the air and on the ground while causing as much massive destruction to the cities as possible. Battle in virtual reality, harnessing the full experience of mobile VR with 360 degrees of free rotation gameplay. No cords, no restrictions. 
+You play  the part of an alien invader approaching the planet Earth.  Your mission is to level the planet and kill the inhabitants.  You are the Captain, pilot, and gunner on your own personal flying saucer.  As you approach the planet, you put your ship into auto-pilot and descend to a gun turret on the bottom of the saucer. 
+As your ship descends and buildings start to come into view, you target the nearest building and fire your weapon.  Buildings will vanish and skyscrapers will fall in a satisfying fit of destruction. Accumulate enough damage and you will be rewarded with the full power of your ship's laser cannon.  
+The building in each city have the ability to fire on your mother-ship.  Each hit to your mother ship breaks down the shields. Once the shields are penetrated, damage begins to accrue on your turret.  As the turret takes damage, cracks will appear in the surface of the dome.  When the dome is breached, you will fall to your death!  ]
+Defend against ground weapons by destroying the buildings that are firing them.
+Keep one eye on the sky, fighter-jets are hell bent on taking you out.  If a jet get past your defenses it will fire missiles on your mother ship.  Missiles do much more damage to your ship than ground-based weapons.
+To defend against fighter jets, you must target each jet, lock on, and fire your main weapon.
+Your gun turret has a 360 degree horizontal view, allowing you to freely spin around.  You also have a 180 degree vertical view, allowing you to look across toward the horizon or down toward the planet.  Your gun turret automatically follows you as you move.  We recommend that you play this game in a chair that has the ability to swivel 360 degrees. Hold on! 
+To initiate an attack on planet Earth, target the bright Attack button on the bridge and tap the VR Gear touchpad.
+You fire your current weapon by touching the VR Gear touch pad.
+Change Weapon   Change your weapon by swiping down on the VR Gear touch pad.
+You fire the laser by swiping horizontally from back to front on the VR Gear touch pad
+A reticle appears front and center in your HUD, and moves as you turn your head.  Position the center of the reticle on the target you want to destroy.
+Since your ship is continually moving, you may need to lead the target by positioning the reticle just ahead of the target you intend to destroy.
+Incoming jets will be identified by a tag.  When you have successfully locked onto a fighter, the tag will change color and size.  This is the best time to fire!
+If you look up, a user interface appears attached to the environment around you. From here you can start the game over or exit the game.
+When you destroy all of the buildings, you complete the level.  You will see the stats for your progress, followed by a prompt to choose your next city to attack.  
+You automatically receive weapon and ship upgrades as you complete each level.
+The game progresses from simple levels with few buildings to more complex levels with larger cities, increasing the number of objects you must destroy.  The number of jets attacking you will also increases each level.
+The current demo has four levels.
+You receive points for the amount of damage that you wreak and for destroying enemies.   Your computer will target special buildings.  If these are destroyed in sequence, extra damage and higher amounts of collateral damage will occur earning bonus points. When you successfully clear a level, you receive credits that you can spend to purchase new weapons, upgrades, and repair your ship. 
+You win the game by destroying all cities in all levels. 
+You lose the game when your turret takes too much damage and you fall to your death. 
+Day of Destruction makes full use of the virtual reality environment and the special freedom offered by the VR Gear Innovator edition.
+Day of Destruction provides a 360 degree view in 6 axes, allowing the player to see the game world.
+Not only can you turn a full 360 degrees while you play Day of Destruction, YOU MUST!  Your ship continuously circles the city, requiring you to continually rotate to see the buildings that you are attacking.  When fighter jets appear, they may come from any direction, forcing you to turn a full 360 degrees to identify potential oncoming jets,.
+Need to see the games UI? Simply look up and you will see buttons to exit or restart the game as well as indicators showing your ship's health.  Look down and you are back in the game!  In this way, the game UI does not clutter the game, nor does the player have to perform any special gesture on the touch pad to get the UI to appear.
+Presence is the sensation that you are really in the environment of the game.  The alien turret dome really provides a sense that you are a gunner, including a view of the underside of your ship.  There is a sense of height as you look down on the buildings below.  And if your turret is destroyed, you stomach and your eyes will both tell you that you are falling to your death.
+This demo is only the beginning.  Many future upgrades are planned for the game. 
+What good alien game wouldn't involve abductions? Each level will have an object that is prized by your alien masters and must be brought aboard the ship.  Cars, televisions, cats...who know what they'll want next.  The more you pick up the more you score.  Destroy these treasures and risk
+ the ire of your alien masters (and lose points)!
+At the end of each level, use the credits you have earned to repair damage to your ship or upgrade.  It's your choice!.  Unlock new weapons and upgrade your shields for greater protection against enemy weapons.
+Future release will feature more weapons and upgrades, including in-app purchases of items that will help you succeed at destroying the planet.
+New levels will bring different types of weapons, including more powerful fighters, more powerful ground-based weapons, and weapons of mass destruction, all targeted at you!
+As you complete levels and upgrade your ships, you will improve your ships offensive and defensive abilities as you increase in rank.
+A global map of all cities will be displayed on the bridge.  You will be able to spin the globe (by swiping the VR Gear touch pad), then target a city that you want to destroy.  A HUD will display the city's statistics including population and defensive category.  You will not be able to select cities whose defensive rating is higher than our ships offensive rating.

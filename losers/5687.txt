@@ -1,0 +1,2 @@
+Phone in your Hand Product Viewer - Lets you preview products in your hands.
+Users will be able to view real products as if they are holding it in their hands.

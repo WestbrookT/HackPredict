@@ -1,0 +1,22 @@
+Pitch Deck
+Github
+Astrologly is the first AAAS (Astrology as a Service) application.
+We're disrupting the divination industry through offering elegant, REST-like APIs on top of deep occult knowledge graphs.
+We are dedicated to our craft and practice Taurus-driven development (TDD), a software development process that relies on the Taurus's slowness to anger and sensibility in practical decisions.
+Base Endpoint:
+https://astrologly.herokuapp.com
+API Key:
+Your API key is determined by taking the MD5 hash of the year, month, day, and military time of your birth, encoded in url-safe base64. MD5 is totally secure because it is an irreversible hash. Rate-limiting will be determined by the Quincunx aspect of your API key.
+Example:
+Example Query:
+Example Response:
+Example Query:
+Example Response:
+Format:
+/natal/{year}/{month}/{day}/
+Example Query:
+Example Response:
+Format:
+/natal/{year}/{month}/{day}/{hour}/{minute}/
+Example Query:
+Example Response:

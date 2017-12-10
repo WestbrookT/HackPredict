@@ -1,0 +1,11 @@
+Concept:
+Stand inside a photo realistic house and change the furniture and color schemes.
+Interaction: 
+Moving around the house will be achieved via teleportation to minimize user sim sickness.
+Changing furniture will be done using gaze interaction and a circular menu.
+Technical challenges:
+To use gaze interaction to switch between 3d furniture pieces will be an interesting challenge. I believe that look to select can be a very smooth experience if done right. 
+The real challenge will be getting a photo real interior running on Gear VR. with light baking this can be possible with minimal drop in detail.
+Current Progress:
+3D Model Done
+UI up next

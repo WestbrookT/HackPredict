@@ -1,0 +1,3 @@
+VERY IMPORTANT: To avoid Android security settings popups, you MUST enable Bluetooth on your Note 4 and make it visible to other devices for 2 minutes before launching this app.
+If you don't have a second device you can turn on tap to pedal in the menu.
+*The pedal system. Unlike traditional Oculus biking apps that requires lots of wires, arduino kits to be outfitted to an exercise bike, VRRRM offers, user friendly and portable approach. 

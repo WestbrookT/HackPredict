@@ -1,0 +1,5 @@
+In a world where your smartphone is at the center of your life, you don't have time to lose, rather, lose your phone - especially when its somewhere in your house.  Instead of spending an hour rummaging through your couch, just activate the locator button on the top of the 
+The Edison board is tough to connect to using linux, and XDK was a bit finicky.  Also, tough to implement twilio call from Node.
+Getting Edison to work in linux. Troubleshooting router problem, and solving connectivity.
+Design, sometimes drives functionality.
+Modular functionality , day parting, and personalized apps.

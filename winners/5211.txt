@@ -1,0 +1,5 @@
+General Maintenance is a VR game with a story: you are an engineer for the intergalactic company, and today is just another day at the office. You have to make it through the day, but surprises awaits you!
+We built the game using Unity3D. All of the graphical assets are created from scratch, using Blender for models and Photoshop and Illustrator for textures.
+The game was very early in concept before we began hacking, so we had to use some time to plan out General Maintenance. We ran into some technical issues with Unity3D and Blender. Also, we originally planned for a few more different puzzles but we had to cut them due to time constraints. Some of the game assets for those minigames still remain in the final version though!
+Creating an original VR game in 24 hours with brand new custom made assets is a pretty difficult task. We think we accomplished many of the large goals during the hackathon.
+We learned a lot about modeling and graphic design, as well as new coding design patterns throughout the hackathon.

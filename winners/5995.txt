@@ -1,0 +1,6 @@
+I keep getting sexiled, so I wanted to create an app that helps sexiled people find beds to sleep in. 
+Carleton Sexodus asks sexiliers to indicate the unavailability of the room they are using, and also input the info for the "empty bed" in the other person's room. Then, that bed will be marked as "available" for sexiled users to sleep in. (Unless the other person(s) in that room indicate otherwise).
+Everything.
+We had never used Flask or MongoDB before, and the only language we knew how to code in was Python. So we learned some HTML, CSS, Flask, and MongoDB! 
+Besides the stuff listed above, we learned that we were a great team. <3 <3 <3
+Make it actually work, and publicize it to the Carleton community!

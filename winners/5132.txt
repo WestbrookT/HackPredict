@@ -1,0 +1,8 @@
+Uses voice recognition to assist users during interaction with law enforcement.
+Generates a database of law enforcement interactions for research:
+Once PocketLawyer is activated, it listens to all nearby speech. It automatically recognizes common situations and provides advice. By listening directly to the conversation, it may recognize things that the user would not. Automatic functionality allows the user to focus on what they are doing, and not the app.
+Examples: 
+Speech recognition is performed by IBM Watson, which generates transcripts, identifies keywords, and also produces an analysis of speaker identity. IBM Watson is also used for text-to-speech to provide advice. Using this framework will allow PocketLawyer to take advantage of ongoing advances in this rapidly developing field.
+Annotated transcripts are stored in a DynamoDB instance hosted on Amazon Web Services. 
+We had trouble with threading while connecting the synchronous and asynchronous portions of our app.
+Watson and DynamoDB are both awesome.

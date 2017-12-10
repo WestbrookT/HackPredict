@@ -1,0 +1,1 @@
+Homoculus Sapiens is a series of fun experiments whose purpose is to question perceptions conditioned by the association of the human head and the head-mounted display. Each experience provides an isolated experiment exploring a cognitive phenomenon. This application aims at serving as a gameplay toolbox for all VR designers in the future.

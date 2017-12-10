@@ -1,0 +1,17 @@
+Fightlike is a multiplayer online dungeon crawler that allows players to create or join servers to dungeon crawl with strangers. The idea is to create a simple multiplayer action RPG in which a player can jump into the world of Fightlike without having to worry about the dedication most online multiplayer games have come to expect. This will be a great way to get a quick pick up and play dungeon crawl going without having to worry about overheating or draining your batteries from excessively long grinding. 
+Controls:
+Fightlike runs off a bluetooth controller and features an easily controllable first person virtual body prepped for sword and shield combat. Camera desyncs from the 3d mesh so that you can get an immersive free look at your surroundings as well as your body. The camera resyncs whenever you need to move, attack or defend. I found this was the best method of implementing an immersive first person body that requires the minimal amount of controller input to get it to do exactly what you want it to do.
+Mechanics:
+Randomization of dungeon room's props, items and AI. Whenever you enter a room it will randomly generate everything listed above. And when you leave if no one is near the area then the room will reset. However if someone is nearby then your progress can give away your position to a potential ally or enemy player.
+Permanent Death. When you die you lose everything and must start all over again. Which is fine because not only does this give death meaning but equipment is somewhat balanced so that a skilled player should have no issues with the dispatching of a highly geared unskilled player. They will have trouble with an equally skilled opponent that is better geared but more often then not a death should result in one of the two making mistakes with their defense. 
+Innovation:
+PvP multiplayer support. Fightlike revolves around multi-user interaction**. 
+Virtual Body. In this game you control your players body as opposed to the typical first person fasion of floating arms in front of the camera. With the headsets ability to be controlled with your 
+head I find it is significantly more immersive when you can actually look down and see your body.
+Audio effects recorded specifically for Fightlike! Features sounds made from mashed fruits to give the game that immersive combat audio.
+Challanges:
+The biggest challenge for me was my lack of formal education and funding. This entire project was built the Blender modeling and animation software, GIMP image manipulation program and the 
+Unreal 4 engine. All of which are 100% free and this was done with a GED based education I obtained in my mid twenties.
+I am hoping this project can inspire all the other dreamers out there because if I could do it with no education and without the use of expensive name brand software then anyone should be able to 
+do it no matter what walks of life they come from if they put their mind and heart into it.
+**Apologies. I was not able to setup a direct online connection for this submission deadline. I will release the server files so that you can host your own Fightlike servers soon as well as setting up a server of my own, however it will require a bluetooth keyboard to connect to them.

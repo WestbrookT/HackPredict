@@ -1,0 +1,6 @@
+I love Podion, but I hate white, so I took my revenge!
+Simple Chrome extension, a few thousand lines of CSS, some serious jiggering and you get pretty bits.
+Tracing down spinners in all that css, catching dynamic elements.
+Design should be felt, but not noticed. Walking that line is tough.
+Given a straightforward app, vast design improvements can be made that never seem to be made.
+Graphite Supercharger. Enhance Podio even further, except with dynamic UI, not CSS.

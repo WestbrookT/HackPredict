@@ -1,0 +1,7 @@
+To kill two birds with one stone, metaphorically of course. We decide to tackle the show.me challenge and use the program we create for RevolutionUC.
+A user inputs their GitHub name and a resume. The program then creates a profile based on their Github activity and hard-skills from their resume. This profile can then be compared with an ideal candidate of the user's specification. The user can also get local job notifications from indeed.
+Node.js, express.js, jade, npm, Redbull, and determination
+Many issues were had with Promises. There was also much wasted time on a LinkedIn API that couldn't be accessed. Many of us lacked any knowledge of Node or JavaSscript.
+We made it to the "Promise"-land.
+Node.js, Express, JavaScript, Friendship, Compassion, a strong sense of impending doom
+Making separate clients for recruiters and students. 

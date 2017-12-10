@@ -1,0 +1,6 @@
+We were inspired to start Starseed for an efficient way of NewSpace.NYC to accelerate space companies using crowd sweat and cash equity. 
+Users can add projects, then create bounties and raise funds through the platform.  Other users can contribute time to complete tasks and get "seeds", actual revenue in the company.  Additionally investors can invest directly for equity.  The project moves along quickly and everyone splits a monthly payout based on their share.
+We did not find a designer so we had to do most of the design ourselves.  It may not look the best, but it's pretty functional.
+We got almost the full MVP in a working demo state.
+I am faster using a PC than a mac.
+We want to go big!  We've built a great team at Disrupt and we were livecoding the whole thing.  We've also found a bunch of developers from livecoding that want to help us out.

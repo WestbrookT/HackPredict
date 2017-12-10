@@ -1,0 +1,4 @@
+Everybody needs a great excuse sometimes. We thought it'd be interesting to build a smart excuse-generating system.
+Great Excuse uses geo-positioning, transit, and local news data to generate a plausible excuse based on user-input defining when and where you should have been.
+In
+Soon

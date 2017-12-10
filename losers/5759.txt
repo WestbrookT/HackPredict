@@ -1,0 +1,14 @@
+Simple function to create filter with simple JSON syntax.
+You can also pass function that will be forwarded to default filter function of array.
+To create filter function you can also use $f
+equivalent of
+equivalent of
+equivalent of
+For string values only, this does not raise error if any property chain is null. If any object in property chain returns null, function returns false.
+equivalent of
+equivalent of
+or in short...
+equivalent of
+equivalent of
+Sorting case insensitive, to perform case sensitive, you should use operator CSASC for case sensitive ascending and CSDESC for case sensitive descending sorting.
+The method is null safe, it does not throw null exceptions.

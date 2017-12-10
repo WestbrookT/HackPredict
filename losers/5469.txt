@@ -1,0 +1,4 @@
+RUMBLE is a game designed specifically for a VR experience where the player will battle against gigantic monsters in a fantasy setting.  
+Gameplay will consist of finding and attacking enemy’s weak points to expose their vulnerabilities.  To survive long enough to do so, players must defend against the enemy attacks by anticipating and blocking incoming attacks.
+The game takes concepts and ideas from classics like House of the Dead and R-Type and integrates them into a first-person VR experience.  
+Control will focus on utilizing the touchpad only.

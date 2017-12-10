@@ -1,0 +1,15 @@
+Dans le cadre du Hackatown organisé par LassondeHacks, nous avons eu 24 heures pour créer un projet basé sur le concept de 
+ville connecté. Nous avons décidé de créer un site encourageant l'engagement du citoyen dans sa municipalité.
+Nous avons premièrement créé deux systèmes pouvant gérer la consommation d'eau potable et d'isolation thermique pour les maisons. 
+Ces informations sont intégrées à différents services permettant au citoyen de s'impliquer dans sa communauté ou en rendant plus accessible 
+différents services offert par sa municipalité. L'application génère aussi du big data, permettant aux municipalités de mieux connaître leurs 
+paroissiens et leurs habitudes.
+Un Arduino permet d'établir une connexion avec les données quantifiables qui nous entourent. Cet Arduino communique ensuite avec un serveur 
+en Node.Js qui permet de faire des requêtes Mysql à un serveur web, rendant possible l'affichage des informations sur la propriété du client 
+à travers les informations entourant cette ville.
+De nombreuses capacités techniques ont du être développées, telles que la programmation sur un microcontrôleur, la création d'un serveur sur apache, 
+le développement en équipe à travers GIT, etc.
+Réussir à mener à terme le projet dans des conditions peu favorables; cela est très satisfaisant.
+La puissance que peut avoir une équipe bien structurée. Même avec les meilleurs talents, travailler seul revient à être peu productif et une bonne
+distribution des tâches permet d'augmenter notre efficacité.
+Le développement de nouveaux périphériques, une meilleure application web, un serveur plus efficace, etc..

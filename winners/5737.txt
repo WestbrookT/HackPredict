@@ -1,0 +1,6 @@
+Searching for hotels is a pain – it requires clicking into each result, then returning to the results before progressing to the next one, repeat ad nauseam. 
+We assume you care most about the area the hotel is in and the bed itself, so we display a carousel of images and allow you do like or dislike each, then a short-list of search results is displayed in the traditional way.
+iOS programming.
+iOS programming. 
+iOS programming.
+It's really more of a feature than a product but hopefully someone will take inspiration from it and maybe apply it to other industries.

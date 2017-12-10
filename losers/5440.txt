@@ -1,0 +1,7 @@
+A lightweight toolkit to add support for Context.io to your Meteor App.
+Includes:
+Simply add via console
+meteor add rapito:contextio
+Initialize cio:
+Connecting mailboxes:
+{{> connectMailboxButton account=userCioAccountId}}

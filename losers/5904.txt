@@ -1,0 +1,3 @@
+Gigabit networks enable an interactive fitness experience which is fun and socially motivating:
+Mobile devices with 802.11ac gigabit wifi establish connectivity with cloud and peer resources.  Device integrations via bluetooth enable local ingestion of real-time biometric data.   Computer vision technology provides real-time feedback to the client and trainer about the activity.
+We tried using the Apple Multi-peer connectivity library as a peer-to-peer discover and data sharing framework but ran into many challenges, so had to shift gears.   The team learned a new programming language, Swift, in the process which slowed number of features we could put into the hack this weekend.

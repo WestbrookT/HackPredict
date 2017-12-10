@@ -1,0 +1,9 @@
+Improving the Dining Experience 
+A customer works in a restaurant, and sits at any table. Once seated, they can use their personal phone to and access the Gruberie app. The app will automatically detect the restaurant and further more the table where the customer is sitting, based on BLE Beacon technology. 
+The restaurant menu will automatically show up and they can start adding items to their order. Once the selection has been done, simply submit, enter your credit card information (Gruberie never stores the CC information, we integrate with Mastercard, to achieve the highest level of security), and Gruberie will sent the order to the restaurant. The integration is done through a IOT printer which communicates with the Gruberie cloud. 
+Once the order arrives, you just have to enjoy it. Want some more? Send another order! Done? Get up and leave, all the payment is taken care of. 
+Integration with Multiple services was a challenge. Mastercard, Gimbal, Atlantic Net, Electric imp, etc. Hosting multiple endpoints in multiple servers. 
+End to end Integration.
+Recruited the first partner restaurant in NYC during the 24h hackathon: "Skylight Diner"
+Scaling the in app / in restaurant ordering across NYC.
+Building additional features to enhance the end to end dining solution. 

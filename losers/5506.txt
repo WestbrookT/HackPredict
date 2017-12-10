@@ -1,0 +1,3 @@
+VR Music visualizer which allows users to load tracks from their music library and experience them with various visualizations, including abstract style visualizations, "DJ mode" and "Concert Mode".
+Currently looking for more artists to help collaborate / contribute artwork and music.
+Current status as of Milestone 3 - Pretty happy with the engine, just need some time to add and tweak new effects for different genres of music.  Got quite a few other ideas in mind as well, including some features to make things a little more interactive.

@@ -1,0 +1,7 @@
+Sample online tutorials, brainstorming
+Alerts the user of a house break-in using a touch sensor (in substitute of a proximity sensor which was unavailable). Alerts user by playing a loud noise off buzzer, flashing alert message, and sending a text message.
+Built entirely in Arduino IDE, the text messaging service was setup through Twilio
+Setting up constant loops checking for input of intruder, getting lcd screen to change background colors, and to setup a reset function (never was able to complete) 
+Building and developing a hardware-based project from start to finish 
+How to use Arduino and grove kit sensors, Twilio integration with Arduino,  and how to code C/C++ within the Arduino IDE
+Reset function so project doesn't need to be compiled every time you want to use it, integration with a mobile device application. 

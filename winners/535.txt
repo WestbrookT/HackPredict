@@ -1,0 +1,4 @@
+Functional visualization dashboard, functional data input, streamlining the data collection process.
+We need to practice our coding and get better sleep before the event. :)
+Easy to add new features!
+Next up: 

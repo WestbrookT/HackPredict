@@ -1,0 +1,2 @@
+people use face book to login to android application. We take face book friend list and maintain their location data. When your friends are around you we will notify you and chat is enabled .
+battery optimization

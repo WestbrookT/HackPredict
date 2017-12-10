@@ -1,0 +1,7 @@
+We were inspired by the Jarvis robot in Iron Man.
+It enables you to control your house with your cell phone with voice commands.
+With the help of the nuance api, Android studio, python and an arduino.
+TCP communication between cell phone and computer, serial communication between computer and arduino, DDNS, Hardware
+The whole project. It it a project that we were all interested it in and to be able to create a great first prototype is a exciting accomplishments.
+Serial communication, app development, tcp communication, voice command, nuance api.
+Expanding it to control not just our home but the things around us in the city.

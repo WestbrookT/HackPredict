@@ -1,0 +1,18 @@
+Monster Metal is a block stacking tower game with a twist!  Players must take turns to remove a shipping crate from the middle of the stack and place it on top, creating a taller, less stable structure.
+What makes it unique is not only the inclusion of monsters and additional hazards but also the use of complete positional movement tracking!
+Firstly, the Gear VR is placed on the surface that will house the tower.
+After a brief calibration period, the headset can now be worn.
+Players can then fully move around the tower with full 6DOF (Degrees of Freedom).
+On their turn, players look at the block they want to move/remove, then press and hold the button on the side of the Gear VR.
+While the button is held and through physical movements, players can push/pull the block until it is free... being careful not to knock other blocks!
+Once a block is removed (and still with the button held), players attempt to place the block on the top of the stack, to end their turn.
+The button dictates that a force is to be exerted on a target block.
+Target blocks will "glow" when looked at, with a green glow representing blocks that can be moved and a red glow indicating blocks that cannot be moved (typically, the top 2 rows).
+Players will only have a limited amount of time to take their turn.  Being a monster, the humans, in game, will start to become scared, unleashing air strikes, missile barrages or tank platoons on the players location.  Any one of these could hit the stack - and with it being on their turn, that could mean they lose!
+Milestone 3:
+Further improvements to the position algorithm.  We're working on filtering the calculated position values to remove movement "jitter", and we're so close!
+We've begun the gameplay elements, which can be seen in the video.  Players can use position and orientation to focus on a block, ray-casting is performed on button press and a block is grabbed.  And then position and orientation cause the block to move, as expected.
+Nice things to come will include:
+Milestone 2:
+Base level has been constructed, along with the initial "shipping crate" to be used as the blocks.
+Major strides have been made with the position calculation system, multi-threading the algorithm, continually acquiring (and processing) sensor updates and the first pass position system is almost complete.

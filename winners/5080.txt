@@ -1,0 +1,9 @@
+Analyzing usage of virtual machines in different industry. Providing useful information to assess if a machine is being used efficiently.
+Provide an overall view of 100 csv files about virtual machine's cpu/memory/disk/internet usage.
+Use Jupyter python note and pandas, seaborn, numpy packages.
+The original dataset has less than 10 useful dimension and correlation analysis shows that there is little correlation between them.
+Analyzed the whole 100 csv files and refine the data to a small dataset contains less than 2000 tuples.
+Seaborn plot package.
+There exists correlation between CPU_Usage and Memory_Usage but not strong correlation. 
+Internet Input will contribute to all other features but also not strong correlation.
+Build a better scoring system to give each machine a usage score.

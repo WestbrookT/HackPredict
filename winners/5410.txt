@@ -1,0 +1,7 @@
+We tried to make an app and failed horribly. Twice. In the end we decided to tackle one of the challenges of fighting online harassment with a twitter bot.
+This bot tweets every hour to a person or group of people reminding them to be respectful and not to harass others on the internet. We pick these users by checking to see if they had a tweet containing a violent term and also a popular video game term.
+We used Tweepyto incorporate a twitter API. We tracked the data and showed the most popular occurrence of foul language per game.
+Getting the program to not output tweets to the same person multiple times was an issue. Also there was an issue when trying to submit tweets longer than 140. Also twitter put a limit on how many times we could query their data.
+We got it to work and its actually useful!
+Making a cross platform mobile application is very difficult and takes a lot of planning to set up the environment. 
+Doing analysis on different groups of people to see the correlation of harassment in the community.

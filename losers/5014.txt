@@ -1,0 +1,5 @@
+We decided to integrate this feature to allow our users to discover over 250 restaurants, bars, hotels and tailors listed in major cities listed in our global Address Book.
+This content currently lives on the main website but is not in our mobile app. Since many of our customers are cash rich and time poor it will help them to discover new places whilst on the go. 
+For our hack we have hard coded a selection destinations in London rather than giving access to all destinations. 
+Our target audience is our aspirational, creative and functional customers who enjoy socialising and discovering new things. 
+The key features we are most proud of is the ability to see the distance and time it would take to catch a ride to a destination directly within the MRP app before an Uber is called and, the entry is written entirely in Swift, packaged as an iOS 8 dynamic framework and integrated into our existing product. 

@@ -1,0 +1,5 @@
+Best Star Gazing experience for Gear VR!
+It's a mobile planetarium in VR which is designed for astronomy fans to explore the universe.
+StarTracker VR shows a unique VR experience which you have never experienced before, we call this enhanced VR.
+Normal VR just maps reallife 3D environments into VR world. Yes, you can experience the place you have never been there before, but we go forward to show enhanced VR environment. We map 3D Star Field into a sphere surface, and then look from outside into the shpere ball. You can image all near objects that will move much faster than a normal 3D mapping, finally this will give you an enhanced VR experience which is super awsome. You must try it on Gear VR to feel it.
+Please Note that the virtual sky is all real sky objects according to your location and time, but the direction is not calibrated with real stars, since you are inside Gear VR, it's no matter for the direction, just enjoy the immersive VR experience!

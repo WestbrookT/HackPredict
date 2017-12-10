@@ -1,0 +1,7 @@
+The idea appeared from what was the accumulation of disappointing nights of partying, social interactions and waiting endlessly in lines at bars. One morning after a particularly mediocre and inefficient evening of chasing our friends on new years eve, of walking around aimlessly for hours, we decided it was time to take action. We had the impression that before, not so long ago, people knew how to have fun and we were definitely missing out. Nowadays, our generation is fixated on dehumanizing social media platforms. We felt that we were misusing a powerful tool and that there must be a better way, a more direct way of finding compatible people to enjoy an evening out and sharing great ideas with. We wanted to create an application that would encourage our peers to socialize actively amongts themselves and not just remain passive viewers. Hence, OUT. 
+Brings people together and encourages social development among of generation which lacks of it.  
+Using Xcode in objective-c and different API such as Google Maps and Facebook SDK's. 
+Coordination between developers and Time Constraints. Also, fatigue played a big part. 
+The Google Map API integration, the Facebook Log-In integration and the beautiful and flawless user interface. 
+Sleep is a valuable resource that should not be wasted. 
+Conquer the world. 

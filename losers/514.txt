@@ -1,0 +1,7 @@
+We just wanted to enable the suave that exists in everyone.
+Provides you with a quick pick-up line to really impress that one special person.
+Python + Flask in the backend, Pebble to consume as the frontend
+Hosting on Heroku
+Tbh nothing much, it was pretty run of the mill. I got lazy and didn't implement a DB for the quotes.
+I haven't worked with Heroku in a while and the Flask + Heroku docs are kinda sparse but I was able to make it work, which I'm happy with.
+Johnny.

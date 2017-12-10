@@ -1,0 +1,5 @@
+Develop a system to monitor a farming land, quality of the soil, feed the required amount of water and monitoring the electricity usage. This information will be sent to the cloud. 
+In the back end, we'll analyze the data and provide meaningful information to the users.
+Farmers at the other end gets the real time information on their mobile phone through our application.
+Also, this information can be shared with Government for further decisions of water usage and electricity usage of that area. Post which Government can supply the needed water and electricity.
+We can also provide information related to productivity of the farming land. 

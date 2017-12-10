@@ -1,0 +1,2 @@
+I like to bring the data to the web properties.
+I wrote a Chrome extension that overlays public parking spaces to large event sites, specifically frolichawaii.com and eventbrite.com

@@ -1,0 +1,7 @@
+Inspiracją były korki na ulicach miast, zastanawialiśmy się co może motywować nas do pozostawienia auta w domu i woboru innych form transportu
+Aplikacja, kótra motywuje Cię do pozostawienia auta w domu dzięki temu , że przelicza kilometry przebyte innymi środkami transportu na zaoszczędzone pieniądze
+Dzięki pracy zespołowej i super sesji servicejam udało nam się przejść od ideii do prototypu 
+Jak przedstawić wartość dla uzytkownia, jak przekonać go do korzystania z aplikacji 
+Jesteśmy dumni z interfejsu uzytkownika i prostoty działania aplikacji
+Że, można stworzyć produkt w tak krótkim czasie
+Praca nad rozwojem aplikacji, jej wdrożeniem do sklepu.

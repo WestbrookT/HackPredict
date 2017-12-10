@@ -1,0 +1,6 @@
+Finding the bell schedule and map were a hassle in school, and the school website is not very efficient as sometimes it is down and it is always hard to navigate on mobile devices.
+You can find bell schedule based on which lunch you have and if it is a Wednesday or not, and can access a map of the school with the three major buildings labeled clearly.
+Properly formatting the images and making the Wednesday indicator work, as well as labeling the map correctly.
+Getting the application to work properly (making the screen to screen navigation work) and posting it to the Google Play Store as it was our first app.
+We learned more about app inventor like: proper screen to screen navigation, implementation of images, and boolean variables with whether it was Wednesday or not.
+Graphical upgrades, more options for more school related things and a more proper map for the app.

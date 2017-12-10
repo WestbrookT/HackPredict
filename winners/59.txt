@@ -1,0 +1,7 @@
+College Life
+Provides a summary of the video you want to watch, especially when you have an exam
+We had 2 people work on the frontend and 2 working on the backend
+The design and connecting the frontend with the backend
+It's functional
+Flask
+We will see...

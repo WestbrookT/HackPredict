@@ -1,0 +1,5 @@
+STORY - In the mid 21st century after decades of war and massive loss of life, various countries and alliances around the world built machines to continue their ongoing battles. Numerous models with varying degrees of intelligence were produced over the course of 27 years.
+From a military safe house in an unknown location, you remotely control an AI tasked with neutralizing key objectives in the ongoing battle.
+GAME - From an isometric p.o.v you control a bot navigating through hostile environments. Highly interactive and full destructibility allow for unpredictable, tactical, game play.  
+VR - You view the world similar to a dynamic table-top board game. you can tilt your head in any direction to get a better view of the action, and to look behind walls and obstacles.
+TECHNOLOGY - Using physics enabled voxel technology to build out destructible maps populated with dynamic interactive objects.

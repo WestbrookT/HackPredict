@@ -1,0 +1,10 @@
+IFTTT
+A simple yet powerful platform to manage incoming calls and texts for both business and individual. Using this service you will have your number private and use the number registered with us as a front. We provide an interface to control who can reach you via voice and text. One can create recipes with different triggers and actions available. We have designed a simple rule based UI to easily configure the triggers and resulting actions to be performed. 
+You can choose from pre-defined triggers such as "not in contacts" or "in a particular group" or the "type of day" and custom time such as "after office hours". After the trigger is configured you would select an action from the list of actions such as "drop the call", "forward the call" or "reply with a text or voice message". 
+After the configuration you are all set to be found only when you want to be found. The rule engine in the backend will evaluate all the rules you have configured and decide if it should give you the call or drop it.
+Our team name: Team zeros
+Twilio, javascript, node.js, html, mongodb
+Sleep
+Developing a working model of CallHero
+About twilio, IBM blumix api's
+Features to make it one stop for call and privacy control.

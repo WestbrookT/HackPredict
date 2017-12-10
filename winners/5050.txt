@@ -1,0 +1,7 @@
+Has your phone ever annoyed you by ringing incessantly from a tirade of notifications you don't even care about that much? Annoying group messages from projects? 
+This app will let you select messaging apps that you want to block notifications when the frequency of notifications exceeds 1 every 3 seconds, allowing you to receive messages without the annoying train of notifications.
+Used Android Studio, built in java.
+Pulling the list of notifications and tracing with app the notification came from on a system-wide basis.
+This was our first project outside of class ever, and sucessfully creating the UI and having skeleton code that hashes out our idea really pushed the boundaries of our knowledge and abilities. We are proud of creating an app that increases the functionality and solves an everyday, yet frequently ignored probem. 
+How to write Android apps!
+We will refine the notification cancelling function, and adjust it to detect any group messaging app on the phone, including SMS texting and lesser-known group messaging apps so that this functionality can be extended to any user, regardless of what apps they use. 

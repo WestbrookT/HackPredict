@@ -1,0 +1,8 @@
+Help women to be inspired by what other women are doing to promote gender equality and find other women who has similar experience 
+Take twitter quotes that are relevant to the keyword search from women role models including Hillary Clinton, Elizabeth Warren etc.
+We used primarily python to scrape tweets from several twitter accounts. Then used a JSON thesaurus to generate word scores for each tweet and store them in a database, where we can search for words similar to what the user is looking for.
+Words have different meanings in different contexts, so a lot of quotes seem like odd fits for the given input.
+The quote word-scores are, in some cases, surprisingly powerful. They can come up with tweets that fit inputs where we wouldn't expect to find anything.
+Natural Language Processing, Python, Git, Apache, Sqlite  
+Step1. Add a filter to search tweets from certain people 
+Step2. Extend Database 

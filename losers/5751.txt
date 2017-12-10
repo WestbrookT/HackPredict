@@ -1,0 +1,6 @@
+I visited New York for the first time and it just happened to be the Video Hack Day. I though a tool like this 
+Whenever a user has an interesting story to tell from a fascinating location, they can pull up the the app and record a memory
+Because we tried using several APIs, we had several dependency issues to debug 
+This idea is one with a strong use case that we can continue to work on
+How robust the features and how great the API documentation were from Ziggeo and Firebase
+How to use tags to show the most popular videos in any given area based on geolocation 

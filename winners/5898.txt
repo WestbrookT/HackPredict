@@ -1,0 +1,8 @@
+Despite being a freshman in college, I've been a redditor for 5 years, and I was on digg before that. I've seen "Eternal Septembers" dismantle two communities. As a consequence, I want to solve the problem of news being degraded to pictures of cats, and trending memes, as opposed to discussion and constructive debate. In comes renews.io
+Nontech:
+You log in. You pick tags that interest you, as you would twitter hashtags, or reddit subreddits. Stories with those tags then appear on your homepage. You vote them up and down based on their relevance. There can be multiple tags associated with a story, and the place stories will take on your homepage will (eventually) be weighted by the number of tags it shares with your list (get the stories that matter most to you first). Then it sorts by "velocity", which replaces karma. The whole point is take the reddit algorithim and remove the numbers. No more link karma. Karma destroys communities. We're done with that.
+It's a simple Flask app that calls on a SQLite database. It stores values for the user (ebachman), the tags they follow (Silicon Valley, Aviatio), the stories associated with those tags (Aviato sucks, Bachman is a poser), and the url for those stories. 
+How to get my domain I bought from namecheap pushed to my digitalocean server. Just making it read renews.io was hard enough! I was also unsure of how to add a lot of the bootstrap components, I had never worked with a lot of the front end bootstrap components before. 
+It's live! Sort of...
+Way more than I have time to put here. 
+Limited invites, filter by tags and by story velocity, 

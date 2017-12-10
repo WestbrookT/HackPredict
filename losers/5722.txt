@@ -1,0 +1,29 @@
+Water consumption problems not only in California but everywhere in the world there is always a simple solutions to help saving water and even the consumers but no one really gave it a try in my opinion my inspiration is when i first saw Samsung video which really gave me the motivation and with Artik powers so many i can do to help solving this crises every where and after brainstorming i came to a idea where it could help solve this crises around the world.
+The idea of the system is via collecting data but processing it is how the problem is solved Simply a with  Pump control and with water flow sensor(piezo transducer) will be placed on the main house pipe and on each pipe end inside the house same sensor will be installed after installation the water meter readings will be entered into the system to be in sync with the water meter counter.
+Why the Flow sensor?
+the flow sensor will immediately detect if there is a leaks  inside any hidden pipes by detecting the vibrations of water
+and will give feedback to the system if all pipes are used or not in use. 
+Why water meter readings?
+if there is a flow in pipes detected the system is smart enough  to find out via the reading with an algorithm to detect leaking.
+What if the water meter reading not enough for detecting small leaks?
+Via the piezo sensor installed on each pipe end it will report to the system that there is a flow changes will the pipe is supposed to be off.
+What are the capabilities with such system ?
+1 - Sense daily usage
+2- Limit daily usage and send warnings
+3- Reduce water flow via pump control for daily limits 
+4- Scheduling Water usage
+5- Detect leaks
+6- Hand flow control 
+7- Cloud data analysis.
+8- Controlling the system via the cloud cross platform.
+9- report generation.
+will be updating soon .
+Sensing Leaks in wall we solved this via Thermal Vision by analyzing temperature degrees.
+Time Was very tight for testing and implementation.
+Water Metering indoor and out door unit and calculating total water Consumption.
+Controlling water pumps via artik from a web interface
+Soil moisture and water level sensing for Mini Green house with aritk.
+Controlling Artik via web interface.
+The open compatibility of Samsung Artik.
+Water leaking and metering methods.
+Testing with big data and analysis for city deployment.

@@ -1,0 +1,7 @@
+We are a team of creatives with a deep interest in the developing language of VR storytelling. We built a short experience with simple constraints in order to play with the possibilities for narrative immersion during the telling of a great story. 
+We selected this chapter as our first VR filmmaking project for several reasons:
+1) The Count of Monte Cristo is timeless, classic adventure storytelling (and a public domain novel)  
+2) the chapter takes place in a single room over the course of several years -- since it's only in a single room, we could work within simple constraints  
+3) adapting a novel to VR could have legs beyond just a jam -- it could be a form VR users get interested in, or book publishers want to develop for  
+4) we wanted to learn how to tell great stories in VR, and already having a fantastic story to work with allowed us to focus on learning the rules of how to make the VR experience enhance and complement dramatic narrative
+Unfortunately, we ran out of time and could not fulfill the entirety of our vision. We learned so much during this jam and are grateful for the opportunity to collaborate on an experience and explore VR design together!

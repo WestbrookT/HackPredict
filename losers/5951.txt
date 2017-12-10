@@ -1,0 +1,4 @@
+We decided to build a microbe simulator controlled by neural networks that could fight and consume food to control their environment. Each strain of microbe is given a random colour initially that all of its children receive to show the dominant strain after the simulation.
+Each microbe has a series of vision inputs which act like ray scanners. They have a 90 degree field of view which acts as the input to the neural network. If an object is seen in the way of the ray scanner then the input assigned to that ray scanner is one, otherwise it is 0.
+The neural network then evolves through a genetic algorithm we implemented to find and search for food. The output of the neural network is speed and direction of the microbe.
+All code was implemented by hand in java with no additional libraries apart from use of the built in Java awt rendering library.

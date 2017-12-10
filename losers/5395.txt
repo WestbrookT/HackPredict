@@ -1,0 +1,6 @@
+Bought an EEG scanner
+EEG scans and analyzes brain waves. Raw data is sent to Arduino via Bluetooth. When the right conditions are met, a trigger is sent to IFTTT via CC3000 Wifi module using Lithouse framework
+Properly setting up HTTP requests. Learning to control my mind :)
+It works!
+You can combine whatever you can think up and connect it with IoT
+Improving functionality, adding additional control features

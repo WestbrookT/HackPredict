@@ -1,0 +1,5 @@
+Pandora's Music Genome project + Netflix's recommendation algorithm
+Based on machine learning, we’re able to help people discover new locations to travel that they are statistically very likely to enjoy. We ask a few guiding questions on what they like, and within 20 questions we should able to guess with 90% accuracy another place they’d like to go. 
+We base this on a corpus of datapoints derived from previous user interactions and a machine learning tool that Amazon released recently. We’ve catalogued 500 cities on this. It’s similar to the Netflix algorithm or Pandora’s music genome project, but based on user data rather than expert tagging.
+Machine learning works differently than we thought! But we figured out a workaround. 
+If people like it, we might make the tool public. 

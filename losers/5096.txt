@@ -1,0 +1,4 @@
+Five years ago, a girl's mother was stolen away by a water spirit. Now it has returned and wishes to take her daughter, but it gives the girl one chance: prove that she has a reason to exist.  
+The story is 7 - 8 minutes long and told through voice acted puppets animations and music. 
+The stage is  laid out around you and the characters walks between them as the experience plays out. There is no interaction except that being in this virtual environment allows you to be further immersed in the experience and look around at what ever catches your eye like you do in the real world.
+To direct the user we have the scene laid out mainly in front of the user and let the puppets be animated to face the directions where actions take place. Keeping it simple and using the same methods of grabbing the the audience attention as in a theater.

@@ -1,0 +1,1 @@
+"Learn by heart" is an application which will help you understand how the human body is construct. We can watch skeleton of human body and choose the part which we want to learn more about (application will display information about chosen part in details). The application is great tool to learn.

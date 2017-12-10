@@ -1,0 +1,17 @@
+Working Title: “Gaze”
+Input: Head orientation and trackpad.
+Mechanics/Controls: 
+Gaze is an experiment in creating a game where the only input needed is the direction you are looking at in order to navigate the environment. Look in the direction you want to go (it is not a head tilt). 
+You must make your way through the level collecting spirits (represented by butterflies). You have until nightfall to collect all that you can and defeat evil spirits along the way. If you run into red objects that represent the level you are hurt and your time of day is advanced bringing nightfall and the end of the game even quicker.
+You are constantly moving forward. Depending on the comfort level you have selected other verbs such as jumping and speed boosting are controlled by running over spots in the environment (blue spirits boost, green spirits jump). If you look at a enemy target for a short while it will automatically fire at them.
+Innovation:
+Multiple comfort levels. Depending on what comfort level you select mechanics are added. Some players might not enjoy sudden bursts of acceleration or jumps. So you can choose what comfort level you will play at and the game adjusts itself.
+The game can be played as a 180 or 360 experience as the world is built up around you and the direction you are facing. No need to reset orientation in game. Can be played on a train or plane easily without having to worry about turning/resetting orientation.
+Novel use of locomotion/navigation by having you always moving forward and having all input be gazed base (aside from menus at this point). 
+You can pass through all of the level geometry. This was a design choice as it is not comfortable to get stuck on level geometry and or bounce off of objects in the world. You phase through them so the player's input is always respected and there are no sudden changes to position. When you phase through level geometry time is moved forward as you only have until nightfall to until the game is over.
+Other features:
+Runs at 60 fps.
+Future features:
+Integrating a proper story and making my theming stronger.
+Another pass at art/environment and fixing issues with the mechanics such as firing and jumping.
+Multiple levels and a variety of evil spirits to deal with.

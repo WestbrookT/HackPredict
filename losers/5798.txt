@@ -1,0 +1,7 @@
+When I purchase groceries with the goal of making a specific dish, I always end up with way more ingredients leftover than I will ever need. Through looking at students on facebook frantically trying to give away food before they actually go bad makes me think that this idea will be very helpful in limiting waste and saving money for everyone participating.
+Users can search their universities and find out what kinds of foods that people want to get rid of. Once the user likes what they see, they can enter in their name and phone number to arrange a meeting through SMS. 
+Using Meteor, development was quite speedy. 
+Twilio, meteor and reaect doesn't work together very well as I had to hack out some parts to get the SMS to run through. 
+I am very proud that I was able to complete this in the 12 hours that I had. I was about to throw in the towel and not demo since my group disbanded. But after talking to a mentor, I decided to hack on something even though half the time is gone already.
+I learned a lot about user interfaces...
+I'm not sure, let's here what the judges have to say first!

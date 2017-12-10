@@ -1,0 +1,5 @@
+Well, very disappointed. After spending many hours and preparing to build the apk, I encountered an error that I have not been able to overcome. 
+During the build process, I encounter this error:
+"Assets/OVR/Scripts/OVRManager.cs(401,24): error CS0246: The type or namespace name `OVRVolumeControl' could not be found. Are you missing a using directive or an assembly reference?"
+I've been working on this error for hours and would appreciate any help anyone out there can provide. Unfortunately, with only 16 minutes left to go in the challenge, it will be too late. But at least I will know how to correct it for the next time.
+Good luck to everyone else out there.

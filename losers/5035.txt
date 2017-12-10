@@ -1,0 +1,7 @@
+You are an embedded journalist travelling with a small US Army special forces team as they battle "The Soldiers of Heaven" - a religious cult in Iraq that tried to start a Muslim Armageddon during the Ashura festival.
+This battle with the SOH ended with over 300 deaths : men, women and children. This project is based on a true story that was covered up... and now you have a chance to try and find the truth.
+Armed with a virtual camera you will film your own version of the story as it unfolds in an immersive 3D world. You can later re watch your footage as your own movie on Youtube.
+This immersive journalism experience combines live action with 3D animation. It is being built with the Unreal 4 game engine.
+What makes this experience unique, useful or innovative:
+Virtual reality offers film makers an opportunity to step into their story world and get a 360 degree real time perspective of the world they are trying to bring to life. This is ideal for previsualization and production planning as the film maker can leverage the presence that VR offers and look for new shots and camera angles as they walk around their virtual set. What is missing is a virtual camera that the film maker can use to shoot.
+We also think that filming in VR could be a new way to create animated films.

@@ -1,0 +1,15 @@
+I wanted to make an application that could be not only the eyes for a blind person, but also their guide and maybe even the voice in the head.  
+it works by running the camera video constantly and then sending that video data to Amazon S3, after which it asks dextro to look at that video at that s3 url. Then dextro calls my other server that provides with the data analysis results. 
+Then Sight takes that collection of analysis of the video along with a context describing the user's relevant information, things like my location, time of day, etc. and sends it to something like a Watson, which figures how the meaning/semantics of what is going on at the moment. 
+( I also wanted to have the server do the talking to Watson and also record the result in firebase so that user(s) could produce like a journal of what's happening)
+For example, an event happening in Union Square at 10am could be a protest or a flash mob. Sight would include in that context that now is location in NYC and then Watson could either "figure it out" and know from a google search that oh this is probably not a protest, but a scheduled flash mob.
+In addition to blind people, I thought of my autistic cousin who sometimes needs assurances that what is happening is okay and that he will be safe. Sight could analyze his surrounding and help him with a meaningful sentence that can either calm or warn him to move on. (I imagined this working over a bluetooth headphone)
+Another thing I thought of was sending a robot with this technology, especially with firebase, many people could see the live results of a robot walking about, maybe automated search and rescue (is this a trapped person)?
+Many challenges
+1) I wanted a direct web socket connection to dextro, or at least to avoid so many round about ways to get the data as I had to upload to s3 first, then have another indirection. I also initially used an OCaml based solution for myself with web sockets as the callback_url for Dextro, but I saw the time and used a simple flask server. 
+I also lost some time exposing objective C things to Swift, various build issues, and other things like that. 
+and of course I didn't get to Firebase but I wanted to.
+Honestly my biggest challenge was time as there are many asynchoronous pieces and having them play nicely together is hard.
+I like being able to move about in different languages. Today I coded in Swift, OCaml, Python and 1 or 2 more. 
+iOS is really fun. 
+Don't know.

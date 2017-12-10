@@ -1,0 +1,18 @@
+Has he got the skills to keep this party poppin?!? 
+Keep the crowd happy or it gets SHUT DOWN. 
+That's it. 
+DONE.
+By far the biggest hurdle we've faced so far is developing a reliable process to synchronize music with the players' experience. 
+DJ Choppa is a DJ sim where you interact with the crowd!
+Do they love you or do they hate you?!?
+Check the love/hate meter to see how you are performing. Keep the crowd
+loving you by matching beats on time. Miss enough beats and it's game over.
+Controller needed (left joystick to match beats, x button to pause)
+Headphones recommended
+Things we wanted to accomplish but didn't get to...
+*Pooling the crowd animations to play specific animations at certain times.
+*Tightening up the position of the notifications on screen.
+*Matching the music and notifications with better timing.
+*Implement soundboard mode
+Q. What would we do different next time:?
+A. Seek out testers earlier in our process.

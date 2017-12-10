@@ -1,0 +1,7 @@
+Temptation of food when people see others checkins about eating.
+It checks all the posts on facebook with tags "eating". Reads the food item mentioned in the post, searches for places around users current location serving that food and embeds the result just below that post. User doesn't need to google it. The results are just there for him.
+We created a Webservice to get details about the requested food item using google places API and consuming the result by the chrome extension that embeds 
+Reading the contents of page in facebook and embedding the result on top of it was a real challenege which made us almost give up.
+Thinking of an idea and actually implementing it.
+Using google places API and Building extensions of Chrome were completely new for us.
+We would like to use google photos API to even identify food in the images appearing on facebook news feed and suggest restaurants nearby.

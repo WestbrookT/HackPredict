@@ -1,0 +1,10 @@
+Toy Robot Rampage
+Take control of a Giant toy robot as it smashes its way through the toy town.  Avoid being taken down by the armed forces.  Avoid the prying eyes of children, ensure that there are no survivors.
+You are a toy robot who is always portrayed as the bad guy, and it’s time to prove that is exactly what you are, wreak havoc on the carefully constructed toy metropolis in which you are kept.  How far will you get before the authorities confine your large plastic body to the scrap heap?
+Playing as a GKR, vision is through the head of the robot, players have the ability to control the robot with the Bluetooth controller, lashing out with fists (triggers) or launching a variety of weapons from the shoulder pods.  The player can change the visual scan mode by swiping on the headset to flick through the visual scan modes to determine weak points on structures as well as for searching out the armed forces that are trying to stop your rampage.  Scoring is based on time survived and carnage unleashed.
+• Given the timeframe will work with pre-built levels rather than procedurally generated areas. 
+• Head is able to turn completely around on the torso of the robot.
+• Arms when used to attack circle windmill style style
+• Buildings will have a number of damaged states, would like to make them more destructible, however will see how time goes
+• Armed forces start out relatively simple, then build to tanks and choppers, rocket launchers and small emps that stop the robot from functioning for brief periods of time
+• A child may look in the shop window and see the carnage being unleashed, you must stop what you are doing within the alert timeframe or you are removed from the game.

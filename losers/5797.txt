@@ -1,0 +1,3 @@
+LFG finders fall short when grouping players together specifically when you're looking for something more than just a quick pickup game. 
+Open up the app, see what games people have scheduled, or make one yourself. Let's you post to relevant social networks to bring in additional folks and schedule games. 
+iOS is being released in a few weeks. 

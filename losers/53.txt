@@ -1,0 +1,20 @@
+The way I think the web app is all about usage of Open Data portal.I have never used Open Data for any Challenge our API's for it.So my first motto was to get a firm grip on API usages and ways of using it.I started exploring the details in internet and got myself going.Most importantly I used details from the Kontakt.io website about Beacons and then started using it.I also had in my mind to use the transit data api and hence explored and did it to my liking.
+My Usecase was Milpitas because here only I could use data for Beacon.Hence my complete work relies on MIlpitas area.
+1)When you go to the webpage it will give you 3 options
+i)Click Here City Main Roads & Cross Roads
+When you click on it it will give you real time data for Milpitas main road as well as Crossroads and when you refresh the website .
+use:- Gives all data from the Milpitas side and the values for the road if required anywhere we can get the data for usage.
+On the same webpage we have the option to go back to home page also to start again as well as there is a link to go for travelling summary.
+ii)Click Here for Travelling Summery
+When we are in the travelling Summery page we get data fields corresponding to Current travelling time,typical travelling time,miles,road traveled and routes to be avoided.It also gets refreshed when we refresh the page
+Use:- This is a obvious situation for a daily passenger to know which routes cause congestion and which places to avoid.With this what we can do is get the real time updates on incidents happened across travel routes from any place across California to Milpitas.It will passenger get real time updates.There is a link to go back to home page
+iii)Finding Beacons
+On the home page there is an option for finding details of the Beacons so when you click on the button click here to find Beacons it will give you data for Beacons across Milpitas area.
+Use:-It gives you the unique ID for Beacons and  description of the Beacons
+I started developing it using PHP and then did a deep insight study of the API usage in GITHUB.
+Then I registered for a key for Socrata ,511.org,Kontakt.io.For Beacon data I have used the api key mentioned in the resources tab.
+First of all for getting results of the API I used Ubuntu and terminal to use the Curl command and get the data.The Structure was found and I tabulated it to give it more  visibility and appeal.I use my PHP skills to fetch data from the APIs and then produced the result.
+To start with I had little clue avout usage of API key and Beacon Data as nothing was pulling up.I had to find different ways of getting an API key from 511.org to use.
+Integration of different APIs from Socrata,kontakt.io(Beacon) and open data also from 511.org.To sum up and bring the things together was a great feel.
+Different usage of API ,using Curl in my development and advanced use case.
+Integration of messaging system using Twillio framework and Map Integration for facilities.Beacon data(As used by people across the bay area)

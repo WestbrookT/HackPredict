@@ -1,0 +1,4 @@
+Tappt allows a user to enter a YouTube URL + keyword, then displays the embedded YouTube, beginning one second before the keyword is spoken.
+Last minute back-end debugging to ensure the functionality worked as expected. 
+Today there is no accessible means to search video content. We're proud Tappt can. Tappt brings a new level of transparency and active engagement to the political process.  
+Enabling real-time processing of city hall feeds and functionality for direct participation. 

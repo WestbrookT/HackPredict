@@ -1,0 +1,4 @@
+Help students memorise texts and lessons
+extracts keywords from given texts or words with Machine text processing and helps you memorize them in three different ways:
+a mobile app(ideally with Xamarin) to enter or scan the texts and pushing it to Azure text ML engine for extracting key ideas, searching for images or acronym words, and ryhme forms
+useful for many students, for actors and lecturers

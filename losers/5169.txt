@@ -1,0 +1,21 @@
+Inspired by the amazing televised feats of Nik Wallenda, this controller-free game lets players step out onto the wire at terrifying heights, attempting to ignore an assortment of distractions while maintaining their balance one step at a time until they reach the other side. 
+This game is completely controller-free. Details are below, in addition to the included tutorial level.
+Forward Movement: Look down
+Balance: Left/Right head roll
+Turn: [TOUCHPAD] + Left/Right head rotation
+Duck: Physically duck (utilizes Android sensors)
+Launch cannon (Circus): "Yes" head nodding
+Reset HMD Orientation (Circus): [BACK]
+Tutorial Skip/Exit (Loading/Tutorial): [BACK]
+Universal Menu (Circus): [Long-Press BACK]
+TightropeVR is designed as an immersive casual game of balance and patience. This demo features a tutorial level followed by 3 rounds of tightrope walking challenges. The primary objective is to safely navigate all three rounds of tightrope walking challenges while pleasing the crowd and avoiding distractions.
+-Round 1 is a classic tightrope without additional distractions. 
+-Round 2 introduces 4 jugglers with bowling pins being tossed across the wire. 
+-Round 3 features a knife thrower at the destination platform throwing knifes towards the player.
+The game is best enjoyed from a standing position for maximum challenge and immersion. Do so safely at your own risk. 
+One of the most innovative features of this game is the controller-free gameplay mechanics featuring gaze-based movement and balance and gravity sensor-based ducking. Additionally, the games tutorial is audio based rather than the traditional text prompts along with interactive audio cues listening for player input via head nodding. 
+Scoring is calculated based on the amount of time it takes to complete the round in addition to the amount of off-centered balance detected. The player's score is briefly displayed on the scoreboard at the end of each round.
+Safely and quickly crossing the tightrope is already challenging on it's own but we are throwing in plenty of distractions to help shift the player's attention and balance including bowling pin jugglers and knife throwers.
+One of the most challenging issues to overcome with the controller-free movement is the lack of positional tracking on the mobile platform. Ideally, we would have liked to use forward and backward lean for the movement and leave head movement for looking around. We hope that the added "deadzones" for hit detection offer a decent balance between the two. 
+tl;dr - Don't upgrade to Lollipop anytime soon. If you already did, backup  your device before you downgrade in case you too require a factory reset.
+If we are awarded a prize for this submission, we have plans to develop additional levels with their own unique challenges. This includes walking between two skyscrapers in a downtown city environment, crossing a vast arid canyon and for the ultimate thrill-seekers, stepping between two bi-wing planes tethered wingtip to wingtip as they soar over the fields and pass through the clouds. 

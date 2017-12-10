@@ -1,0 +1,6 @@
+MonParking arrive en ville ! / MyParking is coming into the town !
+Initialement Projet PiP (Parking in Progress).
+Disponible sous IOS (iPhone, iPad, iPod Touch et même l'Apple Watch).
+Données actuellement utilisées: Restaurants, Commerces, Stationnements publiques et ZAP.
+Données utilisées dans un futur proche: Parcomètres, Borne de recharge, Loisirs, Évènements, Achalandage et Payer les bornes à distance, etc.
+HackSherbrooke 2015

@@ -1,0 +1,5 @@
+This is a supporting tool of the speeches.
+The picture of the visitor and anteroposterior slide information and the present slide information and manuscript are displayed in GearVR.
+I move to an anteroposterior slide in swipe, and the manuscript changes, too.
+Only the picture of the visitor and the present slide are displayed to a projector. I splash information in wireless LAN.
+i tried this technique on oculus DK2,so Audience say "Nice" and laughed hard.

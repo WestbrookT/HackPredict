@@ -1,0 +1,3 @@
+Watching people watch videos is fun. The Reactory makes it easy, too!
+Enter a YouTube or Vimeo or Instagram (or any video provider supported by Embedly), a start time and play time, and The Reactory will let you capture people's reaction to the video clip.
+After you record your reaction, you can share the reaction video with your friends!

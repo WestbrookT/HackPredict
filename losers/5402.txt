@@ -1,0 +1,4 @@
+This game is simple VR racing game like F-Zero.
+But the feature which is different from other racing game is that it use 360 panorama captured video.
+At first, we will capture the 360 panorama video of Metropolitan Expressway in Tokyo. And, we will make the 3D CG road model. 
+Then, we are going to combine them. we can see real world around the CG space.

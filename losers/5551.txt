@@ -1,0 +1,3 @@
+A Sniper game based on the gear experiences where the player can look around, lock down on their target and take a shot.
+Currently with 4 Demo Levels.
+Currently driven using Google Cardboard

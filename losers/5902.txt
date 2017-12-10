@@ -1,0 +1,7 @@
+We love Reddit!
+Run with the Right Crowd is an interface where users can enter a potential Reddit post and they will be returned a dashboard of metrics regarding predictions of how their Reddit post would compare to others. Examples include sentiment analysis and a subreddit predictor
+The interface is a Flask web app. We used Indico's Machine Learning and Sentiment Analysis APIs.
+We had a large database of Reddit posts. It was difficult to use and "learn" the database due to the sheer volume of posts.
+We have a large variety of metrics that we output after analyzing the user's potential post. We integrated natural language processing to detect a user's likely score when posting in the suggested subbreddit.
+We learned how perform machine learning with sentiment analysis. This was the first time that 3/4 of our group members used Python for a project. 
+Improving the accuracy of the predictions by using the larger dataset for predictions. We would like to test the results using different predictor models.

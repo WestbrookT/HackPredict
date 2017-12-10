@@ -1,0 +1,16 @@
+FINAL
+• Tutorial for start
+• Swipe interactivity to select songs
+• Visualizer display rooms with a couple different effects
+Milestone 3:
+• Live music recording collaborations with Tour Gigs and Gig Masters
+• New display for visualizers
+• Lab interactivity
+Milestone 2:
+• Musical collaborations from emerging producers Christian Reindl and Ryon Lawford
+• Unique FFT and beat detection system
+• Reverting back to Unity 5 
+Throughout time, music has transcended the barriers of societal divergence and provided a common ground to bring people together from all different backgrounds. It has provided a special language, which any being holds the capacity to understand and enjoy. As the cosmos were explored, and distant galaxies uncovered, so too was the mythical entity known only as LucidLab5. Said to house technology capable of creating complex and mesmerizing musical experiences, the lab has been lost in space for millennia. Finally, the time has come to unveil the extrasensory discovery to life forms throughout the stars. An immersive stage for all types of music, LucidLab5 allows the user to enter a world of visualizing effects that morph and pulse, all in sync to the audio of one’s own music library. Immerse yourself in the lab’s most volatile prototype and experience your favorite jams like never before. Colors and shapes will transform in sync with 360° views, providing an entirely new way to visualize the language of music. Gaze at the extraterrestrial technology, as rhythm and particles collide to create a harmonious path for your eyes and ears to follow. Bluetooth connection allows for speakers to incorporate an audience, encouraging the gear to be passed and enjoyed by all. New features are constantly in research, leaving the full potential of LucidLab5 to be infinite. Interactivity within the lab will play a crucial part in the musical adventure, as users quickly learn that no two experiences will be the same. So prepare to pick your poison, sit back, relax, and enjoy the audiovisual ecstasy that is LucidLab5. 
+We worked hard here at LL5 these past six weeks and are really excited to present our app and we think it has a lot of potential to expand in the future. Thanks to everyone who helped out…we hope you enjoy our submission!
+Good luck Jamers!
+IF YOU EXPERIENCE INTALL ISSUES TRY INSTALLING WITHOUT YOUR SD CARD IN THE PHONE

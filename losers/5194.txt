@@ -1,0 +1,5 @@
+Google maps doesn't work in PR
+http://opendata.stackexchange.com/questions/4961/where-can-i-find-shapefiles-for-the-highways-of-puerto-rico
+6 hours, 1 line of code
+Often the answer is right under your nose!
+We can get all streets in Puerto Rico.  Improved route-finding for the Island.

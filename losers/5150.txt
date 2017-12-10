@@ -1,0 +1,6 @@
+Awakening is a single player virtual reality top down action role playing game inspired by Diablo, Path of Exile, and Zelda. It makes use of head tracking to allow the hero to target vulnerable spots in monsters. Awakening also makes use of head tracking to cast neat spells and order minions.
+You can target the wings on the Dragon. If you deal enough damage to it you will injure its wings so it can no longer fly. The dragon may be a lot easier to deal with on the ground.
+Ancient tales tell of a complicated ritual where you have to move up and down and left and right a lot. Performing this sacred dance is supposed to unlock the powers of the universe. 
+Free Download
+Nathaniel Doldersum for Terrain  Composer and for helping me export our terrain as a mesh (which really helped on performance.)
+The game is made by Incendiary Games Inc., an independent startup virtual reality video game company.

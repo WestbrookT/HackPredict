@@ -1,0 +1,26 @@
+We are a team of 2 developers who would like to test our skills in our first VRjam. The game is in an early stage of development and we hope to successfully achieve our goals.
+Thank you for the opportunity to let us participate and to all others for tunning in on how the game is progressing!
+MILESTONE 2 UPDATE
+We finally have our dungeon environments set. 
+The game is playable at this stage and you can go through the dungeon deciding which door you take.
+We are actively experimenting with lights, props and characters for mobile optimization. 
+Our goal is to achieve a nice balance between graphics and performace. 
+We also want some NPC characters in the dungeon for additional interaction/hints on gameplay to the player.
+Next we are fine-tuning the gameplay mechanics for you to see next week!
+MILESTONE 3 UPDATE
+After doing some intensive configurations to our recording software, we managed to successfully
+record everything for you to see.
+The game has some slight additionall visual polishing ahead to be done, to feel just right. 
+After some playthrough testing, the game question-mechanics works just like we wanted.
+Whole gameplay session will be ranging from 4 - 10 minutes depending on time takes to complete the questionnaire/form and answer to all in-dungeon questions.
+We also want to have some more animated NPCs,  with text-dialogs popping up randomly and some 
+additionall rooms to add to the overall scaryness.
+Thank you for  following us!
+... and Good luck to other GameJam Participants ! 
+*All content complies with the Submission Requirements set out in the Contest Terms and Conditions. 
+MILESTONE 4 UPDATE
+Game controls: 
+1) GEARVR press and hold the touchpad to walk, look around in the direction, where you want to go.
+   Quickly tap to interact with in-game menus
+2) GEARVR + SAMSUNG EI-GP20 GAMEPAD
+3) GAMEPLAY - First player interacts with in-gmae menus, second player only walk in the dungeon and chooses a correct door

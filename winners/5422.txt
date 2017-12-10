@@ -1,0 +1,6 @@
+Deciding which classes to take next isn't easy, and the massive number of courses - almost 3000 - practically guarantees you're going to miss something you'd like. GraphCourse makes it easier to plan your schedule by showing classes for which you've fulfilled all the prerequisites, showing which classes fulfill your degree requirements, and recommending courses based on your peers' preferences.
+Built using ScottyLabs API with D3.js, jQuery, lodash, bootstrap on Python/Flask. 
+Competing for:
+Student Senate’s Social Impact Prize (“Best hack that improves CMU student life”)
+Qualtrics (“Best use of data of visualization”)
+APT’s Social Impact Prize (“Best use of data to achieve a positive impact on the community”)

@@ -1,0 +1,2 @@
+Fathoms Below is an underwater adventure game which uses unique controls designed specifically for the Gear VR headset.   The player swims to various areas and solves puzzles in order to unfold a story of the connection between humans and merpeople.
+The primary mechanics are positioning yourself by swimming, and solving puzzles via trackpad input.  The user will need to interact with an NPC, solve logic puzzles by moving and rotating objects, as well solve puzzles that work particularly well in 3D like perspective puzzles.

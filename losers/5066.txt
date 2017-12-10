@@ -1,0 +1,2 @@
+Deep Insights about your Hadoop Cluster and MR Job:
+Using light weight processing over various history and audit information available by default on the cluster, powerful insights about both the cluster as well job can be derived. This hack attempts to show some powerful insights using these techniques.

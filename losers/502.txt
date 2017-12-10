@@ -1,0 +1,9 @@
+The desire to teach students about circuits.
+A drag and drop environment that allows kids to build circuits with jigsaw puzzles.
+with HTML, Javascript, CSS
+-incorporating the drag and drop
+-getting the items to format correctly
+We now have a drag and drop, and we have one circuit working
+-How to code a drag and drop program
+-How to use GitHub
+In the future, e would build more  complex circuits and teach kids about green energy.

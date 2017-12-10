@@ -1,0 +1,22 @@
+Resource Sharing is a big problem out here. Be it past year papers or ebooks.This is one of the problem that we as a student face in our institute every semester. An effective solution would be a way to somehow reuse and easily access the resources that were shared or are being provided by the faculty. Thus we came up with this platform which bridges the gap between resources and students and make the resources more readily available in his pocket.
+This platform bridges the gap between resources and students and make the resources more readily available in his pocket.
+Teachers:
+There will be an Android Application as well as Web-based Admin Panel for teachers 
+Using which they can easily manage and circulate the essential resources as and when required in a more efficient manner.
+App will be helping teachers to upload resources such as assignments or any other necessary files.
+Also they will be able to publish notices or address announcements to his /her allotted classes.
+There will be a group thread where teachers can easily join the discussions, post queries and provide answers for the same. 
+Students:
+Students will be provided with an Android Application where they will be able to easily access the resource
+Resources will be  provided by the faculty of their respective departments over the time,
+Students will receive assignments. For which they will be notified through the app and an attachment will be mailed to them.
+Students will be provided a forum where they can post their queries and discuss live with participants and teachers.
+These Topic-Wise live discussions can be used as a reference by the beginners.
+We build it by using some Awesome Technologies.
+We used Git for Team Work and Version Management ( Open Source )
+We used Python - Django in Server End for Creating API's
+We used Android MVP Architecture to build Android App.
+Many of the modules seemed difficult at first, like real-time discussion module, uploading and handling of different kind of files, bifurcating the users according to access levels
+We Completed the project and integrated Real Time Chat like App in Less than 24 Hours. 
+We learned that if we are really dedicated we are capable of Achieving every Target.
+We are going to integrate Polling Module to vote among students on specific Queries.

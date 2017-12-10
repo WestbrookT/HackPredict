@@ -1,0 +1,25 @@
+We have taken place exhibition for Oculus Rift, we call it “OcuFes”.  
+Through 20,000 people’s experience in OcuFes, most of them said that they wanted to walk around the VR world.But both game pad and “WASD” key made them feel sick when they are playing. We can avoid simulator sickness if we set ristriction like only moving forward.  It is different from their wish. Our goal is to create enjoyable gaming experience just by moving like  “The Legend of Zelda” of Nintendo. Therefore, we developed the game “Gliding Princess”.
+-Control-　
+In this game, you can play by only tap operation. No game pad is required.
+-Mecanics-　
+This game is an action game like “Mario Bross”. Your mission is collecting coins in several castle stages.
+We think it is important that you can move as you want to. Therefore, we developed a game which provides player with comfortable experience. The experience is jump up, gliding in the sky, and moving ground around 360 degree.
+-Innovation-　
+What we tried and achieved are two points. One is avoiding simulator sickness.The other is providing comfortable experience.
+1.To avoid simulator sickness
+　1-1.Operation
+We developed a ring type UI. You can know front  and horizontal direction by the ring. It prevents you from loss of equilibrium.
+We also developed a system with two swing motion. One is 10 degrees per second, the other is 90 degrees per second. The latter is activated when you tap with gazing the icon which is set from side to side.
+Furthermore, you can move forward at constant speed by tap operation. Moving other direction is restricted because it cause simulator sickness.
+　1-2.Background design
+We selected rough mesh texture to make the world because fast and accurate texture causes simulator sickness.
+　1-3.Structure design
+We carefully set each object position. Basically, it causes simulator sickness when a lot of object are close to you. But you can not feel speedy action if few objects are close to you. When you move forward in the first person point of view, you may feel simulator sickness because of colliding with some objects.  Therefore we didn’t attach collision property on all objects.
+2.Providing comfortable experience
+　2-1.Moving ground freely
+You can enjoy moving around 360 degree in the ground because of adjusted low speed.
+　2-2.Jump off from cliff and gliding
+We optimized acceleration of gravity and falling speed on condition that people feel comfortable.
+　2-3.Jump up with updraft 
+We developed special algorithm that people feel comfortable with moderate speed and lightheadness.

@@ -1,0 +1,4 @@
+We were inspired by games such as Lifeline, a text-based survival game, and the movie The Princess Bride.
+This games takes the user on an incredible journey as the protagonists. 
+We built this game using HTML and CSS, after creating a wire-frame-like flowchart to plan our game.
+We plan on making our game much more complex and interactive for the user as well as make the user interface design much more appealing.

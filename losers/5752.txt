@@ -1,0 +1,6 @@
+I love asking people questions and seeing how they react
+Anyone can add a text question. Each question lives at its own URL. When you go to that URL you can record a 20 second video of yourself answering the question.
+That I am really rusty when it comes to coding
+Using 3 different APIs and making the whole thing responsive
+A lot can be done in a day
+Need to add security and more tagging

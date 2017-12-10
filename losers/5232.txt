@@ -1,0 +1,7 @@
+VR Tools is an experimental platform for creating and sharing immersive experiences on the web, desktop, televisions, VR headsets and mobile devices. Tools provides native support for spherical video, spherical photos, 2D overlays, 3D image objects, 3D video objects, 3D text objects, scripted actions, keyframe object tweening, voice (recognition) control, gyro / accelerometer support, face tracking, multi-lingual speech, anaglyphic viewing, stereo VR (HMD) viewing, touch support, in-app image editing and more. Projects are developed using plain text documents that can be created and edited using any text editor. Tools also includes a Tool Panel to develop and edit projects quickly and easily. 
+The VR Tools package roadmap:
+VR Tools Developer Workflow:
+BROWSER CONFIGURATION IS ONLY REQUIRED FOR PROJECT DEVELOPMENT.
+The Adobe Image Editor has been implemented in both the 2D and 3D sections of the Tool Panel. 
+Here's how to try it out on the beta site:
+Notes: 

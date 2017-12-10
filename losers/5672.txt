@@ -1,0 +1,6 @@
+An experience that will at first simulate a tropical snorkeling trip but later evolve into a first-person exploration of ecological disasters.
+MOVEMENT
+Tap headset for a burst of movement in the look direction (like a swim stroke).
+VISUAL APPROACH
+Though it will impact performance, I'd like to have two screen overlays that simulate a helmet of some kind. I'd also like to find a way to emulate waves, or emerging from the water. 
+The first priority will be to create an immersive underwater environment. The "stretch goal" of adding an oil spill or trash island into the experience will get added if time permits.

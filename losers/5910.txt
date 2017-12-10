@@ -1,0 +1,6 @@
+Wanted to  make travel convenient based on past experiences and struggles
+Ever had a hard time locating where you want to eat, places you want to visit, or nearby hotels? All these things can be a hassle while travelling but now it can be at the tip of your fingertips. Our travel-based social media platform connects you to other tourists with similar vacation interests, as well as providing you with nearby accommodations such as restaurants, hotels and attractions. Our goal with this app is to facilitate the process of planning attractions to attend based on inputted user interests. Users simply have to fit the activity into their own itineraries and our app does the rest of the work.
+Android Studio, featuring: 
+converting json into attraction listing
+idea and partial implementation
+how to work with apis

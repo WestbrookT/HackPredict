@@ -1,0 +1,7 @@
+We all have some habit that we can never seen to get rid of. A lot of times we continue to do bad habits and never feel positive about our good habits. TheHabit allows for users to feel positive about themselves through the usage of good habit streaks and keep track of negative habits. Studies have shown that accountability for bad habits makes them easier to overcome, so the app allows for integration with SMS messaging to an emergency contact when the user may break the streak. We believe that by allowing others to help you achieve your goals, and you helping them, people can aspire to change their lives in positive ways.
+TheHabit helps you keep track of habits in your life whether they are good or bad, and helps you keep the streak recorded. We don't have to overcome our habits alone, the app allows you to choose to make a friend or family nearby to When you are close to relapsing, the app can SMS an emergency contact so they are notified to help you as well.
+The team used Android Studio.
+The swiping list view elements. Also, the SMS 
+The team worked hard on the app.
+I learned that Java and Android Studio are nice tools.
+More friends, achievements, and other metrics to make successful change in our lives possible.

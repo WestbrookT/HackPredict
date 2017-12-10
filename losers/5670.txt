@@ -1,0 +1,6 @@
+This world is full of talented people all over the places but still only few of them are able to take that talent to the stage  and show it to the whole world. Many talented people are not able to show their actual potential at bigger stages due to only one thing.“Fear of the stage”.
+Now having VR technology in hand  My app will give the User real experience of different stages that is related to the particular field of the user. User can overcome the fear by selecting the stage he/she has to present his talent to and experienced users can even practice their performance in the VR environment before presenting it to the real stage .for example 
+# A office meeting environment  for a Person who has to practice a presentation
+and many more others 
+To make more real crowd environment actual experience of the respective event will be recorded(Video ) and provided to the user.
+At Last whole performance or presentation experience can be recorded too within the app so user can check out mistakes he/she has made and improve them during live session.

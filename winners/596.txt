@@ -1,0 +1,7 @@
+A team member was playing Connect Four last week and realized that the game was a lot of more complex than people realized. Failing to come up with a strategy, she started building AIs to test them. Even after a year of Hackathons, she still found herself able to learn from programming simple AIs
+Faight pits user built AIs against each other to compete, and allows users to watch the game run live. With the way that Faight is modularly built, users have a wide selection of programming languages that are available to them. Users can then see how they're AI has improved over time and how often they win. When users enter a match, they are matched with AIs that have similar stats. 
+The Java grader runs programs simply in the console, and is designed to read console inputs, making adding more languages in different versions easy. The client side is in React, which manages the app and also writes to the Realtime Firebase DB. The React is delivered with Node, which can send requests to the Java. 
+Getting the hack done, learning more of React and finally figuring out Firebase which is evil. A few of us also learned how to program in BrainF***
+How React binds variables, a lot of how firebase works and a lot of new librairies
+
+More games and more languages. Additionally, more ways to help users track their progress so that they know how they can make their AI smarter. 

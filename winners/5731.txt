@@ -1,0 +1,7 @@
+We were inspired by crowdsourced service apps like lyft and postmates, but we thought we could improve on their model by making it even easier to be a worker.
+En Route is a crowdsourced delivery app that uses en route optimization to find people who are going to be walking the delivery route anyways. This allows anyone to deliver items and make money without ever making it seem like work. 
+Our front end is an iOS app built with Swift. The iOS app communicates with a python backend via restful endpoints and flask. The python backend stores data in a postgresql database, and the en route optimization algorithm is implemented in postgresql. 
+Getting push notifications to work was a huge hassle. We had some issues with asynchronous commands in iOS as well. Programming the en route optimization algorithm was difficult as well. 
+We pretty much have all the features we planned finished. Of course, things could use some polish, but core functionality is done. We were able to get the python backend working with a production-level database, which we intend on using in later versions of the app. This was a lot of work, but it was a necessity, as using a backend service did not fit our needs. 
+PostGis, Flask, Push notifications in iOS 10, a lot more on synchronizing data between clients
+We wish to make this into a full-production app, which means a lot of polishing and a lot of work to make things secure. We also need to figure out payment processing.

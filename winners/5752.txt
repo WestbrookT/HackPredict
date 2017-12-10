@@ -1,0 +1,3 @@
+Young people aren't communicating with their government and are not aware of political issues. We help Selfie Activism will inspire them to become more politically active.
+We made it in Objective-C with Lob API to send the postcard. We scrape issues and their descriptions from 5calls.org
+We're launching a social campaign as well as improving the app.

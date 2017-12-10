@@ -1,0 +1,24 @@
+Galaxy Blade is a fighting game following an underdog gladiator forced to battle in an alien world.  Taken from earth as a slave your player is dropped into this strange galaxy to sword fight one opponent at a time, battling through an insane space station arena.  Starting at ground zero, you the Gladiator find yourself in an arena surrounded by a raging crowd.  Dwarfed by an armor clad alien opponent, you hack and slash your way through the game's swipe-based swordplay.  Your Gladiator will be put to the test (in the final boss battle/only boss)  when you fight the Alien Slave King for the freedom of you and your fellow slave gladiators. 
+Controls - This game is completely controlled with the Gear VR Trackpad. 
+Gaze click to start the game and fight.
+While the shield is active you can not be harmed. 
+Directional swipes on the track pad will control your swings. 
+Engage your shield by gazing at the block icon then tap and told the track pad.
+Swipe Up for a (strike up), 
+Swipe down for a (strike down), 
+Swipe left to (strike left) and 
+Swipe right to (strike right). 
+Controller innovation will be introduced in future development.
+Tilt head to dodge the enemy attack. 
+We got it working to play the dodge animation on headless character with the player tilted their head in left or right. 
+Parry system. Being able to counter the enemies attacks when timed correctly. 
+Mechanics 
+You’re engaging in one-one-one battles from a first person POV. 
+We wanted to get multiple bosses to battle. Only had enough time for one. 
+You’re studying the boss' moves so you can correctly time your attacks and blocks.
+Avoiding their combos lets you wail on them for a moment.
+If you block the multiple enemy attacks with the shield, then the enemy becomes dazed. 
+After you attack a couple of times the enemy becomes (un)dazed and starts attacking. 
+Unique Features are the game's swipe-based swordplay, using the track pad to slash and block. 
+Being able to swipe in all directions to attack is perfect for hack and slashing pleasure because it feels so natural to let loose on your opponent with rapid speed.  The Tap Hold Block forces the player to engage in blocking in order to defend.  This allows for natural attack and defense actions to be played on a very simple platform in VR with big visual payouts.
+The Tap Hold to Block forces the player to engage in blocking in order to defend. 

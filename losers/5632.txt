@@ -1,0 +1,8 @@
+The project has three stages.
+Experience
+You can experience a moving train.
+Operation
+Offers the experience of driving a train
+Simulation
+In fact aimed at making the simulator to use in their work.
+( My job is to engineer the subway.)

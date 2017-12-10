@@ -1,0 +1,7 @@
+We were inspierd by the experts
+Generates random tracks for runners
+In Zurb Foundation for Apps framework and Angular JS
+We had problems identifying the exact needs of a potential customer
+That was a very nice experience and quite of a challenge to go throgh all the steps on the jam - expecially for backend developers
+How to think more about potential customers needs. 
+Go to market with the app. Possilby start gathering the community around the app.

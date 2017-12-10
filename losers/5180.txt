@@ -1,0 +1,43 @@
+Starport is a VR social app that features games, activities, expressive avatars, and amazing environments.
+:::::::::::
+The Innovation of Starport lies in creating a social networked experience for VR devices. Starport is intentionally small and subtle with its design. We wanted to make sure every user will be comfortable in our games and activities. We believe that social apps like Starport will eventually replace video chat and phone calls. We made 2 simple games (with more on the way) to push the medium forward and connect users from around the world in shared virtual spaces. 
+Starport uses the GearVR touch pad as its controller. The gearVR gamepad is not utilized, so as to make the app accessible to the widest audience possible. 
+Across the app, the interaction model is: Look at what you want to interact with, tap the GearVR touchpad.
+Main Menu:
+Activity selection menu:
+Astrobump
+CastleBuild
+Global Back Button:
+Starport ships with two activities, Astrobump and Castlebuild. The architecture of Starport allows more activities to be added via updates. Two more games are in the design process and will be added later.
+Avatar system
+Astrobump 
+CastleBuild 
+Starport is not intended to be static, but consistently updated with new worlds, games, and features. 
+Milestone 3 shows the following progress:
+It should be noted that we're designing the games INSIDE networked VR sessions. We connect and play around with our systems while refining the gameplay. We really wanted to take the plunge fully into VR game design! This allows us to break the laws of physics and reality to make something that's only possible in VR.
+Additionally, in the new gameplay video, you can see us trying a gameplay session with live skype chat in the background. It works on both PC with DK2 and GearVR skype. To capture this video, one player was on DK2 on PC, and the other was on GearVR. Starport supports cross-platform matchmaking and play!
+For Milestone 2 we have locked down the size of the play field and blocked in the core environment. We've also gotten the networked multiplayer system up and running for tracking avatars. We've modeled the first avatar and are in the process of refining the animation rig. We've also designed out the UX/UI flowcharts.
+Next steps are to build out the UX/UI menu systems, and finish up the first game, AstroBump. 
+The image gallery has been updated to include the latest development screenshots.
+Starport enables two users from anywhere in the world to play together. It is minimally multiplayer; a thoughtful social app that features easy-to-learn games built for just two players. It focuses on making two people feel present in a shared virtual space. Starport allows you to be in the same place as your family, old friends, or new ones; no matter how far away they really are.
+We want the connection between them to be meaningful and fun. We believe that a great social experience between just two people is better than a mediocre one between dozens of users. 
+Starport is a social application with no learning curve and was designed specifically for virtual reality. We want users with minimal technological experience to jump right in. Interactions via Starport are based solely on natural head motion and gestures, meaning language is not a barrier.
+To begin a session, you choose your avatar and select your destination World. Matchmaking automatically connects you with another online Starport user, allowing you to start socializing immediately.
+Uniquely human :: Deeply social :: VR specific features
+Starport sends real-time head tracking data across the network so that you are able to recognize the subtle tilt of your friend’s head as she plans her next move. When you miss your shot and shake your head your opponent sees it. When you excitedly jump because you scored, they’ll see that too!
+The orientation data is used to drive a physics-simulated avatar rig. The avatar is expressive, genuine, and naturally animated. The result is real-life motion in real-time VR.
+Starport intentionally does not include voice chat. Focusing on a gestural rather than verbal experience will allow users to connect with each other, regardless of language, age, or gender.
+Social :: Simple :: Games built for two
+In addition to just being there with another person, several simple mini-games are available to the users. They are built around collaboration or competition between players. 
+The games include: 
+  Soccer: A simple soccer style game controlled by the GearVR touchpad and tap functionality. Players guide AI agents on a miniature field between each other.
+CastleBuilder: Players collaborate to build a castle (or whatever they can dream up). They use the GearVR touchpad to select where they want to place blocks.
+AstroBump: Players stand on either side of an asteroid field, they each take turns using a gaze blast to knock the asteroids into their opponent’s shield. It’s 3D zero-g space billiards! Bonus points for combos!
+Worlds beyond reality :: I’m here, You’re here, We’re Here.
+Starport features breath-taking environments that users will want to stay in. Each Starport world is warmly crafted to be cozy, interesting to inhabit, and responsive to the medium. These locations include:
+The bridge of a starship
+A lush cafe on a rainy evening
+A small campground in the woods
+A new medium :: new thinking
+We want Starport to set a new standard for what people expect from virtual reality. We believe it will give users around the world reasons to come back again and again as they connect in new and universal ways.
+Jump on Starport for a universe of other worlds. Bring a friend.

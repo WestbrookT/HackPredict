@@ -1,0 +1,4 @@
+Universal Android app served by REST API
+back-end, had to look at cloud-based solutions; finally AWS Elastic Beanstalk works best for me serving 20k requests a day for the app with 280ms avarage latency
+my first 100k+ install-base app
+how to build REST API back-end running on scalable AWS Elastic Beanstalk environment

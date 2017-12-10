@@ -1,0 +1,3 @@
+Typing with gamepads is often tiresome because reaching individual characters can take many button presses.
+By using a divide and conquer approach with hierarchical selections of 9 options each, typing might become more practical.
+This will be an implementation of divide and conquer typing and give an idea of how efficient or not the approach is.

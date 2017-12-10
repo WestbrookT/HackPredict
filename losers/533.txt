@@ -1,0 +1,1 @@
+The Definitely Not a Printer draws out digital grayscale images. It has a GUI designed using Java Swing. The Jave GUI uses a serial interface to transfer data with an Arduino Mega which controls several stepper motors that move the "definitely not a printer" arms around. The "definitely not a printer" was ironically built using a 3D printer. It even comes with LEDs. 

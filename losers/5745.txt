@@ -1,0 +1,15 @@
+I've been preoccupied with local news reporting and have tried creating projects that haven't worked before. 
+Last year I created a hashtag system that would make it easy for reporters to tag their tweets and for others to find them. I called it #hashtagreporter and... I have about 10 followers on twitter. I'm thinking that with video this might work better.
+This is how it works:
+Sign up for an account. 
+Look at existing trending hashtags or add new ones. Record and upload a question, a comment or live footage from the scene.
+Look at other reporter's reports and leave video comments to them.
+You give the site permission to show the material. There is also an option for broadcasters to contact you and acquire the footage.
+You can create a channel that people can subscribe to.
+There are several possibilities. One is to invite experts to video chats to reply to some of the questions posted. Another idea would be to cooperate with a news network and create a weekly citizen journalist news show based on hashtag reporter's submissions.
+Challenges I ran into:
+Time and brainpower. I can do basic websites and I usually copy and paste when I do stuff. That worked well with Ziggeo to a point but to move further I will need some time to tackle it. 
+What I learned:
+Well I'm learning to use Ziggeo. I'd like to learn some of the other API's too but being how slow I am I didn't feel that I would be able to do it today. Instead I focused on tackling basics with Ziggeo. 
+What's next for #HashtagReporter:
+I'll develop it as far as I can and then I'll ask someone else if they want it. I just want a project like this to exist. I'm the news junkie user.

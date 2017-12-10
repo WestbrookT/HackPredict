@@ -1,0 +1,7 @@
+Imagine in a cold winter, you are snuggling in bed, ready to sleep, but just realized the living room light is still on. A simple chat to our Smart Home Keeper can help you to control all smart devices and appliances in your home. You can simply increase the heating temperature while stay warm in the bed. 
+Home Keeper is a smart home environment using Google Home as the central hub to control all your smart devices at home.  
+We enhance the natural language processing of Google Assistant with domain knowledge of smart home. An prototyped smart light is prototyped with an LED driven by Beagle Bone Black running a python script listening to the message from Google Home. The demo of voice controlled smart light is a proof of concept of the Smart Home Keeper based on Google Home. 
+Since the product is not open source, learning Google Home  communication protocol was a challenge for us. 
+The proof of concept of the smart home environment based on Google Home. We explore and enhance the natural langurage processing from Google Assistant. The home environment is scalable and allows more ad-hoc smart devices.
+Learned Beagle Bone Black, Google Home, Python and other related technology. 
+Explore more smart device that can be controlled by our Home Keeper.

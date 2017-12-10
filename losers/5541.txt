@@ -1,0 +1,7 @@
+Story:
+Expedition Europa is an interactive adventure that lets you explore Jupiter`s moon, Europa via a submersible, possibly discovering alien life forms under the frozen surface.
+Interaction:
+Gaze interaction will be used to maximize potential players, as some gear vr owners do not have a controller, i feel it is important to capitalise on a hands free experience.
+This can be done with a choose your own adventure style story, that lets the user define choices at various points in the game.
+Technical challenges:
+To exploit the Gear VR`s capabilities, I will be focusing on rich textures instead of high polycounts using procedural imaging and baking instead of realtime lighting. 

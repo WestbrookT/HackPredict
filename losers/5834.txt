@@ -1,0 +1,5 @@
+It reads in some tweets by Trump and at random decides to tweet about it, the way that Obama might tweet about it.
+I trained a LSTM recurrent neural net with Obama speech transcripts I copied from a website (in total 1.5MB file). After training for 7 hours on my quad core i7 2.6Hz laptop, I generated a 2.5Mb file from the neural net and fed it to a marvok model. The marvok model also took "tags" to direct somewhat the text that was outputted. So I ran some Trump tweets through indico's keyboard API and fed those keywords with a high enough score as the input for the marvok model. This generated tweets.
+I wanted to see the markov model use completely machine generated text as an input. I thought it was interesting, and I got to learn about both models.
+First time using neural nets, markov model, and twitter, and made something work! (Although I've been reading on the theory behind neural nets / other ml stuff etc for a couple weeks)
+Start small. Start from what you're interested in :)

@@ -1,0 +1,4 @@
+Is Amazon Alexa
+Speech Based AI robot
+Using raspberry pi 3, node.js, python programming language
+AI based robot 

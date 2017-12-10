@@ -1,0 +1,11 @@
+Carita was conceived as a way to shed light on important philanthropic efforts that an ordinary Chrome user might never hear about. The power of data collection can be harnessed for good and that is what Carita seeks to do.
+Carita parses through browsing history in order to find charities that relate to your interests
+We used Chrome Extensions to get a user's history, which is sent to a Node JS server which parses through a list of charities and returns the most relevant 3. This information is displayed through the Chrome Extension using HTML/CSS and JavaScript. 
+Accessing user history for parsing.
+Optimal method for ranking charities
+Acquiring and storing charity information
+The whole thing
+How to write Chrome Extensions
+Parsing JSON
+Handling frontend and backend JavaScript
+Expanding our charity database, adding verification features, geo-location to bring attention to local charities

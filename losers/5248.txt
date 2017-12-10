@@ -1,0 +1,7 @@
+M3 is done, it was a tight deadline for Unveiler, but hopefully this boosted the development.
+For the M3 video, here is a list of what have been done:
+What left to be completed:
+This is the main challenge now.
+It was useful to clean some parts and polish the concept in order to produce clear screenshots.
+It is still not possible to cleanly build a GearVR app with Unity5... :(
+Current challenges (help needed)

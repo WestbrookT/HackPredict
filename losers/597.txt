@@ -1,0 +1,13 @@
+Social Media is now ubiquitous and has been become a key part of events be they Birthdays, Weddings, Meetups, Conferences or Concerts. Event attendees at interact with other attendees and brands during events; but these interactions are often:
+To date no-one has developed a service that makes it easy to visualise the photos from and event as it happens; sharing them with all the event participants easily on a shared screen.
+To use LiveTags.net is simple.
+Then your ready to go; make you browser full screen and your away.
+We aimed to keep it web based to ensure accessibility. This also doesn't lock us into a single display technology as anything capable of rendering a page is a potential endpoint (pc, chromecast, ipad, raspberry pi..)
+A server exposes a JSON feed of content to a client, which visualises it. This content is currently located on the server however it would be possible to make offline clients which run from a cache. 
+We picked a new web framework we wanted to tinker with, it slowed us down at the start but was worth the effort.
+Boiling down the function into a simple elegant interface, while the product isn't feature rich we were able to get the primary function complete and stable.
+Frequent user testing and gathering feedback on the product really helps provide direction. When your in the zone for a hackagong you become very focused on certain function and need to ensure you can step back and continue to provide a solid user experience
+The moon... We've aimed to ship a fully functional product by the end of the weekend. With a defined scope for expansion in functionality.
+Once live we want to start preparing some advertising for facebook and twitter, which will help drive some initial traffic. 
+We're considering a crowd funding campaign, our approach would be that backers get promo codes for cheaper presentations and other merch.
+drops mic

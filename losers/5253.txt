@@ -1,0 +1,9 @@
+Groove Traveler is a music powered thrill ride where you play a bird, the “Traveler”, that traverses the “Groove”, your music, in search of precious notes while avoiding the music generated obstacles along the way.
+Controls: 
+Just tilt or turn your head left or right to guide the traveler on his way. Then for going over and under obstacles tilt up or down respectively. Lastly for UI just move the cursor and tap the Gear VR Touch pad to select a highlighted item.
+Mechanics: 
+Groove Traveler's gameplay is simple, but unique. You guide the Traveler on a music powered adventure with peaks and valleys, obstacles to fly around, over, and under, and also notes to retrieve all with just your head motion. At the end you receive a score for how many notes you picked up minus a penalty for crashes.
+Innovation:
+The locomotion in GT is done in a way to prevent the typical pitfalls of a roller coaster type VR motion sickness, but still conveys going up and down steep inclines with various speed changes while still keeping in time right to the music.
+Also, Groove Traveler is unique in that it is a marriage of music and flying/riding has not been done like this in VR to date. Gameplay is completely dependent on the music.  Obstacles, track, and pickups are generated early, and synced to light up just as you get in range of them right to the music notes or beats playing. This adds a unique degree of immersion in VR because both the audio and actual movement gameplay and intensity are so closely linked.
+Lastly, the head control mechanics are very intuitive and easy to pick up for a first time player.

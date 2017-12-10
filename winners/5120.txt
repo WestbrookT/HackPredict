@@ -1,0 +1,7 @@
+Seeing trends in big data can help visualize it better. We wanted to become more familiar with web development languages like javascript, and also wanted to use WebGL because it provides an extensive JS library for 3d modeling.
+Displays trends in population across the globe in international cities, and displays weather information about the selected locations.
+We used WebGL to render a 3d model of the globe, then plotted population data of thousands of major cities on the render. Github pages was used to host the webpage from a local repository. Various javascript modules and python scripts were used with the wolfram alpha api to webs-crape for statistical data. 
+Being unfamiliar with javascript and its asynchronous nature. Being unfamiliar with the WebGL library and many of its complex functions, we had a difficult time interpreting it and creating our 3d model
+We started from scratch with a language none of us had used before
+Learned some fundamentals of web development, big data and API's. 
+In the future, we intend to expand to the amount of data available at locations, as well as improving the functionality and aesthetics of the interface. To use other search API's to be able to dynamically search for places and have their position display on the globe.

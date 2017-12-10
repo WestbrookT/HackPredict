@@ -1,0 +1,7 @@
+Friend built a light suit but it was rudimentary and hard to handle. We decided to stick to the light suit idea and throw in different modes and music analysis.
+It makes lots of flashes and can change modes by interacting with a Pebble smart watch or by a phone app.  It can cycle through different modes that range from preset shows to real-time music recognition capable of immediately responding to audio input and creating impromptu audio-visual experiences.
+Science.
+Running out of energy
+Successfully incorporating the Pebble, Android app, Arduino, and LEDs into a project that surpassed all expectations! 
+How to build Android applications, Pebble applications, embedded digital signal processing, Bluetooth integration, how to make cool clocks
+Marketing.... and a more streamlined version of the suit. Create buses for wires and better latches to hold the lights on the body.

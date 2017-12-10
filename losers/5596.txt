@@ -1,0 +1,1 @@
+A full 360 degree music visualization experience.  The user is allowed to choose any song from their library.  

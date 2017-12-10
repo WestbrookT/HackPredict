@@ -1,0 +1,6 @@
+Our burning passion for math and our desire to help people who struggle with math concepts.
+Uses web viewers to display gifs of math concepts organized by level of subjects.
+Figuring out how to place the gifs in the app.
+The amount of gifs we found.
+How to insert various gifs into an app.
+More gifs are to come.

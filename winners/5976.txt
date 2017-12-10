@@ -1,0 +1,15 @@
+Rural peoples are unaware of various polices and rights provided by the government, so there is a need to create a solution that will not only make them aware about the rights and polices but also help them utilize various schemes and policy given the Government.
+To reduce unemployment there should be a tool to encourage small scale business in rural areas of our country.
+Home loans and bank loans are provided by the government but most rural peoples don’t now when, where and how to apply for it.
+All options are available in Hindi.
+Step solution will be given for various domains in form of a video.
+Whenever a new scheme is launched by the government it will be updated and a notification will be send to each user of the app.
+Different suggestions for startups and small scale business in form of text and videos will be given to inspire and encourage rural peoples.
+Government authority can update any sections of different domains according to their needs.
+With our experience and dedication.
+In Android Studio using php, firebase, json, mysql, etc.
+In prioviding information in the hindi language.
+Collecting useful & important contents from various places for different domains.
+Developing efficiently such a huge domain application in less than 28 hours.
+To completely look from the perspective of a rural person.
+Reducing the cost related to the data us

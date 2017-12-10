@@ -1,0 +1,9 @@
+Anyone who has things to sell can become a business owner, including people who want to get rid of unwanted items, to people who wish to provide a service.
+Treasure makes selling locally, and decluttering your life, extremely easy. Our workflow focuses on establishing relationships with the vendors
+Treasure allows users to sell locally so buyers know exactly what they are getting, when they are getting it and they can discuss the product with the seller.  
+Red bull induced bursts of coding genius.
+One of the issues we faced was figuring out the best UI possible to make it as intuitive as possible. 
+We didn't actually start developing the app until Saturday morning do to partner issues but once we got going, we were fine. 
+We were proud of creating an easy to understand workflow.
+We learned about OAUTH and building scalable backend systems
+Integrating a chat feature, transaction logs.

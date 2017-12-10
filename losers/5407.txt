@@ -1,0 +1,13 @@
+PURPOSE is a game with robots, but not a game about robots. It’s about family. About sadness. About feeling empty. Honestly it's somewhat depressing, if you stop to think about it.
+PURPOSE begins when lighting strikes a house at the edge of a tall cliff by the sea. With their batteries suddenly topped up, a group of domestic robots in the house set about fulfilling their daily tasks, which involve making the human householder's life smooth and easy. 
+The house is a bit of a mess, and all five robots will have to help each other in completing all scheduled tasks, including cooking, cleaning, moving furniture, fixing whatever isn't working as it should and finding the damn keys. All so the human can live his life without  a hiccup.
+There is, however, one big hiccup the robots are unable to register: the human is dead. As dead as the world outside. Looks like death has been the world's status for a long time. 
+None of this will disrupt the robots' schedule, though. Sure, they will have a somewhat harder time feeding breakfast , showering and helping their uncooperative human with his projects in the secret laboratory. However, nothing will stop them from completing their tasks.
+That is, until a catastrophe puts them in a position where they can't carry out their work anymore.
+And what then?
+Our goal is to deliver a story dripping with powerful feelings that only a VR game would be able to compel.
+Our initial idea was to make a VR game about a family and pull some emotional chords from there. What could be more powerful, we thought, than controlling Mom, then switch to the Daughter, then to the Baby Boy, then Dad picking him up to reach the table? We had a heartwarming concept in our hands made exponentially more powerful thanks to VR. Right?
+Wrong. Just being able to control a family wasn’t enough. It all felt samey. What were we missing? Maybe we were being too obvious…
+Then it hit us– What about a family of robots? Each could have a unique body, heigh, FOV, vision filters, inner sounds, unique abilities… Controlling each one would feel truly different next to the other ones. Feeling the constrains of every robot, switching between them to help each other in fulfilling every task with their one special ability… We designed a game dynamic where players embody all these robots and learning of all their powers and limitations, can’t help to feel that sense of, you know, a family pushing forward together. 
+Then, we went another step forward: we would trap players inside the chassis of these quirky robots, ever unable to react as humans to the broken reality in front of them. 
+Not happy enough with this extraordinary setting, we added a final, terrible threat: we’d make players face the worse of fates: a lack or purpose.

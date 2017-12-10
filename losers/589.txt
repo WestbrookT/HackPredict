@@ -1,0 +1,8 @@
+We ran another hackathon building bioinformatics pipelines in January, 2015 (repos at github/dcgenomics; paper on biorxiv -- search "hackathon"); it was awesome, so we decided to go further.   
+Six repos do a bunch of stuff -- check out the README.mds
+Inviting colleagues to be team leads.  Inviting anyone to apply.  Picking teams like fantasy football.  
+I kept renaming the teams/repos.  That was dumb.  
+Six functional software prototypes, likely equivalent to several person-years of work
+DC (NCBI) -- January, 2016
+Shreveport, LA (LSUS) -- March, 2016
+Boston, MA (Brandeis) -- April, 2016

@@ -1,0 +1,11 @@
+My Dad is a Masters Level Engineer who had a car accident that gave him a brain injury. While mostly functional, this unfortunately accentuated a characteristic of his, which is paranoia. 
+Whenever my bro, me, or my mom take my Dad out for a car trip, around the 2-3 mile mark, inevitably, he panics and says, "Did you check if the stove is off?" The conversation usually goes like this. 
+"David! Is the stove off?" 
+"Yes, Dad, it's off." 
+"No it's not! How do you know? It's still on!" 
+"Dad, I'm pretty sure the stove is off. I checked. Look, we already paid the toll on the bridge." 
+"We have to turn around now! We have to check the stove! What if the house burns down?!" 
+"Dad, I checked the stove, it's OFF!" 
+"Turn around now! RESPECT your father, and go home! We have to check!" 
+So, my solution to this is to build an IOT device, that talks to my Dad's phone and let's him know that the stove is off. It's not world changing. But it "should" make life a little simpler for my Dad. And give us back our sanity!
+https://cdn.hackaday.io/images/7667121427768046079.jpg

@@ -1,0 +1,7 @@
+Choosing the right music to play can be difficult. Sometimes you don't have the energy to rifle through playlists or can't think of what to pick, and end up listening something that doesn't sound quite right.
+Moodify brings simplicity to the task of selecting music. It uses sensory data about the room it is in, as well as weather data from the internet, date and time to play music that works in any setting at the click of a button.
+It's built using a raspberry pi, arduino, bluetooth speakers and sensors. We used the arduino to get information about the player's surroundings from the sensors, such as temperature, humidity, noise and brightness. The raspberry pi takes that info, along with weather and temperature data from the web, and uses it to select a song on spotify and play it.
+We had some issues getting hardware since we didn't plan in advance. Getting music to play through the speakers, and playing music from spotify on the raspberry pi were also challenging.
+It works! Mostly, and was fun to make.
+Planning in advance is the most important take-away.
+Big, big things

@@ -1,0 +1,11 @@
+the app basically does three main tasks. First it keeps track of alcohol consumption through transaction/manual input. the entire interface changes with the amount of alcohol that the user consumed.Fonts and buttons get bigger for easier use. 
+second, the app manages bills for friends. so they know how much do we need to pay each other.
+finally the app arrange a transport when a user wants to go back home. we are working with uber api. in addition, we are providing another option so that the user can share cab based on their destination. 
+making the app to work with newly released IOS 9 was a bit time consuming. 
+creating 
+we made an animated design for our mobile app
+we add paypal transaction for charging tab.
+the server and the client part works fine
+adding a QR generation for the app for the payment when transaction through NFC tag and apple pay is not possible
+we are aiming to add some new feature and polish the app to create a flawless user experience. 
+we are planing to talk with our target market that is NSW government, bar and education institutes to market the app.

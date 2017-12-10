@@ -1,0 +1,26 @@
+A VR game in FPS for mobile, the challenge is creating a Blade Runner/Futuristic style and setting with story of a surviving Ninja Clan member. The game concept is very ruff and will only have one level and one boss.
+Game Engine being used is Unity, some technical challenges is keeping poly count and draw calls low as possible but still maintain player exploration and interaction in VR space and still follow along with story.
+Story:
+2048 AD Core Season
+A exiled ninja from the Shochi Clan trying to regain redemption and clear his name for being
+framed for the murder of the high chief of the clan, he is destined to reclaim his revenge on the
+true murderers.
+Once a clan exiles you from the clan you are now known as what is called Rifted and must be removed. 
+Ninja Clan Members only reside underground or in the industrial complex and only surface
+to handle job duties - assassinations…, being exiled, the ninja clan member is identified as Member
+and is now a wanted man.
+Members only chance of the survival is on the surface and must travel to the industrial complex
+and become chief, in order to no longer be hunted.
+Updates:
+Still working on getting poly count down, may create a new scene day time, added some in game screens. Challenges around projectiles and animation, hoping to work out soon.
+Difficulty in not taking the player directly into battle scene, lowering poly count shortens atmosphere, need to work on right mix.
+Finally found the bots I was looking for, wanted mini enemies, so found some drones to place in.
+**Updates New:
+Today finally got a chance to create a video, wanted to create in game video but Laptop seems to be running out of memory lol (Perfect Timing), besides that some updates to the game, Since working with mobile alot of considerations have taken place:
+1) Focused on optimization, its been a ruff road and working with a short time frame of joining the challenge, but have learned alot, the goal was to rebuild the urban scene but maintain exploration in VR and I began extracting items that were not needed and did not have viewable concern to the player.
+Was able to remove alot of items and worked on optimization, was able to keep a solid frame rate but draw calls became taxing (WIP)
+2) Felt comfortable staying with this scene, even thoe a unity assets, alot has been changed in order to have it working with the Gear VR, hoping to work more.
+3) Gameplay was change, understanding the guidelines of short experiences, I have added checkpoints thru the city that the player must get to in order to complete the level, forcing the player to explore. Ninja sword finally has animation, this was a custom animation created but will be refined much later, there were some mechanics I wanted and now where I want them to be.
+4) Mini boss - still a WIP, it was fun to get the spider mech in, ran thru some walk sequences but wanted to keep the spider in one region, still a WIP, not sure if I can get the sparks effects in.
+5) Drones are in, but will be removed for final challenge post, fighting for performance.
+Overall, learned alot, and see areas where the game can be further developed along, by adding the checkpoints for game play and having mini bosses, I can work on the game as a scene by scene basis.

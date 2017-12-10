@@ -1,0 +1,5 @@
+You choose the event.
+Vendor bid on your business.
+We used Outlooks Api to get contact and send out updating emails.
+We used MasterCards enhanced info to source restaurants favored by
+locals.

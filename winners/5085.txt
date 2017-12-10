@@ -1,0 +1,2 @@
+The application is a work in progress. 
+The main elements are already complete; just some connections are not generated yet.

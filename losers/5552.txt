@@ -1,0 +1,1 @@
+This project has been placed on the back burner. Our long term plan is to rebuild the game from scratch in Unity targeting room-scale VR on desktop machines while anticipating mobile support once better input becomes available there.

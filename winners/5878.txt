@@ -1,0 +1,8 @@
+A Nerf (tm) first-person-reality shooter with handicaps for BAC and difficulty of shot with a moving target.
+Significant power draw of gas sensor MQ3 exceeded available power from Arduino board.
+Communicating to two bluetooth devices simultaneously to synchronize gameplay.
+Coding at 5AM (we're hardware hackers)
+Hitting the target with the highest BAC reading of the entire hackathon.
+Completing a project in ~8 hours (we started designing when the beer came out at midnight)
+Come to #Disrupt with an idea for a project already formulated.
+A compact, ergonomic, and waterproof housing will provide Shot for Shot with an incredible gameplay experience.

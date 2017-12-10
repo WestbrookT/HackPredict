@@ -1,0 +1,7 @@
+As we have seen from our childhood that parents as well as students are facing various problems regarding apt materials require from kindergarten to the college life. So we thought to provide all these resources in one platform using internet connectivity.
+This app  present -  parents teachers or institutions an easy way to teach and provide the resources. We have designed this app  to help students for accessing  the required resources available in the internet through quicker and efficient systems.
+Using Android SDK in eclipse IDE
+Database connectivity and editing a profile of a user.
+Completing our first official android app.
+We have learned how to connect database to android application and various functionalities like shared preferences , sending mail etc   in android  
+Provide offline resources 

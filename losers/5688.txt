@@ -1,0 +1,9 @@
+A city person bogged down by memories of a lost loved one starts waking up in situations where they see the other person. Even though the other person is there the circumstances doesn’t let them meet, until they finally do…
+The scenes will play out in the middle of a city usually in connection with public transit and the player will wake up or just appear in a scene where they can’t interact with the other person but walk and look around the scenes. When it’s obvious that the other person is unreachable the player will fall asleep/disappear again and gets transported to a void where the story is told between the scenes. 
+The experience will be in first person perspective with an intro scene taking place in a void setting the stage for the experience. The story will be told with text that are shown in the void as floating text in 3d space.
+Planned scenes
+I think the story will be very well told in VR by more or less forcing the player to act in the scenes and eventually feel a bit sad for not being able to reaching the other person. 
+Sound
+I hope to create a atmosphere that really sells the scenes and get the player to feel presence. The next scene will start with establishing the ambient sound for that scene while the player is still in the void reading the story. As the volume gets louder the player will transition into the scene by waking up. 
+Controls
+I want the experience to be accessible for people with or without the Samsung Gamepad. With the Gamepad the player will be able to freely go around in the scenes. Without it the movement will be a bit more limited but optimised to experience the most important details of each scene.

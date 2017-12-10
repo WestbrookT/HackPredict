@@ -1,0 +1,12 @@
+When the Knapu discovered the ancient magic, there was much unknown about it. With its power their cities were bountiful and strong. Knapu sorcerers have learned how to wield this magic as a weapon. But, the magic has saturated the earth, deep underground where its activity has found the resting grounds of the ancients themselves, the Damur. The Knapu will soon learn the true strength of this magic. 
+You play as the Knapu's greatest sorcerers, harnassing the power of the Damur. You are in charge of defending the gates to your city. Be aware - enemies will flank from all around you, look and listen for threats. Use the touch pad to interact with the world.
+You can construct magic towers and train soldiers to fight along side you on the field.
+Survive as long as you can, for the sake of your people.
+Development and Innovation
+The goal of this project was the exploit all of the tools that virtual reality offers.
+Size and scale - The story was designed specifically to make the user play as a smaller creature in a big world.
+360 Degrees of Interaction - Spatial awareness is key in this game because enemies will be spawning from 5 entry points surrounding you.
+Controls:
+Gaze + Touchpad
+Swivel chair is recommended.
+Thanks for looking at my submission! This was the most intense learning experience for me. Having to constantly almost change the entire game because it didn't quite work in VR was tough. Good luck everybody!

@@ -1,0 +1,11 @@
+Recently I suffered multiple keyboard-related Repetitive Strain Injuries. I tried several "forced break" tools to alleviate this condition but found I needed something smarter - I wanted a system that would help me stay "in the zone" when coding but still track posture info so that I could make frequent, small adjustments instead of just pausing after fixed amounts of time or typing. I also wanted a tool to help me track hand exercises I should be doing, which is why I brought in the Leap Motion sensor as part of this project.
+posture.io is designed to be highly affordable - it consists primarily of a magnet-sensing TI SensorTag that is affixed via Velcro to the back of a standard office chair, along with a thin adhesive magnetic strip that is placed on the back of a standard belt. The posture.io system communicates over Bluetooth Low Energy with an OS X application that then coordinates posture scoring and alerting. A dashboard icon is used as an initial indicator of bad posture, however a break alert will be scheduled to the user's Outlook calendar if this warning is ignored. A user can additionally perform hand exercises (tracked by an optional Leap Motion controller) which are counted positively in the overall scoring system.
+Finding an office chair on Craigslist in FiDi the day before the Hackathon and getting it up to Midtown in one piece
+Coming up with a reasonably robust algorithm to track "bad" posture
+Porting an open-source SensorTag communication library from working with iOS to working on OS X
+Learning correct Outlook REST API time format to create a scheduled break at correct future time
+Creating bridging headers for Leap Motion's XCode SDK so it could be fully used in a Swift-based project
+Created a working prototype that I hope will become something real and truly help improve the posture and health of developers and office workers everywhere.
+Read the source! One can't always trust documentation, especially around Swift to Objective-C interoperability.
+Test, test, test! Edge cases abound
+Trying to find other interested developers who could help me bring this technology to folks who could use it

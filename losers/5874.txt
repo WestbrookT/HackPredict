@@ -1,0 +1,6 @@
+People will never get rid of paper business cards so let's combine them with online ones
+For now it lets users to connect via FB and upload own business card, which will be matched later on when others will be uploading your card as well, to get access to your online contacts.
+That thing should really go mobile, while we're missing mobile developer in the team. To find a good working SDK for images matching (and offering generous trial mode) was also a bit tough.
+It's damn simple but working :)
+It's better to find team mates before the event 
+We'll definitely put a mobile version and will develop the concept further!

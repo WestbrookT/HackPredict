@@ -1,0 +1,7 @@
+Daily video and photo journaling.
+Gives you a random tip/task to complete each day and capture the moment with your phone's camera. Then you can see all of your daily adventures in a grid style.
+We used Swift.
+The Swift language changes very frequently so when trying to solve our problems on Stack Overflow, the language was often outdated.
+Accessing the phone camera and using a button to shuffle through an array of tips.
+Swift!
+A more comprehensive grid/calendar mode and accessing tips from different online sources to truly randomize the adventures one can take!

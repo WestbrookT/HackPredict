@@ -1,0 +1,7 @@
+Provide a cheaper open source alternative to smart/IoT devices
+Controls the power to any electronic device in your house
+Using an Arduino, relay circuit, and Java
+a lot of challenges. Serial/wifi connections and architecture to name a few
+We are extermely proud of getting a working product
+Learned, to a certain extent, how to optimize and stabalize hardware/software integrations 
+Improve the product

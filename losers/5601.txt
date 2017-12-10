@@ -1,0 +1,2 @@
+Learning advanced physics involves a lot of examining the movement of objects in 3D space by using 2D charts and diagrams. By replacing the usual 2D explanations with visually attractive and exciting 3D simulations, I hope to illuminate the possibilities for engaging students and explaining complex 3D problems in virtual reality.
+I am taking problems from real AP Physics tests and illustrating, visualizing, and explaining them in a virtual simulation. 

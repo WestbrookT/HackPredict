@@ -1,0 +1,1 @@
+Trying a new take on RTS games using voice+gaze for control of your villages and armies. You look down and hop between mountain tops. Your commands punishments and powers largely direct your underlings, but are not fully deterministic. 

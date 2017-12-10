@@ -1,0 +1,13 @@
+Mobile devices have rapidly evolved and have ample power to run fantastic VR apps. Over this time, PCs also have also evolved at a similar rate to mobile devices. However, the gap between the processing power of mobiles and PCs is still large and it does not seem this will reduce any time soon. As a matter of fact, our team has heard from many people that that they do not experience the same visual quality on mobile as they do using a PC.
+On the other hand, we were surprised just how comfortable people are with the the GearVR given that its not equipped with any kind of cables at all.
+In addition, it can be difficult to move your head and body around using the Oculus DK series and other VR devices.  This becomes even more noticeable as the detectable area of positional tracking gets larger. 
+How It Works
+Download Links
+The requirements for the system
+How To Use
+Application
+AirVR is essential if you want to experience a higher quality on GearVR.  
+During the development of AirVR we realized that this is a perfect system in which to share VR experiences in real time with other people. People can see what a GearVR player sees displayed through a sever and even guide the GearVR player using other Android devices which can control the server app. This technology can be applied to any field wherever a VR experience needs to be shared among people.
+Further Works
+The apps we uploaded for Mobile VR Jam are just proof of concept. One will be able to develop fantastic apps using AirVR.
+Trouble Shooting

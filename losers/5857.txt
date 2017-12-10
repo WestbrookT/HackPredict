@@ -1,0 +1,7 @@
+We were inspired by the technology of 3D scanning. And its many practical uses in prostheses, object detection, security scanning, SLAM problems, and other space mapping applications.
+This pan-tilt mechanism uses microservos to sweep a 3D area. Because the infrared sensor is facing forward, its input can be converted to a distance away from itself. 
+The laser-cut fixtures hold the servos and Sparkfun Time of Flight sensors in place while the Arduino microcontroller commands the infrared sensor to take in values. 
+Challenges include designing the fixture to fully account for the servo's movements, and displaying the output data in an aesthetically pleasing way. 
+We got a moving mechatronic system! We are able to display the infrared output, horizontal angle, and vertical angle, too. 
+Lasercutting
+We would display the output data in a better way. 

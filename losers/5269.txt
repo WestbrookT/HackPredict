@@ -1,0 +1,5 @@
+Course project
+Student is able to vote for different faculties
+Concurrency of voting
+Utilizing the MVC pattern
+Client/Server interaction, MVC pattern

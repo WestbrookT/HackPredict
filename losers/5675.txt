@@ -1,0 +1,9 @@
+Initially, this will be a "thrill ride" type experience, with a view to the future to become a therapy tool using progressive levels of fear stimuli. 
+The user will select a fear/phobia from a menu and then be exposed to a scene that triggers the phobia.
+POTENTIAL PHOBIAS
+Heights: Walk a plank across two skyscrapers (tap headset to inch forward).
+Spiders: Cross a yard with dozens of webs and big garden spiders using the gamepad (D-pad, ducking, maybe swiping with broom handle).
+Buried alive: Watch, immobilized as your loved ones shovel dirt over you at your funeral (look-only).
+Clowns: Walk down a carnival aisle where everyone is a clown who makes eye contact with you (D-pad, look).
+Claustrophobia: Get locked in a closet at a middle school party (look only).
+Public speaking: Stand in horrified silence as thousands of people wait with baited breath to hear you speak (look only). A voice whispers from somewhere fueling your deepest insecurities.

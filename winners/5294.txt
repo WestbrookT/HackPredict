@@ -1,0 +1,16 @@
+We wanted to create an in store shopping experience that is fun for customers and introduces them to new products or brands. Small riddles are presented to the customers and they search for places and products in the store. The customers are rewarded via points for every item she/he found. If all three items are found and bought the customer can be rewarded with a discount on the purchase or extra payback credits.
+We also imagine that our app can entertain children that are forced to accompany their parents while shopping. We can build colorful and fun riddles that are suitable for children to entertain them and include them in the shopping experience.
+Greet customers when they enter the store and send a beacon notification to open the application and start a riddle. 
+Let the customer select a theme for the riddle. For instance 
+Breakfast (cereals, milk and honey)
+Family (vegetables, some sweets and washing powder)
+Dinner for two (wine, cheese and chocolate)
+The the app will present the first riddle to the customer for solving by finding the product and confirm the location. When all three riddles are solved the customer gets points and can exchange them in payback credits or discounts at the cashier's desk. To get a discount all three products needs to be bought. 
+We are all are new to android development and had to figure out a lot how this stuff works. There is no Sphere SDK for android so REST calls have to be made.
+We wanted to avoid a “middleware-backend-system,” so we stored all our data in sphere.io which was no problem with an adopted product model. 
+Stability of estimotes. No connection while standing next to them. 
+Simple notifications to the MOTO360 take too much time. There is for sure a better way to code than we did. 
+Play a sound on a android device. 
+Reload Product Images asynchronously. 
+We produced a complete game within a few hours. It’s a working app and a good MVP to prove our concept. The concept could be expanded and maybe a real business case could be created. We skipped a complicated backend system and get everything running inside the app. 
+Android stuff :-) and Sphere is more than a product archive. 

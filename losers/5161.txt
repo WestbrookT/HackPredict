@@ -1,0 +1,2 @@
+echo takes you inside of a bat out on a night's hunt. In this VR experience, you'll use echolocation to navigate the world around you: manuever through trees on mountainous terrain, explore a labarynth of stalagmite filled caves, and hunt for your night's meal.
+For the first time ever, we're one step closer to experiencing how bats and other sonar dependant creatures navigate the world around them. As you step into a new way of sensing your environment, you'll find yourself developing techniques bat's have long since perfected.

@@ -1,0 +1,10 @@
+This is a big #workinprogress #wiiiiiip
+Updates are the best way to keep your projects alive, and keep other hackers up to date and interested.
+They really became central to how other hackers interact with Devpost projects, so let's see how they've been built, and what you should know to get the most out of them!
+Nothing special there really, just a basic form. Something to note, any team members can post updates.
+No need to leave your beloved feed to post an update. There's a form to add an update to your last project at the top, with a sweet, sweet dropdown allowing you to chose which project the update is about.
+The dropdown contains all your projects (the ones you created, and the ones you're a member of), so instead of performing a somewhat expensive MySQL query, I used Solr, which makes it a lot easier:
+Home::SoftwareSearch.as(current_user).query("@me")
+Commenting on an update automatically subscribes you to it, making sure you'll never miss anything. But I know you can get bored of a discussion, that's why it's super easy to unsubscribe:
+The somewhat tricky part about this, technically, was to update the subscription status of the update whenever a comment was added. Backbone events and channels made it easy enough to solve.
+disclamer: not deployed yet!

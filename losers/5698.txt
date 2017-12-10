@@ -1,0 +1,13 @@
+(Codename) "Broom Broom Broomstick!"
+aims to allow players to experience what it would feel like
+flying around on a broomstick.
+The Game will feature 3 modes:
+• Free Roaming
+• Find the orbs (collect all the orbs dislocated around the map)
+• Catch the Snitch
+I am still working on the third mode as I am figuring out how to implement
+a "snitch" element that flies around the map. The idea is that a snitch will be flying around
+and once you spot it, you can start chasing it to catch it.
+BBB will possibly feature different maps and broomsticks on which you can fly on.
+My vision for the game is to see it grow and evolve to a point where one day you will be able
+to fly around with friends and compete in multiplayer modes.

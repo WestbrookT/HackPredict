@@ -1,0 +1,7 @@
+Zombie defense VR is a tower defense experience based around a virtual reality headset. Players will be stationed in an observation tower and must defend against an invasion of slow moving zombies. The zombies can attack your facility from any direction. The player must observe and manage a full 360 degree battlefield to fight off the attacking zombie hordes.
+The player has control of 3 fire teams that they can move to different positions to fight off the incoming zombies. Each fire team has different characteristics. 
+Game play ends when the Zombies breach the players defenses. 
+Secondary game play features will allow the player to direct artillery strikes and fortify defenses. These features will also be driven by voice commands. 
+Innovations – 
+• Players are mostly hands off. They are directing the battle via voice commands – eliminating Virtual Reality (VR) input issues and making the experience broadly accessible. 
+• The game level takes place in a 360 degree environment, forcing the player to physically turn to react to threats from all directions.  The physical movement provides a unique experience that only VR experiences can provide. 

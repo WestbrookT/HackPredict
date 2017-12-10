@@ -1,0 +1,4 @@
+Food journals are hard to use - you have to write down what you've eaten after every meal and search the calorie content of each food each time. Eating healthy should be easier. That's why we decided to streamline this process. 
+The user will start by asking Alexa the calorie content of a certain food that he/she has eaten. Then, Alexa will respond with the amount of calories in the food. The amount of calories consumed during the day will be tracked. Alexa can also tell the user the amount of calories he/she can still consume based on a goal amount and provide weekly feedback based on the amount of calories consumed. 
+AWS is more confusing than expected. 5 hours is shorter than expected. 
+We want to build in nutrition tracking functionality. Based on the food consumed, Alexa will let the user know whether or not he/she has satisfied their daily recommended nutrient intake and recommend foods to eat if the user hasn't reached it. 

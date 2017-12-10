@@ -1,0 +1,8 @@
+Everyone gets tired waiting for their large downloads to complete. BitTorrent is awesome, but you may not have a bunch of peers ready to seed it. Fastify, a download accelerator as a service, solves both these problems and regularly enables 4x download speeds. 
+We even cache some downloads so popular downloads will be able to be pulled from Fastify even speedier!
+Without any cache hits, we saw the following improvements in download speeds with our test files:
+test was performed with slices of the ubuntu 16.04 iso file, on the eduroam network
+Created an AWS cluster and began writing Go code to accept requests and the front-end to send them. Over time we added more workers to the AWS cluster and improved the front-end. Also, we generously received some well-needed Vitamin Water. 
+We're able to accelerate large downloads by 2-5 times as fast as the regular download. That's only with a cluster of 4 computers. 
+Bittorrent is tricky. James can't be trusted. 
+More servers on the cluster. Demo soon too. 

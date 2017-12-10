@@ -1,0 +1,60 @@
+Race to save as many survivors as you from Giant monsters coming in various waves and sizes to destroy the city of Tokyo.
+*Experience high flying action in full VR with 3d skyscrapers and towers
+*Race to save as many people in the city as possible
+*Combat Giant Monsters
+*Fly your combat Helicopter to the tops of buildings
+*Save people before buildings are destoryed
+*Use your combat Helicopter to take on Giants.
+More to come!
+Developer notes:
+Game design concepts and art started from scratch today on 4-14-2015.
+-1:43PM- Filling out description, but notice we need some art for below, lets make some!
+-4-20-2015
+Submitted the first milestone.
+We think we have what we need in place to for the submission.
+Please let us know if we do not!
+-4-26-2015
+More work completed on enviroment assets and layout. Still really rough.
+Hard to tell much without textures in the scene.
+-Intial Unity gameplay in progress. 3rd person Camera set up and play testing.
+-Base mesh for Monster 1 started
+-Base mesh for characters on building tops started
+-Main helicopter 
+-Textures in progress
+-Shooting from 3rd person Cam in progress
+-Reworked updates made in Gear VR>> Yes, big overhalls where made and set project back 2-3 days.
+-Updates are good, but pain to fix in the project.
+-5-4-2015 Milestone 3
+-Uploading 2 videos
+-Game demonstrates real-time city enviroment where player flys rescue attack chopper with game pad. All 3d assets are optimized for mobile. Land on tops of Skyscrappers to collect endagered Citizens.
+-Played around with concept of guns for people as could do several spins on game.
+-Characer AIs will run when they see the Chopper and disappear when close enoguh. If have time this week will include UI showing how many you can pick up before your full. Also, will need a dropoff location for pedestrians. Drop off location will be close to the City Island.
+-Artifacts in water are for another equally sized city, just left the mesh turned on.
+-tweaked helicopter flight for up and down with two buttons
+-machine guns for one button
+-missiles for one button
+-GIANT ROBOT Dark void is not animated yet
+-Giant Robot will destroy buildings
+-Cockpit/inside and out intial layout for First Person Cam view of Pilot
+-3rd person cam view
+-Dpad Camera set to rotate.. May be set to degrees with free movement of headset
+-May play around and tweak game depending on fun factor
+-city, robot, characters, animations, chopper and textures all created for this JAM. 
+-Gameplay proto-type and art will all get sencond pass this week. More characer animations for Robot and
+city desrucion on its way.
+-Lots of upgrades on buildings and textures 
+-Lots to do in final week. :- 0
+Gamepad:
+Left D pad:Helicopter Flight or throttle
+3 dot button: Altitude Up
+1 dot botton: Altitude Dwn
+4 dot button: First person and 3rd person mode- can't fly but can aim and shoot with helmet. (needs more angle and didn't have time for cross hair)
+Left trigger: Missiles
+Right trigger: 60 Cal guns
+Notes for final release build:
+*Robot shoots at you, but  needs to be 2 x faster with more damage.
+*Ui bar for player and Robot, would have been better fading in and out over Robots Head.
+*Buildings can be destroyed but takes way too long; but concept is there to rescue characters at top.
+*Players where supposed to get dropped off at sea on boat. (not enough time)
+*Characters get on board the chopper. They will wave at you in the back seat. 
+Didnt know this page was still up or would have edited already.

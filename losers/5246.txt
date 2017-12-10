@@ -1,0 +1,5 @@
+Mecha Tower is a tower defense game with two outstanding unique features:
+1) It supports Virtual Reality allowing the player to observe the game board from different perspectives from above the board.
+2) It features a special tower unit - the Mecha Tower (a stationary mountable turret) that can be entered by the player and manually used to shoot at enemy units (the camera changes to a first person perspective).
+Milestone 2 Update:
+Milestone 3 Update:

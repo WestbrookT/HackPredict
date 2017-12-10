@@ -1,0 +1,7 @@
+The idea that people shouldn't be limited to not having special equipment to play a sport. We utilize human imagination and interaction with your smartphone to bring you the game pong! Just download the app and get ready for an intense simulation of pong! 
+Using realtime database, our app allows you to search for a game of pong and complete with people in your vicinity. Once you are join into a game stand ten meters apart from your opponent and hold on tight to your phone! App uses the accelerometer data which translates into a swing and you send swings back and forth until a player loses. App encourages you to look away from your phone by sending familiar vibrations in completed swings and sounds. It feels like the real things! 
+Using Firebase Database, we built versions spanning on iOS and Android in both Swift and Java. We used complex multithreading coupled with firebase to get a fast reactive response. 
+Multithreading which we had to manage on the spot, sometimes even memory leaks. We ran into synchronizing it with real time database. Overall planning of game core loop and complex architecture which we constantly came back to and made iterations for improvement.
+We have a working version of the app and we manage to pull of synchronization with the realtime database and overcoming issues with hardware which causes us to adjust for what we had available. 
+Learned some android development and multithreading skills. Also how to search out memory leaks in iOS Development. 
+Keep iterating and completion of the game for iOS Users! 

@@ -1,0 +1,7 @@
+Become a small plant-like creature named “Snicket”, who can float on the air like the seeds of a dandelion as he explores the backyard of a small child.  You can discover, play and interact with the various objects found in the yard.  Come see what marvels you can uncover, and experience anew the joy of wonder!
+Dandelion is a free-explore adventure experience. We used the VR Jam as an opportunity to work on developing the game mechanics and test out our idea by building a playable prototype to see whether our idea would work and be worth pursuing further.
+For the purposes of the competition we targeted the Gear VR, but we plan to continue expanding upon our initial idea and create a version for the Oculus Rift as well.
+This was the first time the three of us worked together and we created all the art, coding, sound effects and music ourselves. 
+Controls – Use the gamepad:
+Mechanics – You can run around, jump, float in the air and interact with various items in the level.
+Innovation – Besides the obvious playing with scale, we aimed to capture the sense of wonder and imagination of a small child. For this reason the art style we chose was the look of an illustrated children's book which we felt would go together well with our project's theme. We would like players to come away with a feeling of excitement and adventure, and we really hope this experience appeals to the child in all of you!

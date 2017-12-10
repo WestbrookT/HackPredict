@@ -1,0 +1,9 @@
+VR Vox is a voxel world building application for the GearVR. 
+Lots of work has gone in to the interface to make it as fast, easy and intuitive to build worlds. 
+This is the first voxel world building app designed for Mobile VR and not a mod of an existing game. VR Vox is innovative in the tools it provides for quickly and accurately creating blocks. 
+By default, the creation of blocks is done along a "Construction Plane". The Construction Plane is a a virtual plane that you can build along that is set in realtime whenever you click the face of a cube. Click then hold to continue drawing blocks along the Construction Plane. Blocks can also be drawn in mid-air using the Construction Plane. 
+There are a couple drawing modes that will help you depending on what you're trying to build:
+Building in VR requires navigation. I experimented with some touchpad based locomotion techniques, but everything I tried felt weird, was hard to explain, and would probably make  most people nauseous. I found what worked best when only using the GearVR's controls was a teleport option that would simply teleport you on top of a block. When paired with a controller, the ability to fly worked well, but analogue rotation caused instant nausea. I decided to do rotation snaps on the controller, allowing for 30 degree or 180 degree rotation snaps using the right joystick. 
+When using just the GearVR, you don't have many input options. To give the user the ability to easily change options I decided to pull up a pie menu when pressing back. The pie menu makes it very quick to find the option you want. 
+https://quixoticsevenart.wordpress.com/2015/04/27/vr-vox-my-oculus-mobile-game-jam-entry/
+https://vrjam-submissions.s3.amazonaws.com/signed/4bd5cf313c9b/htNPPaXPQbyURl7c9joz_VRVox-v1.0.1.apk

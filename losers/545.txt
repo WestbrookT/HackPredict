@@ -1,0 +1,7 @@
+From Robots of doing things automatically
+Detect the emotion of a person and will play action based on the emotion
+I built by trianing the emotions of the data using machine learning and based on the training the alexa (using AWS Lambda) will detect the emotions and will play the action like telling a joke,Playing a music
+Challenges i ran into is to train and detect voice ranges of the human
+Training Alexa and playing the music
+How to use alexa and how to detect the emotion using 
+Automate into a house and detect every mood of a person

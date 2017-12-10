@@ -1,0 +1,17 @@
+Drive Test is a virtual reality educational experience that teaches motor vehicle operation according to the rules of the road and safe driving practices. Drive Test allows the user to learn and hone their driving skills in a safe but realistic environment.
+Drive Test puts the user in the driving seat of standard motor vehicle. The user is guided through set of predefined scenarios covering different key concepts of road vehicle operation. Each scenario consists of an introduction and a simulation. The user is presented with a driving scenario designed to elucidate specific rules of the road and safe driving practices. Then the user is put in realistic situation where the key concepts are tested.
+Some sample scenarios:
+Awareness scenario
+This scenario teaches the importance of mirrors and visibility, including checking mirrors and shoulder checking. The simulation will evaluate the user’s awareness by tracking head movement in order to determine if the user is checking mirrors and otherwise maintaining awareness.
+Start/Stop scenario
+Knowing how to stop safely and properly is an important driving skill. Safe and responsible drivers see stops ahead (signs, lights), begin braking early and stop smoothly. The simulation will evaluate the user’s ability to slow down in anticipation of signs and hazards, and to stop and start smoothly and safely.
+Signs recognition scenario
+A variety of important signage and road markings will be presented and explained to the user. Simulation mode will test the user’s response to the various signs, including speed limits, crossings, merge signs, turn demarcations, and stop signs.
+Challenges
+From the product perspective, the major challenges are refining the educational and simulation aspects of experience. Considerations include how to present the user with clear instruction, and how to immerse the user in the Simulation mode in order to create a powerful learning experience. Other technical challenges are related to preventing motion sickness while maintaining in-car immersion.
+From a development perspective, the main challenges for the Blue Pill team are delivering a sufficiently immersive experience despite having a small team size and no dedicated 3D Artists and animators.
+Current Progress
+We have build scenery and model of the car is done, we have scene to continue work on. Logic for mirrors is also done, we need timers now and create succeded or failed scenario/play. Moving car controls are done too. There is little fps impact when player is looking to the right(where the buildings are), we will look into this too. Sounds implemented, we need more for giving directions to an user. Things that we want to build in this next milestone is: 
+-reflections from mirrors
+-proper mappings for bluetooth controller
+-glue everything together into one proper test

@@ -1,0 +1,25 @@
+We were very interested in finding real world applications for augmented reality that could empower people in their daily work and provided opportunities to teach internal GE employees about GE devices and systems. 
+Note: demo only is in video link in submission.
+The GE Modal Viewer uses augmented reality to provide the ability to see GE parts in a 3D environment in real-time using a mobile device.
+The GE Model Viewer in an internal employee application proof of concept we created has the potential to have impact on business outcomes, training and diagnostic of systems and industrial devices. Business outcomes include savings in the millions of dollars for both internal GE facilities and GE customers in reduced down time and improved diagnostic efficiencies. 
+For example, every day a power plant is down it potentially incurs costs in the millions of dollars. By diagnosing issues quicker using 3D model viewing, Engineers and leaders at power plants can reduce Mean-Time-To-Know (MTTK) and Mean-Time-To-Repair (MTTR). Instead of relying on 2-d renderings of each view, they have a full view they can rotate and explore in real time. 
+Training is another area of potential impact where GE could see improvements in on-boarding and knowledge transfer as well as leveraging remote capabilities instead of incurring the costs of transporting and boarding employees at different locations. The training would also be available on-demand and portable. 
+First we brainstormed different AR concepts and potential use cases. Then we interviewed different GE volunteers to explore potential real world use cases and pain points. This gave us use cases and personas to build off of. We started development by finding a model of a GE turbine. Then we used the Unity engine to view each of these models in 3D. These models only show and are manipulated when they are on top of a target. For our target a GE flyer. 
+Originally we planned to deploy the application on a Windows phone. Due to the bugs in the Windows phone API we could not deploy it. Instead we had to use a desktop device. Another issue we ran into was we wanted to build the front end in Windows forms and have the back end supported by Unity but due to the way Unity builds their application source files we could not interact with them through Windows forms. This means we had to move our front end from Windows forms to Unity.
+We had a rough concept to show within 3 hours.
+Our awesome pirate posing talents and photoshop skills.
+Collaborating together and working through ideas, adapting and making changes as issues came up.
+Stretching our user interview and validation skills.
+Video and audio editing.
+Hayden Duke Russell - Ideation and brainstorming, designed and implemented all AR interaction
+Elliott Shoenfielde - Ideation, brainstorming and use case validation, Implemented visual studio environment, developed interface in visual studio, application UI
+Kara Dees - Ideation, user interviews, brainstorming, model research, video editing, internal team validation, team documentation, design collaboration and testing
+Lee Jordan - User experience including: ideation, UI mock ups, user interviews, use case exploration and validation, white boarding and prototypes, user personas. Team documentation and pirate pixel pusher
+The difference between Windows iOS and Android.
+Overcoming obstacles with SDKs and software.
+User Interviews and requirements gathering.
+User validation is king!
+Test, test, test!
+Iterate and adapt when issues .come up.
+Creative commons licensing
+We'd like to add more models from different areas within GE and expand the features to include product dimensions and specifications. We would also improve the UI and display of model parts in the system. We started with interviews of field services, device experts and GE Power employees. We would like to expand and explore validation of the concept across other business units. A custom target with a GE logo and marked area in sticker format that could be placed on someone's desk or a portable card would be an additional asset  that would raise awareness and improved tie-ins to the GE brand. 

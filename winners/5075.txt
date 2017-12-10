@@ -1,0 +1,8 @@
+The idea for the project came from another hackathon.  We noticed that many people were spending a lot of time downloading applications at hackathons rather than hacking and wanted to set up a quicker way to get to hacking rather than waiting
+The application consists of three parts:
+The first part is a local repository of applications that can lives inside the building.  This allows quick download speeds, but is difficult to access on its own.
+The second part is a web interface for downloading software.  The web interface is able to live remotely and is easy to access, but forwards the user to a local server when the download button is clicked.
+The third part is a load balancing and coordination back end.  Multiple local repositories can be set up, and additional ones will automatically mirror the first local repository and you have more bandwidth in minutes by just running one command.  The back end keeps track of what local repositories are where, and will distribute requests to downloads evenly so all downloads can stay 
+The local and back end servers both run node js with a RESTful API.  The web interface was built completely from scratch (NO TEMPLATES) using vue.
+Handling ASync well node was difficult
+Getting load balancing working and data visualization of speeds with Azure in Power Bi

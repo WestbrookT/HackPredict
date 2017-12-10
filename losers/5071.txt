@@ -1,0 +1,6 @@
+my friend/team-mate  lyle always faces this problem while driving. Since, he also has sight problems he experiences glare extensively
+when two cars in approaching in the opposite direction, either one or both cars are on high beam,then car1 would cast a shadow on the wildsheild,of car2, only  around the driver's region of car2.and the vice versa can also happen. We replaced headlights with projector lights to make this hack work.  
+to detect a pair of headlights coming from the same vehicle/car.
+accomplished my challenge, by incorporating many conditions.
+smarter,effective and easier coding in matlab
+add in more features, like detect rain,dust etc, and make it more efficient

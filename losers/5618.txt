@@ -1,0 +1,4 @@
+View all your current loaded phone videos in a VR Room at once. There you can browse and Select from them to view on a giant screen.   All videos under your "My Videos" folder can be displayed at once and sub folders can be entered using doors on the VR Room floor for navigation.  
+Currently have a proto-type running but still working on the following challenges:
+Need better performance
+Need to be able to load all videos dynamically.  Right now we are loading each video staticly by hand.

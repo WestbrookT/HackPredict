@@ -1,0 +1,6 @@
+8bit games
+Event based data from an e-commerce webpage moves characters around a cartoony store environment
+Pathfinding
+Using PhaserJS for the first time
+Isometric stuff is hard
+More cool visualizations based on the same data

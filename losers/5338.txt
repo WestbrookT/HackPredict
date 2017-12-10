@@ -1,0 +1,23 @@
+Hungry hungry Spider is a fun little game for in between or when you want to grab your daily dose of VR before you go to sleep because this game you play lying down.
+Once you get yourself comfortable lying down you can start experiencing the world above you. What you will find in “Hungry hungry spider” is a spider web, hanging in the leaves over your head. In it rests our friend the little spider, which is very hungry for flies. Lucky for him the area is over populated by them and every now and then one finds its way into the trap. Your task will be to survive, not starve by eating the flies and expand the web. All while lying there, relaxed, enjoying the scene.
+The thing, that is really new to this game is, that you play it lying down. This makes the game experience even more relaxing. The other new thing to this game is the game design itself. You control a spider that has to build its web for catching flies and eating them. But you have to be fast, otherwise the spider will starve, or the flies escape and might rip holes in the spiderweb when escaping.
+It is a pretty new kind of a casual arcade game.
+The goal of the game is to survive as long as you can without starving. 
+Eat flies to ensure the spider won't starve.
+Wrap some flies in your web to save them for later.
+Expand your web, to increase the chance of catching flies.
+Span the web by fixing a string on the one position and walk to another position to fix the other end there.
+In this game you see two bars as. One is your current Hunger. When it hits zero you lose the game. The second bar is your energy. You need energy to spin new string for your web. Both values rise you eat a fly that got caught by your web. But be quick the fly can free themselfes. This game is an endless game as the struggle for survivle is real.
+You need a bluethooth controler to play this game.
+Your controls are very easy. You move the spider via the left stick. pressing ( 1 ) will attack forwards and if a fly is in reach you'll consume it. pressing ( 2 ) will try to start creating a new string for the web. It will be conected to the point on the web where you started and to your spider-butt. Now walking will spin a new string between these two points. Pressing ( 2 ) again will release the new string and attach it to the web. With ( 4 ) you can string a cocoon around flys. Just like when you try to eat you have to aim and hit a fly to successfully do so. Pressing ( 3 ) will cancle the string creation.
+The rest of the game plays itself. Fly will buzz around and get cought in your web. Your Hunger will grow stronger and eating flys will still it and give you new energy to create new strings on the web and expand it.
+In the end we run into some performance issuse we could not fix in time. The game is functional but has some weired behavior of which we could not find the cause. These problems are selfmade and therefor even more frustating for us as they are for players. In theory we got far in practice not so much. Too many bugs got stuck on the web. 
+Yet, this project still counts as a success for us since it is a strong proof of concept. The spidergame alone holds great potential in our opinion because the spider is cute and spiderly, the scenery is charming and the gameconcept in its core is fun and can be expanded with many scenarios. But the real winner here is the new perspective. Lying down really is a comfortable way of not only wearing the gear but also is relaxing and supports a zen like game such as this one. Most of all it opens up so many new games and scenarios which are begging to be discovered. Looking up on things, and changing the game flow from forwards to upwards or simlpy enjoying the new experiences you get from looking at things from unusual angles brings fun and new sensations.
+-Prototype of the core-gameplay
+-3D Assets
+-GamePlay footage created
+-Spider-Web creation functional
+-Game-scene instaled
+-Game scene enhanced
+-Spider-Web building enhanced with some setbacks
+-sound implemented

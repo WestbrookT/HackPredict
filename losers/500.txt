@@ -1,0 +1,3 @@
+In the classroom, there is a growing number of students with smartphones and therefore a growing problem with student focus. Students are distracted when they are playing with their phones, especially browsing the internet (Facebook, etc). Through an opt-in service where student parents register their devices, NotNow will allow the teacher temporarily disable participating student's phone's internet connection only during the time of the class. After the class is over, or at the discretion of the teacher, the internet connection will be enabled again.
+What's Next:
+Parental registration of student phones

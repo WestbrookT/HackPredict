@@ -1,0 +1,5 @@
+Mobile friendly version of Harlemtech Website
+The new website is built using a CMS system called LocomotiveCMS. This CMS is coded using Ruby On Rails and it's easy to use for non-tech people as it has a simple interface for adding content entries.
+As a coder, I can confirm that LocomotiveCMS was helpful when adding test data (including images). In the page implementation area there was "Liquid language" and by using its simple tag syntax I was able to pull data and presentation together.
+In the frontend, thanks to libraries such as:
+...implementation for being "mobile friendly" was painless

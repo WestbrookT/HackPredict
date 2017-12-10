@@ -1,0 +1,2 @@
+Mobile app to track buses. FUSSY requires no infrastructure or additional hardware installed on buses. FUSSY filter user's data to create clusters that can be converted into buses' location. It means that FUSSY is ready to be used in any location.
+The android app is working with an asp.net backend to provide real time bus locations. It share your position when you are in a bus to help others find their bus location.

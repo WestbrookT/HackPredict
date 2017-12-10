@@ -1,0 +1,25 @@
+Vr Jam Submission
+
+This is Milestone of my vr jam submission :)
+A VR Life 
+Live like interactive video
+‘A VR Life’ Is a guided virtual reality experience in a customized virtual interactive environment. The focus is on using the quality and power of Samsung VR to create uniquely personal evolving long term experiences.
+The concept is to reproduce enhanced real world daily experiences for the purposes of relaxation, leisure and enjoyment. 
+Current production info
+Production hardware
+Alpha channeling hardware
+3d sound recording
+An array of 4K direct streaming video cameras
+Custom dynamic life lighting
+Production software
+Unity 4 pro
+Custom video and android extensions
+Production stage one: the focus is on creating an extremely high quality multi layered dynamic environment. By producing cinema quality virtual reality 3D video scenes, using composited 4k streams of 360 degree video with multi focus point camera arrays.  
+Production Stage two: the focus is on Guided interactive video experiences in an extensible open framework where users interactions sequences shape the structure of user experiences.
+The final app incorporates 'choose your own adventure like’ selections to both customize the experience and the dynamic locations. ‘Life’ uses alpha channeled 3d video characters inside unity 3d stereo video spherical environments with video textures. 
+
+Concept 3d unity video sphere layers concept art used in my production planning.
+Special compositing of video images to create high depth of field composite variable scenes..
+Multiple focal points from multiple cameras are merged into a single video file with high depth of field and visual clarity. 
+ 
+The experience for the user is customized based on the results of pattern recognition and other challenges that build a model to make the interactive experience comfortable with a range of personalized environments.

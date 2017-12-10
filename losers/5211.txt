@@ -1,0 +1,7 @@
+Polydome is a music experience. It’s a crossover between a music app, and a audio experience for VR. You'll be taken through a series of worlds with fragments of music waiting to be reshaped, explored and sometimes connected with each other.
+Most music experiences we’ve tried fall short of finding the right balance between simplicity and possibilities. It’s either too simple to create something that sounds inspiring, or too complex to understand. Part of our innovation lies in the balance we have found between interaction and experience within a music-focused vr experience. Using mic input to control things is something we surely won’t be alone in doing, but the way we use it to interact with the music might be.
+At the core we have built an audio engine that runs something similar to a polyphonic step sequencer. This keeps track of objects and schedule when they should play. As the experience unfolds, we add musical objects - we call them gems - with different behaviour. The main game mechanic is shooting audio balls at different objects in space to trigger their behaviour. Sound gems, Wind gems, Record gems all have different functionality and add versatility to the music.
+To interact with the music objects we use several controls. Gaze (aim), tap (shoot), tap-hold (shoot in musical sync), swipe (move to new random position), mic amplitude (trigger wind gems) and mic recording (adding your own recorded sound to the game).
+Needless to say, Polydome is best experienced with a nice pair of headphones.
+Thank you! 
+The PolyDome team.

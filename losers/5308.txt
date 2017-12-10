@@ -1,0 +1,2 @@
+A virtual experience that will transport you to relaxing environments and soothing locations. Using audio for relaxation can help calm the mind but, by adding visuals you are transported to a new place and a new level of relaxation.
+Being my first app there have been a ton of challenges, not sure where i'd be without Google search. Lighting has been a little tricky and also designing this app around the hardware limitations of mobile has also been a little bit of trouble. 

@@ -1,0 +1,6 @@
+While traveling you may discover local restaurants, attractions, weather but miss out on discovering trendy music, until now! Smartune aggregates the top Spotify music people are listening to around the world and displays it on a map. 
+Smartune listens to the Spotify media player in the background and pushes tracks details/GPS location of the songs being played to the ESRI cloud service. When the user opens Smartune, a Map will display the top songs based on all aggregated songs/locations collected 
+API integrations with ESRI's cloud services and Spotify. 
+Spotify and ESRI API cloud service and map integration. 
+I had in mind using firebase as data layer because it is simply fast and easy to use but I came into roadblocks because of the complex querying requirements of this project : it was doable using firebase, but would result in too much data transfer and processing on the client side given the query limitations of firebase's geofire api. ERSI has the perfect combination of spatial querying and grouping and it is all done server side.
+Stream the songs displayed on the map from Spotify API

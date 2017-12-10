@@ -1,0 +1,4 @@
+As its name, this application is an engineer tools set for engineers or anyone wants to quickly gather the infor from environment. User can wear the Gear VR to support their works in realtime, the tools set includes:
+Based on the computer vision technology, the object can be detected and counted, for example counting pipes, boxes, and shaped items, the task can be done in a second instead of hour by manually. This is very common task when supevisor wants to quick check the product before it goes out the factory.
+The color picker: 
+By seeing the interest surface or point, the overlay information will be drawn and it's quite easy to know color name, color code (hexa or RGB). This tool is frequently used in product validation, artist, graphic designers.

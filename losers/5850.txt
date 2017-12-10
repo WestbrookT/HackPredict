@@ -1,0 +1,7 @@
+Inspired by recent events, and we thought of what we could do to help. 
+Is an interactive adventure-style game that takes the user through the struggles of being a Syrian Refugee
+We used Unity, Adobe Illustrator and After Effects
+We tried to use the Gear VR in the beginning, but it was difficult to learn how to do it. 
+We learned how to use unity and attended the design workshop to learn about adobe illustrator. We are happy that we were able to pull the project together.
+Unity and Adobe Illustrator
+We hope to make more chapters in the game and make it available to the public, so that we could fund money for the refugees. 

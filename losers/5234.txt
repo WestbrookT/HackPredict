@@ -1,0 +1,15 @@
+
+Waking up in a cube shaped room with the walls consisting of a neon grid-like pattern, you notice sphere like orbs floating across the room. The orbs are being pushed by the forces of devices mounted on the floor, walls and ceiling. You are greeted by the voice of Dr. Karl Yeager (KY) who is the head of the Laboratory for Universal Beta-particle Energy (LUBE facility). He informs you that the orbs are beta particles and the devices pushing them are betatrons. Dr. Yeager informs you that you are wearing a headset that allows you place betatrons throughout the environment. You are tasked to move the beta particles to the energy terminal using the betatrons, so that beta particle energy can be harnessed.  
+
+ Gaze - Look around (the crosshair marks the center of your gaze) 
+ *Gear VR* Tap (Touchpad) - Place a betatron platform on the crosshair marker 
+ **PC/OSX** Click (Mouse) - Place a betatron platform on the crosshair marker 
+
+Betatron is an interactive puzzler that utilizes the 360 degree view to create a completely immersive game experience. The puzzles can appear in front, around, above and below you, so it is ideal to play this game in swiveling chair or standing. 
+
+The game is designed with simple controls in mind, with a basic tap on the touchpad as the only control. This is to create an intuitive interface so that user can focus on interacting with the environment, rather than learning the controls. The goal is to create a game experience for gamers and non gamers, so the movement will be limited to 360 viewing and will not involve traversing forward or backward to prevent motion sickness. 
+
+ Although the game mechanics are simple, there are limitless possibilities for additions and expansions to the game. New game elements such as shrink rays, lasers, cloning devices, etc… are all possibilities for creating unique and innovative content. A community for user designed levels would also be great way to expand on puzzle design.
+
+Betatron for PC
+Betatron for Mac

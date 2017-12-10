@@ -1,0 +1,12 @@
+The bottom line is, potholes are a big problem and FindThePots is the solution. 
+FindThePots is a hardware and webapp combination that detects and maps the location and size of potholes in real-time as a user drives around. This data is interpreted by the webapp to provide route recommendations to avoid roads with known potholes. 
+For safety reasons, FindThePots requires no input from the user (such as a confirmation notification when a pot hole is hit) and can be run completely either alone or with the webapp loaded. This way, drivers aren't at risk of distracted driving. 
+The pothole sensor was made with an accelerometer attached to a Photon (by Particle). Accelerometer values are obtained, and processed within the microcontroller to determine if a pothole has been hit. In addition a magnitude value of 1, 2, or 3 corresponding to the severity of the pothole was calculated. 
+The Photon has built-in wifi and is easily integrated with Google Cloud Platform. This allows us to send data from the Photon from anywhere, at any time. Data is sent to our webapp and a node.js server interprets it and displays it on the map. Additional server-side code uses this data to create new routes based on this information. 
+When we say "easily integrated with Google Cloud Platform" we really mean there are relatively straightforward tutorials to connect the photon with Google Cloud Platform - since we're new to this service, it was certainly a task that took some time to figure out! 
+"Pub/sub, sub/Pub, sub the pub, pub the sub agghhh"- Aromi
+"The photon was a new piece of hardware which required changes from standards Arduino code and had unexpected and difficult to fix flaws in it's connectivity." - Marina
+**Shout-out to Harold for all the help <3"
+Solving the photon issue! And overall just managing to get everything to connect to eachother
+"I learned how to use Google Cloud Platform and how to set up my photon to communicate with the outside world" - Tori
+"We learned how to work with the photon, and were able to overcome a 'total hardware breakdown' few hours. Also, learned how to GitHub and earned my Octocat stickers." -Marina

@@ -1,0 +1,27 @@
+Cobalt Haze brings you the immersive experience of anti-gravity combat game, play the role as a Gunner or a Driver of an ATV (Anti-Gravity Vehicle) and rule the sky as the ultimate flying ace!
+Year 2155. The earth is dying. Resources are scarce and human force was split into two empires, The Galactic Empire and The Svarna Empire. The Galactic Empire has its mission to collect the last resources of earth for interstellar journey, looking for a new earth and abandoning the current world behind. On the other hand, The Svarnas are currently struggling to defend their last earth and descendants.
+This game did not use gamepad controller.
+Headphone is recommended to feel the whole experience of the game.
+On Game Menu:
+Player navigate through the menus using the VR Gear's Head-tracking capabilities. The menus will  be highlighted if looked at. Then, tapping the touchpad to choose the currently selected menu.
+On Garage Scene:
+Back/front touchpad is used to rotate the vehicle, Up/down touchpad is used to change the vehicle. 
+Tap touchpad on the GameMode buttons to start the game.
+During Combat, as Driver:
+Gear VR is required to navigate the direction of surrounding.
+Vehicle will rotate towards the driver's sight.
+Swipe touchpad front/back to speed-up/speed-down the AGV.
+During Combat, as Fighter:
+Gear VR is required to shoot enemies, if the enemy in the gunner's lock on area (the HMD) for a certain amount of time, the AGV will automatically shoot the enemy.
+Engine Power
+Engine power is used to accelerate the AGV. The AGV’s speed will decreased every time player makes a sharp maneuver. 
+Ammo
+The vehicle is equipped with an auto-shooter that will track and shoot down nearby target. However, the ammo is limited and needs to be replenished by collecting Ammo power-ups.
+Health
+Each time a player hit, the vehicle's modules health will receive damage. There are three modules: Engine, Core and Blade.
+If Engine is broken, you will be slowed down.
+If Blade breaks, vehicle won't shoot.
+If Core is destroyed, You lose
+The main attraction of Cobalt Haze is the fast-paced gameplay with head-tracking movement on the Driver Mode. 
+Using the Gear VR, player will experience the real air combat. 
+Therefore we are focusing on the display, visualization and movement, supported with the audio to get the most immersive experience possible.

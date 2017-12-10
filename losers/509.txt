@@ -1,0 +1,7 @@
+My roommate saw a TV show where SMS was used to launder money among prisoners. I was inspired.
+Do simple money transfers as well as participate in micro-lending transactions through SMS.
+Created some MySQL tables to simulate a legitimate banking system (accounts with balances);
+Used Twilio API to make calls to our server written in PHP. 
+Never used Twilio API. No experience debugging something that isn't a webpage, console app.
+Verification system for transactions.
+Accompanying mobile app to better facilitate micro-lending.

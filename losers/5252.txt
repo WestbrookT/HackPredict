@@ -1,0 +1,13 @@
+Controls: 
+360 degree game play, standing or swivel chair recommend.
+Tap to fire 
+Swipe to swap from guns to missles when you have achieved the upgrade around stage 4.
+Also recommend using nice headphones because of the sound FX
+Defend your Space Cruiser from attacks, using your Turret as the last line of defense, while you make your way through 10 jump gates to escape and win!
+Pick up power-ups along the way, by destroying asteroids and enemies.
+Upgrade your weapons or choose power-ups at each Jumpgate. These include The Seeker, The Destroyer, and guided and unguided missles!
+Try to beat your high score and top your kills. 
+Progressing waves of enemies, increases their difficulty and their Ferocity as stages are complete.
+Conserve your energy and avoid depleting your Hull points. Once your hull points are gone Game Over man!
+Innovations: 
+I really tried to fix everything I could but time was my enemy :)

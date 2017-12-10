@@ -1,0 +1,1 @@
+An endless runner where you play as an origami bird and let the wind take you on a journey.Fly for as long as the wind will take. Your points are determined by how long you fly. More origami birds that are in your flock  means more points per second.  But beware the crows telephone wires and obstacles in the world.

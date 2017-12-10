@@ -1,0 +1,10 @@
+"Escape the Bunker" has somewhat more depth than a typical "escape the room" game. There's a sense of urgency -- if you don't get out, there's more at stake than just your own survival.  
+One of the key elements of the game is that you discover the backstory organically, through examination of found items. As you progress from room to room, a bigger picture begins to emerge and you discover that the stakes are far higher than you expected. This creates a rising sense of urgency that propels you from room to room, level to level.
+The puzzles you encounter along the way are not arbitrary, and each one makes sense in context. For example, the first part of the experience involves restoring power so that you can activate the keypad that in turn lets you enter the combination for the high-security control room.  
+You should never be left wondering "why on earth was there a sliding-box puzzle there?".  
+The game will feature innovative user interfaces for things like navigation, interaction with objects, and accessing the inventory of items you've collected.  
+The game is intended to be "mobile-first", but the intent is to support both the GearVR and the Rift.  
+The game is designed to be picked up and put down as needed, preserving the full state of the world between sessions and allowing you to resume at the exact same point you left off.  
+One of the big challenges the game will face is creating a sense of connection to the people who once inhabited this space, even though there is no direct interaction with NPCs. You are truly alone in this place, shut off from the outside world, and yet the personal details you discover about those who are now gone will be a crucial part of your progress through the experience. Creating that sense of being "alone and yet connected" is what makes the game satisfying, but getting it right will be challenging.
+Another important challenge is designing navigation/interaction methods that work for both the GearVR and the Rift.
+If this mix of "escape the room" and "discovery through exploration" works, many other such experiences will be possible.

@@ -1,0 +1,4 @@
+By Alston Lin, Danyal Raza, Matheesan Manokaran, and Laine London
+We wanted to do something that involved machine learning, and wanted to make a project that could help people. 
+Users can upload or take photos of their skin, and receive the likelihood that the given skin sample shows a malignant (melanoma) or benign skin formation. 
+The application sends an image through a request to our machine learning endpoint, and then we analyze three different features of said image using computer vision techniques and openCV. We then run these features through our neural network to get an outputted probability of the skin sample being that of a tumour.

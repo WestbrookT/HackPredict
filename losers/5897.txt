@@ -1,0 +1,11 @@
+bears
+A user provides a link to an image and it will use IBM Watson to determine keywords associated with the image.
+This link then becomes tagged with those keywords and get's displayed on a graph and shows it's relation to other tags and photos
+Everything
+d3 hackery
+livescript, webpack, ibm bluemix, cloudfoundry, d3
+user handling
+user forum for posts
+voting
+search by tag
+search by image

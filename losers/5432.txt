@@ -1,0 +1,6 @@
+Monsters is a real time online multi-player shooter game. You join random created game of max 6 players. Alternatively you can start game with specific name if you want to have a private game with your friends. 
+The goal is to kill everyone to score highest and win 5 minutes long round. However when there is an indication that some monster is becoming super monster because no one killed it for longer time you better team up with others to shoot him down. If you become super monster you get larger with strong spacial shooting with which killing is super easy.
+Lets see who is the best monster! 
+Use the touchpad to control the game. When you single tap the touchpad your monster will run to location of a starring cursor. When you tap and hold the touchpad your monster will fire in the direction of starring cursor.
+You can control the game with your bluetooth gamepad as well. Use Samsung gamepad or some other bluetooth gamepads may work as well.
+The game is compatible with existing iOS and Android Augmented reality versions published in stores. Your friends can join with any mobile device.

@@ -1,0 +1,6 @@
+No place to show off what we can do the best in the world, compete, share with friends and social people. Our team builds a platform where people share their best
+Free to share the video and description (rules to follow to challenge) and get score, share with friends. The best of the best platform shows in a nice viaualization. 
+First time to use ruby sinatra and D3 javascript libraries. But we made it!
+Team work made this possible and we have now a working system to be shared with the world! 
+New technologies, and a good way to collaborate. 
+Of course, empower the capabilities and make production ready. 

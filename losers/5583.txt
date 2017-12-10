@@ -1,0 +1,2 @@
+Peon Pusher is a puzzle game, where you use various environmental mechanics to clear the board of creatures. 
+Your only method of control is to direct your own character around the board to scare creatures away and interact with objects. This makes the interface simple enough to accomplish with a single button/input, but complex enough to challenge the player! The god-perspective also simplifies movement, reducing the chance for VR sickness.

@@ -1,0 +1,21 @@
+Sit back as you experience the pseudo-mundane journey of 'ordering', 'waiting for' and 'eating' a pizza.
+The storyline goes something like this...
+First, jump into Unreal Engine 4's VR Land.
+Start off as person sitting at a desk using a computer. Much like you would be if you were browsing the internet at home late at night.
+Your avatar is browsing the web in a familiar environment with no commitments in the morning.
+Suddenly, an inexplicable urge has caused our protagonist to crave the taste of pizza.
+Examine the pizza delivery menu on your desk.
+Break the 4th wall of skeuomorphism as you order your favourite pizza from the VR pamphlet. Navigate the food options and eye up the unlockables such as fried chicken and absurd toppings.
+Extra Cheese? Only you can decide.
+I wonder what could happen during the wait?
+…Or just skip ahead in time and get your virtual food delivered immediately.
+Pizza arrives.
+Hear the sizzle of the cheese from within the box.
+Fresh out the oven.
+Let’s open up this bad boy.
+Begin consuming pizza, chicken, salad, and more.
+Realistic Meshes make the pizza look delicious. I wonder if this will make people feel hungry?
+Potential to expand the pizza consuming experience in the future?
+About Me:
+I'm a web developer, and it's been a very long time since I've touched Unreal Engine. Literally since UT03. I'm using this as motivation to get me to learn the ins-and-outs of (Gear)VR development. 
+Don't expect this to be any good.

@@ -1,0 +1,7 @@
+The inspiration was because one of the kids on the team really wanted it for his D&D club at school, since dry-erase boards designed for purpose can be quite expensive.
+It generates a grid based map with various terrain objects. It is designed such that additional features can be added at a latter date. (Such as the die roller which has already been implemented)
+It was built in java over the course of a 12 hour hackathon. (Though we did loose an hour trying to get git hub better)
+I accidentally set everything to the same object one time which caused the project not to work correctly among many other things
+I wrote part of a program along with a great team and we worked together really well. Also this is good group development project since we are all on our high school robotics.
+How to use swing for Java as I was not familiar with it before this project.
+We are going to implement more and more features such as drag-able character location markers and other things of the same sort. There is also room for better graphic design and more graphic options.

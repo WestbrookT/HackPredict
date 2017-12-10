@@ -1,0 +1,21 @@
+Maker From Below is a cooperative multiplayer* first-person action game set in a science fiction desert environment. You play either as a smuggler or a sandworm. Smugglers have the goal to cross the desert and make it to the desert town. Sandworms have the goal to stop the smugglers and snatch them from the surface.
+The game is inspired by Frank Herbert’s Dune and the Left 4 Dead series. Maker From Below features dynamic team play and a unique VR multiplayer experience.
+Sandworms live under the surface, deprived of nutrients. In order to survive they must feed of that what travels on the surface. Despite having selfish business interests, smugglers travel in groups in order to save each other in case of a worm attack.
+*attack function not implemented in JAM build
+The desert sky is populated by wormbirds. Like vultures these birds feed of off the remains of the sandworm’s prey. The birds have a special ability to see and track worms below the surface. This enables the smugglers to track the worm’s location. Spot a high concentration of wormbirds in one location? Then there are most likely sandworms very near, lurking right below the surface.
+*Due to networking issues, the current (jam) build of the game unfortunately doesn't offer any multiplayer functionality. AI controlled characters aim to illustrate the multi-user experience. 
+Controls: Gamepad. 
+Developed for and tested with the Samsung Wireless Gamepad.
+Goal: find and reach the desert town at the end of the level
+Goal: don’t let smugglers reach their goal
+*currently only a factor that AI controlled sandworms take into account, does not apply to player controlled sandworms in the VR jam build. 
+The game takes place on a dry desert planet, consisting of different surface materials, types of soil and natural rock formations both above and below ground. 
+Two suns orbit the planet along with one moon. Natural hazards such as double sun, occasional sand storms and solar flares furthermore endanger life on the planet. Shelter can be sought in caves.
+A short eclipse happens every x minutes, allowing the surface to cool down. The darkness renders the worms unable to see what’s at the surface. The eclipse gives smugglers the rare ability to travel the lands with a significantly lower risk of being gobbled up.
+The following features started being developed, but didn't make it to the actual jam submission. 
+Smugglers:
+Makers:
+Follow the game on Twitter
+Notes:
+Instructions:
+I hope that you enjoy the experience as it is now, and may it taste for more!

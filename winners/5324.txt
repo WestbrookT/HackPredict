@@ -1,0 +1,6 @@
+This is a Chrome extension project for Hack on the Hill 2 @UCLA.
+Team members: Qianmeng Chen, Yizhu Zhang, Pei Zhou, Kevin Qian, Zhouyang Xue
+When we are deciding which dining hall to go, we always spend lots of time checking the menu and “speculating” on which dishes may be the most delicious for us. This issue motivates our team to design a web browser extension that displays the “upvote counts” and “downvote counts” next to each dish. Everyone can upvote or downvote each dish and see the vote counts by other users. This way, we get to know which dish is liked by most students and which dish is not so popular.
+It can also motive dining halls to improve the quality of dishes that are downvoted and provide more often the dishes that are upvoted.
+We added two buttons next to each dish on the menu: one upvote and one downvote, and appended the number of upvotes and downvotes by former students. You can only upvote or downvote a dish once, and we will store the vote into the database server and update the vote counts immediately. 
+It also gathers and analyzes the vote counts and makes some dishes be “POPULAR” if the upvotes are a lot more than downvotes, and selects one “BEST” dish among the “POPULAR” dishes.

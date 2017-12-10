@@ -1,0 +1,27 @@
+Existential Perseverance
+Dark times are upon us. Our lands are falling! The darkness is eating away the lands and the only way to persevere is for the protectors to activate the Arks. These mystical objects, once activated, capture the essence of the lands and by doing so, give us hope that out of nothingness, new land can rise again.
+The game is basically a 'race against the clock' memory game. Players need to collect keys from stones that have a shape and a certain color. These keys can be used to unlock Arks. Arks that, once activated, will start to collect essence and render essence points.
+All this within a limited timeframe of 15 minutes as the darkness, represented by an apocalyptic storm, is eating away the players' playing area.
+Because an ark slot has a shape and a color that both need to be kept in working memory under time pressure, a psychological effect called memory interference can make this game quite challenging.
+For innovation we have thought about what makes VR a truely special experience. For us, this has a lot to do with the true perception of scale and complete immersion through the full 3D experience in a virtual environment. 
+To experience scale we put the players on platforms between floating arks in the air and stones on the ground, some of them really big in size. This way when a player is close to a floating ark or is lifting one of the bigger tones using the essence beam, scale perception is really strong.
+For a feeling of true 3D we use gameplay at different height levels and make extensive use of particle systems. Those particles always seem to give a nice 3D feeling as they float into view. 
+Pulling in artifacts using the essence beam also has a nice 3D effect, as the artifact is pulled in close at hight speed.
+In addition to the above, because the GearVR, due to the lack of cables, gives you 360 degrees of looking around freedom, we have emphasized gameplay on look (focus) mechanics, this way stimulating the player to look around a lot.
+To significantly decrease feelings of VR sickness we decided not use any player movement other than instant teleporting from platform to platform. 
+Because playing is a social event, we implemented multiplayer 2P gameplay and added a player GUI-Menu that let the players communicate during the game. Single player gameplay is also supported.
+A final note would be that we found it very challenging to seek out the performance boundaries for the GearVR. I think we came quite close but just close enough.
+An object (Platform, Ark, Stone, Artifact) that you want to interact with has to be focused first.
+Darkness
+The darkness is the swirling storm around the playing area. it will reduce in size during the playtime of 15 minutes. while shrinking it will eat the land and it will be game over when it has devoured all of it.
+The platforms are the working points in space of the player(s). From a platform a player can use the essence beam to read arks, move other 'free' platforms, lift stones and extract keys from them.
+Arks
+The arks in the air need to be activated by unlocking their keyslots. Once activated they will start collecting essence that will render points.
+Stones
+Stones are halfway burried into the ground. They are colored by the ground they are burried in. A stone holds several keys that can be collected.
+Artifacts
+Artifacts fly high up in the air and look like giant colored meteors. 
+Player GUI-Menu
+The Player GUI-Menu has commands to unlock ark slots, destroy and transfer collected keys, has info about the controls and let players communicate with each other during the game.
+For this game you will need the Samsung bluetooth gamepad controller.
+We would like to improve and build upon the current version to extend and implement :

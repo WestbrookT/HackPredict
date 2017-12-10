@@ -1,0 +1,5 @@
+Personal experiences; missed 8th periods and club meetings because of schedule changes.
+The Iodine API is not nearly as simple as expected, it uses a gigantic XML file. 
+We learnt how to parse XML.
+How to keep the fundamentals of Material Design in mind while designing an Android App.
+Work with iodine to streamline data collection process.

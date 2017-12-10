@@ -1,0 +1,13 @@
+[Not eligible anymore. I found out, that my country - Lithuania - is not on the legal list. Oh, too bad =( No VR breakthrough for me this time :) ]
+Game-idea:
+You are the Telepathe, capable of transmitting emotions and glimpsing into the future. You work for the government anti-terrorists forces. In the  various missions, your goal is to quickly percept the situation, and tinker with enemy minds, shifting the most hopeless situations into your favor.
+In the first mission, team of enemy terrorists are breaching underground lab, trying to destroy nuclear reactor. The team is not very organized, so its possible for you to force them to do stupid mistakes, or blame each other and eventually go paranoid and die. Find various methods to break enemy teamwork of Commander, Assaulter, Hacker and the Medic.
+Meta-idea (optional to read):
+What is a VR Device? Unorthodox controller? An immersion gimmick? Or Deus-ex machina for making games fun? 
+There is one thing I know for sure. Gear VR is capable of  making breakthrough in the game industry, if we stop fighting with its shortcomings,  and start using it properly.
+Why do we have this horrific idea, that it is suitable for 'experiences only'? Because of limitations we need to face? (Motion sickness, unusual control schemes, performance requirements, ...) No, because of developers, whom are trying to catch up with modern game industry, thinking of Gear VR as of a controller and immersion device. But that is just the wrong way of thinking. We need to trace history 15 years back and shift the common  paradigm.
+What Gear VR really complements the most, is that feeling that we exist inside living world. For not to break this immersion, we need an abstract indirect layer of control, the natural pacing, and we have got it all covered. 
+Its the world itself we need to improve, and this is where we clearly need to understand the difference between games like 'Majesty' and 'Order 1886', understand where fun and challenge comes from.
+Why all we get are pretty 'experiences' and mostly boring puzzle games? Because we know how to make games and concepts pretty, and we are afraid of making them smart, shifting all the burden on the player, making controller-eccentric games.
+Boosting visuals are not helping the immersion. It might hold our attention for a several minutes... maybe. The real immersion comes from the dynamic, AI-driven world, which challenges player every second, because this world lives on its own. That is the future of VR Gear games I see :)
+Gear VR is also well-suited for certain multiplayer solutions, within AI-with-real-player substitution logic.

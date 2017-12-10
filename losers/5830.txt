@@ -1,0 +1,7 @@
+At work we'd like to get out a little more, intellectually speaking. To make that happen, we want to show our company the value of cognitive computing. Once our bosses get the potential, we'll have a chance to lead the way.
+Our main goal was to explore our data and dig up insights. Once we're back home, we'll turn those insights into tools and recommendations for our sales team.
+Step by step:
+First, we used the Alchemy API to enrich thousands of sales chat logs with linguistic metrics (sentiment, key words, etc).
+Second, we looked for correlation between linguistic metrics and successful chat outcomes.
+We verified these hypotheses:
+Present these observations at the next companywide Red Ventures meeting. Convince our bosses they want us to work on this full time.

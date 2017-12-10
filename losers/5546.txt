@@ -1,0 +1,4 @@
+Jenolan Caves from IntoScience is an exciting new immersive 3D environment created from a laser scan of the real caves in NSW, Australia.
+The Jenolan Caves are one of the largest and oldest cave networks on the planet and offer a fascinating environment to explore. In association with CSIRO (Crown Science and Industrial Research Organisation) we have meticulously scanned the 35km cave network using the Zeberdee rotating later scanner. Using thousands of hi-res photos we are creating a hyper realistic model of the caves.
+Players can freely explore and if they choose they can set up sensors and take air, rock and water samples with many opportunities for inquiry and reasoning based learning including elements of chemistry, biology and ecology.
+Players are challenged to unlock the scientific puzzle of how the caves are formed.

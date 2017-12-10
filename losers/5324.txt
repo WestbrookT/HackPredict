@@ -1,0 +1,11 @@
+Usually, sales for new real estate projects start before construction is completed. Therefore, buyers cannot physically inspect the houses and apartments they intend to buy. Currently, they base their buying decision on floor plans and a few rendered images. Yet, most buyers lack the architectural background to understand floor plans. They cannot imagine how the rooms will finally look and feel. Rendered images hardly help as they cannot create a holistic atmosphere. After all, they are limited by only providing 2D representations of selective views. Concluding, real estate project evaluation remains a black box for many buyers.
+REX is a VR app in the Oculus store serving as a sales tool for new real estate projects. 
+An interested real estate buyer visits a trade fair or the local office of a developer after having found some promising projects online. Discussing these projects of interest the sales rep hands over a Gear VR. The interested buyer is now able to virtually walk through the project.
+1) quick path (predefined 30 second tour through most important areas)
+2) detailed path (predefined 3 minute tour through all areas)
+3) free walkthrough with game pad for capable users
+Additional options:
+Average duration
+Total number of visits
+Heatmap for game pad walkthrough
+Walkthrough animations are created by service providers for interactive animations according to architectural plans. The service providers are commissioned by the developers.

@@ -1,0 +1,5 @@
+Farm Fresh Food!
+LoCal collects information about the local farms in the area, the produce they provide and presents it to you in a web app. LoCal can show you the nearest farms, the produce that they make and generate you recipes based on what ingredients you added to your shopping list. It also takes your shopping list and shows it against Canada food Guide Data.
+Blood, Sweat, Coffee, and some programming skill :). 
+Making the recipe generator, generating our data pool.
+We have a recipe generator! All you have to do is put your ingredients in and specify any special restrictions and a seleciton of 10 recipes will be displayed. 

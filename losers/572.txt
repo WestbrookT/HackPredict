@@ -1,0 +1,16 @@
+Release 1.1 - Coming soon!
+Local install
+Global install
+If you installed it locally:
+If you installed it globally:
+Options for MSL Server:
+Browser Client
+Java Client
+Include 'msl-client-java' as maven dependency 
+Node Client
+Install Node client:
+Use Node client in scripts
+Installation
+You can simply do it by:
+Configuration
+Integrating MSL with Jasmine tests (you can also integrate with your favorite testing framework)

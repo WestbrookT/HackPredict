@@ -1,0 +1,6 @@
+Inspiration comes from the drive to solve problems, the problem in health institutions is that there is unawareness of the working of the staff members and some services which are poorly handled. A feedback system from the patient to the health centre is essential to solve this issue. This is our inspiration.  
+It provides a system (web app) to the concerned official for taking feedback from patients. The data will be stored in database and then is visualised with js libraries like Fusion Charts.
+Using PHP, MYSQL, CSS, HTML5 and my logical and mathematical skills.
+The data visualisation using JSON was challenging.
+I gained more skills in PHP and CSS and also discovered libraries and tools for beautiful visualisations.
+Interactive Visualisations and more informative graphs. HealthFeed is a web app now, but we can scale it to mobile app in the future.

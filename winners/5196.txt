@@ -1,0 +1,2 @@
+Sam is an ordinary Facebook user for you, so just go ahead and friend him! Once you add him to a group chat, go ahead and mute it indefinitely. Sam will keep an eye out for anyone mentioning your name, and send you a private message when they do. Sam can work with multiple groups for multiple users!
+Now all you have to do is create a dummy Facebook account and provide the accounts username and password as environment variables when you run the server file. This can be done like so:

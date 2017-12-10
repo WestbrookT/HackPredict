@@ -1,0 +1,21 @@
+Shellspace is an architectural prototype for a VR Desktop Operating System.
+It's a framework in which interactive widgets can intelligently share the VR space and offer a useful desktop-like working environment.
+The core principles are:
+Plugins run on secondary threads and interact with the scene graph through the API.  In accordance with principle 1, API requests are throttled by the scene graph to maintain responsiveness.
+Currently, plugins run within the Shellspace core process but it's expected they will be spawned in child processes, like tabs in Google Chrome.  Additional languages can be added easily.  In fact, the Shellspace V8 runtime is itself a plugin.
+As the entire API design is asynchronous, ultimately Shellspace plugins will be able to be hosted on different computers (imagine seeing small versions of your coworkers' Shellspaces injected into your own).
+Here is the code for a simple widget which adds a model to the scene.  
+It's been reported that adding a virtual human nose to VR scenes improves comfort, and this is easy to do in Shellspace.
+The spatial model employed by Shellspace is a spherical coordinate system centered on the user, where each interactive widget is allocated a spherical rectangle.
+When the user is looking at a widget, input is direct to that widget, using a system like the Oculus gaze cursor.  
+Some input commands are also intercepted by the shell, for the purposes of creating and destroying widgets, or otherwise interacting with the shell itself.
+The most useful aspect of Shellspace right now is its VNC plugin, which supports connecting to desktop computers and displaying the remote screen within the VR environment.  
+A Bluetooth keyboard can be used to type on the remote system, but bluetooth mice are not yet supported.  
+The best way to test VNC is to simple enable a server on your local PC and use the input devices that are connected to it.
+Being a customizable desktop environment, Shellspace requires some configuration after installing.
+If you'd like to try writing plugins for Shellspace, it's possible to do so in Javascript using the published APK.  
+Any exceptions or other issues are currently printed to the Android console, so you will need an adb connection to see them.
+Having posted two test builds since the global signing tool release, it's been highly motivating to hear feedback from people who took the time to set up a VNC server and get Shellspace working.  
+There is quite a lot of interest in "working" in VR, and some of the foundational elements laid by Shellspace appear to be bearing out.
+Shellspace includes GPLv2 source code, in particular the VNC client library.  As such, the entire source code is available and is licensed GPLv2.
+If you're curious about the coding style, it's derived from what I use at my day job working on the Infinity Ward engine (which powers Activision's Call of Duty titles).

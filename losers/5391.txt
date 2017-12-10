@@ -1,0 +1,13 @@
+HUE is a first-person puzzle game where you solve puzzles overlayed on panels and walls as you explore a mysterious 
+mountaintop.
+My initial description awas "An inverse Rube Goldgerb machine where you take away items (instead of inserting) in 
+order to achieve a goal."
+Each puzzle consists of:
+To solve the puzzle you must change the color of the panels in an order such that the ball touches the key.  To 
+change the color of a panel you look at a panel and press the "A" key.
+that point.
+have enough time to - there are only 5 puzzles, and they don't get into the interesting 3D layouts you can do with 
+them. I also wanted to try a VR-specific mechanic using colored glasses to affect the colors seen and thus the panels 
+("If I can't see it, is it there?" - in this case the answer might be "no"). It may have been very gimmicky, maybe 
+not.
+different areas, and having the puzzles interact more with the environment, but none of that currently exists.

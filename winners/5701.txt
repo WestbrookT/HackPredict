@@ -1,0 +1,7 @@
+HackHarassment inspired us to help prevent hurtful commentary by designing a keyboard which would encourage users to abstain from typing aggressive messages.
+The keyboard changes color as the words typed become increasingly aggressive and turns to a calmer blue after positive and supporting words are written.
+We forked an existing repository and added color functionality and used the IBM Bluemix Tone Recognition API to determine the sentiment present in the typed works.
+It took a couple hours to set up the IBM api, but we finally learned how to do this thanks to a fellow hacker.
+We are proud that we made an app that can help people be more kind and aware of what they say.
+We learned a lot about Android Studio and IBM's APIs in the process.
+Sentence analysis

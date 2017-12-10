@@ -1,0 +1,1 @@
+To hack something .So I went straight and fetched links for all professional images on NatGeo site by writing a crawler

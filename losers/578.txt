@@ -1,0 +1,11 @@
+Our game was inspired by cookie clicker. We wanted the simple controls, but also the fun of competing with your friends.
+There are two teams, and you each are trying to cut or grow the tree
+We built the backend in node, and the front end in JS and HTML5
+An hour before the end of LexHack, the whole thing broke. We tried everything. Right before we were going to revert to previous code, we located the problem and we fixed it.
+Don't let anyone touch anything if it works.
+Private lobbies
+Voice chat
+Leader boards
+Clicks per second
+Accounts
+See who is playing online at the time, all over the world

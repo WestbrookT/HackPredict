@@ -1,0 +1,30 @@
+First Person Cockpit (360 degree HMD fully interactive cockpit HUD)
+Arcade Space Mining, Simulation, Adventure, RPG & Puzzle
+Single player PvE, with a online Leaderboards component (Invite and challenge friends for the highest scores)
+Deep Space Miners and Xeno Archeologists must solve logic and spatial puzzles to survive against various dangerous deep space mining environmental hazards, overheating and running out of oxygen. The dangers and risks are high, and so are the rewards and danger pay.
+Explore, discover, scan asteroids for valuable resources, then extract them with various tools in different situations on various surface types.
+Harvest gas vapors for fuel, collect Ice shards for water. Careful not to cause the volatile gas to explode.
+Fun Factor
+-Intuitive pickup and play Arcade analog controls for NewT-thrusters (Newtonian thrusters)
+-Mostly Destructible environment (depends on tools available)
+-Suspense and fear of being vulnerable in dangerous space mining operations. suspension of disbelief and the fear of the unknown
+-Modular Design upgradeable to expand from a story driven PvE into F2P PVP MMO
+-Slow paced movement to have the feeling of drifting in space, without nausea feeling (slower moving mining suit, opposed to fast moving dog fighters)
+-Mysterious, adventurous tone and atmospheric mood that puts the player into a fully immersive frightening and dangerous space mining environment.
+-Mind bending logical and spatial puzzles, or find another way around the problem
+-Fun first, science secondary (a subtle educational push towards astronomy, astrophysics, geology and xeno Archeology)
+VR innovation
+-Immersive 360 degree HMD, intuitively designed free look cockpit, able to change systems and status on the fly with fully interactive HUD
+-Touchpad controls for fine tuning movement in zero gravity
+-Bluetooth Samsung Gamepad for precision flight using Newtonian physics
+-Note 4, front facing camera utilized for optional hand gesture interaction
+-Voice recognition for basic system commands
+-Online Leaderboards with Facebook and other social media integration
+Story
+1) The player is dislodge from a Cargo ship, in the exo-miner spacesuit.  The surface scanners indicate an anomaly. The previous mining crew has lost radio contact. The miner is given orders to further investigate the asteroid.
+2) The player flies through a series of mining tunnels, then reaches narrow a chasm leading to a chamber with alien hieroglyphs.... The player then solves a puzzle to reveal an ancient alien artifact.
+3) The player then retrieves the glowing artifact with the retractable claw. The AI then orders to return to the cargo mining ship...the object glows, shakes and begins to rupture light and energies. A bright light explodes revealing another unknown haunted dimension...
+-Oxygen & Life support systems
+-Overheating (Overheating caused by environment, thrusters and tools, will cause H20 levels to deplete and eventually engine explosion)
+-Energy (dynamically assign energy to different systems, thrusters, scanners, tools, shields)
+-Cargo Space and weight (More weight, requires more fuel to carry, lighter might be better)

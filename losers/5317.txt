@@ -1,0 +1,28 @@
+Online network virtual car simulation game for Gear VR.
+This game is aimed to make users enjoy drive trainings(parking, road driving) in various virtual environments using Gear VR.
+Through this real-road-like virtual environments, even inexperienced drivers can enjoy safe and entertaining parking and driving. 
+ In addition, users can choose different whether and time types so that they can adapt more easily to various real driving situations.
+As the famous game 'Clash of Clans’, this game developed asynchronous network match-up. 
+Users can built “My Parking Lot” at first and then challenge other users to  park in their parking lots by random search. 
+ Numerous users will grow and compete one another and also create  content continuously in this structure. 
+'Minecraft' (one of popular games) methods are applied to make it easier to be familiar with this new game. 
+Users can build “My Parking Lot” in a manner similar to the construction process of 'Minecraft'.
+     Also in driving methods, this game follows common automatic gear change (R, N, D) and brake, gas pedal system.
+The developer of this game reserves all required rights of all assets used in this game development and as an authorized purchaser of the game engine ‘Unity’ Pro Version, used resources from Unity Asset Store, 3rd-Party online stores or free license assets.
+Once this competition is completed, this game is planned to be distribute d through Oculus Store.
+    As its servers are on the Google Cloud Server, global service is  available. 
+Each user can build only one parking lot as in Minecraft. 
+Other users(below, Challengers) can search for “My Parking Lot” and visit. 
+ The parking lot owner will gain one gold coin as a reward per one visit. 
+ If challengers succeed to park within the time limit, they will gain 5 to 20 gold coins depending on the level of difficulty of the parking as plunder in 'Clash of Clans’.
+ The level of difficulty of the parking lot is determined by success rate of the challengers.
+With gold coins earned in the game, users can purchase necessary blocks used to build "My Parking Lot".
+The training consists of 'Parking' and ‘Driving'.
+'Parking' is general parking situations which is pre-designed.
+Users can gain gold coins when they complete 'parking' missions within the time limit or when other users visit.
+In ‘Driving’,  a destination is given randomly.
+If users follow the traffic rule, avoid from collision and finally arrive at the destination within the time limit, they can obtain gold coins.
+In all quests weather and time are randomly determined.
+Unfortunate users may drive in rain or in the night. 
+1 gold coin is consumed in the start of each quest.
+3-5 gold coins are given in the completion of the quest. 

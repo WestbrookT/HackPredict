@@ -1,0 +1,4 @@
+Our team decided to pursue a common goal, a common dream. We wanted to enable our selves and others to do the impossible... TO SHOOT LASERS WITH YOUR MIND!!!
+In Mind's Eye your embark on a voyage into a mansion haunted by dark spirits that could be your undoing. However, through sheer force of will you can calm your mind to charge your mana and then tap your rage to unleash a mighty beam.
+When building Mind's Eye we use the Muse Headset and Unity. During the build process we made sure to put an emphasis on communication between the two devices. By measuring alpha waves we were able to control all aspects of the game.
+The majority of our team had almost no Unity experience and no one on our team had worked with the Muse headset before. The project was a learning experience for the whole team and after finishing we all confident using the Muse headset and Unity.

@@ -1,0 +1,6 @@
+We were inspired by the global phenomenon of the minions to create something fun and interactive: something every family in the world should own. This little minion is the perfect companion for your everyday adventure, a trusted companion for your joyful days and a fun and reactive friend. We chose the Bing API because of it's innovative technology and we thought it would match perfectly with such a animated character.
+The User begins by activating the recording button on a personalized locally hosted website. This flask made website activates python programs that write in .wav files from the microphone and  runs these through the Bing API. 
+Using the Bing API the program we capitalized on the natural speech API and vocal sentiment API. The wav file is iterated through the the API and the key words are pulled from the User's sentence along with the value of their words sentiment. This is then transferred through to the Arduino based minion who will react to what you say.
+"Raise your left arm" "Raise your right arm" "Raise both arms"
+"Raise your right hand and then your left hand"
+"Hello/Hey/Hi Minion!" "Lets have a dance party" "We might be in danger"

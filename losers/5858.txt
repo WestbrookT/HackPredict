@@ -1,0 +1,3 @@
+Holograms from Star Trek- the holodeck. Fear of looking dumb in VR- if they can see what you're doing, you don't look dumb. Limited field of view. Room-scale VR.
+The framework enables cross-networking support for virtual and augmented devices together. People in VR see the world fully virtually, while people in AR see the virtual world as an overlay.
+We build from deb10's networking libraries, enhancing their functionality by making it easier to connect the two systems and recenter the AR system within the VR coordinate system. We also worked the ability to place multiple objects at the same and use creative brush strokes. We also fully used Unity's matching making APIs to allow for seamless connection.

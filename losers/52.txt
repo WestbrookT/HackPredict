@@ -1,0 +1,7 @@
+Sheryl was inspired to build this app by her last venture out to da clubs. She went like ... three different ones, all with totally different standards of dress, and looked stupid at each one. Cuz she didn't know any better. She came home, looked at herself in the mirror and said NEVER AGAIN!! From then on, she'd always look super hot and on fleek whenever she went out. 
+Makes you look good and makes you look like you belong by helping you choose outfits for clubs you like in a crowd-sourced way. You like to go to the Mezzanine? Well, so do a bunch of other people, who share (or don't share) your sense of style. Now you can build your closet.
+We built it using the zalando and esri api's on top of the MEAN stack.
+parsing through all the data to get just what we wanted was kind of difficult, plus those nested callbacks in database saves.
+we think the ui is pretty dope.
+to persevere and believe in ourselves. and how to use git. and how to run on no sleep.
+international conglomerate.

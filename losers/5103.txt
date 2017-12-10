@@ -1,0 +1,7 @@
+Teach children the value of money without the actual consequence in a fun interactive way.
+Web game that simulates situations in which kids need to decide the best use of their money.
+Used javascript language to program main components of game.
+Brainstorming an idea.
+Managed to learn and complete game.
+Learned javascript, jquery, and ajax.
+Allow for the questions to become created automatically through AI so that it becomes more tailored for the kid's interest.

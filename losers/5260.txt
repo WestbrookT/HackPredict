@@ -1,0 +1,3 @@
+Waiting Lines
+Social Application that report Waiting lines in different places
+Connection to Database

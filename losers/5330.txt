@@ -1,0 +1,4 @@
+The idea behind Submersion is simple. You find yourself in a mini submarine in an unknown environment that contains mines, obstacles, and other submarines. You need to destroy the other submarines or sneak past them to steal their resources in order to survive. 
+You're given the following to help you along your way: 
+With the above behaviors and environment, you end up with a rather simple game, but one that is engaging in VR for the following reasons: 
+Challenges: 

@@ -1,0 +1,2 @@
+Player will be dropped into a dongune, they cannot see too far, and there are weird creatures around them. Player can only hear the enemies and find them by seeking through the trails of particles.
+I found UI is very hard in VR games. 

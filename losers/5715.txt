@@ -1,0 +1,3 @@
+Alberto's allows you to plan your lunch break while being in the office. You can choose what you want to eat and order it before actually going to the restaurant. As soon as you arrive there, the kitchen staff will be notified that you are there 
+and start preparing your food right away, so you will have more time for enjoying your meal!  
+The project consists of two components: An Android App for the user and an API that connects to sphere.io for managing products and orders.

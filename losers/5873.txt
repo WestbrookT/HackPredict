@@ -1,0 +1,6 @@
+Events, conferences, parties or meetups are great to connect with people that you follow on Twitter, sometimes it's just impossible to know who is at the same place and you miss opportunities to catch up with an old friend, or meet an interesting person IRL that you have been following since 2007.
+BirdWatch provides a way to know who is in the same venue from your network without having to do a lot of work.
+You log in with Twitter and that's it! Whenever someone you follow on Twitter is nearby we will notify you!
+Working with remote bluetooth beacons and apple watch kit was very difficult.
+We have a working prototype! There isn't much info about Ibeacons online :)
+How to work with beacons and watch kit.

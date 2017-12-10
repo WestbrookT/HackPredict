@@ -1,0 +1,21 @@
+Produced by InnerspaceVR “D.M.Z: Memories of a no man’s land” takes the viewer into a place where it’s forbidden to go: The Korean Demilitarized Zone (D.M.Z), a strip of land about 248 km long and 4 km wide that separates North Korea from South Korea. 
+Unlike its name would suggest, the demilitarized zone is one of the most heavily militarized areas in the world.  As time goes by, it became since  1953 the most "secured" natural reserve on earth with the largest amount of landmines per square meter...
+--- THE AUTHOR
+South Korean-born, I always faced the impossibility of crossing the border between the two Koreas. 
+As an artist and filmmaker I always tried to fight this fatality and I made several documentaries that question this subject, but the, the actual border, the D.M.Z, remained unreachable in many ways. 
+Recently, I realized that, because VR gives the ability to access and feel presence anywhere, it can become a way to defy my political situation and the limits of my reality.
+This is why I'm making “DMZ: Memories of a no man’s land”.
+--- INSPIRED BY A TRUE STORY
+Inspired by the testimony of a former South Korean soldier I met last year, the experience follows his footsteps during several experiences he had in the D.M.Z. While he tells us his memories in voice-over he reveals gradually the fantastical aspect of a place that is strictly forbidden to any human except the soldiers working inside it... 
+This intimate approach, although less objective, gives us more grasp of the D.M.Z in human terms. More you listen to the character and discover D.M.Z more you'll feel "through his eyes", and understand this place.
+--- CONTROL & MECHANICS
+The experience recreates the situation of having an Interview with the soldier. With a "point and click" style, you will be able to ask him questions and explore the different locations of the D.M.Z by using a map and several objects:
+Each place takes you deeper in the D.M.Z and reveals memories of the soldier's that helps you understand its meaning and history. But he will resist to deliver his most personal memories! Explore, pursue the interview and try to unlock his most precious secret about the D.M.Z...
+--- INNOVATION / TECHNICAL CHALLENGE
+With InnerspaceVR we've done several 360 CG videos for the Samsung Gear but due to the political impact of the "D.M.Z...", we think it's necessary to create an experience more engaging for the viewer. We want to have interactivity on the Gear without decreasing the visual quality of our previous pieces.
+We think the future VR storytelling can be made of alternate passive/active situations yet being fully immersed in a story. The jam is a great opportunity for us to experiment with these new forms and give them a shot with the constraints of mobileVR. 
+Technically, the challenge was to create a seamless mix of rendered 360 CG stereoscopic video and realtime environments with level of interactivity added by using Unity. 
+With "D.M.Z...", we hope the viewer will feel more active and still enjoy the flow of a story he's inside.
+--- WARNING!!!
+Due to the heaviness of the video files (2.5go) they're not included in the APK. There is an download process that starts at the launch of the app. All the video files will be placed in the folder "" at the root of the device. Then you can start to play around.
+Sorry in advance for that, we didn't have the time to implement a more streamlined downloading process!

@@ -1,0 +1,7 @@
+Forgetting one's family members and friends due to an ailment would make a person mentally weak. Coming to the aid of such people was the biggest motivation !
+It helps a person with Alzheimer's remember their family members and people close to him/her by presenting memory based questions in a form of a mini web game.
+We built it using Javascript, HTML5 and CSS
+Understanding the user's perspective at every phase of development since the target audience does not come under the regular category. The UI had to be designed in a way which would help them use the app with ease
+That this app would be useful to develop a positive environment around someone who is mentally weak
+Teamwork and new javascript frameworks
+We intend on adding features which would include music and integrate Amazon Alexa that would give it a personal touch.

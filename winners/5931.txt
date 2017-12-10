@@ -1,0 +1,11 @@
+I wanted to make use of IBM's watson technology in some way, and I personally have trouble writing emails so I thought that it would help if it was more interesting, and I had deeper insights about the mails I am sending.
+Shows you you have interacted with your correspondence in the past using outlook to retrieve email and IBM's personality profile for data and visualization.
+Shows you trending keywords to make your email more engaging.
+-Interacting with the API
+-Almost lost all my mail from Gmail
+I was able to make this in less than 24 hours!!
+-Help is very helpful, I am glad that developers from respective companies were here for support.
+-Sometimes taking a break can help you go in the right direction, don't be hasty.
+-Working alone isn't as bad as I thought it would be.
+-Feed back, and polishing.
+-Make it an app that I would personally use

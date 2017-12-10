@@ -1,0 +1,5 @@
+'Treasure Rides' is a fast paced 'rush game' set in ancient mines and tunnels. This roller coaster ride will keep players' heads spinning as they decent at breakneck speed towards the treasure chamber.
+Keep the mine cart on the track. Avoid gaps, dodge them with quick actions to avoid falling off the tracks. A fall or a collision with obstacles will cost your life. Running out of those ends the ride.
+The game requires the gamepad for controls. Use the dpad (left and right) to jump to the track next you.
+The game is being developed by Raincity Games LLC, Bothell, WA USA, using the Unity game engine.
+Raincity Studio was founded in 2007 by Dan MacDonald. We have been developing games for the Xbox 360 and mobile devices including the Dream Build Play

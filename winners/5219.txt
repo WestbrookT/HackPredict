@@ -1,0 +1,7 @@
+We are interested in augmented reality and hope to use this technology help make people's life easier.
+The app recognizes pictures of art works, famous people, and regular items and displays information about them.
+We used the Vuforia SDK to implement augmented reality related functionalities, and used Unity to build the 3D environment.
+Sometimes it didn't recognize the image, and the position/interactive functionality used not to work.
+It's really cool.
+We've got new knowledge on augmented reality development and learned how to use Unity and Vuforia.
+Hopefully it will have a more generalized image recognition and people will use it to display actual data about items detected.

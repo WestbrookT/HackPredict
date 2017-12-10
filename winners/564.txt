@@ -1,0 +1,7 @@
+We thought it would be funny to make a Chinese food delivery service game called Panda Express 
+Spam click to make food, upgrade cooks, and make lots of money!
+It was made in Unity (game engine)
+We couldn't figure out how to make some UI close when an X was clicked...
+Justin drew a lot, and Ben squashed some incredibly obscure bugs...
+How to draw noodles and how to debug.
+Make it better next year?

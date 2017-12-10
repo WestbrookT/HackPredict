@@ -1,0 +1,3 @@
+It's a post apocalyptic world in it's infancy. The governing bodies are in shatters. There are unknown invaders in the first and second reality. What or who are they? Where did they come from? You have to stop them before it's too late. Got to work fast. Contain and exterminate. Initiate protocols...
+You can move from eye to eye in the environment. If an eye is in view you can take control of those eyes. By doing so, you navigate and use the environment to your advantage. 
+Update: This game project does not end with the VR Jam deadline. At it's current state the player can only traverse the environment by using the cameras. Look directly at a camera for a second to be transported. We have been learning a lot, and look forward to a eventual release. Thank you.

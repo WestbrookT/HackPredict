@@ -1,0 +1,4 @@
+This is a combo of two awesome VR experience Giving an experience a user always wish for. 
+Check Out Cars : Users can view real 360  view of interior of most famous sports and luxury cars that everyone can’t afford . Feeling as if they are sitting on the driving seat of Lamborghini or Ferrari.A 360 Interior of almost all Popular cars will be provided that has been taken by professional photographers . 
+Racing Game :The users can also choose to race in the car of their choice, very much like a street racing game . User can choose different arenas given in the game using Gyro to switch  between the arena.
+controls : Motion of the game will be controlled by Joystick or  Game controller that user can attach with it as well as with Gyro and Tap controls of Oculus VR user can select preferable controls to play the game.

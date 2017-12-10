@@ -1,0 +1,7 @@
+Using open data to create an Alexa skill that I would use everyday!
+The skill tells the user the menu to a wished canteen in Munich. Currently there are roughly 5-10 supported student canteens. The skill can not only tell you todays menu, but also for the future.
+Currently it's only available in German, because the userbase is primarly German. English will follow soon, however.
+It's using node.js and the corresponding alexa SDK. The data is coming from the public API of openmensa.org
+I find it hard to determine good and well designed utterances. But by asking some friends and others I was able to finetune the utterances so the skill now understands natural questions and commands.
+I loved to learn how to work with the Alexa Skills Kit and learning about Voice User Interface (VUI) design.
+There are currently some things on the ToDo:

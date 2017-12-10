@@ -1,0 +1,6 @@
+Whenever you have any type of emergency you always find yourself looking through phone listings on the web to find that towing truck company, or the phone number of the closest police station. With Salva.ME we wanted to provide a quick and simple way to find that information.
+When you select the type of emergency you're having, Salva.ME will display the nearest service provider that can help you. For example, if you had a car accident and need a towing service truck to pick you will, Salva.ME will look for the all the towing trucks in the area around you and give you the best option. You can then choose to call that truck driver or tap on "show more" to display more results, where you will be giving more options sorted by who is most close to you.
+We had to aggregate a ton of data from different services into a single API.
+Designing and implement a full application in such a short time.
+Always prepare your dev environment before the hackaton.
+Include a platform for service providers to subscribe to so that their data can be included in the app.

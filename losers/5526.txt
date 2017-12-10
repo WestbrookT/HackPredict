@@ -1,0 +1,6 @@
+"Discrepancy" puts the player in control of a stealth assassin. 
+Using the players gaze as input the player 'blinks' from position to position, the player can only blink to certain positions that are in range.
+The player must avoid being seen by patrolling guards, being seen results in an instant restart of the level.
+The player can kill guards by blinking to a position a guard is standing on.
+The player must climb a tower, killing guards on the way, solving puzzles based on logic and timing.
+The game borrows elements from games like "Dishonored" and "Hitman: GO"

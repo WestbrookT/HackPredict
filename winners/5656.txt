@@ -1,0 +1,7 @@
+We've all been through the awkwardness of not knowing how to start a conversation, sometimes it's difficult to come up with a topic to discuss with someone. Nobody wants to kill a conversation because they don't know what to say. 
+AwkoTalko is an app that can help guide you towards an interesting conversation, it is an ideal solution to avoiding social awkwardness.
+We built AwkoTalko using Android Studio. 
+We had issues displaying the text, therefore we switched to using image files instead. We also had issues with rerouting 
+We are proud of the teamwork we used to come up with an idea, brainstorm conversation topics together, as well as using wireframing to agree on the user interface. We are also proud of the determination we maintained while facing challenges along the way, and the problem solving skills we used to overcome obstacles.
+We improved our knowledge of Android Studio, we also improved our debugging and problem solving skills. In addition, we learned great new ways to start or continue a conversation with someone.
+AwkoTalko will be updated with more and more conversation topics, there will also be more categories to choose from as well as subcategories.

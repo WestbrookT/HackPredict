@@ -1,0 +1,19 @@
+Lands of Ravensword is an interactive game trailer that lets you experience the Kingdom of Tyreas in a virtual 3D space.
+It mixes lush 3d environments and some of the detailed creatures that explore these environments.
+We are trying to make sort of an interactive game trailer experience - where one can experience
+the environments and some of the characters of a game as well as the great soundtrack 
+that accompanies each area in the game. 
+Putting together this experience has been an interesting challenge. 
+It required us to build new tools to make cut scenes and animations that can work within the VR space,
+vs the space that was in the game. It also required us to reanalyze the the environment areas,
+what they contained, and how they could be presented in VR. We needed to get the experience to 
+run at 60 fps, so we had to do some changes to the shaders and things drawn within the view for the performance to be up to that level.
+We have been placing characters in key locations and using triggers for their animations.
+This way you can experience how these creatures would be acting in their natural environments through
+the game's world.
+Another major challenge of designing for VR with this experience, was figuring out how the cameras should work. To make it seem natural, the cameras had to be at a certain speed and not make a lot of turns which would disorient the viewer. It was an interesting challenge to go from the game world of Ravensword to just thinking about how the environment flows and what makes it interesting to experience with cameras.
+Input was also a challenge. We wanted something simple that didn't require a controller - and felt intuitive with the headset. I believe we came up with a solution that is easy for most users to understand. 
+Controls
+-Tap the touchpad to begin
+-During the VR experience, tap and hold the touchpad to pause the animation track and look around. A hi-light cursor will appear centered on your gaze, and you can inspect creatures and locations by looking at them. Release the touchpad to continue the experience.
+-Press the single button to return to the main screen at any time

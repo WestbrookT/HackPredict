@@ -1,0 +1,7 @@
+For someone who is a little bit directionally challenged (okay maybe more than a bit), planned road trips never goes as planned. Getting lost, taking all the wrong turns to end up somewhere unplanned is pretty much guarantee to happen. However, this might not always be the worst thing that can happen. Instead these "getting lost" road trips are the stories that live forever in our memories, these are the stories that we tell our kids, grandkids, great-grandkids, and so on. We end up on a magic school bus adventuring new places, discovering the best parts of our planet. These road trips are in our opinion should be the definition of an adventure. 
+The Magic School Bus web app takes you on a road trip that you will not forget. By just entering an origin, a destination and the range that you are willing to go of course (or "get lost") the app will generate all the interesting places that are along the way with that range. From the you can plan to get lost on a road trip that will forever be in your story books.
+We built this with lots of team work along with node.js and integrating the googlemaps API.
+Finding the perfect spot with optimal sleeping temperature to take a quick long nap
+We learned new frameworks, web dev.
+The next step for the Magic School Bus web app is to integrate other social media into the search engine. For example, intergrate Instagram data for the most popular places base on the number of pictures that are posted. 
+Catch us getting lost on our adventure back to Ottawa!

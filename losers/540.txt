@@ -1,0 +1,9 @@
+asdf
+It takes in CSV files that are created by our Ruby scripts and search and displays the content of chats.
+Wrote scipts to process data to csv
+Wrote logic to parse csv
+Wrote view logic
+asf
+Search
+CSV Parsing. Don't use Dictionary of Dictionary of Strings. 
+A short life on GitHub.

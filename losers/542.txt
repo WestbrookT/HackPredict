@@ -1,0 +1,7 @@
+Experience with Deep Convolutional Neural Networks and wanting to build something cool.
+Takes a youtube video, parse it into frames and run those images through a Convolutional Neural Network to decypher video content
+Bootleged ways int ograbbing frames from youtube videos - then threw CNNs at it.
+I had to use sudo to install anything with pip because I was lazy and didn't want to fix $PYTHONPATH's.  It was also a pain getting info from youtube without the help of their APIs
+Build something that actually works and does something cool
+Big Data things are much harder and much more time consuming that one may think.
+Build up the database and perform some machine learning algorithms on the data.

@@ -1,0 +1,11 @@
+Eligible for Student Senate's Social Impact Prize ("Best hack that improves CMU student life");
+                  Best use of Microsoft Azure, Manifold.js;
+                  Google's Social Impact Prize ("Most likely to make tangible and lasting change");
+                  APT's Social Impact Prize ("Best use of data to achieve a positive impact on the community");
+The unavailability of wait times for our favorite eateries has caused stressful moments for many busy students, leading them to a dilemma of whether to wait in line for their favorite food or to try another eatery. This situation lead to the decrease of productivity of the CMU community as a whole. Given this app challenge sponsored by the student senate, we gathered and started hacking away.
+Chai lets users see approximated wait times at campus eateries by measuring the number of users (who enable location services) in a geofence (a fence surrounding an area) encompassing the eatery. It also allows users to meet up to eat with friends by allowing them to share their location (when in a geofence). This tells the user which friends are eating and where.
+We created a back-end using node.js with documentDB as our database. We wrote our front-end using javascript and html5. Then, we ran our code through manifold.js to get apps to us on a variety of different platforms. Finally, we deployed our code via Microsoft Azure.
+The lack of experience in hackathons and programming projects resulted in most of the delay. In addition, some of the APIs were poorly documented and we did not have enough knowledge on asynchronous javascript and database.
+We successfully implemented the main function that detects if someone is in a particular area. Also, the database and the website are fairly smoothly connected.
+We gained knowledge in html5, css, and javascript and realized how much more knowledge we need to know to build projects in a efficient manner.
+Some other features that we have in mind are: Payment of Food Via Chai, Social Network Service, Machine Learning Techniques to estimate the wait time/number of actual people

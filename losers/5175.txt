@@ -1,0 +1,6 @@
+Hacked in a hackathon in 24 hours, actual work put in was around 12 hours.
+Users interact with Fi in natural language, Fi understands what the user is trying to say in terms of preferences, reviews, feelings, interests and other elements of taste and preference. Fi uses this information to answer the user's queries, plus provide suggestions to the users after understanding their personality. Fi is also capable of understanding it's users' personal life, work life, habits, and other key elements to predict what the user may want to do, or what the user may be currently going through.
+Feeding a lot of data to Fi so it can be smarter.
+Well, the MLP (minimum lovable product) was loved by the crowd, and Fi helped us reach there.
+Fi needs to be taught a huge array of things, and we need to understand Fi a lot to be able to help others.
+Fi is gonna get smarter and hit again!

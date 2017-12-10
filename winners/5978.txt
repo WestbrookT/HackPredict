@@ -1,0 +1,1 @@
+Chipebble = Chipotle + Pebble! To make this work, we had to reverse engineer the Chipotle API by man-in-the-middling their iOS app and decompiling the Android app. Using a combination of those, we were able to reproduce the app's functionality and build an app for Pebble.

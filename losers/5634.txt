@@ -1,0 +1,8 @@
+The character stands in a screen.
+He (she) gives an order.
+A player follows the order.
+example
+"Right Face!!"
+"Tap!!"
+"Slide!!"
+"Touch your nose!!"(The player does nothing.)

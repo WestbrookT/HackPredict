@@ -1,0 +1,4 @@
+Look how easy it is to use:
+That's it.Your default torrent client will be opened and torrent will be added to it.
+Install $project by running:
+The project is licensed under the MIT license.

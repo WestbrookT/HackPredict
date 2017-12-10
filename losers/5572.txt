@@ -1,0 +1,1 @@
+The goal of the game is to find a planet at another star system to colonize at. You and your crew will set out to this wormhole that NASA has discovered. Once you enter the wormhole, the player will have to select a planet to go to but, choose wisely. The spacecraft that the player is on has a limited amount of fuel. 

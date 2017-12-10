@@ -1,0 +1,22 @@
+The application would make users interact with a dog( maybe beagle) like they are naturally interacting with one.
+The dog would respond to the interactions of the user.The response would be in the form of barks , tail movement, running to fetch things etc.The user can get attention the dog by making noises like whistling and even playing with their hands gestures to do stuff like throw a ball.The dog will behave  like a normal dog and would have to fed and do stuff with occasionally  to survive.
+The use: 
+1)Some people are scared of dogs ,hopefully this app will tell them how good dogs can be.
+2)Many families cant keep dogs because the children in the house have allergies to dust and hair;through this app they can virtually enjoy a pet.
+Story [maybe added or maybe not according to time ] : Mr Samantha needs to travel a lot for her work and has to shift her home after every year. Therefore she bought her only kid Edward a dog to keep him occupied at new locations while shifting .
+Update:
+Age of dog before he/she dies (taking average) : 12 years
+Number of environments : 6
+Time spent by dog in each environment : 2 years
+[Demo will consist of only 1 environment]
+Environment name/types :
+1) Near Farm (Imagine the game flower)
+2) Sea Side
+3)Beside a park
+4) Near the woods
+5)Snow Mountain
+6)In a street/  near skateboard ring
+What you can do with the dog:
+1)Take it for a walk[currently developing]
+2)Play with it [ ball or some other objects]
+3)Feed it with the food of your choice 

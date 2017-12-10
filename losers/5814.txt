@@ -1,0 +1,6 @@
+BikeRight serves the needs of bicyclists through education, community development, and cooperative property protection. Inspired by the New Orleans bicycling community, who are amazing people doing amazing things like organizing groups to address the bike theft problem, creating welcoming social rides, and advocating for bicyclists needs as they come up.
+This is an app that uses a cross referencing database so bikes can be registered to owners, bike theft/incidences can be reported and mapped, secure bike racks can be found or requested, and this app ties with LOCAL bike-centric information like routes, bike-laws, organizations, businesses, and events. It provides the user of the app with robust account feature controls and ease of use.
+Challenges, are getting the pieces in place in a tight timeline.
+I'm proud to say that this app has won first place in the opensourceNOLA.org hackathon on May 9th, 2015. This app has been praised throughout the biking community in New Orleans, with many comments on social networks like, "This is exactly what we need!"
+I'm learning the app develop process on an open source platform. I'm also learning Ruby on Rails.
+I'm shooting for a quick launch for New Orleans to pilot the app and then scale the app nationally in a city by city fashion. Any input, help, or comments are appreciated.

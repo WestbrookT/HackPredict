@@ -1,0 +1,7 @@
+Promotion of Codeutsava and our interest in creating something new. 
+it provides all basic  information to students,parents and teachers about the latest education system. Gnyan is a platform which makes it easy for user to find all resource at same place and saves times.
+We used basic html and css in our program.
+being 1st year students and not having much knowledge about complex programming we faced several issues.
+This is our first website that we created.
+we learnt team coordination. How to set different effects in website.
+Still now we prepared only front end of the project but now we will try our level best to develop back end also in our website.

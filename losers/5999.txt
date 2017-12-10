@@ -1,0 +1,3 @@
+Sometimes, we just don't have the chance to properly plan our daily schedule, and end up with lots of short breaks. But hey, maybe we're not alone? Why not to reach to your friend who's also free at that time?
+The app allows you to upload you schedule (using icalendar formar) and then matches your plan with those of your friends from facebook. Then, it suggests you possible dates and times for meetings. It also enables you to send a facebook notification (simply poke your fellow!) and start the interaction!
+We plan to improve all the features (like location, weather etc.) and publish it.

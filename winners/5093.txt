@@ -1,0 +1,7 @@
+Both of us have grown up with skin issues, but have never really had a skincare app available to us. We wanted to change that for not only us, but for people everywhere suffering with acne.
+Glow promotes you being your brightest self by practicing self-care. We focused on skincare since we saw the need in the market. A lot of people don't know the basics on having a good skin regimen, which could potentially save tons of money from preventing going to the dermatologist for a problem that could have been easily solved.
+We built 'Glow' with Swift and Xcode, implemented a Quotzzy API, and designed with Sketch.
+We have never used APIs, so it was our first time implementing them which made us run into some time-consuming challenges.
+We are extremely proud to present a prototype that gives the judges a feel for what the app is supposed to look like and what it is supposed to accomplish.
+We learned how to work under extenuating circumstances which included: 1) the time constraint and 2) a teammate leaving. We had to learn how to use resources, manage our time appropriately, and present a product we are proud to demo.
+Our plans for the future include having a feature specifically for transgenders in aiding them through their transitions, giving more representation to an extremely underrepresented group.

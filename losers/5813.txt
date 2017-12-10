@@ -1,0 +1,6 @@
+The idea was born out of an experience working in a paint inspection booth at Toyota. The process of inspecting painted vehicles coming out of the bake ovens for dirt deposits is manual and prone to human error. The idea was to automate the process to reduce the number of defects coming out of the paint inspection.
+Overnight, using Java.
+The pixel-comparison algorithm is relatively simple, but it works well and is extendable. (The actual comparison could be replaced by another algorithm -- for example, taking linear combinations of expected colors.)
+Similarly, the scan is done independent of the heatmap. The main program could easily be modified to, say, return coordinates to abnormal points. These could be used to automate fixing the problem.
+I'm too tired for this shit.
+Scanning PNGs. Maybe it'll support other image formats someday.

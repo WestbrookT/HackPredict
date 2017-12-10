@@ -1,0 +1,6 @@
+It's a simulation of a diving close to a Blue Whale, the biggest animal that ever live in Earth. The goal is to explore the potentiality of VR to bring a meaningful and instructive experience.
+Whales are one of the classical subject for infographics, and one the most common attempt on this kind of feature is to give a sense of scale using a person, a bus, or something else that can helps the viewer to understand how big this animal can is.
+That's where a virtual reality experience can aport a ultimate solution for this old problem. It makes possible to have a immersive experience of what is being so close to a 100 feet living animal.
+This experience is a guided diving around a whale and it consists of two parts. On the first, you dive around the animal. You can get very close and look at his eye, for example. Also, you can feel it movements and look at the small fishes that surrounds it.
+The second part is cutout infographic showing the inner parts of the whale. You can see it's skeleton, it's heart beating, and even a baby whale inside it's uterus. You have informations about it's weight, heart beat, alimentary habits. As you look this point of interests, labels and additional information pops out.
+The biggest challenge building this app will be developing a language for VR infographics that is at the same time immersive and informative.

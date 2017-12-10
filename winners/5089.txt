@@ -1,0 +1,10 @@
+Has a top down view of the map and can freely swipe to rotate the map. He can see the underlying circuitry of the level and has extra information such as guard patrol routes and view cones. He can also see all the data collected floating about and can put aside the junk data or take a closer look at useful data such as door codes and puzzle clues.
+Plays in first person and needs to navigate the level, grab data for player 1, avoid patrols and get to the exit. He can see and do things from his closer and lower viewpoint that might be obscured to player 1 and he can interact with switches and objects. Data collected by the Runner is sent to the Overseer for analysis and sorting. If the Runner is caught by the host's subconscious then he will be identified as a foreign body and will be forcefully ejected from the host mind.
+Both players must cooperate to complete each zone as quickly as possible while grabbing as much data on the way out as they can.
+In a world where information is the new currency and server hacks are an everyday event, the safest place to keep your secret information is in your own head. That is unless you've been mind hacked!  
+A technique for a 3rd party to enter the sleeping mind of a host to retrieve suppressed memories was originally developed to treat PTSD patients but was quickly banned for its ethical ramifications. However, memory manipulation and data mining is big business and there are large corporation that will pay a lot of money to get their rival's secrets and manipulate their CEOs. 
+Mind Divers are people who provide such a service. For a fee.
+Just remember the rules, never dive alone and never dive too deep.
+www.mechabit.co.uk
+@mechabit
+Oculus Forum (APK & EXE included)

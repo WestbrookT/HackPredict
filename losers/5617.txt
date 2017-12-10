@@ -1,0 +1,15 @@
+Onward VR Flight is a simple flying app that allows the user to experience flight in a virtual environment.   I think I'll go for something more artful here.  I want to make a flying experience that could appeal to almost everyone-- not just flight sim fans.  Given that I will be the sole developer-- artist and coder-- time will be the biggest challenge. (It wouldn't be fun if it weren't a challenge.)  
+Control schemes are still up in the air...pun sincerely not intended.   I will probably be using the orientation of the Gear VR to control direction. Critical will be smoothing and limiting HMD movement values as they're translated to aircraft values. I think that I can achieve a comfortable flight if I keep the barrel rolls and the like out of the equation. Still to be determined will be the possible use of the tap/swipe control during flight.  Onward.
+Milestone 2: 
+My first idea was hang glider. The day after I submitted, I realized that perhaps that could make some folks uncomfortable, so I started thinking hot air balloon.  Controls are easier as well-- tap the side of head to go up/release to go down-- just like a hot air balloon. If I have time, I may work on an optional hang glider. If... 
+Will change splash image, of course.
+Probably going to change name. 
+Done: 
+Balloon flight code integrated with tap controls.
+Working prototype balloon with physics elements.
+Prototype city/airspace.
+Particle flames/flame sound integration with tap controls.
+VR Gear builds with Unity.
+This has been  a great deal of fun. I look forward to finishing this project. Onward.
+Milestone 3:
+Progress has been a bit slower this last week. I'll have to catch up. It's a simple idea that I think will be a cool experience with just the headset-- no controller.  Experimented with instantiating objects within fog limit to reduce draw distance and number of objects in environment at once.

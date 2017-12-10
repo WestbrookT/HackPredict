@@ -1,0 +1,7 @@
+If you have not had a negative roommate experience, count yourself lucky! While personality test are effective in pairing like minded individuals, they don't account for one's habits!
+It allows roommate to assign, notify, and grade the progress of tasks completed. 
+The project is being mocked using wordpress, while individual components are made using meteor.js .
+Technical knowledge was lacking for the whole team. However, we were still able to create a representation of our business idea. 
+Creating something without knowing how to use it!
+Creating a SAAS product from scratch is very tedious. 
+Complete SAAS development of the project. Additionally, a mobile application would benefit it. 

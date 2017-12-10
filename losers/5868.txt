@@ -1,0 +1,9 @@
+VRbutton.js - it is simple javascript library, that allow you to turn video on your 
+website to VR compatible. It's mean, that all your visitors can watch your video with VR-headset
+(like a google cardboard) right in mobile browser. No app's required!
+This library is designed for website owners (not for end customers)
+Adding library to your project is pretty simple. You need to add only few tags to your html code.
+After that you can watch a cool blue button on each video. Then you click on it - your  video turned to VR mode with Head tracking.  We recommend to use this library with 360 degrees video, "Flat" video would be showed in "like-cinema" mode. 
+It is very difficult to explain this technology in words - you need to try for yourself. So,  try the demo at VRbutton.org.
+To watch the video (especially 4K) - you need a very fast Internet access.
+For example, a 5 minute 360 ​​4K video takes about 1 Gb.

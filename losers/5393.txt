@@ -1,0 +1,21 @@
+’Clean Up!‘ is a Hidden Object Game using VR. 
+Using Unreal Engine technique, this game’s background is a 6 or 7-year-old girl’s room. It’s purpose is to organize stuffs by a Cross hair at the center of a screen, 
+using a little Gaming Controller to move inside of the room.
+We are going to develop the game as follows;
+We’ll furnish a room like a princess living in it, using pastel colors.
+It’ll will be filled with a lot of toys about 70 to 80.
+It’s goal is to find every things in a room in 5 minutes. 
+There’ll be a whiteboard at the center. 
+Then, a player looks at it and finds them as fast as he/she can.
+Player starts at a center of the room, but they can move. 
+Considering a level of difficulty, some stuffs are difficult to find 
+because we are going to place them all over the room.
+UI is made of objects placed in a game. 
+For example, Hidden Object Game shows 
+a list to find at the bottom area of a UI, 
+but we’ll replace with a picture and arrange them on the whiteboard.
+Through this one, we’d like to make a game that fascinates people interested in Hidden Object Game, and helps them to enhance their concentration by finding character’s items one by one.
+Change log 1 (Apr. 26th) 
+We modeled the toys to fill the room to enjoy the game.
+Some of toys have been finished!
+And we have to change some of the development direction.

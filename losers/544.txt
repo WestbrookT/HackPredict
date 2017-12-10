@@ -1,0 +1,7 @@
+Clone the repo
+Install all the modules
+Start the app in development mode
+Wait for the window to popup!
+Enjoy.
+I didn't get a chance to incorporate desktop notifications / reloads / a waiting screen / etc. That's all todo (if ever).
+My node environment at work is totally fubar'd, so I had to do all this at home on my aging MBA.

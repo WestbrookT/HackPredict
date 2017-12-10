@@ -1,0 +1,7 @@
+We were interested in testing the limits of convolutional neural networks given computational space and time constraints. We were also inspired by the creative evolution of internet culture.
+Using Caffe, a deep learning framework based on convolutional neural networks, we performed binary classification of canines and baked goods, given highly similar images.
+Team members fed images of specifically cropped chihuahuas and a variety of muffins into a neural network inspired by the architectural design of proven machine learning methods for image identification using Imagenet.
+Our team had minimal exposure to neural networks, but maximum exposure to memes.
+We created a functional 8-layer convolutional neural network, inspiring a new generation to learn about machine learning by applying it to modern culture.
+As a machine learning method as complex as a convolutional neural network had difficulty distinguishing chihuahuas from muffins, we realized that there are still strides to be made in deep learning.
+We plan to tackle other such major issues as Kiwi or Shrew, as well as Labradoodle or Fried Chicken, with more thorough parameter tuning to test the true limits of deep learning algorithms.

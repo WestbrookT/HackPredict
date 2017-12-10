@@ -1,0 +1,5 @@
+Off Course is a sci fi exploration, horror, virtual reality game .  Play as the sole survivor of a terrible catastrophe in the darkest depths of unknown space. Though you survived the initial destruction of the ship a new threat waits in the dark. Players maneuver the environment without gravity, scavenge for oxygen in blue cartridges and power sources in yellow cartridges to stay alive and keep the suit active, avoid contact with the alien intruders, and ultimately make it off the ship in an escape pod.
+Off Course’s goals are simplistic controls for movement, exploration, and providing an immersive virtual reality experience in outer space.  The gameplay progression consists of exploring the ship and dealing with unique obstacles. With a constant demand on oxygen and energy source to power your spacesuit, gameplay may feel stressful and intense to some players.
+Off Course's gameplay is unique in implementing the following features of the SAMSUNG VR:
+Explore your environment using head tracking
+Control the character using the touch pad by swiping forward and/or back- no need for a controller

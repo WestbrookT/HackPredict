@@ -1,0 +1,4 @@
+Its just another day for you in the office. The game will have users be taking the role of a system-administrator, coding in the process. The player will be given a set of goals to accomplish. Puzzles will be based around using bash command ituitively, such as : 
+The game's root should be puzzle solving through using commands. The root idea of the game is to interact with the 3D world with typing, using the HMD to point at objects of interest.
+The issues currently are:
+Simple - Making the game simple for regular users who cringe at the site of a terminal! 

@@ -1,0 +1,6 @@
+Coming late at the event because of a lack of any decent transportation, we managed to get just in time for the Genetec conference yesterday morning. We decided to combine their ideas and our frustration in order to come up with something actually useful.
+Our app lets users see the concentration and flow of people and events around them not only not but in the future.
+Our app is build by collecting data for the different public events in a user surrounding area on EventBrite and Facebook. Using Genetec's Security Desk SDK, we can create an interactive map of all of the events un a 31 day period in the given area.
+Facebook removed the ability to find events based on a location so we were forced to cross reference multiple data points and networks in order to retrieve the desired events. Similarly, eventbrite's API is quite archaic and not consistent with the data obtained from Facebook.
+We managed to make a never before used SDK, 3 different APIs and 4 different languages work in a span of less than 20 hours.
+There is a enormous amount of data that can be obtained and analyzed just by looking at events in and our Montreal. Also, there is actually such a thing as Naked Yoga in the Dark ( for the interested, it is on February 9th at midnight).

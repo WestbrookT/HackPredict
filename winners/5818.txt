@@ -1,0 +1,5 @@
+Our company is growing fast and it is increasingly difficult to know everyone's names, so we want a tool to help practice and remember them. We also recognize that software systems grow to mirror the communication structure of an organization (Conway's Law). In order to empower individuals to develop more sustainable products and organizations, we need insight into the informal communication structures within a company.
+Inter-company relationships is a challenging system to model with traditional relational datastores. We quickly realized we needed a specialized tool and chose the graph database neo4j. Learning how to model and query the system in neo4j was our biggest challenge and a lot of fun.
+Diving into a new database and using it to share meaningful insights into inter-company communication for organizations. 
+Graph modeling, responsive design for mobile sites, and UI design.
+The first step is monitoring the communication with companies. After we have measurement data, we can track communication health over time and look for trends across industries, company size, etc. to share with our users.

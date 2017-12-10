@@ -1,0 +1,6 @@
+The Recent Nepal Earthquake has shown us the need for a more effective method for first responders to locate people in distress and co-ordinate rescue efforts effectively.  
+We have implemented a novel algorithm to access the user's threat level and predict whether the user is distress or not. Usually, in times of natural calamities; the GSM networks breakdown. The app turns Victim's phone into a beacon for the emergency services to quickly locate him using the phone's Low energy Bluetooth, as well as Ultrasound. 
+Debugging the Android Application
+Built an app that could save lives
+Time Management 
+The moon. 

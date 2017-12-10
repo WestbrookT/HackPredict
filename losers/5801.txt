@@ -1,0 +1,7 @@
+People are different.  Why should we read news or information that doesn't inspire, provoke or soothe?  We wanted to create a simple tool to help tune the feed of information a person reads or watches by leveraging insights gleaned from their personality.
+Good.News leverages the Watson Personality API to analyze the personality of authors, speakers and bloggers from notable publications and the Alchemy News API, to generate psychographic profiles for each author and organization.  The Good.News system then accesses the public Good.Co interrogated Psychometric profile generator to quickly create a profile for the user and then calls Good.Co's FitEngine™ API to calculate a FItScore™ between the User and the Author. 
+Media Feeds are then optimized by FitScore™ and users can easily surface content that might either  or .
+Getting author data and transcripts quickly
+Building a mapping between the Watson Big 5 Model and the 8 Factor Psychometric Model (PPA) used by Good.Co so their engine could evaluate the right "Fit"
+Watson requires at least 3 articles of around 1000 words or more to start to converge around a repeatable psychographic profile for a particular author.  Testing around the system showed that if you can supply Watson with this minimum, you can fairly confidently arrive at the same profile for that author using disparate sets of articles.
+Launch a service under the domain themedia.com 

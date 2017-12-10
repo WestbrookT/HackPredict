@@ -1,0 +1,6 @@
+To reduce the gps inaccuracy and help the blind travel places. Using our technology , the blind don't need to remember the steps involved in travelling to a particular location as our app guides them in terms of the number of steps before each turn
+We use a unique algorithm to reduce the error rate of gps from plus or minus 30ms to the order of a few centimeters to make stepwise navigation possible. We use inbuilt libraries in android to calculate the number of steps . We specify by audio to the blind person , the steps he has before a turn. The blind person uses audio to let the app know his destination 
+It was challenging to combine the step counter libraries of android with the google maps
+It feels good that my app will be able to help the blind
+handling google maps api , handling android libraries
+We would like to publish a paper on our algorithm and would like to improve our accuracy

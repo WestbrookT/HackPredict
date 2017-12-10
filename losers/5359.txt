@@ -1,0 +1,6 @@
+This game will bring the 3D arena fight game to virtual reality. 
+Players will choose one of the fighters to compete against a randomly selected opponent or proceed through the story mode fighting each opponent in sequence.
+The game will resemble a 2D fighter brought into the VR realm using arena movement and stage depth.
+There is support for player vs. CPU and a CPU vs. CPU demo mode, with plans to expand for online play in the future. Options are available for background music and difficulty.
+Each stage will provide a unique arena and its own background music. Alerts will be displayed for typical fight game notifications, such as achieving the first hit or a combination of hits.
+Head tracking will not be utilized in this game, as the movement will be controlled by the player’s actions. Gameplay will require a controller.

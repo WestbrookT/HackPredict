@@ -1,0 +1,6 @@
+After learning that many people today aren't well educated about the history of art, we wanted to fix that using our knowledge of virtual reality experience development.
+Using a Virtual Reality headset (VRelia or Oculus Rift), the user enters into a VR experience which immerses them in the rich history of art.
+The user initially enters the experience where they are standing in an art gallery. Surrounding him are paintings from various times in history. The user can scroll through the various paintings using a gamepad controller.
+Getting everything to work with two VR HMD's was a fun challenge.
+We learned more about about how to work with VR headsets and how to create immersive VR experiences.
+Refining the VR art gallery experience and bringing it to museums and universities.

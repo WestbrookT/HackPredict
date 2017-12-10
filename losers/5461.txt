@@ -1,0 +1,2 @@
+You have lots of photos inside facebook but they never feel truly real since you are viewing them from a flat screen. What if there was a way to make the photos more realistic?
+Our appliation will automatically fetch all the photos from a facebook group and put them in a sphere around you. This way you can have the entire view of the screen at once, meaning no scrolling, and since you are surrounded by all the photos it seem way more realistic.

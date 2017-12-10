@@ -1,0 +1,9 @@
+Jersey Java Annotation Extension for creating REST/POST Methods
+I was developing an application that needed to have a lot of services which had
+to be accessed with both GET and POST Operations, but unfortunately Jersey doesn't 
+support it. 
+A workaround is creating not one but 3 methods for every Service 
+Operation I wanted, using one as a Business container and the other two just for
+declaring jersey's operation methods like this:
+This was very troublesome so I decided to create my own annotation that would 
+generate this for me.

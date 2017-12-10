@@ -1,0 +1,13 @@
+BigBlueButton is an open source web conferencing system that enables real-time sharing of audio, video, slides, chat, and desktop sharing.
+We believe that every student with a web browser should have access to a high-quality on-line learning experience.  We intend to make that possible with BigBlueButton.
+We built BigBlueButton on a full open-source stack.  The key components are FreeSWITCH (for sending/receiving audio) and red5, an open source implementation of a RTMP server.   The desktop sharing uses a Java applet for sending the presenter's desktop.  
+Creating a synchronous tool that enables real-time sharing of audio, video, slides, chat, and desktop is quite an undertaking.  The project was started in 2008 and has a team of core developers steadily building, hardening, and integrating BigBlueButton with other applications.
+We have released twelve versions of the project and it's localized into 35 languages.  We use WebRTC for the audio (very high-quality audio for the student).
+BigBlueButton's application desktop sharing currently uses Java.  It works, but it (a) requires the presenter to run Java and (b) isn't fast enough for sharing graphic intensive applications.
+We want to use WebRTC for high-quality desktop sharing.
+This would achieve two goals
+We're working on an HTML5 client for BigBlueButton as well.  With desktop sharing via WebRTC, viewers of the HTML5 client running on Android will be able to see the presenter's desktop.
+Desktop sharing takes a large amount of bandwidth -- especially as the screens get larger (hello 4K).  With large numbers of students, the amount of bandwidth scales linearly.
+Here's a quick video we did of getting the WebRTC desktop sharing going through to the BigBlueButton client.
+https://www.youtube.com/watch?v=6i6DIQqRE-U
+This will give all students a high-quality view of the presenter's desktop.

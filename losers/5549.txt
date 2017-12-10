@@ -1,0 +1,14 @@
+Linearity is game about using your head to draw lines through notes interspersed around you in a 360 degree sphere.
+A line is being drawn from the centre point of your vision which, for each node you look at, it clicks into place and
+draws a line from each to each. 
+The object of the game is to maximize your score by quickly deciphering the right node to draw the next line to and make the correct patterns. 
+A few potential game modes are:
+Color based: Each line changes color to match the  last node it touched, try to maximize score by creating streaks. 
+Shapes: A floating simple shape could be drawn in front of you and if you make the shape with the lines you get bonus points. 
+Absolute : A maze, there is only one valid node from your current location to the target. Try to hit all the nodes as fast as possible. 
+Rhythm : The nodes change colour with the beat. How does that effect play?
+Tetral : When you connect 3 or More they "Pop" and are replaced with new ones. 
+The Mechanics are simplistic, they require no buttons,or at best 1 button. Allowing for simplicity and easy for new people.
+It is a gamespace in 360 degrees and so it avails of VR as a mechanic, not just as a display medium. 
+It should be small, fun and competitive. 
+The overarching goal is to make something family friendly, competitive, bright and easy to pick up. 

@@ -1,0 +1,5 @@
+
+The StreamVR app (created entirely during this mobile jam) is a way to share the experience of watching 360 degree videos. As a developer working with an early 360Cam from Giroptic, I have been able to capture a lot of content in this unique format and show it on the Gear VR. People were amazed by the sense of presence, but the most common negative response was that it was too isolating. This app solves that by allowing multiple views to join a chat room while watching 360 videos that are hosting on streamvr.com. A transparent halo can be toggled to show where everyone is looking.
+
+
+Thank you for you interest, I hope that you enjoy this app! More features will be added as streamvr.com is developed and more videos will be coming soon.

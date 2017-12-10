@@ -1,0 +1,6 @@
+STORY > Graphity* is a universe of puzzle-like graphical particles (graphticles). There's an abyss that the user has to get through in order to discover the ultimate 'truth' about this weird graphics universe.
+MECHANICS > The player finds herself falling (actually the direction/strength of the gravity changes frequently and randomly so the player has to adapt to the new physics conditions) in this abyss, trying to manoeuvre around the particles. The x/y position will be affected by the head movement of the player (with the VR headset on).
+Meanwhile some particles charge up user's graphKinetics* power with differing charge points depending on their physical challenges. This graphKinetics power will help the player blowup (destroy) particles as long as the player have reserves of this power. The blowup will take place with the help of a LeapMotion and its 'screen tap' gesture.
+FUN > It should be very exciting to experience the sense of falling or flying upwards within a VR environment meanwhile trying to avoid some hurdles and go through power-ups.
+VISUAL > The visual language will be very simple, almost retro-like graphics. The 3D objects will have stroked edges to emphasise this bold language.
+CATEGORY > VR Mobile Casual Game.

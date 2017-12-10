@@ -1,0 +1,12 @@
+This is a game about casting a fishing line, catching a fish, reeling it in then yanking it out of the water to blast it full of lead in slow motion to rack up the points.
+There will be multiple ways to control the game eg smart watch, joy-pad and touch pad. The main way will be with the touch pad of the gear vr.
+here is an example of a game round for the game.
+you start in a scene eg on the back of a boat out on the ocean, you can look around in vr at the boat and your fishing rod.
+you start the round by casting the rod in the direction you would like to do this you slid your finger back on the touch pad to pull back the rod then flick forward to cast.
+then you wait for a bit, then you have to wrestle the fish out of the water this is done by reeling the fish in with circular motions on the touch pad and tilting your head back to pull on the rod. I hope to achieve a immersive fishing experience with this. As by reeling in to fast and pulling to much will break the line.
+When the fish nears the boat pull your head back to give a yank the fish is flung into the air to then be shot with unlock-able weapons ranging from a pistol all the way up to laser guns how this will work is you will look up you weapon will show in the bottom of the screen and you will see a pointer for when you will shot. to shot just tap the touch pad.
+Here the game plays a bit like Big Buck Hunter where you score point for where you shot and how much damage.
+The game will have a store to buy upgrades and different weapons, equipment and tackle.
+there will also be different type of fish and creatures from fish to sharks to monsters.
+been experimenting with water shaders for what the sea may look like and will be adding a shark and gun next.
+the biggest issue I can foresee will be handling gestures from the touchpad of the gear vr.

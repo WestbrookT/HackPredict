@@ -1,0 +1,5 @@
+This game is a combination RPG and action game that allows players to take on the role of a character trapped inside a world meant to represent the inside of their device. 
+The player will complete mini-games that make up the individual levels, which contribute to the goal of escaping from the virtual world. 
+Players will run around collecting items, drive through checkpoint races, fly through hoops, and various other tasks.
+The game will use the third person viewpoint to allow the player to control a selected avatar, with both online and offline modes. Chat will use voice recognition to create chat bubbles visible to all characters.
+The player will be able to move around using a joystick or look using the head tracking of their VR headset. Gameplay will require a controller for movement.

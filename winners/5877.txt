@@ -1,0 +1,5 @@
+We wanted to find a way to sift through the tons of organizations asking for donations.
+We give you a simple questionaire that assesses your personality. We then match you to a handful of nonprofits among hundreds. We use IBM's Tradeoff to find the optimal among several competing factors. 
+Working on a tight schedule on an ambitious project
+Collecting data from a variety of non profit databases.
+Hopefully expand and polish our services using Machine learning APIs to offer better recommendations.

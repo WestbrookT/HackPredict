@@ -1,0 +1,2 @@
+Toonscast is a fun immersive weather forecast experience with 360 degree exploration of weather through time. The viewer is surrounded by a 10-day weather forecast, each day being represented as a floating toon island with the weather of that day shown and animated over that island.
+What makes this experience unique is the fun and immersive aspects of it. instead of looking at a boring list of days with weather text and icons, users can fly through days, explore different locations, and being transported into a day's toon island to live through the weather of that day.

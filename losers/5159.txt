@@ -1,0 +1,42 @@
+Did you ever want to be in an absolute wasteland where nothing else exists but some rocks, some cacti and you with your bike? Did you ever want to drive a motorbike, only by using your head? Do you hate tumbleweed as much as we do (hint: we love it!)? Then “Off Road” is THE game for you! You can have all that where ever you are, just by wearing your Gear VR.
+By looking down, you accelerate your motorcycle and by looking up, you are using the breaks.
+By tilting your head left and right, you lean into the curve and steer in the respective direction.
+This makes the game experience really intuitive and you don't even need any other input. 
+This control setup, combined with a fun yet simple game mechanic will be sweeter then a honey-marshmallow-pie.
+For the purpose of a challenging game design, that is more, then just a motorcycle simulation, we will include some game design elements, that have proved to be successful. Due to the the limited time, we will not make use of any kind of artificial intelligence. Instead we will implement elements like limited time and collectible items. The player will aim to unlock new levels and to beat high scores. Every level will have a certain goal to achieve.
+-Get to the goal. The score is calculated by the time, the player needed. These     maps will contain lots of obstacles, to slow the player down.
+-Get to the goal within a specific time and gather collectibles. The score is determined by the amount of collectibles, the player gathered.
+-Collect all collectibles. The score is determined by the time the player needed. These levels are rather open maps, but a track, you have to follow. 
+-Nudge the tumbleweed into the goal. The score is calculated by the time, the player needed.
+Despite the different game modes, the real difference between the levels is caused by the level design. There will be jumping levels with many ramps, as well as really fast levels. Some levels might be really curvy and some be full of cacti. The possibilities are endless.
+The desert theme will give the game a consistent look and provides obstacles like rocks and cacti. You can get an impression of the game's look in the attached concept graphic.
+We wanted to make a game that you control simply with the movement of your head. That way there would be no need of external input devices or unnatural gestures that would only disrupt your virtual experience. Steering a motorcycle fits perfectly for this purpose, since controlling it can also be achieved by simply putting your weight to one side or another. On top of that, most people will lean forward when they want to gain speed. And leaning backwards is a common reaction to decelerate on the Motorbike. We took this habits quite literally and put together a fine racing game with all pleasures of biking.  Like evading cacti, jumping off cliffs and collect delicious coins.
+When the game gets started, you appear in the main menu.
+Go to “level selection” by looking at the corresponding button and tapping the touchpad.
+Here you can choose between 3 different game modes.
+Navigate with the arrows or directly click on the level previews to select a game mode.
+Press “play” to load the level.
+In the selected level, you can now hit start. After a short countdown, the game starts. Steer by tilting your head sideways. Accelerate by looking down and break by looking up. Remember: the acceleration is depending on your heads angle to the motorcycle. When driving down a hill, you will have to look down even further to accelerate. Same rule for the breaks.
+Depending on the game mode, you have a certain goal.
+“speed dinner”
+In this mode, you have to reach the goal as fast as you can and before time is running out! 
+The coins doesn't matter at all but you will collect them anyway, because you coin't get enough!
+“money in the bank”
+Try to gather as much coins as you can, before time is running out!
+“kickstarter”
+The goal in this mode is to reach your budget of 100 Coins. The score is measured by the time you needed to do so.
+To go into the pause menu, tap on the touchpad.
+After the 4 weeks of development, we realized, that all in all, it went surprisingly good. Our concept of the head controls really worked out as we wanted it, and the content makes up a fully working game. Of course there were some issues, as there always are. A major issue for example was, that the design and production of the level took several days longer then expected, we did not find a way to build it in unity because the terrain tool displays textures on steep walls really stretched and ugly. So  we had to build the terrain inside the 3D editor, but this time the issue was, that it was difficult to apply different textures to the mesh. Luckily we found a fitting shader and vertex painted the terrain model. This was quite time consuming, but we still managed to get it all done to a state we are satisfied with.
+Sadly there was an idea we came up with only on the last day and so we were not able to implement the biking of a Viking … except you are a Viking!
+-Controls are implemented and working
+-Majority of environment assets are created and implemented
+-Testlevel has been created
+-Menu is already in progress
+-Improved Controlls for a better experience
+-Motorbike 3D Model
+-Fences
+-Game logic
+-New level
+-Finally made a neat satisfying level including 3 game modes
+-Nice menu design, fully implemented
+-Sounds!

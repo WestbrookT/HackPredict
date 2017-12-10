@@ -1,0 +1,6 @@
+Usually when I go to a supermarket, I spend a lot of time thinking about what I need to buy. I'd have loved to have an app that would tell me what to buy.
+Simply, it tells you what to buy (for 1 day or 3 or X days), what you can cook from it, etc.
+Walmart API + IBM Watson (for recipes) + Kinetise.
+Kinetise is not too flexible. Walmart APIs are poorly documented and sometimes fail.
+Prototyping mobile apps with Kinetise.
+World domination, of course. Or, Walmart should roll it out in all their stores.

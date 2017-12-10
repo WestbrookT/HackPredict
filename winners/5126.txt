@@ -1,0 +1,23 @@
+You're walking downtown in a major city. It's vibrant and is filled with life -- with a street performer on every corner.
+From acoustic singers to makeshift drummers to golden men who pose like statues.
+Every time you pass by, you stop and spend a few minutes watching, but there's a problem: you don't carry any cash on you, so you can't tip them for a job well done.
+That's where encore comes in.
+Encore is a mobile app that allows a user to tip and discover nearby street performers. With a few taps, you're able to tip these amazing street performers for their time and talent. In addition, encore allows you to rate the busker on their performance - which brings them recognition and allows other users to discover their talent for themselves.
+Most phones are NFC enabled. The utilization of the framework Cordova allows the phones to parse the information on the NFC tag within close proximity. 
+We also implemented AngularJS to create the application using the Ionic framework. Amazon DynamoDB was used to build the street performers profile - which allows the rating of, reviewing, and tipping the busker. Amazon Lambda was used to connect the Dynamo to other functions, such as security features. Using the Amazon API Getaway allows for the connection of the different technologies implemented. PayPal is being used to allow for transactions - like the actual tipping.
+In the future, this concept can easily be expanded to the service sector for service providers, such as waiters, drivers, and delivery persons. Encore wants to incorporate additional API such as Google Maps and Capital One to aid busker enthusiasts to locate their favourite street performs and build a community around local talent, yet have seamless payment transactions. 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.

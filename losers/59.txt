@@ -1,0 +1,2 @@
+Now you can search the web for an equation:
+minder.elasticbeanstalk.com

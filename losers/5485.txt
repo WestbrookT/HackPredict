@@ -1,0 +1,2 @@
+A short story driven VR adventure rpg set in a neon metropolis. The game have character interactions, puzzle elements, and rpg battles.  The game will switch from third person in the overworld, to first person in battle. Rpg battles will play out in real time in front of the player. Players will explore areas for extra parts, encounter npc battles, and discover clues to uncover the secrets of the city's underground.
+Many details are subject to change.

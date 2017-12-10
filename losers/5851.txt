@@ -1,0 +1,6 @@
+The lack of a useful visualization that demonstrates where high school graduate students continue their education
+It's a map that describes the  IGS, presidence and other important information of students the are admitted into the UPR system
+Replacing placeholder, finding more data and relying on wifi.
+Working with data has been amazing
+A lot of javascript. Mostly teamwork.
+Implement different types of visualizations and filter out information

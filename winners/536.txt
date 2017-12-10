@@ -1,0 +1,3 @@
+We're sick of receiving lot's of small crappy gifts on our birthdays. We're going to change the game and help people come together and buy a really big, nice gift for that special occasion.
+Let's people group together easily online and buy a present for a person. We take the pain out of gift buying.
+We utilise Braintree to securely receive escrow promised payments for gift pooling to make it absolutely easy and safe for users to buy great gifts for their friends, loved ones or creators of the site

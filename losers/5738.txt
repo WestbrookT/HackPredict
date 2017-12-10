@@ -1,0 +1,11 @@
+Tired of losing days planning travel routes we decided to get to work and design a tool to make life easier for those who waste their time planning trips. Perfect Plan gets a perfect combination of destinations, activities to do, hotels and flights getting travel plans that will fit to your decisions.
+Perfect Plan combines three different ways to obtain a complete travel plan:
+A travel plan is created from this premise. Only add dates and duration of the trip. A list of flights, hotels, activities will be generated according to your selections. We find the best option.
+Our project lets you create a complete road trip in only one step.
+We offer several options for planning a favorite route:
+With these inputs we create a perfect travel plan!
+On your journey you can customize your plan according to the possibilities of your pock€t. Following your choices the route will fit to luxury accommodations, economic or something in between them.
+Our project innovates the current scene of tourism online since unlike other tools, lets you create a complete road trip including multiple destinations, in one step. 
+Our project has the following features: 
+Good team work and great time here!
+For the next version of our project we would like to get:

@@ -1,0 +1,18 @@
+I have a son, Max, and he thinks studying is the most boring thing ever invented. So if we manage to force him to go to his room he is interested in everything but his books. He is checking his phone, plays with his protractor triangle, is looking out of the window, makes silly drawings and does all other things you can do in a room after you had to hand in your keyboard to avoid using your computer. 
+Max should have a learning method which is fun, keeps him focused and helps him to memorize his homework better. 
+In my search for this, it seemed like a good idea to start with the real professionals. What were the winners of the world memory championships using ? 
+They appeared to apply a technique called method of loci (or memory palace). In this method the user visualizes a path through a familiar environment in which they place images or objects related to the items to remember.  It is a very powerful method to remember things but takes effort to practice.
+There has been done a lot of research on the effectiveness of this method. Some results:
+How could I convince Max to use this method and become the Dominic O'Brien (eight-time memory world champion ) of his class ?
+The answer is easy:
+Using a web-interface, Max can enter a list of items and it's definitions to learn, select a picture he associates with each item, by this creating an item-list in a database.
+When starting the Samsung gear application, Max logs in with his account-name and password, selects the item-list he wants to learn and starts the 3D environment.
+There the 360° movie starts which takes him along the predefined route and on specific places the selected pictures with the items he has to learn for school are shown, the definition is also orally presented to Max. 
+Different learning modes will be integrated, with a quiz mode including scoring and input by speech to text to check if he really knows his stuff and to give him a game experience.
+Because he is wearing the VR set, there is no room for distraction, he will utilize the positive effects of the Method of Loci, without the big effort to start with it and have a fun way to become an A+ student!!
+Use the touchpad to start (as indicated on the screen).
+Use speech to give the answers. 
+Enjoy the balloon trip but pay attention and try to get the perfect 10!
+(This weekend I had (limited) time to test on the Gear. It was running a different version of the voice recognizer than the Samsung S4 I have been testing on (which was working perfect with basic Google recognition, see my video below). The new version is not using the preferedLanguage setting anymore. 
+For the best result in the current APK please set : English as the default and French as the additional language in the voice recognizer of the note!
+Using all the new possibilities like VR, text to speech, speech to text and 360° video to get a very old and proven memorizing method alive again. A flexible effective method which can be used for everything you have to learn at school valid for reading, auditory, visual and tactile learners 

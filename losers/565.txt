@@ -1,0 +1,8 @@
+Like Walkscore/Transit Score .. simplify and provide a notion of how electric car friendly a particular location is. 
+Provides you an simple and accurate score to indicate how a particular apartment/location is electric car friendly 
+This App gives a score  which represents the reachability of a location from a starting point for an electric car based on different factors. This score can help the commuter to decide whether he/she should undertake the journey. Higher the score , more are the chances that his/her car's charge won't run out.
+The app uses backend server on Azure which takes in the source and destination and returns an "Electric Score". This app has a web and an iOS version and is integrated with Redfin housing search thru tampermonkey chrome extension. 
+The algorithm to get the accurate score and to refine to handle number of parameters. Had to tested multiple times to refine it.
+Got one of the most accurate "Electric Score" and range prediction with number of variables like speed, elevation, temperature and were able to display it on two platforms.
+Building an End to end service and front end with number of complex parameters 
+Better UI and design, Integrate with apartment search and include more parameters. Also give an option to select car type. 

@@ -1,0 +1,2 @@
+The Painter is a game where you manipulate colors to solve puzzles.  You will work through various rooms, each providing a new challenge.
+The core of the game takes place on the walls of a room, where objects move across them.  The color of the wall and other objects can be changed, affecting the way objects interact.

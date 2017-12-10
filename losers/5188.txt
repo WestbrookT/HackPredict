@@ -1,0 +1,7 @@
+Ever since Rad Tad was just a boy, he heard about the legend of Mushroom Moon, a magical floating mountain that if you could climb to the very top, you could reach all the way to the moon and beyond. But no one he knew had ever reached the top, so one day Rad Tad decided to try for himself.
+But Mushroom Moon is not without its dangers. Eat the wrong mushrooms and you could find yourself as small as a bug. But in order to reach the top, you would have to eat just the right ones to grow big enough to get to the next level of the mountain.
+Requires the gamepad controller.
+In this vertical platformer, you must eat enough red mushrooms to grow big enough to reach the next platform, until you finally reach the moon. Purple mushrooms will shrink you back down in size.
+Level 1 introduces the core concept and game mechanics. Subsequent levels will introduce new challenges and puzzles for Rad Tad to solve.
+Mushroomoon plays with the idea of changing player scale in order to solve challenges. Grow big enough to reach an objective, or shrink down to pass through small passages.
+Using fixed 3rd person perspectives with careful camera cuts creates a comfortable platformer experience with no sim sickness.

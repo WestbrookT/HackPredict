@@ -1,0 +1,12 @@
+It's basically Mine Cart Shooting Simulator and Virtual community Simulator.
+It divided 2 parts and also has multy playing system.
+In a 'Mine of Oberon' Part, 
+you'll get some energy source from gemstone by shoot them
+and use it for select some sort of stuffs that you like in entrance.
+It'll be The Seed for creating random dreaming world.
+Each stuffs has different Theme.
+In a 'Dreaming world' Part,
+you can travel and playing with your friends.
+Dreaming world is created by stuffs that you choose from Mine of Oberon.
+Every random map world will be disappear when you return to the Mine 
+or exit the game and you'll never get into the same world.(like a dream.)

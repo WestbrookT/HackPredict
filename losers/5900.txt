@@ -1,0 +1,2 @@
+We wanted to solve the problem that is the 5 star rating - an ambiguous and useless feedback mechanic widely used by billions.
+We replace the 5 star rating with Adjicons, a form of feedback that requires less thinking, less ambiguity, and more useful feedback on products, services, and more.

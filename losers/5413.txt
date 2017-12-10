@@ -1,0 +1,11 @@
+[Note: The video and images don't do it justice at all; it's much better inside Gear VR.]
+Fearless helps you overcome your fears using VR. 
+In this demo, you'll start in a room looking at a cartoon drawing of a spider:
+A guide will walk you through the process, and you can proceed through the levels at your own pace, confronting your fears and learning how to handle them. This method is inspired by exposure therapy (aka systematic desensitization), which has been shown to be 85-90% effective in eliminating or dramatically reducing fears. 
+Since it's a demo, it's an abbreviated version. It's partly an experiment to see if a very short version of the software can help people. 
+Controls and Mechanics: The controls were designed to be as simple as humanly possible; simply tap the touchpad to continue. There is no "UI", because I wanted people to feel grounded in the environment. The audio guide walks you through everything and lets you know when you're free to continue, but if you need any extra time on a level you're welcome to wait to tap until you're ready.
+Innovation: I'm hoping this experience (or at least a full version of it) can truly decrease people's fear of spiders. The goal here was to take ideas from a physical, real-world scenario (exposure therapy with a therapist) and try to carry over the experience into VR. I tried to make the spiders feel as real and physical as possible, using shadows, 4x antialiasing, and good animations.  The audio guide is a really effective way to both guide you through the experience and make you feel like you're undergoing exposure therapy.
+The video and images don't do it justice; it looks much better inside Gear VR.
+Though this demo deals with spiders, there are many other fears that can be overcome using VR. If you're a developer interested in this space, please contact me!
+http://FearlessVR.com
+Spider photo credit: Hunter Desportes

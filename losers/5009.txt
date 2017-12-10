@@ -1,0 +1,18 @@
+When we first heard about this hackathon, our first thought was accessibility and simplicity. The three authors of Ubertext live in London, where you can easily lose your 3G/4G data connection just by entering a bar or restaurant, leaving you not able to use Uber.
+Also we have parents who don’t currently use Uber, as they’re from a generation used to the traditional minicab experience of calling or texting for a taxi. We love using Uber so we wanted to make it available to everyone, everywhere.
+Our solution was to create a service where using Uber would be as simple and fast as sending a text.
+Even today many people don’t have smartphones. In the UK and US there are some age brackets where more than 30% of people are not using smartphones.
+These numbers don’t include people using new phone operating systems incompatible with Uber right now: Firefox OS, Ubuntu Phone, Sailfish. We want to offer these people a way to use Uber and its great experience.
+We decided to go with text (SMS) because it's simple, doesn’t require data, and people are familiar with it. Text works on every phone, texts are affordable (often free). The authors of ubertext travel abroad frequently; we were in Montreal and San Francisco recently where we didn’t have data roaming enabled on our smartphones so couldn’t use Uber which was very frustrating. This is a common scenario due to the expensive fees mobile networks charge for foreign data access.
+Ubertext is a great solution for partially sighted people, text fonts on phones can be increased, or you can even use voice controls with technology such as Siri on the iPhone.
+Ubertext is aimed at people who want to use Uber but currently cannot; because data access isn’t available, because they cannot use the app, because they don't own a smartphone. It’s also very handy if your battery is really low!
+For some people ubertext will be the main channel to request an Uber because of the simple and accessible experience, for others ubertext will be an occasional fall back when traveling, without network, or with low battery.
+We’re really proud to have created something so simple and intuitive that virtually no instructions are required:
+The experience of booking is simple as sending a text to your friend or family, and also as fast as sending a text!
+Rachid Belaid, Belgian Software engineer living in London
+Peter Graham, British Software engineer living in London
+Robert Berry, British Software engineer living in London
+We’re informally launching Ubertext on the 15th of May but won’t be publicly announcing it until the 16th of June when the winner of the hackathon is announced. Any feedback from Uber will be appreciated. 
+Ubertext has been developed in Python using Twilio for SMS integration, during the Beta ubertext will be free to use.
+http://www.marketingcharts.com/online/smartphone-penetration-rising-in-all-age-and-income-demos-hits-75-of-us-mobile-market-51585/
+http://www.deloitte.co.uk/mobileuk/assets/pdf/Deloitte_Mobile_Consumer_2014.pdf

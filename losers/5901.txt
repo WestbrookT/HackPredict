@@ -1,0 +1,6 @@
+Concur's Perfect Trip
+The plugin leverages the compute power of our app powered by node.js and hosted in Atlantic.net. Continuously integrated with CircleCI.
+Finding the right documentation for the APIs, limited to certain platforms for integrated testing and development.
+We have a system that makes booking travel even easier and leverages the power of Outlook, a common tool in the business place.
+The Outlook API, and CircleCI.
+The World!

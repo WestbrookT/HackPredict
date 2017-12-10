@@ -1,0 +1,8 @@
+“City of the Dead” is a first person horror shooter putting the player in the center of a city square with hordes of zombies coming for him. How long can you survive? 
+Using 3D sounds, the player hears the approaching foes before he can see them. Turning towards the sounds they will come into the lights of the street. A dense, dark atmosphere created with shadows & light as well as sounds & music will give the player goosebumps while enjoying a unique horror VR experience. 
+Upgrading your weapons and honing your skills with the gun, rifle and knife are essential for a competitive score. Use the few and short breaks to update your stats, reload your weapons and improve your health. Timing and aim is everything in a city infested by the walking dead.
+Choosing the Unity game development environment to bring 'City of the Dead' to VR cator GmbH is venturing into new territory.
+Cator GmbH, Lünen, Germany,  was founded in 1999. The core business is the development of website solutions. Web-Design, Web-Shops and Web-CMS allow the team to follow the passion of making games in their own time. 
+cator GmbH
+Hüttenallee 67 • 44534 Lünen
+Tel 0 23 06 / 7 56 69-45

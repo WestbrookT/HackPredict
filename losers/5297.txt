@@ -1,0 +1,14 @@
+TeachMe: is a fully immersive learning platform that helps teach everyday skills through interactive VR situations. It allows users to explore, interact and learn from a wide range of subject topics in a fun and engaging way. 
+Specifically for this VR jam we will be producing TeachMe: Photography. We will Take advantage of the hugely immersive nature of virtual reality to give you a fun and exciting way of learning this complex topic. With TeachMe: you will become a professional photographer within your own studio, learning the functions of the equipment and how to take control of camera settings and studio lighting to produce the perfect shot every time.
+The Visual stimuli involved makes information easy to understand and memorable to the learner. You will be able to interact with the many subjects directly using user friendly and intuitive UI. These skills will then be transferable to real world photography, helping you to develop as a photographer by giving you a keen eye for composition, lighting setups and camera controls. 
+Controlling your way through the experience couldn’t be easier, using a combination of gaze and touchpad tapping and scrolling to interact with a number of hotspots throughout the lessons, you are able to go through the learning process at your own pace, exploring the area rather than following a set guide allows you to focus on your interests and take in more information.
+You will have access to a professional studio,  be able to pick up and explore a digital SLR camera, learn the basics of how to studio light and set up your shot and even be able to photograph your work and save to your built in portfolio to show off your handy work to friends!
+We believe our innovative techniques of teaching through exploration, experimentation and immersion are a groundbreaking step in the direction education could develop in the future. Beyond this Jam we plan to develop TeachMe: into a fully open learning platform, giving the chance for others to create content with a huge variety of subject matters and experiences.
+-Milestones-
+Milestone 2:
+So far we have got the basic environment setup and we are writing the content to fill up the app.
+Milestone 3:
+Long week! We have made changes to the flow of the app and how the user is going to learn. Content is being built along side the app and is close to being put into the app. We look forward to showing you everything in the final week. One last push!!!!!
+Milestrone 4:
+Annnnddd we are done!! All the content is in and we have a functioning app ready for you to all enjoy. Hope you have enjoyed following our progress and we are now looking forward to checking out everyone else's apps and games.
+Thanks from team TeachMe: !

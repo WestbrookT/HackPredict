@@ -1,0 +1,6 @@
+Take the role of the Wizard, and gather the resources of your land in this VR twist on Tower Defense.  Atop The Wizards Tower, you'll gather the raw powers of the elements in order to smite your foes and protect your people.  Each of the four elements combines with the defensive towers in different ways, or can be used to spawn defenders for you to place.
+Manage your resources, defend your village, and keep back the hordes!
+'Atop The Wizards Tower' is our attempt to play with scale, and have the game world feel like an expansive diorama. Plenty of moving pieces and lots of player interaction.
+The game has a simple and intuitive control scheme using only the head tracking and touchpad of the Gear VR:
+The desire was to reward the player for looking around, managing their resources, and spending them wisely. It rewards quick thinking, strategic planning, and keeping calm under pressure. There is a special kind of tension created by having the player look away from the action in order to grab more resources.
+The key goals were to have it be easy to pick up and play, and as a seated experience, avoid simulator sickness (player comfort was something we struggled with during the last jam).

@@ -1,0 +1,7 @@
+We love going to the gym, but we don't always have someone to go with.
+It links gym goers in the same university by suggesting people with the same availabilities and interests.
+Using Xcode, swift, and firebase as out database.
+User authentication using firebase was a challenge. Also, Swift was a new language to us. We also ran into github problembs. 
+Getting user authentication to work and have a working UI model.
+We learned a new language and how to integrate a working database in our IOS app. We also learned how to use XCode's UI model.
+We're going to finish the app completely and maybe even put it on the app store!

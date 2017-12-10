@@ -1,0 +1,4 @@
+CATEGORY : EXPERIENCE
+FEATURE : MAP YOUR GAME CHARACTERS TO YOUR REAL LIFE CHARACTERS
+DESCRIPTION : The game characters are replaced by the characters uploaded by the player.To make the                      player experience real the player is provided option to choose real characters by uploading images. 
+The player finds himself/herself on the screen and gets thrilled to play with real feel.Not only the player but other characters in game can also be swapped by their real life characters.for example the anti player character is replaced by some foe of player.Psychological studies also proves that this type of experience bring out real emotions of player to game and the player becomes happy ,relaxed and contented after the play.

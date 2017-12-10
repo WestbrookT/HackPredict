@@ -1,0 +1,5 @@
+Looking for the nearest color printer that is 25 cents or less per page? Check out Cornell Printers to fulfill all your printer-finding needs.
+Cornell Printers is a one-page website that displays a Google Map centered at your current location, along with markers to the Net-Print printers around campus. Printers can be filtered by color (Black/White or Color) and price. Below the map is a table of all Net-Pay printers that can be sorted by other details including dpi and whether it prints single/double-sided.
+Website was built using Cornell's Net-Print printers list, AngularJS, and Google Maps.
+I now finally know where to find printers on campus.
+AngularJS and how to use the Google Maps API.

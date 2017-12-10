@@ -1,0 +1,1 @@
+My game is a first person racing game that takes place in a zombie Apocalypse. The players can run over zombies and other objects for power ups, health and points.. The player can use their points to purchase new power ups such as speed boosts, projectiles, saws, slows and health. Players will control the car and weapons with a combination of a game pad and head movement.

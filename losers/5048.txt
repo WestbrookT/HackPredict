@@ -1,0 +1,11 @@
+Educational game for Virtual Reality about cell microworld in early development stage. This Jam is a great oppurtunity for our team (5 guys) to hack the development roadmap and meet real feedback from players and experienced judges.
+The player will experience an exciting journey into patients's cell to observe a fascinating microworld of human body and fight in never-ending war against destructive viruses.
+The future is nigh. The humanity is standing upon the brink of a new era where modern healthcare makes tremendous scientific advancements. With the help of nanotechnologies a surgical prototype bathyscaphe allows its operator to shrink to a microlevel and travel inside the patient's body.
+Blending object with Cubemap (sky)
+Pros:
+
+float3 color = LightUp();
+float3 fog = texCUBE(_SkyBox, eye).rgb;
+color = lerp(color, fog, linz);
+
+http://www.youtube.com/watch?v=P05DJAZkvEM

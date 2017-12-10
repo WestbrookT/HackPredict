@@ -1,0 +1,1 @@
+We have been working on a number of different enterprise use cases: travel planning and real-time execution, marketing and competitive intelligence support, and project management support. The Uber scenario was an interesting use case so we decided to take it up and hack it together for this challenge.

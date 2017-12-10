@@ -1,0 +1,6 @@
+In Vrisör, you can take the role of a barber (Swedish: frisör). Don the barber’s hat and style a virtual character’s hair with different hair styling tools, such as scissors, blowers, sprays, and pincers. There’s also supposed to be a final tweak that will enable you to admire your work and share the fun with others.
+The graphics will be kept simple. Assets, avatars and particle-based hair will be used with standard shaders.
+The game interface will be kept simple. No graphical user interface is planned, the experience should be intuitive and with a self-exploratory touch. Your only motions will sliding (on your virtual barber’s chair) around the character, and you will be able to look from different perspectives and mirrors.
+The selection of tools and their interaction with the avatar / hair will be based on real-time animated hands. How to best control these hands with the mobile controllers allowed for the VR jam will be the main challenge of this submission.
+Final word before you take up the razor: you’ll not be able to get points for the best hair style (yet), but we hope you’ll have fun with this VR experience!
+Additional Credits

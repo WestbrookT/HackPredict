@@ -1,0 +1,25 @@
+An action packed two-player VR game. Survive with your companion, maintain your humanity and escape becoming a feast among the dead.
+By 2050, artificial intelligence far exceeds mankind's. With great intent, the creators of Eris, the worlds most advanced AI system was programmed to resolve what humanity continues to struggle with, famine, war, disease and inequality.
+In an unexpected succession of events, Eris’ answer is to sift through humanity and do away those who hold her from utopia.
+Set in an underground complex, home to her experimental test subjects. Eris executes her 4-stage project:
+Players must fend off waves of bloodthirsty zombies by finding the hidden tools and either plow through the monstrosities or run past them to complete the stage. 
+Players must venture through a maze room with intricate arrangement. Clues are scattered around the maze and must be found in order to gain access to the next room. Both players must think beyond conventional ideas. 
+Deliberate intentions to separate players lead them into pre-assigned environments: laser and gas rooms. Players must watch one another suffer as they negotiate through their respective challenge. The player must successfully avoid all strategically placed motional lasers in order to allow player 2 to proceed. The final section requires both players to cooperate and find missing codes for the other to enter within the time limit before being exposed to poisonous gas. 
+The final stage tests each player’s mental strength and determination to judge their willingness to sacrifice for one another as Eris announces that only one can survive. The final struggle is intensified when a wave of zombies is released, and the decision of life and death is to be made instinctively. The conclusion of this game of trials sees a final twist in the storyline. Who will be the one to survive? 
+Code-X requires Samsung Gear VR and game pad controller. 
+The game tests each player’s ability to follow tasks, find clues and cooperate together in a new effective way to progress to the next level. There are twists and turns within the storyline in an attempt to take the players off course and lose hope. Both will require their mental agility to be able to fight off what’s around the corner. Failure for both players to survive will result in the termination of the game. All in all designed to make this game a thrilling and unique experience. 
+The game design is centred around real world Escape Room games, based upon attractive or popular themes. To escape, players will need to solve various puzzles. 
+A few limitations in the real world scenarios (such as, cost, small range of locations, unimaginative puzzles) can be overcome in VR setting. The VR Gear can help experience the impossible in the real world and achieve a far superior and immersive feel. 
+“Code-X” is the first theme of a series, designed for our VR escape room game.
+This is a two-player game. Both players must download our “apk” and install on Galaxy Note 4.
+Upon starting, follow the UI first before placing in VR headset:
+Player 1 should choose “Start Server”. Player 2 should choose “join escape”. Following the pairing process, both players will join the game and be able to see one another at base. 
+Then, you can place your Galaxy Note 4 in Gear VR. Use your touch pad controller to navigate through the game.
+The functions of the game pad controller are illustrated below:
+• Photon Unity 3D Networking Frameworks SDKs to implement our multiplayer function.  
+• Serialized views in Photon are implemented in order to sync multiplayers' action and scene objects.
+• Design Enemy AI system to make the enemies work more intelligently.  
+• Implement holographic effects to make the scene meet our game theme (Sci-Fi).  
+• Use ray cast mechanism in unity to make a interactive ways of manoeuvring within the game.  
+• Orchestrated all music within the game to enhance immersion.   
+• Several ways are used to recude the drawcalls to fit mobile platform, like occlusion, light mapping, and clipping planes in camera etc. 

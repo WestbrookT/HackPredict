@@ -1,0 +1,7 @@
+you tap it and talk about the place that you want to go.
+Then the place is displayed on GearVR as a celestial sphere image by voice recognition.
+It use the image of the Google street view.
+It use the voice recognition of android.
+In addition, you can talk with the player whom a coordinate is close in in voip in a plan for multiplayer and stop at the distance, and the volume changes.
+you see the avatar of the partner, too.
+On the Movie,I tried to run Nexus5 and Dive SDK.

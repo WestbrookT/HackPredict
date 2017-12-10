@@ -1,0 +1,14 @@
+We hate current advertisments, we want something personalized and suited for each customer.
+We personalize your shopping experience. Every time.
+Based on face-recognition (identity of known faces) and categorisation of new faces  (gender and age) we provide personalized product recommendations, which helps shoppers to find what they really want. And shop owners get to increase their sales.
+Think about it as offline cookies on steroids. 
+And user can even buy product they see in adverts (either store front or in-store, vertical wall displays) with our iPhone app.  
+We built client-side (quick) and server-side (accurate) face recognision. 
+Finding the right balance and confidence levels without "violating" api limits ;) and providing fast feedback for user was challenging.
+An entire shopping experience with fast and accurate face recognision.
+Amazing things from all APIs used.
+How to use OpenCV in C++ on iOS.
+Pitch the project in our company (Inventorum).
+https://github.com/bartg/ecommhack.ios.iphone
+https://github.com/bartg/ecommhack.api
+https://github.com/bimusiek/faces.ios.ipad

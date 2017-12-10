@@ -1,0 +1,3 @@
+In the year 2134, we discovered an abandoned alien civilization. Their worlds have long been abandoned. But they left behind a number complex labyrinths, that may hold treasure. Equipped with your trusty space pod, your mission is to infiltrate these structures and extract any artifacts you can find. But be careful, there are many traps and puzzles to overcome if you want to make it out alive!
+Milestone 2 Progress: Currently working on handling input, jump gate mechanics for the pod, and blocking out the model size for large rooms.
+Milestone 3 Progress: This video shows a prototype test of movement in a blocked out environment. Still a ton of work left to do...

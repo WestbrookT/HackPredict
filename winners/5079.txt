@@ -1,0 +1,7 @@
+Wanted to build an app for people who are suffering from Asperger's and Autism.
+An Android app converts the user's speech to text, then interprets the text to determine the speaker's emotion.  We used the IBM Watson's Tone Analyzer API to determine the strongest emotion conveyed by the text.
+Used Android Studio, Google Voice to convert speech to text ,and the IBM Watson's Tone Analyzer to determine emotion. Vokatori was also used to further refine the results.
+The app frequently crashed upon requesting the response from the IBM Watson API due to threading issues.  Vokatori was also difficult to integrate due to its need for .wav audio files which Android doesn't natively support.
+It was first hackathon for all of our team members. The fact that we managed to have a finished project that is working makes us proud.
+How to integrate different APIs into different work settings.
+There is a time limit for voice recognition. We want to control voice recognition running time until the user stops talking.

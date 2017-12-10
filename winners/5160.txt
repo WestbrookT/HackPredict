@@ -1,0 +1,11 @@
+I am a student who commutes to RIT every day with my personal vehicle. Every morning I drive up to my building and work backwards to find the closest parking spot. While I'm doing this I see several other people doing the same. Not only is this stop/go making you late for your 8am - it's a waste of gas and puts unnecessary stress on your car. We're building a solution to make parking quick and easy.
+There are two parts to our software. 
+On the back end we have a python script running on a raspberry pi which images a parking lot using an overhead camera. Using computer vision library OpenCV we are able to process these images and determine which parking spots closest to your building are free. The application currently updates a database 10 times a minute. 
+For the end user we have created an Android app to interpret this data. A user can punch in information such as which building they are trying to enter, which lot they prefer, and their type of parking pass. The app then sorts through the database and finds the best parking spot for the user.
+Using Python and the OpenCV library, we wrote a script that continuously updates a remote database with current lot values. 
+Our Android app prompts a user for the building they wish to park near. Next, the app pulls the parking lot data from the server to determine the nearest empty spot to their desired building. 
+In order to have a presentable functioning prototype, we constructed a parking lot which can house hotwheels cars. We used this scale model to test our software's capability in an actual application - and it worked really well!
+Having never used OpenCV or Android Studio were both major challenges. With the help of google and OpenCV documentation we overcame these struggles.
+Creating a functional application using tools we have never looked at before. 
+We learned how to build an app from the ground up. None of us have designed such a complex program that as a real world application. We are really excited to improve it from its current state.
+There are many applications for a service like this. The original idea was to make parking more efficient and quick - but there can be so much more. We have thought of implementation in car computers (android auto, Apple carplay) and even self-driving/parking cars.

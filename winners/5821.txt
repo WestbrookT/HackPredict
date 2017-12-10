@@ -1,0 +1,19 @@
+What if you could feel like you were really part of the news, there at the scene? How about participating in a precise heart surgery operation from thousands of miles away? Or getting guidance on how to fix an oil rig from a trained operator on shore?
+All of these things are possible with the rise of WebRTC technologies and affordable Virtual Reality Smartphone powered Head Mounted Displays. 
+Gigabit networks are well equipped to support the massively increased bandwidth usage of VR streaming to millions of users. 
+We arranged two high definition webcams in a stereoscopic configuration to capture two video streams simultaneously.
+We then combined the two webcam streams in the browser using javascript + HTML5 into a Virtual Reality headset composite that we streamed using WebRTC over a high-bandwidth connection to a smartphone.
+The smartphone displays one video stream for each eye. We used an Immersion Vrelia VR headset with the smartphone to provide an immersive live virtual reality experience.
+The dual-webcam prototype can be mounted on a Kubi teleprescense robot, which can be controlled by a 9-degrees-of-freedom motion-sensing Plantronics earpiece.
+We are able to transmit this anywhere and have a demo of cross-country transmission from San Francisco to Kansas. 
+Challenge 1, Webcam Orientation:
+Mounting the webcams horizontally next to each other make the CCD lenses way to far apart because the camera body is very wide. The distance between the two camera lenses was wider than the average human interpupilary distance! We were able to overcome this challenge by orienting the cameras in a horizontal position and using software to rotate the resulting images. This allowed us to bring the camera lenses a lot closer together for a more realistic stereoscopic viewing experience. 
+Challenge 2, Streaming two videos at the same time:
+We quickly realized that WebRTC would grab only the first camera and transmit this one, we found that we had to use a windows machine to transmit both cameras in order avoid temporal disparities between the left and right view. 
+Challenge 3, Playback viewing from a smartphone:
+Our final challenge was to ensure a fullscreen viewing experience from a mobile browser on a VR headset. 
+WebRTC extended with Full VR streaming and viewing capability. 
+Fully synchronized stereoscopic camera system streaming simultaneous streams. 
+Enabling the ability to go anywhere, be anywhere, and change the way humans work, play, and interact!  
+We learned a LOT about WebRTC and multi-camera setups. We also learned that we don't want to live without Gigabit fiber anymore in our homes! 
+Next step is to see some real world use cases. Let's get some news stories streaming the news through VR! Let's have a class streaming to students wearing head mounted displays! 

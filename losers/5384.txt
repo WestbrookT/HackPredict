@@ -1,0 +1,1 @@
+We use image based rendering, depth image segmentation and inpainting to bring to life photos and videos in VR. Starting with Android lens blur images we hope to be able to take depth images to a mainstream experience, giving a satisfying sense of parallax and presence when viewing images. Simply open lens blur images with 'share to' to try out 3D image rendering.

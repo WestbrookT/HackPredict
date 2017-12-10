@@ -1,0 +1,6 @@
+installr.io is the fastest way to install anything in under 20 seconds for your mac.. You check all the software you want we auto-generate one line of code to run in your command line. It is inspired by the pain we all have of configuring a new computer. Piggybacking off some gorgeous (realistically, pretty ugly) shell scripting, it uses brew cask to find all the available.
+Search all the software you want, check all the boxes, and we generate a one line of code to install everything.
+Shell scripting is a nightmare but makes you feel like a real "to-the-metal" hacker.
+Getting it work realistically, isn't that what everyone is proud of?
+React.js can be evil.
+The Mac App, and building the open source of app store which runs on linux, windows, and mac.

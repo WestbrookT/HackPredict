@@ -1,0 +1,2 @@
+Kaneda puts the player into  the helmet of a high speed motorcycle while dodging traffic.  Players will use the advance HUD in the helmet to help weave and dodge through traffic at blazing speeds.  This game rewards high risk maneuvers that include near misses and driving at oncoming traffic.
+We are looking to give players a thrilling experience of driving at high speeds and the futuristic vision of advance HUD systems.  We plan to implement slomo features that will allow the player to dodge and weave in between cars with complete precision.  

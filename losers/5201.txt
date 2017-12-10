@@ -1,0 +1,19 @@
+Stone Road is part board game, part puzzle and part fantasy adventure, inspired by the tactile nature of recent mobiles games like Zen Bound, The Room and Hitman GO as well as grid based dungeon crawlers like Legend of Grimrock and the leisurely puzzle solving of the Myst games. 
+Stone Road has a grid based movement system for both the player and NPCs. This works surprisingly well in VR as the player has the freedom to play the game at their own pace, without having to worry about complex control schemes, and also gives the player the time they need to become familiar with their surroundings.
+The artwork of Stone Road is one of the challenges for this competition. In order to keep the player feeling as if they are inside the game world the environments must be convincing, consistent and intriguing. In order to achieve this I am using a combination of traditional 3D modelling and photogrammetry to create assets that look convincing enough but also, hopefully, new and interesting enough for the player to feel comfortable and want to stay in the game as long as possible.
+Milestone 2 Update:
+This week has been spent on story writing and 3D scanning! 
+I’ve started the process of replacing temporary assets with better and more optimised versions. These new versions are, or will be, 3D scanned from London’s many parks and historic buildings. This is an important step and will hopefully make the game not only look better but also keep the frame rate as high as possible.
+The story for the game is coming along nicely as are designs for puzzles and adversaries. This is still in a state of change as I whittle down my massive ideas into something that can actually be finished in the next two weeks!
+Milestone 3 Update:
+Made a saucy teaser trailer that contains both gameplay and cinematic shots of the game. 
+Stone Road Milestone 4:
+I’m finished!
+It was pretty tough but I managed to finish my game. It’s a bit different than when it started, but still retains the same look, feel and gameplay as my original concept.
+How To Play:
+Stone Road is a series of short grid based puzzles when the player must locate an item and return it to its owner. The player must simply avoid the patrolling guards and work out how to reach their goal.
+Controls:
+Controls are very simple. The user taps on the touchpad to move one grid space in the direction they are looking. The player also has to tap on the touchpad to interact with items in the game world. That's it!
+Gameplay:
+The goal is very simple. Locate an item and take it somewhere. But where the gameplay comes in is how the player must assess their surroundings and navigate past various configurations of patrolling guards. The guards move when you move, sometimes one space, sometimes two. So you must think two, three or even four steps ahead in order to survive!
+It’s been a lot of fun making Stone Road and I hope you all enjoy it. Can’t wait to play everyone’s games!!

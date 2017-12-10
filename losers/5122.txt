@@ -1,0 +1,5 @@
+※ Please understand that I can't English well.
+This game elementary mechanism is a Avoiding-Game like 'Cross Road', 'Flappy Bird'.
+Player jump into the road that cars come running to you at high speed.
+Player should avoid cars before crashing.
+I'll make it using Unity Asset Store's assets.

@@ -1,0 +1,3 @@
+An aggregated shopping centre to make your shopping life much easier.
+Many of us, especially those on a student budget with the hearts of geeks, are forced to obsess over expensive items when purchasing them. We spend time hunting down what we believe to be the best deal across all our favourite stores, only to find out right after we purchase the item that there was a better deal around the corner, right under our nose.
+The idea behind Buyrs is to take away all that wasted time and optimize your subscriptions to shopping. Simply create a corpus of places you want to buy your items from, and search them up. Click subscribe, and await email notifications for sales.

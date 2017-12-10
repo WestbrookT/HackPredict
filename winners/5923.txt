@@ -1,0 +1,11 @@
+Chemistry class
+Does some Chemistry calculations and shows work.
+We used Java and Javascript with a GupShup chatbot.
+Combining Java and Javascript, as well as sending messages between each other.
+Creating a LaTeX output that shows work with steps.
+Combining multiple languages is harder than it seems
+More units accepted
+More types of problems
+Better step explanation
+Better balancing algorithm
+Chemical names/verification

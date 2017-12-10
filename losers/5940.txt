@@ -1,0 +1,7 @@
+Elderly people have the most to gain from the convenience of integrated technology appliances, but are the least savvy to take advantage of them. Purview provides an easy solution in the form of an augmented reality app that highlights and controls any IoT enabled device from a simple visual interface.
+Purview utilizes trilateration via bluetooth and wifi signal anchor points to pinpoint connected devices' locations much more accurately than GPS can. It then displays this information on a smartphone or tablet camera interface to create a 'remote control' to interact with these devices.
+Mapping the anchor points of the wi-fi routers in the hackathon area was difficult due to the fact that their signals bounce off the walls, creating noise. 
+We're proud of the trilateration and statistical weighting algorithm. We're proud of mastering augmented reality on iOS and Android in less than 24 hours. We're proud of a sleek, accessible design with intuitive interactions. And we're proud of our team, which came together without knowing one another at the start of the hackathon.
+Android
+iOS
+Everything.

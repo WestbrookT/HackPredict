@@ -1,0 +1,4 @@
+BYOD @ The Museum
+I’m studying the concept of BYOD (Bring your own device) to businesses and public spaces. This concept involves the use of many technologies including IoT (Internet of Things), Geo-Fencing, Bluetooth Smart, NFC tags, QR codes and their use and impact when deployed in many different environments. 
+I have chosen a Museum as the test subject for the hackathon which allows the use of all the techs mentioned plus these locations attract large audiences to stress both the hardware and software. Most of these locations have limited WiFi connections and are prime targets for deploying Gigabit bandwidth to handle the volume of users.
+Dozens, maybe hundreds of devices all accessing photos, video and data at the same time, now that’s a challenge for any business or public location who which to do a BYOD strategy.

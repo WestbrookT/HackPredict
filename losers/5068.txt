@@ -1,0 +1,16 @@
+Inspiration:
+For ALS patients to move around by themselves by analyzing their EEG signals detected by the Neurosky Mindwave headset.
+How it works:
+The Neurosky EEG signals are sent to the computer via Bluetooth. The signals are then parsed and sent to the arduino through the laptop. The hexbug robot remote is hacked and connected to the arduino. The signals received from the arduino will move the hexbug robot accordingly.
+Challenges I ran into:
+1.Connecting Neurosky to laptop
+2.Parsing the Neurosky data and sending it to the arduino.
+Accomplishments that I'm proud of:
+1.Able to connect Neurosky to laptop
+2.Hack the hexbug remote 
+3.Control the robot through arduino
+What I learned:
+1.Be thoroughly familiar with all the software requirements before Hackday
+2.Time management
+What's next for While(True):
+To make it completely functional and implement new/additional features to it.

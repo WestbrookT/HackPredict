@@ -1,0 +1,4 @@
+We wanted to create a more interactive way to share location-specific experiences 
+You record videos and leave them in 'crumbtrails' which other users can discover and follow.  
+Functional prototype
+We would love to add some more features. 

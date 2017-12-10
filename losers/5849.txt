@@ -1,0 +1,2 @@
+I'm a musician.
+Play music live with your friends over the internet. Anyone on the webpage can use a MIDI controller to play, and everyone will hear it!

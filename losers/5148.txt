@@ -1,0 +1,8 @@
+We have fond memories of playing with building blocks as a child. We loved creating towers, castles, race cars and spaceship from those tiny colored plastic blocks. We went on fantastic journeys through wild west cities, were medieval dragon-slayers or exploring scientist on the outer rims of the known galaxy.
+'Rocket Builders' brings back part of that childhood pleasure in an engaging VR experience. Build a rocket ship and escape on a wild ride through the solar system.
+There is just one small problem. The building blocks are scattered all around the room and you have to find them in order to assemble the 'Star Gazer 1000 Exploration Rocket'.
+'Rocket Builders' combines hidden object game mechanics & puzzles with the VR experience.
+The game can be controlled with the gamepad.
+Gamepad
+The game is being developed by Raincity Games LLC, Bothell, WA USA, using the Unity game engine.
+Raincity Studio was founded in 2007 by Dan MacDonald. We have been developing games for the XBox 360 and mobile devices including the Dream Build Play

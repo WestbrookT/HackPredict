@@ -1,0 +1,7 @@
+The quadrupeds at Boston Dynamics were our inspiration in designing this robot.
+It has two different walking gaits as well as exact coordinate movement for singular legs
+I did the hardware over the summer. It was built from scratch in my basement and we wired and programmed it today.
+We spent hours troubleshooting the wiring. In the end it turns out the problem was a bad breadboard. We also ran into numerous programming challenges, most of which were syntax errors.
+Honestly the accomplishment I am most proud of was figuring out the breadboard issue.
+Our whole team learned a lot about Arduino, programming robots, and electronics.
+I definitely plan to add some sensors as well as refining the hardware. After that I plan to optimize the walking programs and eventually get it to climb stairs.

@@ -1,0 +1,15 @@
+P.U.S.H: Preventing Unwanted Social Harassment
+Here's how it works:
+You're all set!
+Once you configure everything, don't worry about going out! In the unfortunate circumstance where 
+you need to use P.U.S.H., have peace of mind knowing that you will be heard by your Group and 
+they will be aware and come to your rescue. 
+Remember, you are not alone.
+All of us are female college students, and we have either experienced or known someone who has experienced an awkward or uncomfortable (or even dangerous) situation when walking on campus at night or at even at a party with friends/strangers. We decided an app with a quick way to notify specific people in custom made groups would help this problem. Sometimes in these situations, you can't pull out your phone and make a phone call, but what if you were able to push a button and the app would send an automatic text asking for help from all the friends in your group? Being discreet but getting help from your friends is important for safety!
+We built P.U.S.H on Android Studio with code written in Java. For each page in our app, we created a new "Empty Activity" and added functionality to each page, whether we wanted a list of Groups, an option to add a new Member with a name and phone number, or buttons to Save and go Back. We used the Bandwidth API to be able to enable text messages to the Group.
+We used a GNU GENERAL PUBLIC LICENSE. 
+We originally started hacking with hardware (Arduino), and wanted to have an actual button get pressed and over bluetooth it would connect to our app and send the message, but we were not able to figure out how to get that to work with the time we had. 
+We are proud of having a working Android app with a nice UX, that solves a problem we think is important. We are also happy that we were able to incorporate the Bandwidth API and send text messages from that number to our phones.
+We want to add location services in the future, so that once the people in the Group are alerted of their friend's emergency, they will be able to locate them. This will be a useful feature when people get separated at a big party or even in the city at night. 
+Another thing we want to add is the option to select and import contacts, instead of having to manually add people's names and phone numbers. 
+We also want to be able to add "Current", "Favorites", and "Other" tabs for the Groups and Messages pages, for organization purposes.

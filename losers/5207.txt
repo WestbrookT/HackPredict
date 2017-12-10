@@ -1,0 +1,15 @@
+Story
+Eden is currently investigating the history of the Maycaster Estate, and wants to hopefully find clues on the disappearance of Nora Maycaster.
+Unique Style
+Game style:
+Realistic [life like art style] and Stylized [easier shading, higher contrast in lighting]. The point is to create a style that looks like an old photo:
+Abby Jurassic Dark (3D not 2d)
+1916 Der Unbekannte Krieg
+Essential game mechanics: (Makes a unique experience)
+Post your Score
+If you run out of time then the dark entity catches you and it is game over. Score determined by how long it takes you to collect all of the Spirit Orbs in the level. If you don't do it in the required ten 10 minutes you lose.
+The game should be a relatively short experience to allow more detail in the visuals. We chose a mansion because at this moment, everyone is focused on asylums, hospitals, and prisons; allowing this experience to be unique as well.
+Controls
+Eden starts the game in 1st person view. 
+P.S.
+Thank you for playing our game. We hope that you enjoy the puzzles we put together. And as always, please vote for us!

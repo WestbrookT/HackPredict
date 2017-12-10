@@ -1,0 +1,19 @@
+This is the story of a orc gentleman who wants to avenge his sheep who are abducted by evil UFOs...
+The only way possible is... with his segway and exploding sheep!
+Surprised? Read on...
+Fly trough the room on your segway while sacrifyng your most precious sheep as projectiles to destroy the UFOs. They will never see that coming. Revenge will be terrible!
+The player controls the character by moving the head around. The game is fast controlled to give the best mobility as possible. Granting opertuneties for tricks and figures in the air.
+A touchpad pression to fire an exploding sheep in front you.
+A touchpad swipe to the right teleports you back behind.
+Our game provide to the player a flying experience. It makes you feel like flying an air-plane. You can fully control the character and do loopings, barel rolls and easily move around obstacles.
+In all good air-plane game mechanics you have two modes. A flying mode where you can just fly around. And a battle zone.
+For the battle zone, you are equipped with your powerful weapon: Exploding sheep!
+The objective of the player is to destroy the evil alien base that sustain the UFO dimentional portal! The base is guarded by UFOs and turrets.
+Fake positioning tracking.
+Our game simulates the position of the head based on it's rotation. With this technique, we provide the player a way to observe his surrounding, without the need of position tracking.
+In the game you fly around with the orc and use your head direction to direct your movement.
+What makes a game in virtual reality interesting is the fact you feel the depth of the scene. We build the level with this fact in our mind to make it as interesting as possible.
+With this depth vieuw you can fully avoid projectiles in mid air.
+We created a typical realistic room from scratch to make the player feel comfortable as at home.
+Madness.
+And noodles...

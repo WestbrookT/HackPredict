@@ -1,0 +1,3 @@
+At the time of his death, William Blake was working on a set of illustrations for an edition of Dante's 'Inferno' (including a map).
+Using a rudimentary maze, I propose to re-create that map employing a game engine, although the purpose will be educational. As the user descends towards the Ninth Circle of Hell, the voiceover will read the accompanying text for each image.
+Update: As best I can, I will have the terrain match Dante's description (water, trees, cave).

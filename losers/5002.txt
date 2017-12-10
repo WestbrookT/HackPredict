@@ -1,0 +1,3 @@
+Having access to transportation changes lives and we believe everyone deserves access to transportation.     
+There are also many lower income people who have warrants for their arrest due to unpaid fines for parking and jaywalking. More often than not, this is because they do not have access to transportation to get them to the courthouse to pay. GiveRide would at least give them the opportunity and hopefully improve their lives.    
+The next feature I'm working on for GiveRide is the ability for a contributor to fulfill a ride campaign by picking up the rider on their Uber route. This bypasses the entire gifting piece and allows for person to person interaction.

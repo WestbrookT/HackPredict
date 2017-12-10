@@ -1,0 +1,7 @@
+An app that allows people to practice their slide presentations in a virtual environment and give them feedback based on their head tracking. 
+Users will able to stream in slide presentations from their google drive account, and advance through them on a virtual screen in a VR environment. Users will get feedback from data captured from headtracking on how well they are able to scan the room, if they make the mistake of looking back at their slides, and how long they spend on each slide. 
+We are considering also adding in a virtual crowd that responds to their ability to scan the crowd, and has varying level of engagement as a result.
+Challenges to solve:
+Exporting slide presentations from the google drive api, and presenting them in a screen in the virtual environment.
+Testing UI mechanisms for giving users real time feedback about their gaze from head tracking.
+Testing if a virtual crowd is useful or if at our level of fidelity runs into uncanny valley like problems. 

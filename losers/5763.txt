@@ -1,0 +1,6 @@
+We were inspired by old games, like space invaders and breakout, with our new computer science knowledge
+A simple one-button design lets the player fire a laser at a moving target. If the target is hit, the next level creates a target that is slightly smaller and faster than the last.
+I had a very difficult time working with threads and the graphics. I wanted to have the laser and a confirmation message that you hit the target appear at the same time,  with a short wait time before proceeding to the next level. Instead the message and delay happened at the same time, with the graphics updates happening after the delay.
+The fact that i worked past the thread/graphics problem after 10 hours to create a functional game.
+I learned that with the help of experienced individuals and my peers, I can surpass any challenge.
+Mobile and web implementation and "character" customization.

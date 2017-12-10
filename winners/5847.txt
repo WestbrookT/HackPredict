@@ -1,0 +1,7 @@
+If you've ever worked at a company that bills clients, you know about the satanic ritual called "timesheets". Timesheets are a punishing, weekly exercise in futility where you painstakingly search through email and your calendar to see how you spent your time.  It's a hellish nightmare... But now there is light.
+Holy Timesheets generates a perfect accounting of the time you spent writing emails and meeting people.
+We'll login with Outlook and it instantly scans my sent emails and my calendar.
+Yesterday, I spent over 2 hours writing emails. Let's drill down to see how many words I wrote, number of emails and recepients.  There's even an angelic wordcloud displaying all the knowledge I dropped on my clients.
+Also - I spent 5 hours in meetings. Most of which was spent with Alex.
+Thanks to Holy Timesheets, I just saved a sheetload of time!
+Timesheets generated from your Outlook email. Faster than you can say "holy sheet!"

@@ -1,0 +1,5 @@
+When my friend and I grab some food, we always waste time to choose what we will eat.
+Browsing and Chat with friends
+Youtube or Firebase
+Firebase is so cool.
+First, should rewrite codes because this is a prototype. Then, fix design(I'm gonna use polymer) and add some functions.

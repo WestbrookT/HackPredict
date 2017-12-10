@@ -1,0 +1,8 @@
+I've watched videos on youtube of aerial photography and recordings and it has always blown me away. For years I have dreamed of owning my own drone to control and capture these amazing shots. The current cost of a commercial product that is capable of either carrying a recording device or has one built in is out of most people's budget and thus my inspiration was found. This copter is built completely from scratch using original ideas
+Currently it can stay in the air for a bit but the messy auto-stabilization still can need work. 
+The frame is 3D printed using PLA motors and speed controllers were all purchased and the flight control system is done by the arduino and a wireless chip
+Many many challenges. First and foremost is the difficult nature of brushless motors. They require ESCs to drive and these are programmable chips without much input options. The ESCs didn't have much documentation and lots of trial and error was required.
+That the drone can sustain its own weight. Even though it is not stabilized, it is fully capable of supporting its weight and with a bit more of work, it can definitely compare with commercial grade drone.
+Everything can go wrong and usually will go wrong. Just about every part I've used experienced trouble sooner or later and time must be allotted for unforeseen troubles. I spent 2 hours debugging my entire system just because of a defective alligator cable. When does that ever happen? 
+I will develop a full stabilization and flight control system with perhaps enough lift to carry a recording device to capture aerial shots that I have always been a fan of.
+Hopefully this will open doors to more projects and adventures since there is always so much fun and energy in actually making something.

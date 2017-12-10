@@ -1,0 +1,12 @@
+Inside The Human Body is a Virtual Reality experience that will take you on a tour of the systems that keep us alive. Using augmented information the user will learn new things in a new and exciting way. This application will pave the way for a broad range of educational VR experiences.
+The first environment will be the bloodstream, where you will be introduced to various cells and described their functions.
+After the initial introduction to the bloodstream, you experience the act of Hemostasis, or the clotting of blood. A crack will form in the wall of the artery and you will witness the clot forming as it would inside your body following a cut in your skin.
+The second environment will be the nervous system, where you will see a group of neurons and their method of communication.
+After the initial introduction to the nervous system you will witness the release of dopamine in the brain for a normal human.
+The experience will require minimal user interaction and  will not require a controller. User will interact with the experience primarily through user's gaze. Touch pad will be used at the beginning of the experience to select which system the user would like to explore first.
+The mechanics designed in this experience are subtle and meant to be a passive interaction. The experience is best defined as a 'ride' that the user will sit through.
+The innovation in this experience relies greatly on the use of it's augmented UI system. UI use in VR has been extremely limited up to this point. In this project I intend to augment real world data over 3D objects to create an educational and immersive experience. 
+Blood composition and cell function are linked in the bloodstream.
+Molecule structure and other relevant data are linked in the nervous system.
+Overall this experience is meant to be an enjoyable and educational tour of the human body that people of all ages will enjoy. I hope this project will open the door for more educational VR experiences.
+Note: Requires headphones

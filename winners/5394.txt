@@ -1,0 +1,14 @@
+An interested in communication amonst people, and the realization that Discord could be used to facilitate a more positive environment, and stymie any negativity within the communities Discord can hold.
+Omniclad is designed to be a chat bot/moderator running in Discord to create streamlined communication and to eliminate bullying and harassment.
+Omniclad uses Microsoft Cognitive Services API to power the functionalities it was created for.
+It uses the Microsoft Azure services provided to function with machine learning, integrates translating of various world languages straight into Discord, and the filter feature screens for racy, adult, NSFW content and removes such content. 
+*Moving the developer environment onto the production servers,
+*Figuring out an efficient architecture to handle each of the planned functions for the Discord Bot
+*A late survey on additional libraries which would help speed the program along, a lot of our work has been coded in from scratch (Using the standard JDK libraries)
+*The simple fact that we were all getting to know Java a little more than what we were used to
+*Managing to complete a working version while overcoming the various challenges we've encountered. 
+*Learning some potential usage for the services offered by Microsoft, and how it can be implemented into a planned design
+*A generally new programming language for some
+*How to use Microsoft APIs
+*How to actually implement architecture, instead of merely staring at the design on our notepads
+*Extensions to the translation system, incorporating the use of the Voice Channels. Through the use of a bitstream, it is possible to send voice data in realtime to Microsoft's services, and have it respond back through Text-to-speech back to the users. Despite it most likely having a few seconds of delay for voice processing, it would enable functionality for people around the globe to speak in a unified language

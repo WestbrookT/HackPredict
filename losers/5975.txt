@@ -1,0 +1,6 @@
+I woke up one morning and realized it was snowing and I wondered if there was school or not, I had to turn to the news and wait for my school to show and then it hit me what if there was an app for this. 
+We sat down and discussed what will appear on the app and we determined that schools will be able to simply get on this app to send a quick mass notification to everyone with the app.  Students will be able to know the status of their school. Another thought hit us as we sat down to think: why not add something to show events and other activities that are happening in the school within this app?
+A challenge we ran in to is, how were we going to get this information to the students and actually get the app up and running?
+We overcame these situations by sitting down, taking my time and getting them done so one major accomplishment would have to be actually making the app and actually having it to function.
+We've learned about the software development process and how involved you have to be in making an app.
+We'll need more data from more schools.

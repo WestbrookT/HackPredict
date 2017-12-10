@@ -1,0 +1,6 @@
+The trans community has long utilized social networks such as tumblr and instagram to share with one another the unique process that is transitioning. We wanted to think about how a modern mobile app could help facilitate similar sharing of personal experiences as well as community knowledge and resources.
+Users can create and share stories by taking selfies or by importing images from on-device albums, recording a voice narrative or typing a written one. This multimedia narrative is packaged into a story and presented in the feed. In the feed, users can pan left and write on stories to see multiple pictures in a story to visualize change as well as listen to the audio narrative to witness how one's voice might change during transition.
+Just getting stuck on and learning a lot of stuff.
+No time to list.
+Lots.
+Layer integration so users can chat about specific trans-related topics such as particular surgeries with fellow users who might have substantial knowledge regarding them or have had personal experiences with them.

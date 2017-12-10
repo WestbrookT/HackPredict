@@ -1,0 +1,5 @@
+Sometimes life presents us with hard decisions, and when that happens it can be hard to choose between them. Inspired in part by other web applications such as strawpoll but with a simple and light UI for a light, easy, and expansible design.
+Allows users to make questions, and 2 answers to this question, then others can vote on one of these options.
+In the process of expanding to include natural language processing so that questions can be automatically parsed  and users don't need to enter text for the two possible answers, and to track logins and votes by users to prevent double-counting votes.
+Using a variety of languages hosted by a private web server, and a database in the back.
+We're currently expanding into natural language processing so that making questions is even faster and easier using APIs available online. As well as this, we are in the processs of implementing a system to prevent double-countinng of votes using used ids, and this idea could in the future expand beyond easy binary decisions into even harder open-ended choices.

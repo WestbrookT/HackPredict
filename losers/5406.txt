@@ -1,0 +1,4 @@
+Controller Required (Move, A = Shoot, B = Reload)
+Mechanics - Explore the island.  Find coconuts to refill health. Find escape method (currently flare gun). Get rescued (Shoot flare when plane is nearby).
+Innovation - Real Time! sun, moon, stars based on time & location. lose health while not playing. how many days can you stay alive?
+CorvusVR.com

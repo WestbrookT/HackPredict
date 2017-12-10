@@ -1,0 +1,6 @@
+There's always leftovers in the fridge from making something else and we're unsure of what to do with it. 
+You make an account, login, and then you can upload a recipe, or search for a recipe by uploading ingredients that you have. 
+Actually making the account registration database and having the website upload ingredients for recipes while storing those recipes in an efficient format.
+We each gained valuable skills from each other such as Akshat teaching us CSS and JQuery, I helped teach php to my groupmates, and Henry helped teach us javascript. 
+I learned to trust other groupmembers as well as security with logging into a website. 
+We plan to implement the search interface to make it better as well as create a my profile page so that people can get more personalized results. Additionally, we plan on finishing an interface so that people can find out how much the ingredients would cost if they need a few more ingredients for a certain recipe.

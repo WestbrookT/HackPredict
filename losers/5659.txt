@@ -1,0 +1,8 @@
+Why this idea ?
+It would be a great use of gear vr strengths and will provide an amazing UX when users feel the room transformations and terrifying experiences. Some of the tasks will be specifically designed to help users overcome their fears in a fun and interactive way. 
+For example
+-- A task of jumping off from a cliff into a river to obtain special gems (that keeps dangerous animals away).
+-- A task of navigating away from a jungle while being followed by huge spiders.
+Challenges?
+I am working out to make this game a real time multiplayer version (being on android has some limitations with lags and disconnection problems). I will try the alljoyn sdk to make it happen.
+** The images below are just concept images the actual  game will be different

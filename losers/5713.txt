@@ -1,0 +1,2 @@
+A virtual machine designed for programming workshops.
+Technical workshops shouldn't be about installing a development environment in Linux, Windows, OS X, or whatever else. Unless that's what they are about, this takes way too much time from everyone and it's a pain.

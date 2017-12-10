@@ -1,0 +1,7 @@
+Millions of exchanges happen in Chats everyday. We share lot of emojis in share, why not share the relevant content which we find any social platform / websites. Wouldn't it be nice if we can access context aware content right in the chat window and share it while chatting? Single Button which does all the heavy work. Share Content while chatting. Context Search for better content sharing.  Don't ever have to switch the apps looking for content!
+Simple iChatButton that can be integrated into any chat and provides suggestions in cards which can be shared with your friends with out leaving the application.
+Handling images in Android and posting the same using Layer API.
+Design and Develop a simple idea in 10 hours starting from Concept to Demo . 
+Layer is awesome, makes it simple to integrate chat into any existing app and providing a efficient and reliable service.
+How we can work with IBM watson to apply NLP.
+iChatButton every where and any content source. Users should have more engaging experience in the app through this kind of Simple integration.

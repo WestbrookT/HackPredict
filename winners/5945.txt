@@ -1,0 +1,6 @@
+I want to get the data that citibike has into a more convenient format.
+This site pulls your data from citibikenyc.com using an API built on ParseHub. Then it pulls all of that ride data into google maps, and into a sortable table. It also does some fun calculations.
+Citibike doesn't have an API that allows riders to access their trip information, so I had to find a way to scrape the data.
+I'm really proud that I successfully scraped the data from citibikenyc.com and got it into JSON. That was a long process.
+This was my first time using the draw tools in Google Maps, Sort Tables using jQuery, and scrape sites using ParseHub.
+Hopefully I can find a workaround to let users login with their Citibike username and password.

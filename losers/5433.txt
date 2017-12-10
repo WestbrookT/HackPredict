@@ -1,0 +1,33 @@
+NOTE: Due to the potentially sensitive nature of this project, it will
+be necessary to provide a certain level of anonymity for at least one of
+the developers involved in this project.
+A little over a year ago, I was asked by a friend to monitor a
+particular social media page. The page in question is a journal kept by
+a person stalking my friend and their family. Since then, there have
+been nearly 600 vitriolic, disturbing and frightening posts made by this
+individual. I was struck by the fact that no one, from the victims to
+the perpetrator, is receiving any sort of help that will ameliorate the
+situation. Clouded is a direct look into the psyche of someone suffering
+from a debilitating sickness, told via their own words. It's an
+attempt to bring awareness to the plight of the mentally ill and those
+affected by their condition. Any proceeds from the jam or any subsequent
+commercial release will be used to raise funds to help both the victims,
+the perpetrator (earmarked specifically for therapy), a mental health
+charity to be determined, and the developers for their
+time and effort.
+Clouded looks at 13 posts chosen simply for their length. They have been
+stripped of identifying information, and tag clouds have been generated
+for them as well. An additional tag-cloud has been generated from the sum of the
+original 13. All environments will be 360 degree photospheric images,
+rendered in three distinct styles representing a decreasing severity of
+delusion. Inside these scenes, the air will be filled with a quiet
+cacophony of malevolent whispers. Obfuscated and translucent keywords float in space,
+identifiable as text but unreadable, only occasionally resolving fully. When they do, they trigger an auditory hallucination, in the form of an evil voice saying the word. These are the whispers around you. Using positional audio, the player
+will locate the source of these sounds, directing their gaze at the
+word to annihilate it in spectacular fashion. As they do, the scene and
+tone subtly shifts from bleak and hopeless to vividly beautiful,
+suggesting that mental illness can be overcome or managed with
+treatment.
+If there seems to be interest, we will follow up with a post-jam release
+that includes the full content from the 13 posts and possibly even
+additional or regular content updates pulled from the 600 (and growing) posts.

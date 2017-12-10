@@ -1,0 +1,10 @@
+Control :
+ Use touch pad, 4 actions. forward, backward, auto fire, gear head sight.
+If you want to forward, touch and swipe for forward and either backward.
+gun fire is automatic. if you aim to enemy in crossfire that auto fire.
+Mechanics :
+ 3 Dimension environment for VR FPS. if you play this game, then you'll be a sci-fi soldier.
+Innovation : 
+ We challenge for big project. but unfortunate we need more time. so satisfaction just build VR FPS.
+But! we developing without VR JAM. our vision is make story mode and multiplay mode. so check it next time at oculus store!
+Thank you.

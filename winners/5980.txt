@@ -1,0 +1,7 @@
+Every day in school, we only have 50 min to learn a brand new scientific concept which barely has time to sink into our brains until we are rushed off to the next class. When studying later on for a test on that concept, it's hard to remember the facts we learned earlier in the month. If we try to look up the concept on websites such as Wikipedia, they give us answers that are too complicated for the reach of our class, and we end up more confused than we were in the beginning. Our app, Studium, designed specifically for high school students, aims to change that.
+Helps students memorize key concepts from Biology and Chemistry in a clear and simple platform. Designed for high school level science
+We used app inventor for the entirety of the app's construction.
+App inventor only allows 11 screens so we had to consolidate some of our information. We also tried to add some more quizzes but it didn't work. 
+We applied what we used from spectacular video tutorials to create a fully functioning app that we wish we had for finals. This was our first major programming project, so we are pretty happy that it works!
+I learned how to merge multiple apps into one, and how to create a functioning quiz. 
+We would like to add more subjects in our app such as physics or cover other topics in biology and chemistry.

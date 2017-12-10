@@ -1,0 +1,5 @@
+Course Project
+Three board games using the MVC pattern
+Creating an app to play the games on
+Using MVC
+Android development

@@ -1,0 +1,14 @@
+We text parents FREE tips to help prepare their kids for school. 
+Each week, we present weekly activities tailored to your child's unique development by text.
+These are fun and effective activities that develop children's literacy skills and help parents create language-rich, nurturing and responsive home environments.
+How does it work?
+Our team of scientists, educators and technologists design easy to learn and effective parenting strategies based on insights from research in neuroscience, cognitive psychology and early childhood development.
+Each strategy is broken down into fun and easy steps.
+Every Monday we send you a text personalized for your child's needs.
+On Wednesday we check in with another text helping you stay on target.
+On Friday we send another text to reinforce the goal.
+The service is tested and highly appreciated by a small group of beta-parents. 
+The next step is to automate the process, connect to Twilio through their API, and make the website an engaging experience that shows the personalization tool in effect. 
+The "TRY IT OUT" button below ought to read "check out my first stab at creating a web interface." 
+During the hackathon, I completed the web interface, updated the layout, and began adding Twilio integration as well as support for oovoo two-way video chats.
+Ultimately, we will allow social service providers, schools, pediatricians and care-givers to have two-way, gig-powered interactions with their clientele. 

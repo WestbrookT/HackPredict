@@ -1,0 +1,4 @@
+A chaotic survival game using VR goggle to navigate and dodge incoming hazards.
+Featuring uniquely designed obstacles and fast paced game play.
+Your exploration ship crash landed on alien planet. Only chance to survive is to reach the designated ancient site to activate the escape portals. Equipped with small life pod with limited defense and energy weapons. The odds are against you. React quickly to navigate and map out a path clear of danger.
+Use both head movement and Gear VR Touch pad for shooting and Pod navigation. 

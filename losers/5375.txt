@@ -1,0 +1,6 @@
+A Telugu Magazines and Periodicals browser from around 25000 items those are archived by Andhra Pradesh press academy.
+Usage:
+$ python archiver.py
+Just enter ID and hit enter,sit back. It downloads that book to your computer.
+For full functioning and execution of script visit
+https://www.youtube.com/watch?v=IpwotbfVXSA

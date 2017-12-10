@@ -1,0 +1,25 @@
+Every engineering organization has multiple team responsible for critical
+services (e.g. adserving, monetization, data, etc) and their own oncall roaster.
+The rotation is usually done weekly moving between primary, and secondary.
+Sometimes some people go on vacations and manual edits are expected, and
+medium term planning is also desired.
+We built a backend ngd (never go down !) server (written in Go), an android app, and 
+js, which is the driver for the android app. The JS driver is to avoid any logic on the
+android app, hence making the update almost solely server side. SDK only provides
+make call, send sms and receive sms functionality to the NGD-bridge that connects
+it with JS. Go Server talks to MySql backends an uses transactions to ensure correctness
+and randomness to minimize contentions across mobile agents helping server to make
+the alerting.
+The server gets alerts from monitoring infra (nagios,  home grown scripts, etc)
+and send alerts (phone call, sms, email)  to on-call team members
+using worker devices (set of dedicated smart phones - using diftft gsm carriers )
+On call team member can ACK/NACK, which the server parses to the original handler.
+The acks can be silenced directly too.
+Android hick-ups, with playing a pre-recorded audio in an outgoing android phone call
+& injecting prec-recorded audio in an potgoing android call (apparently android does not allow it)
+They automatically get pushed to the bottom of the roaster
+, but we still respect human load balancing ( roughly = no of on call days / human :D)
+-- provide Meta monitoring services.
+ -- use AWS RDS instead of mysql on our local machine ( we didnt get the AWS credit email )
+ -- monitoring an org's AWS infra for metrics, alerts, etc
+ --  web ui for command line stuff now

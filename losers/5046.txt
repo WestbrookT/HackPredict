@@ -1,0 +1,4 @@
+SMS Racing is a game about the thrill of texting and driving. Do you have what it takes to race at the highest level while responding to your friends' messages? You don't want to be rude, do you?
+A gamepad is required to play. Please view the in-game tutorial for detailed instructions on how to text and drive. You'll be prompted to play the tutorial the first time you enter a race. Alternatively, the tutorial be launched from the main menu.
+The VR Jam version of the game is entirely new, and shares no code or assets from the 2013 web version. The game has been completely redesigned for VR, and is similar only in general concept and name.
+Features new to this version of SMS Racing include:

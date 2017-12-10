@@ -1,0 +1,7 @@
+We want to liberate party goers from authoritarian DJs.
+Allows users to create a shared queue of songs on Spotify.
+Created an android app that uses the Spotify SDK to create a music player. Then built a webapp that used the Spotify web api to allow users to select songs to play. Put Google Firebase in the middle to send data back and forth between the two apps.
+We were more familiar with SQL databases so we had initial problems with structuring the data in Firebase. Sam found Spotify Android SDK was poorly documented which made which made learning how to use it hard and learning how to use the android developer tools. Brian had trouble with managing app state for the webapp. Displaying views for different states such as logged in, not logged in, in a party, or not in a party proved to be challenging. 
+The realtime sharing of data between the webapp and the Android app, hosting on .com domain, and completing a cross platform application we felt stood out the most. 
+We learned how to build an Android app that uses an SDK, how to work with a NoSQL database, how to query and render data from a web api, and how to use Oauth token authorization with Spotify as well as Firebase.
+We plan to improve mobile support for the webapp, improve security rules for Firebase,  add ability to add songs to the queue from the Android app, and create an official release for the Android app on the Google Playstore.

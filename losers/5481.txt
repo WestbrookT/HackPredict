@@ -1,0 +1,5 @@
+Become pilots of space mechs knows as Space Battle Cows! Manoeuvre through asteroids, engage in dogfights and take on enemies via range weapons or melee combat! How long can you survive in this precarious environment?! Will you be the last one standing?
+CHALLENGES
+Unlike space battles using primarily range weapons, we are looking at implementing melee battles for a more immersive experience, allowing players to experience fast, close combat battles.
+MILESTONE THREE UPDATE:
+Tweaking the controls / navigation to the right sensitivity is puke-worthy indeed. Having to play and replay over and over again to tweak it.... argh.

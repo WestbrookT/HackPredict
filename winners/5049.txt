@@ -1,0 +1,21 @@
+Daydream Blue is a game about you, a pet robot, and a campsite by the lake. A place where imagination becomes real and bonds are built with robot buddies. 
+Primary: available most of the time by looking at or holding object
+Secondary: context sensitive, such as press, look, release to shoot golf ball
+Integrated open source audio recognition library PocketSphinx. Currently supports six voice commands. Also supports turning off voice commands in noisy environments.
+Core gameplay based around simple touch and swipe gestures that map to game verbs like pick up, throw, and interact. 
+The main mechanics can be divided into two camps
+Interacting with objects such as: looking at a golf ball and tapping to pick it up, then swiping while looking at the horizon to throw it there. Once there a golf game is initiated, and the player holds the touchpad, looks in a direction, and releases to shoot the ball.
+Interact with your robot such as: playing fetch with a tennis ball, having your robot collect and carry things, issuing commands, and feeding them. We have plans to expand the role of the robot to include game unlocks, more abilities, and customizable appearance. 
+For travel we have points the player can travel between. Points are placed to minimize extreme body rotations as much as possible. We have ideas for the future that include the unlocking of additional locations to travel to. 
+We don’t want to make people sick! So you don’t have to move around the world, we move the world for you :)Don’t want it to be daytime? Pop a cloud and then swipe forward or backward to change time. 
+Your robot buddy is there to play with, or they can keep themselves busy while you play games or relax in the lake. We want you to feel present in the world by giving life to the world.
+Sit, Here, Stay, Jump, Fetch, Drop
+We wanted to an experience only possible in VR. A place not possible in our daily lives. A place built from a childhood in woods and lakes Kentucky.
+We took off on a weekend at the beginning of the jam and explored some of the natural wonders in our own state: the Red River Gorge. Several elements from that trip inspired the art and design of the space where Daydream Blue was to take place -- a simple natural wonder, tucked away from the fast paced modern world. 
+We don't want Daydream Blue to stay as a prototype. Along with ideas outlined above, we hope to incorporate a level up and upgrade system to allow for new and unique experiences for the player every time they enter. 
+Best play experience with headphones in a quiet environment.
+Jam game wouldn’t be complete without this list!
+No loading Image - screen will stay black for a bit after Splash Screen graphic while game loads
+No save state 
+Voice detection false triggers in noisy environments and detection has variable results based on user.
+Thanks!

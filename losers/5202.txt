@@ -1,0 +1,7 @@
+The intent of this app is to allow the reading of eBooks as if you were reading a real book. Will feature simple controls to facilitate the selection and navigation of books. A bookshelf will display all suitable files as books, allowing for a simple and intuitive browsing and selection system.
+An atmospheric environment will seek to aid in the comfort of the VR Reader, with the long-term possibility of different reading environments. I elected to focus on one highly polished environment to start with, instead of multiple lower-quality ones.
+Simply drag EPUB files into your phone's "VR Reader" folder (created when app is first run), and they will appear inside the app on launch.
+Features:
+The two major mechanics are book selection and book reading.
+Immersion and comfort were the two drivers for this app.
+All controls are either gaze or trackpad based.

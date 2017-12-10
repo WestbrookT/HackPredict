@@ -1,0 +1,6 @@
+We found ourselves inspired to attempt to fix the frustrating and fruitless experience of mobile dating apps.
+The idea seems simple - but yet its eluded us until now. You sign into this dating app by taking a photo - your face is your password. There is no Facebook sign in, no old mysterious photos, no stale data, no sex bots, and most importantly - no more catfish. Just a nice live stream of people's true faces near you.
+Staying awake for 48 hours
+We managed to create a working facial recognition login system
+Facial recognition can be time consuming
+A finished product, more features, faster identification

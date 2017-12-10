@@ -1,0 +1,6 @@
+We wanted to do something in Data Mining and we got this unique while discussing about agricultural usage of machine learning
+It will help farmers to take decision optimally
+Probabilistic Model, Data Parsing, 
+I have done something special
+Python Api, Forecasting, 
+Messaging system creation

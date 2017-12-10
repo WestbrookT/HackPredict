@@ -1,0 +1,6 @@
+This application can be used by interior designers and allows them to show their clients the real-time visualization of the future look of the room. The customer can not simply choose the style of the room, but also change each object of furniture individually. Current build is represented with real furniture. Each model is represented in manufacturer's catalogue.
+This app can also use a Kinect and allows user to move inside the virtual room.
+The current state is an early prototype and we plan to add these features in future releases:
+1) Allow users to change to pick furniture from a catalogue and change it in real-time,
+2) Allow users to move all objects and change the furniture's arrangement angle,
+3) We also plan to use Unreal Engine 4 instead of Unity to make better graphics;

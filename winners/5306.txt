@@ -1,0 +1,6 @@
+Interaction is a critical part of the teaching process. Often, in large schools, the professor-student interaction is limited due to the dearth of an apt polling system. With the mere Raise of a hand, you can remotely answer questions during the class and build graphical data visualizations, depicting the overall class response of that inquiry. Moreover, our powerful back-end parses the data almost instantaneously and provides a veritable source of student evaluation for the instructor with just the raise of a hand. So, why poll when you can raise?
+Tech Used:
+Real-time Firebase Data Base, 
+Accelerometer Data Collection, 
+Python for Data Visualization
+Table Number: 40

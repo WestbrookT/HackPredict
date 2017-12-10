@@ -1,0 +1,7 @@
+We were inspired by the use of old technologies like USB presentation tools and overly complex means of controlling the computer remotely. We wanted to bring these controls into the hands of more.
+Vox.io is a website that listens to the user's voice to control a computer.
+We used javascript on a website that connected to a python script running on the computer through Socket.io.
+More about this in the presentation, but the number of new skills, especially web development, were very challenging.
+We were able to make it work, and it even works from anywhere in the world.
+we learned more about web development, how to use Windows API's, and the value of being more conservative with the number of new things to learn.
+We will make it work on more computers, add more commands and possibly link it with Cortana to enable more features.

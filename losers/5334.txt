@@ -1,0 +1,17 @@
+BlueprintVR is an immersive, interactive version of the architectural fly thru that you would see before breaking ground on your house or other building.
+You would use BlueprintVR if you are building a house, are an architect, builder, or otherwise involved in construction.
+BlueprintVR increases efficiency by allowing you to collaborate with your clients across town, or in another country.
+BlueprintVR loads optimized blueprint files, and allows you to navigate them as if the space was already built.
+Real life architecture can push the need for precision in scale. Our overview
+mode takes advantage of the IPD and depth cues we are familiar with, but presents
+it in an easy to use format.
+Navigation in BlueprintVR uses a custom intertia to allow you to shift position
+in the rooms, while also being able to travel across large space without feeling
+as much motion sickness that default controls provide.
+For commercial construction, you can also have the vantage points of children and the disabled, for better ADA compliance.
+The panoramas in the demo scenes were taken with a standard smartphone, which
+will help fuse reality with the virtual while being affordable.
+BlueprintVR works best with a game controller; but, you can see some of the app with just the GearVR headset.
+With game controller:
+With GearVR:
+For those who like to know, we are using the native, raw power, of the Oculus SDK to provide the best performance possible in the GearVR.

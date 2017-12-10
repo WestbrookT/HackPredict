@@ -1,0 +1,22 @@
+It can be hard to find a cheap way to get into major cities across the world. In the UK, train travel for a family of four driving from the North of the country down to London is likely to exceed £200 GBP. In Paris, traffic congestion is so bad, that small journeys often take twice as long. Whilst in many USA cities, public transportation is not really an option if you are travelling from far away. Fortunately, car travel is one area where big savings can be made and many people naturally gravitate towards alternative transport options; such as Park-and-Ride Schemes.
+Park-and-ride schemes do not necessarily involve public transport. They can be provided to reduce the number of cars on the road by promoting carpooling and car sharing…and this is where the new Park & Uber service comes in!
+Parkopedia is the world’s parking information provider with info on over 38 million parking spots across 52 countries. With the integration of the Uber Request endpoint; we have created a real global parking service. Drive your own car to a cheaper lot; which is often located away from downtown and other areas of interest.  Upon arrival, request an Uber ride. Wait for the ride in the comfort of your own car 
+Cool Future features for Park & Uber Version 2.0(!) could include:
+Services that support various users sharing the same ride ( i.e. Europe: People attending a concert or a sporting event are often advised to park in a specific lot by the event organiser and then take public transport/share a taxi to final destination). Why not park your car en-route and share a Park & Uber ride?
+Pre-book Uber ride feature even; if only 1hr in advance.
+Why not use the park and ride parking lots? Why not just use a taxi for the whole journey? Why not drive the whole journey and just pay for parking.
+1)  Park and Ride Lots: You have to wait for the shuttle in all kinds of weather, the shuttle can often be crowded, there are no toddler booster seats or seatbelts, shuttles often have steps onto the shuttle which can be a problem for elderly or those with physical disabilities and luggage racks are not that spacious.
+2)  Traditional cabs and taxis cost a lot and are often hard to pre-book.
+3)  Drive to final destination and pay a lot of $$££€€: Will there be a space, will it be coin operated/card operated, what happens if we need to stay longer than the time we paid for etc. Finding reasonably priced parking near favourite destinations has become more difficult as downtown areas grow.
+User Case 1 Airport travel
+A family is travelling out of a major airport. They live very far away from the airport so need to drive. They do not want to spend a lot of money on on-site airport parking as they prefer to use that money on holiday! They have 2 small children + strollers and grandma is 70 years old. They would prefer not to use the shuttle service to and from the airport terminal.
+User Case 2 Sales Executive with heavy samples
+Bob is a travelling salesman who attends many expos and sales pitches. Sometimes, there is no parking on-site and to save money (he cannot expense parking costs) he parks a little further out. With all he has to carry, public transport is not an option. He needs to be able to choose the type of vehicle he requests depending on the amount of bags etc. he has.
+User Case 3 Family day out
+A family has decided to have a day out in Oxford, UK …..and we all know what a pain parking is in Oxford! There is a great park and ride service but it does not come that often and it’s April so the chances of rain are quite high. Also, they don’t know exactly when they will want to come back and the later it gets, the less shuttles there are.
+Still not convinced about this great new Park & Uber Service?!
+Let’s leave the last word to one of our users who recently emailed us:
+Coverage: Good
+Experience: Excellent
+Looking for: closest parking to a restaurant we're going to tonight. Thanks to your advice, we'll split a cab instead!
+….that cab could have been an Uber car!

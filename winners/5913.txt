@@ -1,0 +1,4 @@
+We wanted users to be able to quickly donate money in an informed fashion to charities doing local work in a global world. 
+You search for the region of the world that you wish to direct your giving. We give you a list of American charities doing work in that country along with a third party's Charity Rating metric to help inform your decision. You evaluate and decide which charity to support. You select that charity and donate money using the MasterCard Simplify Commerce platform.
+Cleaning the data up to present in an integrated fashion.
+It's alive!

@@ -1,0 +1,11 @@
+Chattanooga is one of the top tourist destinations in the Southeast.  Further, the city is opening a new history center at the downtown riverfront, which already has many attractions.  I was searching for an idea that would power a video wall and take advantage of the city's GigaBit infrastructure.
+Geocachers choose a series of destinations identified by latitude/longitude.  Next, they try to find a container at each location, sign a log book, and possibly exchange a trinket with one in the container.  Also, a number of the attractions in the city run a photo booth at which customers can make impulse purchases of a hard-copy photo that quickly ends up in a drawer somewhere.
+iVentures are tours in which patrons take selfies at the tour stops and use a phone application to verify the stop via GPS.  At the minimum, an ambiguous version of the location's name, their name and home location are e-mailed or tweeted for posting at the downtown video wall location.  Optionally, a selfie may also be sent.
+Tour options include name/location, name only, or latitude/longitude only.  All existing Geocache tour can be subsumed by the paradigm.  Patrons would be able to access the history of their tours/selfies on the Internet, forever.
+Data concentration at a video wall
+iTour patron history web site
+Coding always takes longer than you think.
+Started Friday, had a phone application and a video wall demo by Sunday.
+Won the "Biggest Impact" award at GigHacks Chattanooga.
+professorcook.org
+nothing, no one was interested.

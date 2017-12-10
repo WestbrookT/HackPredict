@@ -1,0 +1,17 @@
+But that proved too difficult :(
+As always, step 1 is parsing. I use Closure Compiler to parse a JS file. 
+an aside, you might be wondering why js? Because Closure Compiler parses JS, and I want to use it, that's why.
+I wrote a simple compilation pass that will print to stdout every time the compiler meets a variable name node.
+VARNAME NAME x 1
+My language of choice for analytics is python, it comes with the fantastic library pandas. So the strategy here is to use python to start a subprocess that runs the compiler (jar file) with the right arguments, and capture all the stdout of the subprocess. We can then easily parse this output into a list of strings.
+We transform whatever output the compiler emits into a list of variable names, i.e. from
+to
+So at the end of this step all we have left is a list of strings, and these strings are all the variable names used in the file.
+There characteristics are:
+Another challenge was using pandas. It is another complex piece of software, very very powerful, and I didn't that much experience. So I had to spend some time digging into the documentation wondering how to get the results I wanted.
+The front end interaction took some time as well, I lack design skills but I didn't want things to be unusable. So I went with a minimalist look, just like my blog - black and white, some typography, font weights, font sizes.
+The biggest challenge is probably thinking of what kind of metric about variable names would be interesting to us programmers And how to present this in a fun way. I went with the sarcastic comments, hopefully that's funny...
+Twilio integration to sms you when the analysis is done. I did that and it worked in like one try. Two reason for that, I had used their API before, and Twilio API and documentation is just plain awesome.
+UX of the app. There's not much UX, but I did try my hands on it and made it such that buttons and text disappear/appear as necessary so users wouldn't be confused by it, and by users I mean just myself.
+And I met so many people from all walks of life. Can't wait for the showcase!
+Probably a nap. A long nap.

@@ -1,0 +1,6 @@
+We just thought of CTF and decided to build one.
+It follows a capture the flag gameplay
+In the end, we could not find out how to make multiple key inputs to move two two separate objects. In addition, collision detection was hard.
+Building while learning new languages
+The basics of web development using HTML canvas.
+Making better maps, collision detection, and allow simultaneous movement of players

@@ -1,0 +1,5 @@
+We were inspired by the convenience and glance-ability of Android wear apps and we wanted to bring this experience to people when they travel.  Whether you are going on a once-in-a-lifetime adventure or exploring parts of your home town.
+With Sacagawea you can take new adventures and experience travel as nature intended--away from a screen.
+We wanted to integrate with everything and do it all. But with only 2 days to create this app we had to set limits.
+Hearing Sacagawea answer our first question ("How tall is the Eiffel Tower?") made us very proud. We also got a kick out of hearing her translate a phrase to French and then to Spanish.
+We would like to migrate to Watson's Question and Answer API so we can feed it additional data sets and ask more complex questions. We also need to write the iOS app and Apple Watch app.  Finally we would like to add additional language support.  

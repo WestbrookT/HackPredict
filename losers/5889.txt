@@ -1,0 +1,2 @@
+Crooked News is a Chrome Extension that will notify you whenever you have stumbled upon a "news" website that is deemed untrustworthy.  When a time where the average consumer is overwhelmed by clickbait, biased articles, rumors, and conspiracy theories, Crooked News makes it easy to quickly differentiate fake or "crooked" news from trusted sources.
+Crooked News was developed by computer science students Triston Simons (Temple University), Chris Till (Rutgers University), and Tim Smith (The College of New Jersey) for ProfHacks 2017 at Rowan University.

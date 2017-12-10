@@ -1,0 +1,18 @@
+Click the fork button at the top right of the repository. 
+After forking, click the Settings button on your new repository and change the repository name to username.github.io -- make sure that username is replaced with your GitHub username! 
+Input your details by simply editing the configuration file. Go to your forked repository and open up _config.yml. In there you'll be able to input your:
+Go to the _posts folder and edit the Hello World post that's there to create your first post! Jekyll pulls the date of the post from the filename, so change that to today's date. 
+To publish new blog posts, go into the _posts folder and click the New File button. Name your post in this format: year-month-day-Title.md, save it, and you're set! 
+(You can also publish new content via command line by git cloning down your repo, and pushing up your new markdown files)
+Any files that you edit within your repo will trigger a rebuild of your GitHub Pages site. 
+List of reasons that you might want to use local theme development: 
+The first step of local development is git cloning your repo. 
+PIC
+Then pick option 1 or 2 depending on whether you want to be able to build/view you site locally—that's the part where things get a little more tricky. 
+You can make quick changes to the theme without needing to set up Jekyll and it's dependancies on your local machine if you allow GitHub Pages to tackle building and deploying the site for you. Here's what the workflow looks like:
+If you're just looking to make a couple of quick theme changes, then this might do the trick for you.
+If you're looking to do significant theme development, then you might prefer to set up Jekyll to build your site locally so that you can watch your local changes and view the site. 
+To do that you'll first need to install Jekyll and it's dependancies:
+Here's what the workflow looks like:
+Next up: A Jekyll based portfolio site theme to showcase projects and content. 
+This wasn't what you were looking for? Here are some other Jekyll starting points that might hit the spot:

@@ -1,0 +1,6 @@
+Simple Go library for the Spotify Web API
+Right now this API version can only make successful GET requests since 
+it just authenticates the application and not an specific user. 
+This means you can use limited endpoints of spotify WEB API, as 
+documented on their web page:
+Other APIs

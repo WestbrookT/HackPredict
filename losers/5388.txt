@@ -1,0 +1,9 @@
+Controls
+Note: The game requires a bluetooth gamepad.
+For those who are prone to motion sickness, turning off stereoscopy can help.
+The game features two playable levels and one unfinished level. Try to make it to the exit using your gravity bending power.
+Known Bugs
+Credits
+Original Vision (unfinished)
+Each level presents the player with puzzles in the form of physical obstacles in the way of their progression. All of the game's puzzles are based around being able to navigate the space the player inhabits.
+We know our original vision for the game and its story is too large to be explored during the jam, so we are setting out to explore a self-contained subset of the original idea that will act as a vertical slice proof-of-concept, but also as a hopefully complete short game.

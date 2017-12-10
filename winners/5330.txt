@@ -1,0 +1,7 @@
+Activism is hard.
+Political engagement is the pillar of American democracy. Pillar makes advocacy easy.
+When you sign up for Pillar, you choose the issues you care about. When legislation related to those issues comes up at the state or federal level, you'll receive and alert in a weekly text message. When you click the alert and sign into Pillar, you can review all relevant legislation and how your representatives stand on the legislation. With just two clicks, you can generate a phone script or a letter to email or physically send in.
+We used python with Flask, pymongo, and a MongoDB database to write our back-end. We used Twilio API for SMS messaging. We used Bootstrap for front-end styling and Javascript, JQuery, and Vue.js to manage interaction. Ajax was used to dynamically populate data specific to the user. All data was processed using the ProPublica API, which provides information on current and previous bills.
+We spent 7 hours dealing with our browsers using cached versions of our Javascript files instead serving the updated, local versions. We learned that you need to use Ctrl+Shift+R specifically to refresh.
+We jumped into this project with the goal of learning new technologies and frameworks. Most of us had never done web development in Python before. The project also allowed us to learn new APIs (i.e. Twilio and Propublica) and web frameworks (i.e. Flask and Vue.js).
+We are in the process of building a page that shows data visualizations of the bills and legislative representatives' voting histories.

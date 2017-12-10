@@ -1,0 +1,11 @@
+Inspiration
+How it works
+M3RGE acts as an API for the different social media networks while using Temboo, an accessor for the APIs, it then sends a request using the client IDs given to the registered developers IDEs. 
+Challenges I ran into
+We had to familiarize ourselves with Node js, JavaScript, and CSS to build our app. All four of us have had minimal experience with computing languages outside of basic Java and HTML. In addition, none of us have taken a Mobile/Web Apps Course yet.
+Accomplishments that I'm proud of
+Being able to learn new computing languages and become relatively proficient in them.
+What I learned
+That time management is very important in a hackathon. Planning also makes the process run much more smoothly.
+What's next for M3RGE
+We plan to improve M3RGE by implementing more complicated social networks into our app. Facebook is a very complicated social network to manipulate, as they have restricted their API.

@@ -1,0 +1,9 @@
+If you ever take 251 or 213, you will notice a photographer sitting at the back of the classroom, recording the lecture. The main purpose of the recording is to help students review the learning materials after class and also to share knowledge with students not in the classroom. Now with Smart Classroom, this process can be automated.
+Combining hardware and computer vision, Smart Classroom is able to track the teacher in the classroom, automatically records what the teacher writes on the blackboard and what the teacher says in the lecture. Keywords and highlights from lecture will also be extracted from recording to provide a better learning experience after class.
+Raspberry Pi + Servo + OpenCV
+Control issues with servo, detection precision with OpenCV and limited computing resources on embedded system.
+This is the first hardware hack we accomplished. We spent much time in the lab do wiring and soldering.
+Student Senate’s Social Impact Prize (“Best hack that improves CMU student life”)
+Duolingo’s Social Impact Prize (Educational)
+GoDaddy’s Social Impact Prize (“Best app that improves STEM education”)
+Google’s Social Impact Prize (“Most likely to make tangible and lasting change”)

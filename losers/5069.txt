@@ -1,0 +1,6 @@
+IFTT and IOT. 
+The System provides an open and flexible interface for any IOT device or sensor. User can set flexible rules over the sensor states and fire an event accordingly.
+Time was the only challenge.
+Finally cracked all the sensors on android.
+Sensors on android, Go.js
+Gotta fine tune current POC upto the mark.

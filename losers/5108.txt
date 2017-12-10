@@ -1,0 +1,4 @@
+Lets not wait in line a whole day for a government procedure. Lets move to an appointment based system.
+Select the government agency. Select the procedure you want to accomplish. Select a day and a timeslot. Be reminded with push notifications/emails. Goverment agencies use the backend to make timeslots available.
+While multiplatform middle ware has matured over the years its still quite challenging to run on all mobile platforms simultaneously.
+Cloud based API. Single codebase running on all devices.

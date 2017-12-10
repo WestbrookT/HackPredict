@@ -1,0 +1,26 @@
+MILESTONE 4 UPDATE:
+Control
+A.L.I.C.E is first person discovery adventure game. Discovering alien world is controlled by few mixed mechanics.
+Our movement is control by pad. The left stick is moving forward / backward / left / right. Rightstick is an optional looking around. "A" is a jump. Triggers could be activated by looking directly on them.
+Touchpad + user's head movement.
+Mechanic
+Base interactions in gamplay are based on "Look on few seconds at trigger" mechanics. You have to move close to the trigger and look directly on it. This kind of triggers looks like stone sphere with glowing ornaments place on postument. In one situation (In desert's planetary) we have implement mechanic based on touchpad and user's head motion. User have to look at planet, touch the touchpad and move planet to right position.
+Innovation
+Main features:
+Main clue of our project is create wonderful first person game working on Samsung Gear VR. A.L.I.C.E. will be created with one of the most powerful tools in game industry - Unreal Engine 4. It will be interactive journey on the alien planet. Our main feature will be “Continuous Single Player” game mode - mode where other players leave you changed world of the game.
+Our hero during space research mission was sent on a mission to an alien planet, whose destruction will occur in the near future (probably a super volcano eruption). During our mission, we need to make a few interactions with the environment, affecting the world in which we find ourselves, and that result in different endings ever. The whole plot is loosely refer to Lewis Carroll's  Alice Adventures in Wonderland. The main character will move in exoarmor called A.L.I.C.E.
+Our game will be divided into a prologue and three acts. The whole is happening in the distant future when mankind has conquered the entire known universe. The prologue introduces the player in the history and present him the purpose of his mission - to explore one of the few unexplored so far abandoned planets. On the planet, the player will have to make some tough choices, affecting the whole game.
+The first act will be a record of landing on an alien planet. As a result of the event, we land in the wrong place. Our main enemy will be the desert, which will be the main theme of the second act.
+During our journey, we will solve simple puzzles and learn the history of the planet and the creatures living in it. The highlight of the second act will be our visit in the planetarium.
+The planetarium will be impressive conundrum.
+In the last act, our hero gets to the abandoned city - there will be placed the largest number of puzzles, secret places, developing main story and places where players can leave their trails for others.
+A.L.I.C.E is first person perspective game. With an innovative mode of "Continuous Single Player". The game will be based on the mechanics of the changes made by the players.Every next player leaves behind a trail - a change in the environment of the game. These changes are visible to the next explorers. Each of the participants in the game is experiencing a unique journey - the only one of its kind. Players can leave for their next hints or complicate their game.
+Music and sounds are an important part of our project. The main motives are ambient sounds associated with the desert and the blowing of the wind causing a sense of alienation and continuous threat. Music should not be dominant, so that all sounds and noises resulting from surrounding environment makes positive immersion.
+Because of using the most impressive graphic engine - Unreal Engine 4 - we have choosen 3d technology. 
+Graphic style is to reflect our concept of a foreign desert planet. The main element will be the ... sand, sand and more sand :)
+Milestone 2 Update:
+We are working hard on enviro, so you can see few areas with basemeshes. Good news - yesterday we could walk through whole game :)
+Now, we will work on gameplay so, see you next week!
+Milestone 3 Update:
+Hi guys! We present you first live gameplay from editor! So now we have to do few more things (hehe).
+Our gameplay actions are not finished yet. Now we are working on translate blueprints to native code for better optimisation. Also voiceovers are temporary, so see You next week! :)

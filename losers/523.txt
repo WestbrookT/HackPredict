@@ -1,0 +1,6 @@
+We combined a GoPro, Oculus Rift, laptop and Twitch.tv to allow users and the Internet at large to play a human in 3rd person. The wearer sees their world from the 3rd perspective, while the Internet sends them commands which display as overlays in the Rift. Kind of like playing yourself like a GTA character, while the Internet controls you via commands. Trippy af.
+GoPro, Oculus Rift, Twitch.tv, Node.js, TMI.js
+Streaming on the Internet in 2015 is still a major hurdle. 20sec delays were common.
+We got it working! And everyone that tried it out seemed to have a lot of fun seeing themselves in 3rd person.
+VR is a wild west of innovation. New frontiers for crazy new uses of the technology.
+Possibly a helmet-mounted camera to prevent nausea, and also integrating voice commands.

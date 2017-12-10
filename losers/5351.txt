@@ -1,0 +1,9 @@
+Enhancing Gear VR Capabilities by adding lateral head tracking.
+We are building a 3D-object viewing experience for cases like architecture or exhibitions, where the user can physically move around a marker to view a virtual object. In this case the viewed object is a house model directly based on CAD-data of the building.
+Since we want the user to be able to move sideways as well as to and away from the object, we need stable positioning and quick reaction in situations with varying visual tracking reliability.
+Position tracking built on Gear's built-in acceleration and gyro alone would lead to an increasing drift in position.
+On the other hand only using Vuforia's marker tracking introduces some jitter at close ranges and lacks the responsiveness required for VR 3d application.
+To get sensitive and precise positioning we want to mix the sensor signals with the input from Vuforia marker tracking.
+The use of a cube marker object helps to keep track at low angles of vision, but a single marker can be used for the same, marginally limited, effect.
+The Gear's touchpad is used for additional interactions with the viewed object. With a swipe up or down, users can move parts of the viewed building to see inside.
+This project is a feasibility study that may lead into a product.

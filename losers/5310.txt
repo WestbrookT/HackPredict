@@ -1,0 +1,25 @@
+Taking an old game concept that has been slightly neglected so far and porting it into the virtual reality.
+This game will be a take on the Amiga classic "Dogs of War", exploring gameplay mechanics and viewing angles that work for 3rd person top-down shooters in VR. The original game featured battle grounds all around the world, controlling a mercenary who has to calculate budget for weapons and ammunition.
+One challenge is to create an immersive simulation and visualize the game setting appropriately (various scenarios are under discussion: e.g. jungle, city, urban, etc.).
+Another challenge is to integrate this into a plausible game narrative so the player immersion is as deep as possible.
+A useful outcome of this could be a working way of reviving old game concepts in virtual reality.
+After a bit of experimentation the biggest problem we are facing is to constrain the field of view of the player so he does not see the complete level at once. We are thinking about integrating the gameplay into the office scene as some kind of hologram. This enables us to restrict the visible area and embed it into the context of modern mercenary; one who does not get his hands dirty and uses drones and robots to do the dirty work.
+The game starts out in the player's childhood bedroom. Look at the globe and press button 1 or the touch pad to activate it.
+The holographic menu currently only has two buttons to interact with: "Accept" and "Reject"
+Looking at them and pressing either button 1 or the touch pad will trigger further actions.
+To start the game please click the "Accept" button.
+One inside the game the following controls are available:
+The game is a classical run & gun, which means that the player has to navigate through hordes of enemies to reach the final boss.
+There is a hand gun, shot gun, machine gun and rocket launcher at your disposal.
+What could have gone better?
+More time, less features. We basically had to drop a lot of planned features because of an unplanned dent in our planning chart.
+Earlier access to actual hardware. We have been developing without actual hardware until two days before submission (still haven't tested it with the official controller at the time of writing this)
+The UI needs to be more intuitive. A lot more work has to be spent on the assets and lighting etc.
+No actual end game; you can defeat the final boss but nothing will happen right now. This is purely down to running out of time.
+No in-game stats; they are in the 2D version and fully working, but do not appear in the VR version; we were not able to go to the bottom of the issue yet.
+Unity's LoadLevelAsync() is not behaving as expected, need to optimise a lot more from a game point of view, but no time left.
+What went well?
+Unity FTW. Deploying, running and profiling on the Note 4 was surprisingly painless.
+Profiling was actually really good, as the biggest bottleneck was a single script in the beginning which took us only 10 minutes to figure out.
+The graphical bottlenecks were harder, especially the draw call count. We had to cut down on basically everything and switched of shadow mapping, which makes the most impact (performance-wise and graphically :( ).
+There was no time for a credits screen :( there will be in a future version.

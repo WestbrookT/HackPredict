@@ -1,0 +1,1 @@
+Device for determining compass direction for the blind and providing information through different audio outputs 

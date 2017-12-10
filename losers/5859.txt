@@ -1,0 +1,1 @@
+Android app that parses photo of events and adds them to your calendar

@@ -1,0 +1,6 @@
+-Create outfits from your own or other user's clothing items.
+-Receive outfit suggestions based on color (potential utility for colorblind users)
+-reddit for clothes
+-Rank outfits
+-We had to learn Ruby and server administration while attempting to build a website.
+-All of us are new to version control and were introduced to both its woes and values during the creation of gitfitted

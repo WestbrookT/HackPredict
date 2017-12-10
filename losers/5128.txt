@@ -1,0 +1,21 @@
+Last updated - May 10, 2015
+In the game, you take control of a man trapped inside an everyday living room by his meddlesome guest. Use items and actions around the room to bypass your obstacle and advance to the next location.
+Below is a breakdown of controls for this demo:
+Using the Gear VR HMD
+(See below for controls when playing on other platforms.)
+The gameplay takes inspiration from classic third-person Adventure Games of the ‘80s and ‘90s, but injects new life into the genre by reinventing it for virtual reality, resulting in a completely unique, immersive experience.
+Upon putting on the HMD, you are positioned at a fixed pivot point in a room; you can can look around to see in any direction. (Our prototype features only a single room, but in a full game, each room would have its own specific pivot point to provide you with the best vantage.) Although you are unable to move about the room yourself (in part to alleviate simulator sickness), you do assume positional control of a separate, third-person player character.
+To make the player-character walk to any non-interactive spot in the room, center your gaze on that spot and tap the touchpad on your HMD.
+To interact with an object or non-player character, aim your gaze in its direction. If it is an interactive object, text will appear above it describing the interaction which is possible at that time. Tap the HMD to trigger that interaction.
+Interactions in this demo include:
+To advance through the demo: explore the room, investigate objects, experiment with item combinations, and make dialogue choices to uncover the solutions that advance the story.
+The traditional third-person Point and Click Adventure Game has been rare in the VR scene up until now. This may be because most virtual reality developers tend to instinctively drift towards the creation of first-person experiences. However, the genre, with its fixed camera perspective for each scene or room, is a natural fit for the current state of consumer virtual reality technology in which users have the freedom to look around in all directions while locomotion is absent or limited.
+With this demo, our primary goal has been to explore and establish the basic mechanics of third-person virtual reality Adventure gaming, rather than to focus on extensive content. The scope of this demo is limited to two characters, one room, and several interactive objects. However, we hope to later grow the systems and game structure showcased here into a full-scale experience.
+The game also features a character who does not appear in the scene. His voice and certain accompanying sound effects are heard by the user over a pair of virtual headphones. It’s a subtle effect, but the use of conventional stereo for this portion of the audio brings the spatialized sounds into counterpoint and serves to further enhance the believability of the overall soundscape.
+One possible solution is to dynamically adjust UI depth position depending on the viewer’s position in the scene as well as the positions of nearby objects. Another possible approach would be to use a stippling/translucency effect similar to the one we'd like to add to the in-world caption mentioned above.
+At seemingly-random times, the game may cause the Note 4 to entirely freeze, requiring a reboot of the device. In spite of days of valiant effort, we have been unable to track down the source of the problem or even determine reliable reproduction steps.
+The search for a solution continues, but in the meantime, should you experience this freeze, please remove the Note 4 from your Gear VR, power down by simultaneously holding the power and volume down buttons for ten seconds, boot up your phone, and try running the game again.
+We hope that you will be lucky enough not to encounter this freeze while playing, and sincerely apologize for any inconvenience that results if you do.
+(The Gear VR version can be downloaded by following the “Try it Out” link below.)
+If you have an Oculus Rift plugged into your computer, the stereoscopic side-by-side version of the game will appear on the headset display. If you don’t, the monoscopic version of the game will appear in full screen on your desktop monitor.
+We hope you enjoy our demo! We really enjoyed making it. :)

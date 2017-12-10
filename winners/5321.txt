@@ -1,0 +1,9 @@
+We love surprising the people around us! One way we can show our love is through video. However, communicating with a large group of people to participate in the video making project can be really tedious and time consuming. 
+We created VidComb, an application that makes video compilation convenient, easy and hassle free!
+The admin user will create a project on VidComb.
+The admin user will decide on the
+The participant will click on the link provided to record a video of themselves. The user can also choose to upload a file from Dropbox if they have already pre-recorded a video. After submitting a video, the participant can invite more people to participate in the project. There will also be a list of people who have completed recording and a list of people who have been invited but yet to submit their video. The purpose of showing the list is to allow all participant to invite those who should be in the video, but not in the list.
+The admin will have an overview of all the people who have participated in the project. (If time permits, we would like the admin to have the ability to re-order the video, add text, audio, transition effects before the download)
+Once all the participants have uploaded the video, the compiled video is ready to be downloaded.
+Thank you to the great team from Ziggeo, Google, FireBase, Stupeflix, Vimeo, Youtube and Dropbox for mentoring and guiding us during the #VideoHackDay Hackathon!
+Updated as of 10 May 2015, 10.10AM 

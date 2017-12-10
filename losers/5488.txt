@@ -1,0 +1,4 @@
+You are a narwhal, the Internet's second favourite animal (behind kittens)! Tilt your head to catch donuts on your horn. Match donuts for power-up and surprises!
+This game is designed as a fun mobile VR experience for the casual user. The simple graphics ensure a high frame-rate; the camera position doesn't change (to reduce motion sickness); and the controls are intuitive (head-tilt only).
+The very early prototype was well-received - users knew exactly what to do and got really into it. :)
+Milestones:

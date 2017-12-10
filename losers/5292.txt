@@ -1,0 +1,5 @@
+Cave Bound:
+Controls:
+The only required controls is the Touch Pad.  Avoid crashing into the floor, ceiling and columns by pressing and holding down the touch pad to fly the helicopter up.  While releasing the touch pad to decrease speed and altitude.
+Mechanics: Avoid the cave walls. Try to fly as far as possible in each stage and land on a helipad to increase your combo, and to progress to the next level.
+Innovation: We implemented a 3D curved virtual display to play a traditional 2.5D game. Comfortable for nearly all users.

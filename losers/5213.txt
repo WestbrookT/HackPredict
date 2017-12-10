@@ -1,0 +1,15 @@
+Pi.Fighter is a front-scrolling, 3rd person, 3D shoot'em up game in VR where you fly and shoot using gaze controls and head movements. 
+You are "Pi", the Ai that was built to calculate the number Pi to infinity.
+Until... 
+Suddenly, your main functions are cut-off. You are outfitted with a strange new "Fighter" functionality. You are uploaded into a war MAWP (Mobile Autonomous Weapons Platform) and sent on a No Return Mission to destroy the Ai named "ALPHA". 
+The only thing you know for sure is that you must fight... and that's exactly what you'll do.
+Pi.Fighter is GO!
+Fly with style and shoot with precision. Dodge obstacles, destroy enemy Ai and collect power-ups as you make your way to the boss. 
+Power-ups are a pivotal part of the game, collect them to upgrade the number of blasters you have, blaster fire-power and fire-rate, as well as gain missiles, repair the ship and also to enlist the help of a little Ai friend named "IOTA".
+The basic low-level gameplay loop involves a rhythm of dodging and shooting. Dodge the incoming fire, shoot the enemy. Repeat. 
+Advanced versions of this behavior involve using strafing and continuous circular motion while shooting to simultaneously avoid getting hit while maintaining a steady stream of fire on the enemy. 
+Head tracking controls bring shooting and flying together in a way that no other control scheme has done before. Gaze controls are combined with head-tilt controls to allow the player to fly, shoot, aim and strafe around the screen freely. 
+Good luck to everyone! 
+Join our mailing list and like our Facebook page to receive exclusive updates on Pi.Fighter!
+www.PiTheAi.com
+www.facebook.com/PiFighter

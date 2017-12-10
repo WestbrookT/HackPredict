@@ -1,0 +1,3 @@
+The extension hooks to Eventbrite's public API to get the latest events based on location.
+This extension has a feature called as Marathon, that displays the list of possible events that can be attended one after the other.
+More features like 

@@ -1,0 +1,3 @@
+Politics have never been more important than they are now. Politics will never be the same after the advent of social media. We have never had such uninterrupted access, and sometimes it is overwhelming. Sometimes we need a break. Not because we don't care, but because taking a break empowers us to stay active and continue to care.
+Filibuster is a chrome extension that removes all tweets identified as containing political content.
+Filibuster uses javascript to dynamically remove the divs of tweets containing political content. The tweets are identified with a code-table, which is built with machine learning. The machine learning algorithm is implemented in Java

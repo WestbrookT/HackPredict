@@ -1,0 +1,30 @@
+Pulsar Arena is game made in a hand full of weeks for a VR Game JAM hosted by Oculus.  Game JAM submissions tend to be unfinished or contain a few bugs.  This is part of the charm with game JAMs.
+Pulsar Arena needed a last minute SDK upgrade as requested by Oculus.  This introduced a few bugs and one of them was the in-game tutorial no longer functioning.  The tutorial covers a very important mechanic for obtaining power-ups.
+The soundtrack for Pulsar Arena is now on band camp curtesy of the square wave master, Jake Kaufman.
+Its been a long journey and sleep has long since been forgotten.  Today, we have something special to share.  
+Menu
+Title Screen (Back to skip intro)
+Tap the touch pad to press on-screen buttons
+Look to shoot blocks
+Shoot four of the same color in a row without missing a beat for a combo power up!
+Make sure your opponent has more blocks than you!
+Easy Right?  How about a game where you're in space fighting off pyromaniacs, robotic girls, Vanguard Fighters, Cymatic rifters, mysterious figures and more.  This game uses a 360 VR playing field so make sure to look behind you too!  Can't turn around?  Swipe the side panel forward or backwards to rotate.
+Welcome to Pulsar Arena!
+We are within days of releasing Pulsar Arena to the public.  This game is in the spirit of what makes game JAMs so special.  From the sleep deprivation, to the last minute submissions, these events spur some of the most innovative steps in the gaming industry.  
+This milestone covers the gameplay and the characters with some behind the scenes footage of the game in development.  This is the first time we've publicly announced our characters.  Recognize anyone?  Lets go over the roster.
+I will introduce you to the people behind these characters in the coming days, until then, check out the Milestone 3 video posted above!
+Development for Pulsar Arena began on March 16th, 2015.  At this time it was nothing more than a few sketches in a notebook.  The first title for the game was “Proton Arena”.  This was changed last minute to Pulsar Arena just before the first milestone.
+Justin Moravetz, head of ZeroTransform, then started to layout the basic building blocks to handle rapid research and development.
+We then needed a way to have a lot of 3D objects in the scene without having to render a bunch of geometry.  This is when we developed our animated 3D particle system.  It works by using a single texture atlas to show a sequence of different frames for each eye (Left / Right).  Now each object was simply 2 quads.
+This is when characters started to come in to play.  Pulsar would feature a number of crazy characters, some based in reality.  We asked one of our friends if they wanted to be in the game.  It wasn’t long before we got an enthusiastic response.
+Anyone recognize who this is?
+The entire game is driven by music…literally.  The team developed a way to drive unity objects from a music format.  Justin was familiar with writing music (he did the first world music and main theme of Proton Pulse) and started to build a sequence that would drive the game from music data.  Justin handled the data, but not the music.  Instead, we brought the legendary Jake Kaufman into the group to get this game really kicking!
+The music was hooked up, the arena built, and the characters coming online.  It was time to put it all together.
+
+The first thing we worked on was themes for the background.  Justin quickly threw together a scene to show an event in another VR world from Vanguard V.
+We then put in the characters that you would be fighting against.  We started with this guy
+Does it work?  Check out the video to see!
+is a 2-player versus rhythm based shooter controlled entirely with head-tracking that takes aspects from tug-of-war and hot-potato and wrap them up in a musical adventure in space.  The arena pits two combatants in a large hourglass balanced between a beating binary pulsar system with a 360 degree playing field.  Looking at a Polyball on the beat will target and shoot it.  Shooting multiple Polyballs in succession with the beat causes combos, and special effect Polyballs like the Electric ball and Bomb ball mix up the gameplay.
+Every Polyball that you destroy is sent up the hourglass-shaped arena to your opponent to regenerate.  Surrounding the player is a floor split in to four rings, keeping you safe from the Pulsar star below you.  Too many Polyballs will degrade your floor.  Avoid decimation and keep destroying those balls.
+Pulsar Arena is a multiplayer experience with a tiered tournament structure for groups of players.  This includes an observation mode for those waiting their turn.  The game also features a full single player mode.
+The tournament of the future brings the best of music, VR, and a full 360 playing field.

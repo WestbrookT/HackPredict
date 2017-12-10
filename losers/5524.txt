@@ -1,0 +1,1 @@
+Archery practice with fruits and targets. The touch pad will be used as primary input control.

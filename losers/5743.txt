@@ -1,0 +1,8 @@
+UrbanDaddy, foursquare, Dextro, Youtube, Periscope
+Search for a keyword, pulls youtube videos with the content of the keyword, categorizes videos based on accuracy rating
+Connecting to youtube API, parsing JSON, setting up server
+Pulling Youtube API
+Connecting with the Dextro API
+We can get a lot done in 1 day
+Create a visual rendering of the videos
+Add a API connection for live streaming video categorizations

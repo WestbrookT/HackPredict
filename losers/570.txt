@@ -1,0 +1,7 @@
+Instagram
+it allows small café owners to post about their cafés when they have live music and it will allow users to find abut their café
+I built it using android studio and some java
+We ran into a bunch of bugs that would prevent our app from launching and it would break it.
+We made a working app without any knowledge of how it worked
+We learned java and how to code on android
+Api's for google maps, distribution to the public to bring people together, more server space, premium accounts and monetization.

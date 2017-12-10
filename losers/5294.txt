@@ -1,0 +1,7 @@
+We've struggled to run entire tournaments at George Mason University for games like smash, table tennis, and much more.  When you have 80+ entries, you need extra help.
+Alexa is your personal assistant.  She can practically run the tournament as well as you can, only without the human error.  She can create and manage tournaments by having players report matches to her, just like a normal TO.
+We used the challonge api, which is used to get and push information to the brakets live.  With incorporation with the amazon echo, we can make affect the information in real-time.  All while being completely hands free.
+We have never coded in python, or used Amazon Web Services.  So when we had to figure out how to incorporate the challonge-api, we ran into countless problems.
+We powered through most of the problems to fully utilize the api, and the amazon echo individually.
+A lot of python, and the utility of Lambda from AWS
+Fully connecting all the features of the api to the echo, and deploying it to our next tournament of Friday!

@@ -1,0 +1,7 @@
+Hack the North 2015 submission
+Binds buttons on a web page to buttons on your pebble watch
+We used the Pebble SDK and a Chrome extension with Firebase as a backend to create our app
+Working with Chrome extensions and Firebase proved to be challenging when trying to get them to communicate
+A well-built, finished project
+We learned how to use Firebase
+Macros - mapping tasks instead of just buttons

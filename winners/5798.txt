@@ -1,0 +1,3 @@
+Witness uses every single feature your iPhone can provide to keep you safe in an emergency
+Live streaming video is super hard
+All the live streaming is done in the iphone and backend. No 3rd party services used for live streaming

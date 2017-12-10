@@ -1,0 +1,5 @@
+You are the brave spartan that was murdered at night by a cowardly traitor.
+You need to escape from the underworlds guarded by crude Hades and his minions to avenge your death and warn Sparta. 
+Luckily you have a magical grapple hook, that will help you get out.
+Player needs to guide the hero using Gear VR motion tracking and built-in touchpad. When player will touch the touchpad, grapple hook will be ejected in the pointed (by look) direction. 
+When hooked, player will swing from one side to the other until released by touching the touchpad again.

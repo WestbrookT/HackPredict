@@ -1,0 +1,5 @@
+Final Jam Product:
+While much simpler than originally planned, I plan to work on this project for it to be on par with the original pitch on my free time throughout the year
+Original Pitch:
+Project Breakline is an interactive sound visualizer that places you in the midst of MIDI-controlled and spectrum-amplified chaos. Tracks are composed/produced in FL-Studio and exported with dedicated MIDI information that controls the lighting and various effects in the scene. In addition, MIDI information triggers events within the visualizer, performing sequenced logic based on player input. FFT data from currently playing tracks drives visuals further through the use of various Shaders.
+Our goal is to immerse the viewer into an abstract world governed by music. 

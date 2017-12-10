@@ -1,0 +1,12 @@
+Hexagon is a twin stick shooter, where every single element of the game is synced to the song you're listening to. The game lets you pick a song and then stuff happens to the beat. You can pick any mp3 file on the device, or choose one of the included demo songs.
+You control a simple hexagon. Avoid enemies, which spawn on and react to the beat. As the song's intensity increases, so does the number of enemies. Score points by shooting at them with bullets that are synced to the music. 
+If an enemy hits you, your hexagon will be destroyed. You have unlimited lives, so don't be afraid to bump into them a couple of times.
+The game has a clean and minimalistic look, with effects and a perspective that enhance the experience. As changes in the music are detected, color schemes and the point of view of the camera will shift.
+The goal of Hexagon is to blend gameplay, music and VR together in a fun game. 
+The UI is controlled by looking at elements and then either tapping the touch pad, or the "A" button on the gamepad. 
+The game has a simple file browser that can be used to find any mp3 file. Scrolling trough the list of songs can be done by swiping the touch pad, or with the left analog stick. 
+The game essentially is a 2D game, taking place on a flat plane. I've tried to combine this with VR, by making the camera's position and orientation dynamic. 
+The camera's position and orientation smoothly interpolate between interesting angles and positions. The player's input is then transformed accordingly, which makes it feel very natural.
+Even though music based games are nothing new, Hexagon is one of the first VR games that use music to generate gameplay. 
+Hexagon features real time beat tracking, that instead of detecting loud peaks, tries to detect the actual tempo of a song. This enables gameplay elements to be synced to the music at regular intervals, instead of relying on inconsistent and irregular peak detection.
+There are a number of features that aren't quite where I want them to be. These will be added as soon as they fit together with the rest of the game. 

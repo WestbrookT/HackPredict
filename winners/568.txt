@@ -1,0 +1,16 @@
+Profanity Pig is your sidekick in ending bad swearing habits. 
+We want to help people monitor their bad language, one swear at a time. Profanity Pig squeals back against your profanity and makes sure any punishments are ultimately for a good cause - for you and your chosen charity. 
+Use the built-in coin slot for self-imposed penalties or link Profanity Pig to a credit card or PayPal and automatically fine yourself for every naughty word you say. Payments will be totalled weekly and sent to your chosen charity. 
+Customise your curses to match your filthy mouth and tolerance levels by adjusting the profanity list and the amount you penalise yourself for particular ones.
+Features:
+Brain tree integration
+Create your own list of naughty words.
+All processing is done on the device, so there is no need to worry about the NSA listening in.
+Monitor your progress via the integrated web backend - both your total penalties and what swears you’ve been spewing. This way, you can focus on avoiding saying the swear words you say.
+My foul mouth, a regular swear jar and a piggy bank.
+Profanity Pig squeals back against your profanity and makes sure any punishments are ultimately for a good cause - for you and your chosen charity. 
+Runs on android, detects all speech patterns and internally processes against an internal list of naught words. When a match is found it reports the the back end server where brain tree integration and mySQL database exists.
+Using the android/google voice recognition. Building a valid 3d model. Setting up the web server. 
+It's cute, it was fun to build and constantly test the "functionality".
+Getting speech recognition to work well can be fiddly at times. How to build basic models and whats required to make compatible with 3d printing. 
+Load the software onto a Arduino  or RaspberryPI to fit inside the pig model. Test and polish.

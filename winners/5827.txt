@@ -1,0 +1,8 @@
+Inspired by office conversations between Pasha Riger and Chris Franco at Miner Labs. Combined with an affiliate monetization plan where all the affiliate sales made would go to charity every month.
+Sign in. Try to guess which product is more expensive from looking at the product photos. 
+Save product you like for later. Buy them. Have fun.
+Tried to set up a new angular-mean-stack-seed project and all the tooling at the start of the hackathon. Total Fail. Wasted 2 hours. Went back to a simple node-angular seed project I've used years ago.
+We pulled it off and it works! 
+Don't try to set up new technology at a hackathon.
+Don't be evil.
+A couple of iterations and affiliate links, and this could actually be a fun shopping game, where you also help make the world a better place by donating to charity.

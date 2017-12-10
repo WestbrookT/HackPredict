@@ -1,0 +1,1 @@
+Two-Factor Authentication(2FA) provides an additional layer of security for websites. This plugin enables Two-Factor Authentication for WordPress using Nexmo's Verify API.

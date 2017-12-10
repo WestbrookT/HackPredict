@@ -1,0 +1,52 @@
+Bucket List VR
+Concept
+The Bucket List VR app allows you to experience an amazing selection of Virtual 
+Reality bucket list activities without having to worry about the travel, cost or dangers 
+normally involved in these activities. 
+Motivation
+If you haven’t heard about the term “bucket list”, it is a list of dreams someone wants 
+to fulfill or a set of activities you want to experience before you die. For most people it 
+is impossible to see all the sites or experience all the activities they wanted to during 
+their lives. In order for those people to get a taste of some amazing bucket list 
+activities we are developing the Bucket List VR app for Gear VR.
+Controls 
+Navigating the Bucket List VR App content and options are controlled by the touch 
+pad and gaze of the user. Once the user is in the app there are several content 
+categories to select. Adding an experience or activity to your personal Bucket List VR 
+is really easy, just tap the touchpad when the pointer is placed on the heart symbol. 
+To move to a category, the user swipes in a single motion, forwards or backwards 
+across the touch pad. 
+To move to an item, the user swipes in a single motion, downwards or upwards 
+across the touch pad. 
+To play an item, move your head to place the on-screen pointer onto the play 
+button and tap the touchpad. 
+To add an item to your Bucket List VR, move your head to place the on-screen 
+pointer onto the heart and tap the touchpad. 
+Mechanics
+Bucket List VR allows users to experience things a person wants to do before they 
+"kick the bucket." The experiences are listed in several categories for easy 
+navigation. Bucket List VR will contain loads of experiences and activities, some will 
+be linear and others will allow the user to navigate a historic site 
+Our Bucket List VR Facebook App allows users to share experiences and invite 
+friends. This Facebook integration is highly desirable because often activities on a 
+person’s bucket list are social. Due to the time constraints in this project we did not 
+prioritize this Facebook integration but we have it on our development roadmap. 
+Innovation
+Our Bucket List VR App combines the intuitive controls of the Gear VR with the 
+Google’s material design guidelines that offers the best user experience. The clean 
+design and horizontal and vertical navigation provide an easy to use app.  
+Future features 
+Additional content
+Currently the app offers a limited number of experiences due to the time it takes to 
+find the right content and negotiate licensing deals that benefit all. We will work on 
+more licensing deals to be able to add more videos and experiences to the app. 
+Facebook integration
+As mentioned before, the Facebook integration is very high on our development list. 
+This integration will make it a truly social experience. We are also planning a 
+separate, non-VR app that allows you to easily search the provided content and add 
+it to your bucket list. This will make it even easier to immerse into your favorite 
+experiences once you are in VR.
+Gamification
+Gamification makes any experience more fun to do. For this app gamification will be 
+used to entice users to experience more experiences, to collect badges and become 
+the first among their friends to have crossed all of the experiences of their bucket list.

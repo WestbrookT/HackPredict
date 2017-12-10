@@ -1,0 +1,3 @@
+The first and most crippling issue was getting here 12 hours late. As for technical issues, parsing directions from a google map API encoded .json, using JS and CSS for the first time, as well as switching from Windows to Ubuntu at 3:00 AM.  
+It actually works!
+How to publicly host a locally hosted application via Ngrok, the google maps API, how to traverse a .json, JavaScript, and CSS.

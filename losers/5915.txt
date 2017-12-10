@@ -1,0 +1,6 @@
+After events like parties, hackathons etc. , the web application lets the user donate food to a homeless shelter or food bank. It shows the user information about nearby homeless and food bank location depending on the food that they are donating.
+I built it using JScript, HTML and CSS. I used some tutorials and the materials from the workshops to build the web application.
+-Figuring out a way to connect all the different parts of the program together. 
+-Understanding the programming language
+Being able to learn a language, use the limited knowledge and create an end product.
+-Programming in html and JScript

@@ -1,0 +1,7 @@
+The live drone app is a challenging concept app which provides you live remote experience of any location the drone is placed in.  The mechanics of the app are quite simple, the drone will be custom fit with sensors to rotate in sync with the gyro readings from the gear vr. The drone is equipped with gopro cameras which are in turn hooked up to live streaming relayed back to the note 4 device in gear vr. The user will push the button to move forward and then rotate his/her head to see around the landscape. It will provide a real time experience of a location which will be totally unique and much better than the recorded VR experiences. The user will be able to see the events in real time as it is happening which is the usp of this application as it adds up to the exploration and is nothing like the recorded exploration tours.   
+This app has tremendous potential applications like :
+Tour of location for leisure and fun experience, for eg. someone sitting in home can feel the scenic landscapes of great beaches , mountain ranges or any location. 
+In exploration, while moving up a mountain or progressing a cave, it can be used to see any potential dangers like a ditch or some wild animal etc.
+In disaster situations, it can be used to estimate the potential damages or survey the location.
+ and much more such scenarios. 
+Currently using a recorded video of a drone and broadcasting it to note 4, work on the live video lag issues and head movement signals is giving me some troubles right now but will update it soon working hard on it.

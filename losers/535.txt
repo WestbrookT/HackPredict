@@ -1,0 +1,3 @@
+This is a particle engine. Think of the white circles as small objects with a small mass and the blue circles as fixed position black holes that have A LOT of mass. The small circles are called balls and the larger ones are gravitors. The gravitors make a vector field that interact with the balls and accelerate them all over the place. Hella cool.
+Click once on the canvas to create a gravitor. Single click a gravitor to make it larger and double click to delete it.
+CreateJS handles the html canvas related duties and redrawing objects. The physics is handled by an array that creates a grid over top of the canvas, but exists only in the code. It is essentially the output of a vector function and maps out where all the forces are.

@@ -1,0 +1,4 @@
+Voxel sprites look better on stereoscopic devices.
+So a gamepad controlled VR editor is an amesome way to create them.
+The first version will be all about simplicity.
+The potential for advanced features like animations with APNG support, cloud gallery support and tileset export for voxel games is there.

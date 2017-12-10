@@ -1,0 +1,4 @@
+Think of any event we go to or any place we go to. There are hundreds and thousands of people. How can we find out who we should connect with or if there are any people worth connecting nearby? We all have that problem. Likemind solves that problem. 
+We successfully managed to overcome the challenges of collecting nearby user profiles and finding matches pretty well. We had many exciting feature ideas, we managed very well to define the MVP and execute it in time. 
+We are still learning :-) 
+We got very lucky ourself by finding like minded partners for this hackathon :-) We would see if we can continue working on this afterwards. 

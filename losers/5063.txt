@@ -1,0 +1,6 @@
+The Farming scenario in India and the suicide rate of farmers
+IoT based automation for the whole of the farm
+Geting the sensors working without any prior knowledge
+Got the whole system working successfully and learning a lot
+Programming with arduino and connecting sensors
+A lot in store yet, this is just the start

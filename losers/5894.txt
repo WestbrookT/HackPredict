@@ -1,0 +1,7 @@
+We've heard of Indeed, Monster, and Workopolis - but no such platform exists for that connects volunteers with relevant opportunities. MyWrkr takes the effort and stress out of searching for volunteer opportunities. Initially intended for high school students looking to fulfill their community service hours in a meaningful way, MyWrkr has evolved to create a platform for individuals of all ages, experience, and interest. 
+MyWrkr acts as the middle man and volunteer hub where users can input their areas of interest and relevant documentation. They are then matched with volunteer opportunities in their area.
+As a team we used HTML, CSS and JavaScript to build myWrkr
+Php was a challenge, and we were unable to make our forms store the information in a database 
+Made a cool looking thing !
+How to make a website & use git !
+Finish developing it ;p

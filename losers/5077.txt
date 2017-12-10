@@ -1,0 +1,7 @@
+Long time ago ...when Sys Admin had black hairs ....
+Nyhow ..
+Ultron --> prediction model to analyze and predict the reason behind the system fault. this is a rule based mechanism.
+feeds on Ceilometer Events for now (can be extended to notificartions, logs, AMQP's), time based matching of events for prediction.
+Observer --> on the Go Light weight (Mobile app + web interface) for Monitoring stats and events, along with any Critical information, presented in intuitive and simple format
+Together like all super heros they come together to save Sys Admin from the Horror of manual intervention. 
+Next Year they are being launched by DC comics too.. I have heard Arya Starks Ultrons fan.!!

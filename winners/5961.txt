@@ -1,0 +1,5 @@
+Sentinel is a tool for better bringing-together.
+From conference calls on speakerphone to wheeled telepresence robots, the technology behind remote conversations has always been evolving - but perhaps not fast enough. No matter which medium it's expressed in, a wireless conversation is constrained by the inability to perceive emotion or understand body language.
+That barrier to effective human communication is resolved with Sentinel.
+Two NEMA-17 stepper motors provide 80 N*m torque to a powerful pan-tilt device, on which a smartphone can be placed. An Arduino microcontroller drives the motors. Phone gyroscope readings pan and tilt the device correspondingly, to provide a realistic conversational experience.
+3D modeling done with OnShape.

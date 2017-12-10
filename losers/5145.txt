@@ -1,0 +1,13 @@
+Confronted by deadly forces, do you run, or fight?  Explore the city of Sub-Maratron in Crime Watch, a cyberpunk role-playing game built in Unreal Engine 4.
+When tackling how to create compelling software in VR, we started to think about the tech available for building a game.  We knew that hand tracking was out of the picture, and we saw that controller input is a viable method for movement while in VR, but we wanted to try and implement a new kind of gameplay method that would make sense in VR.
+We asked ourselves, “What if you could have a conversation with a character in VR?”  That question opened a lot of unique narrative and gameplay opportunities, that would be a complement to the lack of traditional input in VR.  We’ve seen that a lot of cloud-based speech-to-text services are accurate and available to use at an affordable cost. 
+With a carefully crafted script, combined with the presence of VR, we believe that we can convince a player that they are not only talking to real characters, but make them feel a greater sense of agency in the story we want to craft for Crime Watch.
+Crime Watch is a private security force sent on missions by people who pay for crime insurance. Because of extreme tax cuts, the government has stopped funding departments such as the police force and fire fighters.  In this world, one either spends the money on crime insurance, or turns to vigilantes and scavengers for protection. 
+You have been called upon by your commanding officer, Smith, to repair some tracking antennas that keep watch over these scavengers in a subsection of Maratron City.  This once prosperous area was destroyed by the Terra Corporation in a factory accident 5 years ago.  Now the air is filled with toxic gas, which has affected wildlife—and the scavengers who still live there—making them mentally unstable and dangerous.
+At this stage, the game REQUIRES a controller.  We tested a DualShock 4 connected over Bluetooth. You should sit in a swivel chair where you can turn 360 degrees freely.
+Left stick : Move forward/backward
+Right stick: Turn around manually (only if you’re restricted in turning)
+L1 /Triangle: Action button. (This may vary from controller to controller.)
+Once Unreal Engine supports voice input on Android, we can start building our planned voice functionality into the game.  Until then, you can download our pre-alpha build and explore the diorama.
+HOLD the action button to charge the antenna.
+The first antenna in the back needs to be charged for the elevator to open.

@@ -1,0 +1,26 @@
+PROLOGUE VR PRESENTS :
+Overall VR Experience :
+Science360 explains scientific concepts using the vast 360 canvas that Gear VR® offers.  This app makes it easy to visualize scientific concepts in the most efficient, enjoyable way possible.  We have chosen to explain "Special Theory of Relativity" for VR Jam, using immersive examples to demonstrate each concept within relativity.  This makes the app useful, fun, and interactive at the same time. 
+We plan on exploring many more concepts in-depth through Gear VR® such as quantum physics, fluid dynamics, and photo electricity.  By removing the word "imagine” from hypothetical situations and placing viewers inside a beautifully rendered, imaginative world, Science360 becomes a first-of-its-kind experience.
+Our app aims to educate people of all ages with understandable, fun demonstrations.  These 360 VR ‘lessons’ transform textbook concepts into accurate, visceral experiences.  You may find yourself falling at the speed of light or entering an enhanced, slow-motion environment where the intricate details of physics are laid out clearly.  Accompanying voiceover guides users with peppy, clear, and concise explanations.  The app implements a toon-world approach that makes education visually engaging for a broad age range.
+VRJAM Description :
+CONTROLS – The GEAR VR touch-pad is used to select and tap on options. Use the back button to get the menu and just gaze and tap on the Gear VR touchpad to select any option. 
+MECHANICS – This app allows viewers to sit back, hit the play button, and learn. We have a voice over which explains each scene. For quizzes, viewers will nod or shake their heads to answer questions.
+KNOWN ISSUE: Please give a few seconds between scenes for loading the scene. We currently do not have a loading screen between scenes. 
+INNOVATION – This is the first time a scientific concept will utilize the 360 space.  Since relativity is based on your frame of reference, we make sure to use that notion to its full potential in this app. We came up with new innovative examples that were never before used to explain relativity. 
+This app also includes a nod/shake VR Mechanic that allows users to nod ‘yes’ in response to a test question or shake their heads to answer ‘no.’  Perks like these will emphasize the immersive power of education through 360 VR.
+Based on the response the app receives, we plan to design more apps that help explain complex scientific concepts.
+CREDITS
+Production company : Prologue VR,
+Produced by : Kimberly Cooper,
+Project Lead : Vivek Reddy,
+Project adviser : Michael Fisher,
+Voice over : Jim Pierce,
+Art and set design : Ilya Abulkhanov,
+Illustrations : Andrew Douglas,
+Writer : Nick Fanego,
+AE animation : Evan Ausmus,
+Music : Dylan Harper,
+Editing : Evan Ausmus,
+Script supervisor : Michael Fisher,
+Concept : Vivek Reddy

@@ -1,0 +1,4 @@
+Using your phone location, Waypoint determines if you are within range of any messages left by other users. Once within range, you can view all messages left at that waypoint, and can leave messages of your own at the waypoint for future users who pass by the waypoint.
+We began by utilizing Google Maps GeoFences API, but due to the lack of precision and accuracy of indoor based location methods, this was not feasible. We instead implemented our own solution to simulate GeoFences.  
+We developed a companion application for Pebble Smartwatches that gives users directions to the nearest waypoint and alerts the user when they have found the waypoint.
+We plan to implement private waypoints through a passkey system. Users can create a waypoint with a private key that they can share with there friends, so that only those who possess the key can view the waypoint and the messages contained there.

@@ -1,0 +1,4 @@
+Hive - Pay 4 Get 5! 
+Smart Software for Shopfans and Businesses. We help shoppers get great discounts without carrying member cards, as well as being able to pay contactless thanks to ibeacons. The Shoppers can also make offers to other buyers who just got the last sold favourite item. The Businsses don't need to issue anymore member cards and can offer great discounts by tracking each client's history of purchases.
+We searched for Android developer, but unfortunately didn't get this position filled. It was a total mess to be on time with one programmer for web and mobile development. Some of us didn't sleep at all. 
+But the idea in my opinion is quite ambitious - create effective way to prove the value as a customer for business - and we've done it for 24 hours.

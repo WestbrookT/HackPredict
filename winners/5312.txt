@@ -1,0 +1,14 @@
+The 2016 US Presidential Elections highlighted the increasingly problematic issue of online bias and information integrity. The overwhelming volume of biased, misleading, or simply misinformed information published online can make it challenging to distinguish facts from "alternative" facts. Inaccurate information is a plague to society for a multitude of reasons, and is only a growing issue. To promote the spread of accurate and unbiased news, we developed Factify--a crowd-sourced information verifier and fact checker.
+Factify is an RSS feed that compiles of news from across the web, and allows users to cross-reference, verify, and debunk the validity of any article. Each article can be viewed on our site and annotated to enhance accuracy. Other users' annotations are persisted and displayed to subsequent viewers. These annotations clarify misleading information, correct erroneous facts, and identify bias.
+The site can be visited directly, but as an additional affordance, we developed a chrome extension which plugs in to Facebook. The extension presents a "Factify" button alongside "Like", "Comment", and "Share", and links out to the annotated article on our site.
+Factify is primarily built using the HTML/CSS/JS stack. The AnnotatorJS library is used to handle annotations, and persistence is supported via the AnnotateIt Store storage API. Python scripting was used to generate JWTs to provide an authentication mechanism to support persisting users' annotations.
+To handle the Facebook integration we built a Chrome extension which identifies news articles present on your newsfeed or wall and adds a Factify button if the article is fact-annotated on our site.
+Authentication with JWTs, persistence across different users, creating an intuitive user interface, incorporating external plugins, integrating Google extension and Facebook plugins.
+We developed a simple user interface, so our website is more accessible to our desired user base. Our application can provide users with a broader range of news articles without exposing them to misinformation, a problem that many media websites are having today.
+How to...
+...approach a big project step-by-step, building functionality from the ground up
+...make a website that has user interactivity
+...implement API's and modules into our program specs
+...collaborate on web development via GitHub and AWS
+...create Chrome extensions
+...create Facebook plugins

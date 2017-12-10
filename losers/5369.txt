@@ -1,0 +1,9 @@
+Techruiter can be used for:
+Providing insightful feedback on your interviews
+Help prepare for interviews
+Suggest Job suggestions
+This web app can also be easily integrated into your LinkedIn account.
+The future enhancements are:
+Video interview analysis
+Better Tie-Ups with companies
+Enhance the interview analysis to technical interviews

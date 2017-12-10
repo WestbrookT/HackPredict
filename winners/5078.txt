@@ -1,0 +1,6 @@
+Visually impaired, low-vision, disabled, technical-oriented and simply lazy people
+Lazy people/ geeks/ democrats probably would love this. Disabled people can perform their search easily and get credible output. Technical-oriented students could easily search for useful pieces of knowledge/ terminologies. Visually-impaired would require a text-to-speech, which time allocation does not allow. 
+With Javascript mostly and w3c speech API
+Difficulties: XML to JSON (API limitations). Solution: turn output into image. Potential improvement: Text-to-speech for feedback. Speech recognition with an addition of voice command. 
+Fully search control (assumed initiation). Selective results regarding technical, math, or science. Plots and graphs included. (more detailed, science-oriented, and easier to navigate/control than traditional web search). Smooth UI, user-friendly, minimal activities required. 
+Better grammar check, automatically initiated recording, maybe we'll build an instant fact checker.

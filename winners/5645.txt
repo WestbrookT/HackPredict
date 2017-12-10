@@ -1,0 +1,5 @@
+SMS Maps returns directions between two points given by the user, all via SMS.
+It is up and running!
+Through this project, we were able to get more experience with the tools we used. We also learned more about this market and its possibilities. 
+This sort of feature can be applied to a variety of fields (health, education etc.) and we seek to make this a more viable product and eventually retain a solid customer base. 
+We are four high schoolers from Gunn High in Palo Alto. We are very passionate about Computer Science!

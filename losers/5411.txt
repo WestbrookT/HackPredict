@@ -1,0 +1,16 @@
+Shamana VR is a v-learning solution, which enables anyone to enter knowledge bubbles, created and shared by everyone.
+Transform the e-learning in  social v-learning: learning through the virtual thanks to collective intelligence.
+We believe that everyone possesses in oneself an invaluable knowledge, our solution allows to encapsulate this knowledge and share it via a device that everyone has in his pocket: his smartphone.
+Today, MOOCs allows us to learn things that we didn’t not have access to. However, many people give up because, to learn takes a lot of time and involves to be at home, in a quiet place, requires to be focused and be prepared to spend at least 1 hour on a course.
+Yet, the trends; "Twitter" or " Vine" teaches us that people do not have much time anymore and their attention span is very short! They want to have access to answers anywhere and thus rapidly, without loss of time.
+The Shamana-VR's goal is to make short educational experiences, which can be used at any time and at any place. Let’s imagine ourselves in a bus, instead of wasting 10 minutes playing CandyCrush, we would be able for 5 minutes, to find the name of the different monuments in front of which we will find ourselves, or, for example, be immersed in a Café in Madrid and learn how to order a coffee. We always say that it is easier to learn a language when we were in the country concerned. Shamana-VR teleports us there!
+The advantage of Virtual Reality in education is that our brain is completely immersed in the context.
+Thus, the assimilation rate is much faster because it allows us to be totally focused and ready to learn for 5 minutes intensely.
+Shamana VR enables learning through the visual, which is not yet sufficiently present in school education.
+Our challenge and our innovation is that we provide a user generated content.
+Anyone can create and share his knowledge by the v-learning. It is not necessary to know how to encode to use Shamana-VR. Thanks to a website, the users will be able to convert their videos, their presentations, their MOOCs,  their lectures on slides, their quiz, ... etc. into virtual knowledge bubbles.
+Later our goal is to provide each user with targeted and adapted videos; thanks to learning and deep learning machine algorithms, so that everyone may have access to the proper knowledge according to his data (age, expertise, nationality, ...)
+English, French, Spanish, Chinese, Russian, German
+MCQ, MOOC
+Science, Tech, AR/VR, Design, Environment, Entertainment
+Which monument ? Where am I ? Guide

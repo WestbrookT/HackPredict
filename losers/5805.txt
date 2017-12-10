@@ -1,0 +1,6 @@
+I needed to convert ISO 3166 3-letter Country Codes in our Oracle DB to the more common 2-letter Country Codes used by Splunk. 
+It's a lookup table to convert between the Country Code formats
+Getting the complete list of country codes, and how to do this in Splunk instead of Oracle!
+The end user has no idea there was ever an issue, the conversion happens as the data is pulled from the DB by Splunk's Database Connect. It's also my first app!
+I learned just how easy making a Splunk App is, and how to package and upload it to Splunkbase to solve the problem for everyone!
+I'm looking at other ISO standards that have multiple equivalent data types to solve this for other areas.

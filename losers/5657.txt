@@ -1,0 +1,16 @@
+It´s a "hidden-objects" game about fulfilling a shopping list where the game control is your head ( "where you are looking at" ), no external buttons or unnatural gestures.
+You have to fill your market trolley with the shopping list items in time to complete the level. When you complete a level, you unlock the next one .
+You will be in a supermarket aisle with shelves full of items. You have to find your items, and look at them for some seconds to put them in your trolley.
+You can move between aisles looking at a “floor arrow”.
+We want a game controlled exclusively by "where you are looking at". We would like the game controls to feel natural to V.R, and ( hopefully ) to be understood by players without any explanation or tutorials.
+No buttons or unnatural gestures!
+We would like to integrate the U.I into "physical 3D objects" that make sense.
+We want to reinforce the player´s willing to explore and "look around" when they wear V.R glasses. We´ve found that this is what players really want to do in our first V.R prototypes... they don´t care so much for the gameplay we implemented, but for the exploration and "V.R" feeling looking at objects … That´s why we thought a “hidden objects” game would match very well V.R.
+We want to make a “casual” game, not targeted to hardcore-gamers.
+We want a to make a full game, with a working retention loop. A simple "unlock the next level when you fulfill the shopping list of this level", level points ( with stars )... 
+We need to reduce to the minimum the number of objects and scenes ( in order to be able to deliver in time ). The game scene will be a supermarket aisle, and we will buy the " Supermarket Gluttony Pack" at the Unity3D Asset Store. 
+We want to explore how to “move a little around the shelves of the aisle” depending on where the player looks at and how much time. ( looking at a point, or looking around … ) . It will be “mostly” stationary gameplay, but we want to move the player a little to “focus” or “zoom-in” in some shelves in a way that feels “natural”.
+I´m a big "fan" of John Carmack, I would really appreciate his critics and comments about this game. The critics will be very well accepted ( in fact, the harder and more detailled they are, the better ) :) . 
+I will include some screens ( game states ) and flow between them. It´s “early” work, and it´s in spanish, sorry. I will try to write the next design documents in english in order to submit them. 
+Each “game state” has a corresponding graphic concept ( wireframe ). Sorry that the format is different, and It doesn´t fit weel in a “text” document .
+:

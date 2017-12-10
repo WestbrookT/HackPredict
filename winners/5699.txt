@@ -1,0 +1,7 @@
+IoSECURITY provides a complete network setup for home users. An IoSECURITY server is connected to the home router allowing increased security, privacy, management and customization. 
+The IoSECURITY server features are accessed through a webapp. IoSECURITY server allows  home administrators to:
+Node.js to set up server.
+Initially users were to be allowed into the network using FreeBSD's Packet Filter Firewall on a Raspberry pi. Due to complications in running Node.js and our databas on the Pi itself (we want a one for all solution!), an Odroid C2 arm64 board running Arch Linux was used. The rules were written using IPTABLES and Node.js ran fine afterwards!
+Setting up a server using node.js.
+mongo.db for database 
+Bugs would need to be fixed for a smooth application. In addition, features might be edited to optimize the Webapp after receiving feedback from users.   

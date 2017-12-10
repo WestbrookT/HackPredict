@@ -1,0 +1,7 @@
+We were thinking about inconveniences we face during school, and one idea that came up was speech memorization.
+Oratory helps the user memorize a given speech.
+We used Android Studio, Google speech-to-text API, and Classifer4J Summarizer API.
+Putting it all together and transitioning between reading to summarization to memorization were the main points of difficulty.
+The whole app ended up working the way we envisioned it.
+We learned how to use speech-to-text API, Classifer4J Summarizer API and tricks with Android UI.
+Oratory plans on having implementation of multiple languages, better speech recognition, and a more personalized experience with machine learning.

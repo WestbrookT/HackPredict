@@ -1,0 +1,9 @@
+Experience music videos in an innovative new way. Imagine the streets you walk are performing the music, you love.
+VR opens up the possibility for an innovative new type of music video format and audio experience. A player and tool, that can animate and evolve a new world of music and the very places around you. A tool that lets everyone create objects and landscapes beyond static rendered videos. An ever evolving world, inspired by music and you.
+The software lets you use a set of brushes and manipulation tools to watch and create unique animations to songs and audio. Connected to streaming music and other services, its applications could be limitless. For GameJam, the prototype will provide a sample track as a proof of concept with some basic tools and brushes.
+Artists recording and animating objects and the architecture of Times Square to music, fans adding their performances and presence over time, FlashMob style temporary sessions along streets in the style of the 24 hour Happy video, the sky will be the limit.
+This is our first experiment towards this new type of space.
+Credits:
+Music in video : Your Call by Kevin MacLeod, Licensed under CC
+Phase 2:
+Testing effects, interface and mapping look and feel and MVP features.

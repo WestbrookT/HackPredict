@@ -1,0 +1,9 @@
+The Fray Academic System is designed to manage the basic entities of a school academic system. It was based on Fray Ramón Pané's School need to implement a new system. The basic functionalities allows the users to personalize at some point the Lectures and groups within the scope of their need.
+On the Roadmap
+Note: Fray Academic System was developed using Rubymine as IDE on windows with a modded mysql2 gem to support the development environment.
+If you are planning to use a different database please be aware there is no troubleshoting support.
+Having your database up and running, bundle install on the application root folder.
+Rake db:migrate:faker to execute the migration and fill up the tables for testing.
+rails server and you know the drill.
+Will Paginate: Copyright (c) 2009 Mislav Marohnic
+jbuilder: Copyright (c) 2011 David Heinemeier Hansson, 37signals

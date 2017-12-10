@@ -1,0 +1,5 @@
+Event attendees send an MMS to a phone number provided by Twilio. A node.js webserver on Atlantic.net stores the photos and uses websockets to push the newest photos to a web browser for a live photo stream. The web server also uses the Microsoft Faces API to extract age and gender information to report on cool stats. 
+Figuring out how to show new images but recycle olds ones without doing anything janky in the UI took us a while.
+The entire flow works, from sending an MMS to face recognition to rendering. We're proud we were able to put all the pieces together, and that the UI looks great!
+Sleeping at a hackathon is OK. A couple of us took a three hour nap. We learned Atlantic.net is WAY easier to use than Amazon AWS. We learned how to use the Twilio API. This was the first hackathon for our teammate Melanie. She came in knowing very little Javascript and CSS, and she did the whole UI!!
+Right now it works for one event. The next step is to turn it into a service anyone can use, giving them a unique URL for their stream and their own Twilio number.

@@ -1,0 +1,31 @@
+Teach^2
+What exists/problem:
+The problem today in many universities and higher level institutions of education is that educational majors and those seeking a future career in education are only taught what to teach and not necessarily how to teach it. Students graduate from college with a high knowledge of math, science or any other field, but do not truly understand how to share this knowledge with others.Students will have various traits & characteristics that can affect learning outcomes encouraging teachers to experience hardships during the teaching process.
+What can exist/solution:
+With our simulation-based learning environment, the teacher can experience various scenarios in a grade-school classroom based environment. In the grade-school classroom, teachers will experience scenarios to learn from and apply their results into real-life scenarios for improved outcomes of student learning. Use cases are applicable to disabilities (speech, cognitive, attention deficit), student-based interruption, overly talented students, bullying, & anxiety to participate.
+Why this idea?
+As college students, and early career-based professionals, we’ve noticed a strong inability for individuals to teach others of their experiential knowledge. Each one of us wants the ability to cognitively apply learning based scenarios to our growing ability to teach others what we’ve learned in software development, product & project management, human-centered-design, and social cognition for improved outcomes of our dedication to student learning.
+Conclusion:
+We’re choosing this real-time scenario based avenue with the objective of scalability. What will start as a teaching based virtual reality application will be modified to appeal to additional scalable scenarios such as: negotiation, role-based learning, large scale lectures & seminars, overcoming stage fright, & music based teaching. Additionally, recording user improvements can provide a rule-based engine to promote the notion of avatars or virtual-assistant-based teachers for online education.
+Teaching Environments:
+-Kids who face mental and learning challenges such as Dyslexia
+-Normal classroom environment
+-Classroom with delinquent or disruptive students
+-AP & talented students
+-Artistic and creativity minded students
+-Mathematical & STEM minded students
+-Kids with little sleep or high stress
+Feedback/Results to critique teacher:
+-Loud/Confident sound
+-Mumbling and flow of speech
+-Visual Based: Body language, tone, demeanor
+-Entertaining lecture - keeping the audience’s experience
+-Positive/Negative Reinforcement
+Test cases:
+-Interruption: bathroom breaks, class clowns, aesthetically distracting students
+-“Teachers pets”, bullying
+-Intellectually inclined, but disinterested
+-Motivated, but slow learning
+-Less gifted, less interested
+-Aesthetically distracting teachers
+-Representational learning systems: auditory, visual, kinesthetic

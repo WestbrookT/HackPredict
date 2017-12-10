@@ -1,0 +1,10 @@
+So I was talking to my friend Jack, a musician about loop pedals, the night before this Hackathon. We spoke about the concept of one man bands, which led to myself thinking about...
+EVERYONE should have the ability to do this!
+Allows you to create covers for songs, with small recorded segments looped back .
+Our application will even assist you how to cover these small segments, based on pitch and timing. 
+The fun part is to cover any song, with strange instruments or better yet no instruments, and
+listen to the end result!
+Backend:
+Backend:
+Front Design! I am happy with the way the application looks and feels.
+Finalise First Revision, and Release!

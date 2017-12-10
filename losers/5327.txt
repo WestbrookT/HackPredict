@@ -1,0 +1,3 @@
+ShapesVR lets you learn about basic 3D primitive shapes via experience! Squoosh to compress volumes and measure relations among each geometry, as the shapes melt in their respective beakers! 
+Mechanics - gaze-based cursor with hover tooltips and tap to confirm
+Innovation: cylindrical shelf-based UI 

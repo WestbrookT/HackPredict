@@ -1,0 +1,10 @@
+We wanted to create accurate diet plans, based on blood test results. Also, we wanted to scan a barcode and find the nutritional values of the product using this.
+It scans blood test results and extracts the information, using Google Vision (text-recognition). Based on this, the app suggests diet plans to the user and checks whether products are suitable to eat (using the barcode to identify the product and its nutritional values)
+Divided the group on front-end and back-end development. Front-end team made use of the Ionic2 framework, Angular2 and Typescript in order to create a GUI and deliver data (text-recognition) to processing. The back-end team integrated various APIs together in order to deliver accurate diet recipes and decide whether a product is suitable for the user, based on his blood tests.
+Reading the 13 digit EAN of the barcode. 
+Finding a recipe database.
+Synchronizing text recognition.
+Managed to develop the full application. Managed to use Google Vision (text-recognition) API.
+Advanced skills in Node.js
+Integrating multiple APIs together
+Become a part of the NHS Five Year Forward View. #MakeADifference #MakeItBetter

@@ -1,0 +1,9 @@
+My3DStore is about combining the real shopping experience at a retail grocery store with the benefits of online shopping. 
+This means that consumers can visit a virtual supermarket where the products and aisles are laid out as if they were in a bricks and mortar store. When experiencing this app shoppers can see fully stocked aisles of products. We are connecting to Tesco's API (the largest retailer in the UK) to pull Tesco product images and details, which are passed through our 3D construction algorithm to create 3D products. These 3D products are then prioritised by the user’s purchase history and intelligent recommendations. We build an entire store around the consumer. With a simple menu interface the user can navigate around the store by category and create their shopping basket with a full physics based cart, which is synced with your online Tesco basket ready for purchase.
+Over 24,000 products are available in the shopping experience from fruit (apples, pears, bananas) to canned food (soup, tinned vegetables) and from bath / beauty products to wine and beer.
+The objectives of this application are:
+The target users for this are:
+My3DStore uses Gaze and the Touch pad for it's interactions. 
+Note: this application has been built against UK Tesco API and will update your online basket with the ones you add. However for testing and experiencing outside the UK the basket update has been disabled so you do not need a Tesco account to use this application.
+A user can complete their online grocery shop using My3DStore VR:
+The areas where this application is innovative are:

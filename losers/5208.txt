@@ -1,0 +1,3 @@
+Walk through a virtual gallery and relax!
+Simple controls:
+Comfortable experience with constant 60 frames per second.

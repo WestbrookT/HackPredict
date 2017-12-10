@@ -1,0 +1,8 @@
+When the date and the price is fixed, but not the destination. Snap helps people pick where to go at the very last minute.
+At 11am on Tuesday, tune into Snap for the best offers for what you can get up to next weekend.
+Anybody can browse through hundreds of tabs; Snap is an opinionated way of browsing just five "good" options only for "next weekend". User preferences, home airport, budget and other stored preferences are factored into a simple "snap choice". 
+This overturns the normal flight search process. Instead of picking
+... Snap will just assume dates and home airport and show a list of great value destinations, found by the Skyscanner "everywhere" search. We combine hotel and other deals around this.
+To sweeten the display of results, we show the value of your home neighborhood on AirBnB (powered by Zilyo API) as a cost-saving for a weekend getaway: A €500 trip might only cost €300! 
+When we generate these 5 options, they can be shared with a travel companion as a shared challenge. Voted separately, the results are shared afterwards and booking can then take place for your common choice. Booking would be eventually via Skyscanner and Hotelbeds. 
+We wanted to try a new framework this weekend, which just didn't work out for us! 

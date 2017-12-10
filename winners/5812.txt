@@ -1,0 +1,6 @@
+Needed a quick pick me up and love internet memes.
+User creates a custom page that include a single emoji, animated gif background, song, and quote for a friend.
+Deciding on an idea and lack of sleep.
+We finished our app and it works and it's fun to use.
+Really dug into node.js and angular.js.
+Possibly saving past custom pages and a clean up of our URLs.

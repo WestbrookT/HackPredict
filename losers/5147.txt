@@ -1,0 +1,15 @@
+Our Mobile VR Jam project focuses on Venice, the 'City of Masks'.
+The goal of each ramble topic is to mine the interesting stats, stories, and creative so a user only sees the best pieces, quickly. There is no scoring system or win state.
+Users can control what content they consume via look-based interactions. By looking at an object for 2- seconds it will come to life or bring other elements to life. If they don't like any content they can simply avoid a prolonged gaze. Movies, stats, audio, 3d content - many types of content appear at a user's whim.
+Users are able to move vertically and horizontally around an object via the Gear VR touch pad. This "orbiting" is comfortable and fun, while providing a simple way to navigate.
+To move to a new topic/place/person in Venice users can simply look at the Ramble logo. When looked at for 3 seconds they move forward.
+In the full app we would like to randomly select the next topic, but for the purposes of the Mobile VR Jam we have scripted the path to provide a nice contrasted mix.
+We worked really hard to make a fun navigation, which was easy to use, without getting newcomers sick. The fun navigation can empower the user to explore history and geography in a fresh way.
+2. Truly Mixed Media.
+We've blended a range of media to provide a recognizable visual impact that scales nicely to mobile. Users can stumble from 180 degree video, to an audio play, to an infographic series, and all with a faithful narrator guide, all in the same topic.
+3. Story-driven Content.
+To be honest, there isn't much in terms of stories in VR. Our hope is to use the technology to tell the tales of a beautiful city, its heroic wins, and painful defeats, in a way that makes a user as excited as if they visited this place.
+——— # Milestone 2 ———
+For Milestone 2 we have all of the pieces in place! A few highlights include:
+——— # Milestone 3 ———
+For Milestone 3 we're pushing hard in the final stretch! New items include:

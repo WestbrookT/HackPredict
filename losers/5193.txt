@@ -1,0 +1,4 @@
+We were inspired by the fact that in Puerto Rico its pretty hard to find a center to get a flu shot. We repurposed an app made by Code for America and applied it to a local problem.
+Once you go to the website, there appears a map of Puerto Rico with the flu shot centers that are available. You can search for available flu centers that suit your needs.
+We encountered a few small challenges. The biggest challenge was seeing how the app was organized.
+The next step would be filling out the data set for flu shot centers.

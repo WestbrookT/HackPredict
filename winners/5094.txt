@@ -1,0 +1,5 @@
+Advancement of automated technology, and the need for safety measures
+Early warning indication of high temperature alarm for essential generator components, and acoustic emissions recording for structural integrity analysis.
+Built hardware, researched wind turbine generation to better understand the need for an automated system, added sound and temperature sensors as well as algorithms to Intel Edison to detect desired data
+Limited knowledge with arduino and console interactions
+Having Prometheus acquire data for Temperature and Sound, team

@@ -1,0 +1,4 @@
+Ever run out of charge between classes?
+Looking for the best place to study for hours?
+Outlets@Brown is a location based webapp that helps users find power outlets close to them, as well as view the ratings of power outlets (not all of them are good!).
+The webapp was built using Polymer, with several APIs from webcomponents.org . We intended to use Firebase to build the database.

@@ -1,0 +1,21 @@
+I have a lot of trouble understanding people
+I get messages all the time that I just cant quite understand what they are trying to tell me
+I spend hours sometimes days ruminating on the hidden underlying messages of all sorts of text and emails
+If there was some way that I could make sense of the emotions and thoughts hidden in the messages
+What better way to understand people then to write a program to do it for me. 
+I was first introduced to IBM Watson at the techcrunch hackathon this 5/7/2015, 2 days prior to this event
+At this event, I had an interesting idea of analyzing the text messages you receive from other people and than determining what kind of attitude they have towards you. I built this to determine if potential romatic interests where also interested in me.
+But I realized that this solution is both too simple and too complicated
+So I thought, what if there was a more user friendly way of analyzing messages. But also, what if you could determine emotions and personality types of entire conversations? What if you could see where a conversation dialogue is leading too?
+I present to you my idea: Think Carefully
+Think Carefully is a product that takes any form of conversational data that you choose to add to it.
+Right now we are just seeing my personal emails, but you could easily integrate text messages or any system supports 3rd party integration
+Now this is a highly functional prototype, I focused on the user experience rather than integrating messaging platforms.
+So here is the product, why don't i reply to an email?
+(click around)
+oh my, that message is quite mean, I am glad that Watson proof read that message for me
+the business justification for this is incredibly simple. 
+in my mind, a successful business is determined by how many people you can help.
+This application can easily help people with autism, salesmen, customer relationship management platforms, technical support forums, even journalists in drafting articles to colleagues.
+There is no virtual limit to how we can use this platform
+I implore everyone here, help me build this further, help me turn this into something that we can all be proud of

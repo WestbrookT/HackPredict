@@ -1,0 +1,2 @@
+This is an interactive music experience for the track "Temple of Mind" by my friend Shamanic Technology.   Instead of passively watching a music video, the listener is transported into a realm where they must find the temple of mind for themselves.
+This is my first project with Unity.  I started this project as a learning experience to get my feet wet in VR and interactive 3D design.  It initially began with a team, but this turned into a solo project.

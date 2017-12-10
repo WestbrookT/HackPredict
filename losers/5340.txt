@@ -1,0 +1,15 @@
+The brutal realities of the new frontier. It takes 7 months to get to Mars, can you safely see a crew of 4 through the isolated and perilous journey across the Mars01 Trail?
+You are an AI working with Mission Control to deliver a small payload of humans in cryo-sleep to the established Mars01 Colony. The 7 month journey is a test of surviving isolation, and potential perils. You must maintain the health of the crew and the ship, through 196 days. Each day is a turn, and each turn you have limited CPU actions. 
+Every trip is a bit different with random encounters with space debris, cosmic rays, and incoming transmissions from actual NASA missions (public domain recordings). 
+From a development standpoint I chose this project as it is entirely set in one scene, exploring the isolation of space travel, and giving me the opportunity to focus in on the interaction with the ship displays, controls, and game mechanics. 
+While I have access to a small team for input, they are currently dedicated to other projects, thus the goal here is to keep the scope small enough to manage a playable game in 4 weeks with a single person developing it. 
+Milestone 4 : 
+First, Second, and Third globally signed .apk tested and coming up as wrong program. 
+*Attached link is what I was sent from the signer tool. If anyone can assist, please do!
+Back to the drawing board. If you can play the .apk it's an environment/screen-test, using a controller.
+Integrating sound and more UI, but can not move forward properly until game is testable.
+I look forward to finishing Mars01:Trail, and working hands on with a GearVR!
+Thank you for bringing the VR community together, overall was a great learning/networking experience.
+Milestone 3 : Updates :
+Video added showing early environment tests, and some beginning UI screens. 
+Textures and UI animations started in game, very much still in progress.

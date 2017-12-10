@@ -1,0 +1,10 @@
+API for special offers in the near of the current location.
+The idea is that a shop owner provides special offers for his location.
+These offers are pushed to the cloud and send as push notifications to users in the near and personialized and filtered by specific conditions (depending on the weather, e.g.).
+An interested user can purchase an offer and directly pay via PayPal.
+An offer is also pushed to social networks like Google+, Facebook or Twitter.
+Push special offers for users in you near location:
+Users search for special offers in your near location:
+Select an offer you like and pay directly:
+Connect to API like Wunderbar to provide offers with specific conditions:
+Define the conditions in the backend:

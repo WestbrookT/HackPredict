@@ -1,0 +1,6 @@
+The objective of each match is simple: Eliminate the opponent squad.
+Both squads are controlled by AI and will automatically seek out and try to eliminate the opposition squad.
+As the squad commander, players are able to switch between FPS VR view among the squad members.
+Players are able to give basic commands to try and turn the tide of the battle. e.g. hold, advance
+At the end of each match, players will earn upgrades to make their squad stronger.
+There are also different stages to conquer in Squad Commander.

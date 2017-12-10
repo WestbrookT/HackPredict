@@ -1,0 +1,2 @@
+I hate how recruiting works, I get to many cold calls and not enough jobs I'm actually interested in.
+I built a chrome extension and website that simplify the experience by using sentiment analysis and cross referencing various social media sites to give a better picture of a candidate.

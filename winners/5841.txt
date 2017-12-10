@@ -1,0 +1,6 @@
+Snapchat for locations
+You hit "Get Numbie" to get a small (< 4 characters) Numbie. Share with others, they can see your position. Numbies have a limited timespan - so there are no privacy concerns. Ideal to share your location with a group of people.
+Syncing the Numbies across clients. esri API.
+First version is running!
+Meteor.js
+Finding lots of use-cases. Possibly sharing other information using Numbies (e.g., your current mood, a tweet, pictures, business cards...)

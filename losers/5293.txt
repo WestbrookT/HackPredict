@@ -1,0 +1,4 @@
+Users gather in virtual fantasy spaces to watch and listen to music. The spaces dynamically react to the intensity of the music, performance, and crowd. The environments also contain user interactive elements. Examples of fantasy environments may include: underwater, the moon, forest, beach, a 16-bit video game, haunted house, etc. This demo is set in an aquarium. Between Live music sets, users are able to vote on both music and the environment.
+Users choose from a variety of customizable avatars to represent themselves and dance using animations determined by orientation tracking information streamed from the GEAR VR. A mix of dancing NPCs are combined with real users to add a sense of scale to the experience.
+Users are also able to form groups and communicate with each other with voice to text based chat. 
+Added animations, networking for multiplayer

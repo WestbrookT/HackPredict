@@ -1,0 +1,9 @@
+The idea for the game is that to have challenges that involve certain phobias. The player will have to face the challenges and tolerate the person doing the test on them. It's is supposed to be a fun and comedic experience. Due to the scope of the game and time almost running out, I've decided to edit the first level by adding more to it in order to feel complete.
+Controls
+Mechanics
+Innovation
+Small warning:
+It might make some uncomfortable especially if they are afraid of the phobias portrayed in the game but it isn't based on any understanding of how the phobia works.
+Issues during Development:
+The main issues now is content and voice over acting. Still working on getting level 2 to feel comfortable for players, might have to try another way to play it. Also figuring out raycasting in Unity and interacting in a VR environment. It's my second time working on a VR game. 
+In the demo level, you must:

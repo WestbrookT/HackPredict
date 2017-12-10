@@ -1,0 +1,3 @@
+The Temple of the Swamp Giraffes is a classic rail shooter with a twist- you're goal is to find the collect the souls of all the priests who died in the swamp.
+The player has full control of their sight, but no control over their path- allowing them to focus their attention on the beautiful landscape, unsettling architecture and mostly spotting and collecting the lost souls. The collection mechanic involves the player focusing their eyes on a lost soul in order to harvest.
+There will be three stages of difficulty, where difficulty is scaled up by increasing the speed at which the player moves through the swamp.

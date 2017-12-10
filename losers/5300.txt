@@ -1,0 +1,15 @@
+STORY >
+Graphity* is a universe of puzzle-like graphical particles (graphticles). There's an abyss that the player has to get through in order to discover the ultimate 'truth' about this weird graphics universe.
+MECHANICS >
+The player finds herself going through an abyss. The oxygen supply is limited and doesn't suffice to finish the abyss. However the Graphticles charge player's oxygen supply, with varying amounts depending on their difficulty. Meanwhile the player can use her Kinetic powers to accelerate/decelerate or simply blow-up some Graphticles with these tele-kinetic powers.
+CONFLICT>
+The supreme-being (God of Graphos) doesn't want us get through so easily. So he is playing all kinds of mind tricks (visual and audial) to change our perception and lose our will and stamina.
+Also the Graphticlesvpresent a challenge by both taking your oxygen (when touching their body) and giving you oxygen (when you pass through them).
+FUN >
+It should be very exciting to experience the sense of falling/drifting within a VR environment meanwhile trying to avoid some hurdles, go through power-ups, all in a coherent visual world.
+INNOVATION >
+Graphity explores the perception of space with varying visual phenomenons, altering our sense of reality, stretching the possibilities of cognitive Virtual Reality application areas.
+CONTROLS>
+Look around with VR set. Use Gamepad Left Analog Stick to steer. Use Right Analog Stick is for speeding up and slowing down: Positive and Negative Vertical Axis. (Please try horizontals on the right analog stick if the verticals don't work due to testing on a different gamepad). Use 'A' button on Gamepad to 'Fire' and 'B' button to restart game.
+CATEGORY >
+VR Mobile Casual Game.

@@ -1,0 +1,17 @@
+I wanted to create a really immersive, but simple pick-up-and-play game, no dropping pads, no fiddling around trying to touch the side of your head in the right place, no staring at points in front of you... so I started work on some shader-based GPU hand tracking using the camera, with some success!
+Accuracy was a little ropey, but good enough to track arms and movement in realtime, boxing lends itself perfectly to this tracking, and VR Boxing was born!
+Wii boxing was a perfect example of how a SIMPLE boxing gesture, when vaguely accurate, can be a lot of fun, and when the punches are going to be delivered right in your face, immersion is going to be extremely memorable. 
+To make this a bit more accessible, and maybe a little less jarring if it really is that immersive, we've decided to pit you against bears, robots, Godzilla and the ultimate champion of nature, a kangaroo! 
+The possibilities extend so much quicker than simple boxing though, networked games against another player, LIVE, bullet time fighting, REAL locations...
+Given the extreme time limits and that huge amounts of time have to be invested in the written-from-scratch-tracking, boxing with it's simple mechanic and re-playable gameplay is a perfect fit for a jam.
+[Milestone 2 edit]
+Work is progressing, arm-tracking was going well... with a fixed camera. The bulk of development has basically been on GPU/Pixel Shader positional tracking, to warp the "background" to emulate a fixed camera. This also gives us rough positional tracking, which in itself should prove great for bobbing to avoid fists thrown straight at your face.
+Punching your opponent mixes ragdoll physics with animations to reduce animation work, and add some variety to the impacts. Not perfect yet, but interaction with characters is there
+Assets are on their way and hopefully will be dropped in shortly to replace all the programmer art. 
+We're going for old-timey moustache-laiden fighters, and hopefully a kangeroo or bear to battle with, reflecting when boxing was a real sport. No shiny shorts, no press conferences before, just raw, battle-for-steak-dinner altercations.
+Initially with a boxing ring, but if we can fit in the time, streetfighter-esque different arena's to fight in. Who doesn't want to fight in a dusty back-alley with chickens wandering around your feet.
+[Milestone 3]
+Due to everyone's tight work schedules, (real jobs get in the way :( ) we've cut the game down to a boxing-gym training arena. We have a ring, characters and scene, so there's a chance we can still do bouting against a real character, if we get some animations done in time. A joint-physics controlled bag works well and hoping this is becomes an intro/bonus round. In our big list of todo's (maybe for a retail game) is a street-fighter style bonus round, beating up cars in first person, or buildings in "godzilla" mode :)
+The graphics in the milestone video are really rough, better ones are ready (and that video may be replaced in time for the milestone, but I needed SOMETHING up).
+This also doesn't show the hand tracking, but another video should do... my final week will be putting in all our assets and hammering at the code to try and get some hand tracking working and keeping frame rate up (all the hand tracking is done via pixel shaders). 
+Tough schedule!

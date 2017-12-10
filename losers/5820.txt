@@ -1,0 +1,4 @@
+Tracking cognitive decline based on speech patterns and complexity. Recording and transcribing of audio to leave a legacy to future generations.
+A connected device with an architecture of APIs that enable text to speech and speech to text processing; whereby enabling a dialog between a human and an artificial intelligence (AI); wherein said AI analyzes the semantic structure and lexical quality of the human’s dialog. Said AI may recognize linguistic patterns suggestive of cognitive dysfunction, such as dementia or Alzheimer’s disease, and alert the need for further medical evaluation. 
+Technologies: 
+Business: 

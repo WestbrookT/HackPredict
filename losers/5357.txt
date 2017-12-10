@@ -1,0 +1,10 @@
+Enjoy running on fitness machine in beautiful enviroments. 
+Choose place where you want to run today. When you are in, just start running and enjoy. If you run next time, your best run time will run with you! Compete with it, beat yourself and watch your progress.
+Your excercise measurements are always shown to you during the run.
+The app can detect your steps. Speed of the character in the game is adapted to speed of your running so it feels natural. For best result jump on the elliptical work out machine you hang your cloths on at home or go to your local gym.
+Alternatively you can use touchpad to let your character walk or run and enjoy the nature and scenery. You can speed up or slow down by swiping touchpad forward or backward direction. Each swipe increases or decreases speed by 0.5 steps per second. Be careful with higher speed. Without your physical activity may make you feel uncomfortable.
+Step detection allows not only adapt your speed but also provides information necessary to calculate information about your exercise.
+There are statistics calculated and tracked all the time. You can continuously watch head up display on top or watch for display tables next to track. 
+Your running is always recorded. On your next run your best time will run with you so you can try to beat yourself and see how you are progressing.
+Right now the app has real time rendered scene. In future it will get more beautifully pre-rendered sceneries and real shoot 360 deg videos from interesting places like beach coast, mountains etc.
+For exercise we recommend an elliptical machine. Other kind of machines like treadmills or steppers may work but might be dangerous. Stationary bicycle is not supported by this version as it detects steps and not cycling yet.

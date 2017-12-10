@@ -1,0 +1,8 @@
+We wanted to learn machine learning.
+It makes a list of groceries based on previous user buying tendencies and patterns.
+Hard work and determination. React/Redux, Python.
+No one knew how to do machine learning.
+We have a website.
+Machine learning is hard.
+Stacy learned image editing and react.
+Likely nothing. Let's be honest this was a hackathon project.

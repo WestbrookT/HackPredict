@@ -1,0 +1,4 @@
+I don't know where to go so I ask a website to tell me what travel destinations might fit my interests
+We analyse the social media history of a user and build an interest graph on top of the sourced information. Using our proprietary algorithms we suggest travel destinations matching a users interests. From there we will enrich the destination choices with transportation and accommodation information.
+The hotelbeds api only provides a very limited set of keywords so search by, extending these will enable us to deliver higher quality results to our users regarding their interests.
+putting it into Github and getting on with our lifes

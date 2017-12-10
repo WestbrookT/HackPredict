@@ -1,0 +1,6 @@
+Everyday Problems
+Queue is a free and easy to use app designed to cater to the hectic lives of UC students who don't have the time to wait around at the gym. Queue tracks live Rec Center traffic and sends it directly to your phone letting you know the current number of people at the gym. This way you will always know at what time the Rec Center is most busy and can schedule you workouts accordingly.
+server to client pushes
+setting up heroku with maven
+LeapMotion!
+Undecided.

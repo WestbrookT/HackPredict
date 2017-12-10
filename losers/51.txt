@@ -1,0 +1,7 @@
+Reduce accidents when driver falls asleep when driving a four wheelers.
+It takes the angle of the motor from the current position(say standard operation angle of the car with the road) from the rotary sensor and when the car tilts more than the specified angle, the speed of the motor is reduced until interrupt is ocured or the speed reaches zero.
+We used arduino 101 with base sheild. Rotary sensors, LCD dispaly to know the current angle, stepper motor, stepper motor driver.
+Interfacing Arduino with the computer. making LCD display work. what not ..... Everything was new for us. 
+We have learnt something new apart from Software Programming
+Hardware interaction using IDE. 
+It reduces the speed if the user looses control. This is done untill an interrupt received from the user or the speed reaches 0.

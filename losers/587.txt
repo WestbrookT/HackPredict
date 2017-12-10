@@ -1,0 +1,2 @@
+Multiplayer Puzzle Game
+You and one other person have been trapped on an icy field. Any move across the ice you make will slide you forward until you hit a wall or other player. You must work together to reach the exits and escape. Featuring custom music!

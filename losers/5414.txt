@@ -1,0 +1,21 @@
+Ordinary customers have difficulty to approach to HMD typed, Oculus Lift due to diziness.
+New platform must be comfortable and friendly for users to easily get familiar with the interface. However, this diziness creates uncomfortable and displeasing experience to the users. Thus, they won't get back to the platform.
+This diziness happens due to the difference between how we feel in real world and virtual world.
+We tried to minimize the difference under whole designing phase.
+In this game, the character(player) doesn't move by himself but as a security gaurd, observes CCTV monitor and commands orders to nurse(NPC).
+The background of the game is mental hospital which observes and takes care of patiens who keep on moving at night.
+Each of mentally disabled patients has his own background how he get mental disease. Patients will show their own unique features or actions according to the background.
+There are around 5 triggers which make 5 different actions.
+If the devil goes into a patient's body, patient will show abnormally violent behaviour. As a security gaurd, player should keep eye on these patients, figure out whom the devil went into, and command the nurse to solve the problem. If player couldn't catch the devil within a day, patient will get more violent and finally die. If player could grab the devil, a picture related to patient's background will be given as a reward. By collecting these pictures, player ratiocinates background of all patients.
+The genre of this game is reasoning, puzzle, and horror. Main content is reasoning behaviours and background of patients.
+How to play:
+Patients should find a patient into one of the devil.
+Each patients will act in accordance with their disease.
+However, patients entered the devil will be completely different behavior.
+Observe the patient to be monitored at the guard station catch the devil.
+The doctor should be expected to act with inter-patient looking at the profile.
+The devil is expected to be Clue to find the patient radios.
+Isolation and press the button held a demon!
+The time limit is 21 am to 5:00 pm Dinner foundation!
+control:
+Instruction can be identified with the image.

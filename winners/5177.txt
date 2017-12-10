@@ -1,0 +1,3 @@
+We wanted to use Amazon's Alexa to demonstrate how wolfram alpha's API could be used in a simple, real world setting and decided to use the 'rhyming words' feature to create short raps about a given word.
+When given a word, the Amazon Echo gets a list of rhymes from Wolfram Alpha and answers with a few short rap verses.
+We used Amazon's Lambda serverless architecture to create a custom node.js server to run when contacted by the Echo. The node server then contacts Wolfram Alpha using their API, parses the response it receives and transforms it into a short rap, then sends this data back to the Echo to be spoken aloud.

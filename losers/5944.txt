@@ -1,0 +1,4 @@
+If you have a lot of friends that are always on the move - this app helps you coordinate events.
+Text your twilio number, and it will broadcast your friends.
+If your friends reply with their address - you can map out a route.
+This application can be used for a variety of creative situations where logistics and coordination is important.

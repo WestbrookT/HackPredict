@@ -1,0 +1,21 @@
+Sit down at a park bench near a relaxing pond and feed ducks!  Look around in 360 to watch ducks swim around and waddle the grass.  Tap the Gear VR touch pad to toss pieces of bread out in front of you and watch the ducks walk over to eat it.  A relaxing, ambient experience that can relax just about anyone at any time once you strap on the headset.
+A simulation of a mundane real-world activity may sound simple, but it's all about having realistic animations and walking AI to not break the user's immersion.
+UPDATE
+Got the ducks walking around, got the basic park geometry laid out, got sounds in, got a skybox.
+Next up:  Bread throwing--it works but there's a physics bug where it won't stop bouncing around.
+Duck AI is really bad, I have to work with Mecanim and NavMeshes a bit to get the foot sliding to stop and the turning to look better.
+UPDATE
+New duck pond geometry!
+Better lighting with light maps!
+Duck AI is still terrible but they stop and eat.
+Next up--really work on duck AI.  Also, swimming DUCKS!  Maybe a Canadian Goose if I can get some help with modeling.
+UPDATE
+Ok got a better looking environment with trees!
+Duck AI is better but still has a long way to go (for some reason they don't give up chasing the bread once it's been eaten!). 
+Better ducks!  Now I've got two mallards, I'm still working on a model revision and new animations.
+Stuff to do:
+More animals:  Ducklings, Canadian goose
+Swimming ducks
+Floating bread for swimming ducks to eat (right now it just splashes into the water like a rock :) )
+Ability to switch benches
+Ability to switch bread types (pumpernickel, wheat, white)

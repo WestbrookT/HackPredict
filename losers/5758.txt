@@ -1,0 +1,3 @@
+IIS Continuous Integration/Deployment from Git & TFS Source Control.
+Ready to use as basic deployment controller.
+You can use Visual Studio 2012/2013 to build from source code and deploy generated files in IIS.

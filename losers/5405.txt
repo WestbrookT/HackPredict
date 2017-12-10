@@ -1,0 +1,12 @@
+“MARTY – Space Runner” is a first person running game in the style of infinite runners like 'Subway Surfer' or 'Sky Punks'.
+It features Marty, a space exploring alien crashing on a uncharted planet after colliding with an asteroid. In order to fix the broken spaceship to escape the hostile environment, Marty needs to collect parts of his vessel spread out over the vast crash site. Running through the canyons of the planet he collects energy crystal and finds the missing parts while dodging obstacles and alien foes.
+Unlike most infinite runners the game is level based. The player runs a fixed distance along the curved and sloping track to collect the required parts and as many energy crystals as possible.
+Future additions like competitive high-score lists, social network integration and power boosts are being planned for the next stage of development.
+We put the focus on beautiful handcrafted art, an engaging 3D experience and a new twist on the much like game mechanic.
+The game will play to the strengths of stereoscopic game play. Asteroids flying towards the player, the track deformed into a roller coaster like ride and sudden abysses to fall into will keep the player engaged and thrilled.
+Menus, bonuses and visual effects are being crafted to work with the 3D experience offered by VR gaming.
+The game can be controlled on the VR headset by swiping and played with the gamepad.
+VR headset
+Gamepad
+Choosing the Unity game development environment to bring 'Treasure Rides' to VR cator GmbH is venturing into new territory. Cator GmbH, Lünen, Germany, was founded in 1999. The core business is the development of website solutions. Web-Design, Web-Shops and Web-CMS allow the team to follow the passion of making games in their own time.
+cator GmbH Hüttenallee 67 • 44534 Lünen Tel 0 23 06 / 7 56 69-45

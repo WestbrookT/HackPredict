@@ -1,0 +1,19 @@
+In W.A.R.P. the main mechanic is inter-dimensional windows, in which only objects can be passed through. The player must use these windows to solve puzzles in order to proceed to the next room.
+For this demo there is only one alternate world. Alternate worlds can have different environmental effects that can be used to help solve puzzles, like heat, cold, water, wind, gravity, etc.
+This demo contains 4 rooms to solve, and the entire demo should take about 5 minutes to complete.
+W.A.R.P. requires a gamepad to be played.
+This was a solo project. I didn't have nearly as much time to prepare as others in the jam, nor do I have the funds to make as good of use of the asset store. I did a lot of the modeling, some of the textures, and all of the scripting myself by hand. The rest are free assets from the store and other websites.
+I only started learning game development last year, and this was my first real try at developing an actual game. I really wanted to know what I could accomplish when it comes to developing a game, so having to do everything myself isn't so bad in that regard, even if it puts me at a disadvantage win it comes to winning any prize.
+I didn't come up with the game idea until a week before what I thought was the real start date of this jam (so about April 6th). Then I only had a vague idea. To participate in this jam fairly I waited until April 13th to start, which I now know was a mistake.
+Since I had no time for preparation and planning like others, I came up with everything on the fly. The general idea is still there, but the game ended up quite different then I originally thought it would!
+Since I had to come up with it on the fly, I'm sad to say I didn't come up with any VR innovations. I just made a game. A game for VR.
+I made this game in Unity 5. I don't own a GearVR, just a DK2, and did my best to develop it with just that. It was challenging, but I waited all last year for another jam like there was in 2013, to long, and didn't want to be left out because this jam was for GearVR only for some reason.
+This only ended up being a demo, and more just introducing the player to mechanics then giving them fun puzzles to solve. So of course I'd like to design some real puzzles and add some more mechanics. I didn't get much time to sit and brain storm this past month, but I could maybe see doing these things in the future:
+A type of transmitter to open doors, so the player could have to move objects from the normal world to the other worlds to trigger progress.
+Different and better types of windows. Something more portable. Maybe a gun you shoot through windows to cause the target object to shift to the normal world and vice versa. I could have windows that exist as just tears between worlds instead of part of a device, and require the player to seal this holes in addition to using them to progress.
+More alternate worlds, with different effects and design styles the player has to work with.
+I'd love to design and write a story for this game. Who created these windows? How? Why? Why does the player have to solve these puzzles? Why are the puzzles even set up as puzzles? etc.
+I feel more could be done with the way you move around and interact with objects. Like a gravity gun, teleporting, flight/super jump, etc. Not necessarily that stuff, but something...
+Of course, any of these future plans will hinge on if I win or not, and have the funds to follow through. I may still continue on with the game regardless, but it's not certain.
+Video demonstration of how the windows work. M3 Submission.
+W.A.R.P. Homepage

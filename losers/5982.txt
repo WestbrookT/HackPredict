@@ -1,0 +1,6 @@
+We were inspired by one of the sample prompts, but we decided to take a slightly different direction with our project.
+Emojify has an interface that allows the user to enter a string and a desired number of emojis. Javascript and Python code identifies relevant emojis using a list of emojis and their associated hot words and then appends those emojis to the end of the input string.
+Dealing with the character encodings of the emojis and getting the browser to render the emojis was challenging.
+We managed to get this web app fully functional in Safari.
+I'd never worked with Javascript before, so that was a new experience for me.
+This early version of Emojify doesn't have many functions, but I could see a later version of this project being integrated into the web browser as an extension or into the operating system of a mobile device. Later versions of this project could also learn users' habits in order to better match emojis to their text messages and emails.

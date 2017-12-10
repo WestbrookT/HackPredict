@@ -1,0 +1,8 @@
+People prefer to just respond to the e-mail and say: "unsubscribe", "I have some questions", "I'd like a group discount", "I am having a problem" we can classify the action and create entries in the CRM turning auto-response into actionable data!
+Office 365 connection was not easy, thanks for to the developer advocates on location for your help
+Training Watson
+Tying a bunch of API's together to provide a comprehensive solution.
+A simple use case sometimes is very complex when you try to solve it completely.  Natural Language Processing seems easy, but it's not.
+Package the solution
+Improve the training for Watson
+Connect to more CRMs (Dynamics etc)

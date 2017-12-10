@@ -1,0 +1,13 @@
+Groundhog is a crowdsourced search engine.  Think Reddit for Google.  Every search query becomes a discussion.  Others who have walked in your shoes, wondering the same things, can contribute their findings, their insights, their reactions.  Specific to your search.  
+Results are ranked by a combination of Google’s own Page Rank and user submitted votes.  In the context of a search query, each page has comments, which can be upvoted and downvoted.
+PageRank is algorithmically cool.  But it’s cold and impersonal.  We’re adding the human factor back to it.
+This began as a desire to be able to add a TL;DR to your Google search results so you can remind future-you, should you ever search the same thing, which results were valuable.  Especially when looking up common errors when coding, issues, etc.
+Install the Chrome extension.  No login required.  All comments are anonymous.
+Hacking minified obfuscated Google search JS was a nightmare. 
+We got 0 days of sleep.
+IT WORKS!
+Strongloop/Loopback is an amazing node.js API framework.  Made backend a breeze to build.
+Don't forget a function is asynchronous.
+Technical debt can be toxic, even for hackathon hacks.
+Fuck it, ship it.
+Once we touch up some gaping security holes, we'll put this up on the Chrome web store!

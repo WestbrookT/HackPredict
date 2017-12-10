@@ -1,0 +1,15 @@
+Concept:
+Barren is a desolate planetoid which you are populating with trees. The empty land will slowly fill up with colour and life as the trees grow and flourish.
+The world, assets and anything within the game has an origami, or paper-inspired style.
+Gameplay Dynamics: 
+The game starts out during the day in full sunlight. The world is monotone, and completely empty. As time goes on the player has tools to make the environment and assets in the world prosper and flourish. The night is falling, but another day will come, and another night, etc.
+At first, only cacti will grow on that land, and this is the only thing you can plant. However, cacti will give you some seed that will allow you to plant another kind of plant. Each plant that you grow has a chance of giving you a type of seed you don’t own yet. You collect seeds by harvesting the fruits. The ultimate goal is to find the Seed of Life, which will plant a majestic tree, affirming that life is possible on this planet.
+It is the appearance of the Seed of Life, and the planting of the Tree of Life, that end the game. Once you have them, you have won the game.
+The Tutorial:
+There is a guide character to assist the player in learning the basic controls and the systems in place. Essentially near where the player will enter the VR experience they will meet an Origami paper lady who will explain the basics of using the controls.
+The player:
+The user controls an unnamed, unseen entity who is riding a paper plane that allows it to move around the world.
+Controls:
+In order to have a more immersive experience, we wanted to limit the need of external devices. As such, our game relies solely on the GearVR inputs, no extra controller.
+Movements:
+Turn your head to look around. Your vehicle will align with the direction you are looking. It is recommended to sit on a rotating chair or to stand up to be able to move 360 degrees. Hold “touch” to make the vehicle move forward.

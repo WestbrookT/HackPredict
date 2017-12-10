@@ -1,0 +1,12 @@
+A day in the life of a Virtual Cop - On Patrol.
+A simple police procedural from the virtual viewpoint of a cop on patrol.
+The viewpoint of a cop is unique as both protector of the city and its people.
+A rolling adventure though the city as a cop on patrol.
+Interesting things
+Fixed hardware platform should make this interesting to work to platform.
+New input model on gear.
+Game play events from mobile perspective.
+Challenges:
+Making use of the lower capability's of the gear vs the Oculus DK2
+Finding Input options for the gear.
+A small town on mobile vs desktop.

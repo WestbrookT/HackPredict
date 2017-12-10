@@ -1,0 +1,5 @@
+Humanity is a card game, similar to Cards Against Humanity or Apples to Apples, that you can play with your mobile device. It uses peer to peer wireless networking to easily discover people nearby and create a group to play together. It follows the standard Cards Against Humanity rules, and you play each turn-based game until someone receives 7 black cards and wins.
+We wanted to create a mobile game that encourages you to play with friends in person and socialize. Most existing mobile games lead people to isolate themselves and aren't the most social. This game is designed to be played in person just like a card game, but just takes all the mess of physical cards out of the equation.
+We also think it's very cool that with this game, you are able to be creative use or create your own card packs.
+The app was written using Xcode/iOS, and was written in Swift. The app communicates with a server running Node.JS, which mediates the games and keeps track of progress and scores.
+In 36 hours, we were able to create a fully working game. After some more testing and tweaks, we hope to release to the App Store as soon as we can.

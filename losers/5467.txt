@@ -1,0 +1,3 @@
+The game based on Mobile VR will unfold a story where the player can enter the world of famous painting in an immersive way. Visit the set of Davinci while painting Monalisa, where explore the world of Vangogh, the crazyness of Daly and the intimacy of light in Vermeer Paintings.
+In an intimate blend between augmented and virtual reality, the user/player will be able to explore famous paintings from a totally alternate dimension.
+Augmented reality will enable natural trackers to recognize the paintings and to include added information, while virtual reality will allow the user to enter the painting and explore behond the limits of what we can see.

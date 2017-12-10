@@ -1,0 +1,1 @@
+For Gighacks-KC we developed a new firmware for The Gigabots that uses NodeJS, which should make it easier for students to hack on the full stack, and should allow us to integrate The Gigabots with some existing (and interesting) open-source robotics projects in the future. 

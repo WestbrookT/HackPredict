@@ -1,0 +1,20 @@
+Endavr (ɪnˈdɛvə,ɛn-) is a new Virtual Reality content discovery, delivery and presentation/rendering platform.
+The idea is to get the VR content to the consumer that they require and need to use in a very user-friendly manner. This has all sorts of implications for both the users and the businesses that provide the content.
+For the user it means experiencing products or environments without leaving their homes and allow them to explore remote locations that are prohibitive to go to due to various constraints (financial, childcare, etc).
+As examples this can promote tourism by allowing users to explore different cities. It can provide help in buying/renting houses by displaying the house interior rather than booking an appointment. It can promote events by showing off concerts and stadiums.
+This content can be pre-recorded or even used as a live stream.
+For the business, it allows them to advertise or market their products or events but also provide a real and engaging experience to the user so they know exactly what they are getting.
+The final apk that will be uploaded contains the Gear VR extension! This extension is a standalone VR application that can only be opened using the official Oculus application or the Endavr application. This extension is only available through Oculus and is not shared on 3th party websites!
+Intensive browsing can be done using Endavr. There are a bunch of categories that can be searched in to view your favorite content. An advanced search engine is also available to search on channels, companies, albums and even media files.
+The app can be launched by triggering off a URL, a QR Code or even an NFC tag. This allows a user present at a particular location (for e.g. a house to buy), to immediately get engaged in the content and make a quick but more informed decision.
+QR codes are generated on our supported Endavr website that the user can share on social media, their Gear VR or advertisement.
+Sharing content can be as easy as clicking a button. With Endavr, you can easily share you channels, albums or mediafiles to Facebook, Twitter and Google Plus with a single button click. In the following version of the application, it will also be possible to subscribe to channels and get notifications about new updates.
+A unique extension for the application has been developed to support the Gear VR and the Gear VR Innovator Edition. The extension can be downloaded in our advanced extension manager and is automatically available for Gear VR supported devices!
+Technically, it requires integration into various Virtual Reality Platforms like Oculus, and the Gear VR. The storage and streaming of 360 videos can be a challenge, especially in terms of bandwidth and performance. The back-end and server-side needs to be highly scalable.
+We have done many tests so far and it all seems to be coming together and we do not expect any major roadblocks we cannot overcome.
+The images from Milestone 1 are actual mockups for the Endavr application created by our designer. According to our guidelines, he produced these wonderful mockups and adapted to our needs.
+Real Estate Offices can create an album for every house they have and upload 360 content to our dedicated web server. Interested customers can view the house 360 degrees and navigate through it without having to book an appointment.
+A Belgian wallpaper company, that is already interested in our application, used to print thousands of catalogs with their wallpapers but now they can place it in Endavr and the customers can just view the different wallpapers in their app and navigate through them.
+You can  view a festival, soccer game, baseball game or esports live from your couch just like you're there in the crowd or in the game.
+You're a freelance artist wishing to share you pictures and art with others. You can create your own channel and publish it there.
+And many, many more possibilities!

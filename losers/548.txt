@@ -1,0 +1,12 @@
+Back in 2007, I was a young design engineer at Caterpillar, working on CAD models of engine parts. It was neat and all, but I hated having to use my mouse + some fancy keyboard work to spin / move / scale models. It was both  hands on the table all the time. 
+Careful, Chief. Dig up the past, all you get is dirty.
+And with CAD Viewer, I think I'm halfway (ok, 10%) there.
+Color Tracking CAD Viewer is a JavaScript web app that lets you spin and rotate 3D STL models using color tracking. Using a magenta token—like my purple Sharpie— I can lean back in my chair and spin models by waving my hand around in front of my webcam. 
+The pen really is mightier
+Dat GUI tho!
+Blerg. Munging all this JS into one useable app was a bit of a pain. I ran into some trouble getting the app to run smoothly, which is probably because I basically copy & pasted two tutorials together. 
+Also, I was planning on adding a "upload STL model" button, but I ran out of time.
+And of course, there's still tons of unused / outdated code left in the comments + a heap of extra JS from the examples folder that I haven't cleared out yet.
+Well, it sorta works. So you know, achievement unlocked. ✓
+Yep.
+Don't code after 11pm without taking a nap first. It won't go well. Also, commit early and commit often.

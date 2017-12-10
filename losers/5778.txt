@@ -1,0 +1,6 @@
+The fact that most social media is trending towards images currently.
+The user can view the most popular images posted in their area, or around the world.
+We had many hiccups along the way, most which involved the interaction between code that seperate people had written, but we found a way to solve all of them in time.
+The merging of code written by 4 different people was a great accomplishment.
+We learned how to (1)work as a group (2)teach new concepts to each other and (3) get much better at reading api documentation.
+We would like to smooth out our UI

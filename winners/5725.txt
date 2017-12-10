@@ -1,0 +1,11 @@
+We thought about synchronized swimmers needing to sync their movement. But then we realized we couldn't test it with synchronized swimmers. And that it sounded dumb. So we decided to use that accelerometer to draw stuff.
+There's a lot of drawing apps online, and at best you can use your phone as some sort of remote drawing pad, but there's nothing that lets you draw using the motion of a smart watch.
+Hold the Pebble watch like a controller and move it around to control the movement of the cursor. Use the Pebble up and down buttons to cycle through the colors, push the select (middle) button to toggle the drawing mode, and the back button to move the cursor back to the middle at the current position. Also hit or shake the watch with reasonable force to clear the canvas. It draws Bezier-curve connected points based on the Pebble's accelerometer data.
+The project consists of 3 components: the web page that shows the drawing canvas, the Go server that relays and processes the incoming and outgoing WebSocket data, and the Pebble smart watch app.
+The whole thing starts with the Pebble, which uses a JavaScript app to read the accelerometer and button states, form a JSON packet, and shoot it off to the Go server over a WebSocket.
+About 5 times a second, the watch gets the input and sends it through the server to the web page. The web page handles that watch input to generate the colored lines and curves on the HTML5 canvas.
+Getting the accelerometer data from the Pebble was the hardest to find any sort of documentation for.
+Getting the Bezier-curves to show nicely to create a sketchy look and getting the watch to work as a remote were pretty neat.
+Figuring out how to actually code with a Pebble was quite an experience, and drawing on a canvas and using JavaScript in general (because in general, it's unusable) was another one.
+Making multiple devices work together on the same page is probably possible right now, but the other Pebble seems to be working incorrectly and refusing to connect through the WebSocket :|
+More controls could be added to control the size of the strokes and a lower latency would be possible with a peer-to-peer connection, which would take a significant amount of addition coding, especially since both clients would be using JavaScript.

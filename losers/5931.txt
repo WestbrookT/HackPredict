@@ -1,0 +1,7 @@
+Our inspiration for the project and idea was based on what we saw in everyday life. There are tons of people who need to earn more cash; and tons of people that need assistance with basic problems such as plumbing. 
+Users can log in to our website. They then post a job that they need to be done. After the request is sent to us, and we match the request with an employee based on location, availability, and experience.  
+We built the log in system using php. We made the rest using javascript, css, and html mostly. 
+The most difficult part of our website to implement was trying to build the log in system. 
+The thing we are most proud of is the log in system that we made in 24 hours. 
+We learned php, learned to use data bases, and bascailly how the whole log in system works. We also learned how to work as a team consistently for 24 hours. 
+We plan to implement key features that are missing and polish other key features that are not fully complete. Furthermore, we plan to promote the website though our connections in order to build a vast database of users.  

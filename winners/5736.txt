@@ -1,0 +1,6 @@
+Maybe you're at a conference, a student at a lecture, or simply taking notes for your self.
+Open Fetch, turn it on, and it'll start translating the speech to text, choose the main topics, and will return research and information based on those points, sorted – into sections.
+You can use Fetch to study, learn new topics, research your next presentation, or use it as your presentation!
+The team began thinking about pitch decks - we all make them for speaking engagements, some people excel at them and others have a hard time. How could the process of creating them be automated?
+We started by creating a tool that could pull content from a pdf, and using the Alchemy API, produce an analysis that showed its main concepts, keywords, and entities. With these filtered concepts, we were then able to query different sources for that content, and in turn pull them back into the app.
+While the app was being created, we realized that it might be a great fit for students who need to study after lectures, and so integrated a speech to text feature

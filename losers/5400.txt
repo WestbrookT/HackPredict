@@ -1,0 +1,13 @@
+Old memories of our youth haunted us. Floating down the river on a lazy summer day, not a care in the world, just us our inner tube and crocodiles… wait, CROCODILES!! I don’t remember those from my childhood! 
+Take a ride down the river, try to get to the finish line in the shortest amount of time, avoid the crocs and don’t waste your ammo and don’t be a litterbug.
+We used the Amazon Fire controller for our game. It proved to be the most robust and was supported our development PC’s and on Android.
+Right Joystick == Right Hand
+Left Joystick == Left Hand
+Remember: You move faster if you use both hands in concert!
+1) Paddle fast, navigate the currents and get to the lake in the shortest time.
+2) Avoid the crocodiles.
+3) If you fail at #2. Throw your gear to keep them away :-)
+We mimic the coordination required for padding a real inner tube, with the the Amazon Fire gamepad joysticks controlling the players hands. You cannot simply push a joystick in the given direction you want the tube to to move. 
+Scoring is based on passing each checkpoint and fending off the crocodiles.
+We've overcome the initial obstacles of publishing to Gear VR (finally using Unity 5.0.1), and finding a controller that works well (the Amazon Fire Controller). While there is still a great deal of artwork to be done, and many triggers and animation to create, the hardest obstacles are over! We're left with the creative work of making a fun game that looks good. Well, there is still that step of optimization for mobile graphics...
+Battles were won and lost with the gamedev gods this week. The input system was reined in we and began experimenting with the SmartWater3D package for more efficient fluids. One of our multi-talented teammates made some music for the game and another made some tileable terrain painted up in Photoshop. We still have much work to do. So in the immortal words of the bards - NO SLEEP TILL BROOKLYN! 

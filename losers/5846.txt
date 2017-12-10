@@ -1,0 +1,6 @@
+We were playing around with Alchemy, and we thought that it would cool to measure engagement of customers through through facial recognition in the retail space. We thought it would satisfy a real world need. 
+Uses Alchemy to count the number of customers who come into your store, and provides you with demographic information. 
+Tracking moving faces and not counting them multiples times. Really identifying a problem, and ways of adding value while solving the problem for the end consumer. Making sure that we had identified a use case scenario before we began creating tools to solve it. 
+Coming together as a team. Integrating our different skills and perspectives. Not giving up when we hit a dead-end. Being optimistic throughout. We are proud of the fact that we developed a proprietary alogristhim that will allow us to track faces, and determines when a new person arrives on the scene. 
+How to use IBM Watson technologies, how to use the Alchemy API. How to work together as a team. 
+Improve the algorithm to identify further demographic info, and potentially analyze facial expression. We would also like to explore its use in retail. 

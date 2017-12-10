@@ -1,0 +1,8 @@
+A bluetooth controller is required for this game.
+Have you ever wanted to fly a quadcopter?
+The flight controller for the quadcopter is based on the real thing,  so after playing you'll be able to fly the real thing!
+How to play
+Once you've got the hang of it you can land on or interact with the objects that have blue cubes spinning around them in order to do the time trial.
+To refer to the controls (and pause the game) push the start button and look left.
+Development status
+Enjoy!

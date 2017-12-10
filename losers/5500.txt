@@ -1,0 +1,6 @@
+This experience will provide a 3D library based on user's ebooks collection.
+Whenever the book has focus, the quick summary of the book will be display
+Live rating from various online source
+Author, language, published date, and many more.
+Showing the related books from same author or similar category.
+Have fun browsing the library with the great experience from Gear VR!

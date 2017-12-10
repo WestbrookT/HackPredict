@@ -1,0 +1,7 @@
+We asked if companies could love, and a robot told us the answer.
+This tool grabs a corpus of company posts from facebook's graph-api and performs text analysis to determine the overall sentiments of the company's online presence. Then a simple algorithm is applied to determine if the company can "love".
+Pain and hardship.
+Originally we were going to do the same sentiment analysis with a user's friends posts but facebook's graph api restricts this for data security purposes.
+Spending 5 hrs making a table in HTML... which never got used.
+Java/facebook-graph/watson-alchemy
+Memes

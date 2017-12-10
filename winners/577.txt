@@ -1,0 +1,5 @@
+The primary goal of this application is to access applications and do various tasks on your computer through voice commands from your phone. Relaying through a server, one can click, type, and run programs while also being able to control a mouse trackpad from your phone. 
+We divided up various tasks between the three of us. One member worked on the server use, one member worked on the android application, and one member worked on the computer client. 
+Time was a constraint for us. Relaying through the server between the phone and PC client was a challenge as well
+Developing a Socket API.
+Team 19

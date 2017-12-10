@@ -1,0 +1,7 @@
+We were inspired by procrastination and how we might be able to observe our own habits on how we spend our time.
+It persistently tracks the web pages you have open over time and presents the data in a variety of ways.
+We started with just the idea and tried to think it through thoroughly before writing any code. We created a project repository and wrote issues for features that we planned on adding. We then started with an empty chrome extension and coded the app step-by-step from there.
+None of us had written a chrome extension before and two of us were new to web development, so there was definitely a learning curve.
+Finishing what we planned to build and delivering a polished final product on time.
+How to use web technologies.
+Release on the chrome store and more ways to view the data.

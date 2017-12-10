@@ -1,0 +1,14 @@
+Peepa is a set of 360, live streaming and video recording apps that allow a user to stream their surroundings to multiple people live. There is an app for streaming out (available for iOS and Android) and an Android separate app for consuming the streamed content on the Gear VR.
+All streams are currently public and the last 4 per user are recorded and kept so they can be watched at any time.
+If you would like to watch us live stream content, please contact us to arrange a time to test this functionality.
+On launching the app, the first thing you will see is a list of all users who have previously streamed content.
+Select the user you would like to watch by looking at their square and tapping the side of the gear VR.
+The dot on the upper left indicates whether or not they are currently live streaming. (Green for online, Red for offline).
+If the user is offline, then you can watch up to the last 4 streams they uploaded. Otherwise, the center square is their current live stream.
+This is the first version of the app, and there are many other features we would like to add to the app in the future. 
+Here is a list of some of the highlights.
+We are based in London and will be happy to demonstrate the live streaming part if you contact us. Or if you also have a Kodak SP360 camera we would be happy to send you the app to allow you to stream out as well.
+The current stream is implemented through MJPEG and therefore you might notice the video is not as smooth as it could be.
+Due to bandwidth concerns we have limited the number of frames that are pushed through.
+The next feature we would work on would be to convert the MJPEG stream into an RTSP stream, which should make the streams smoother.
+Visit our website

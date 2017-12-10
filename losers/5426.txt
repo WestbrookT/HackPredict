@@ -1,0 +1,7 @@
+Z Race is is a racing game. Z Race is a zombie game. Z Race is a game to drive fast in a race while you kill and avoid zombies. If a racing game and a zombie fps game would have a baby it would be Z Race
+Z Race takes place after the zombie plague. Humans get even using zombies for blood sports. Z Race is just one of them. So Drive and kill at Z Race!
+Two modes:
+-Quick Race: Race against other cars in a track full of zombies
+-Drive and Kill: Kill zombies with your car or gun. No score. Just for fun!
+Gamepad is required for the Quick Race Mode but not for Drive and Kill - you can just stay in the car and swipe your Gear VR to shoot zombies
+After you get the loading message it takes 30 segs for the race to start

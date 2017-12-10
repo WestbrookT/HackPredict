@@ -1,0 +1,5 @@
+Javascript flexibility
+It creates a contextmenu through the Chrome Javascript APIs, and creates multiple handlers to direct onclick and keyboard shortcut commands.
+Being able to parse the API into code correctly.
+Javascript is complicated.
+User-Defined Settings.

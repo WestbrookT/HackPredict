@@ -1,0 +1,7 @@
+We hate waiting for trains on the station platforms and wanted to do something about it!
+Use realtime service data from the MTA as well as Google walking time estimations to calculate the optimal departure time and send notifications to the user's phone and watch
+Processing the MTA train data with protocol buffers and GTFS-realtime
+Working effectively across a team with a wide skill set; 
+time management and prioritization
+Simplify the problem!
+Integrating with calendars and learning user behavior to further optimize travel time notifications

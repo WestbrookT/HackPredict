@@ -1,0 +1,18 @@
+Explore a virtual AtlasCity game world with the Gear VR headset. Experience your virtual life surrounded by the environment you desire. Create and share new content with an innovative procedural generation tool. Invite your friends to visit your AtlasCity home.
+Design - At the start player receives keys to their apartment and becomes citizen of AtlasCity.
+The player is given an initial amount of Atlas Credits to purchase furniture and decorations. The store contains wide range of content. Every item is also extremely customizable (shape, size, material, texture, color) allowing the user to create unique personalized living space. Player has also the power to create architectural floor plans. Customizing the apartment increases its market value, and also raises player game level experience points. Unused objects can be stored in storage or sold on the market (for lower price). The game interface is user friendly, player can easily change properties of the individual objects. The objects can be moved around using touch pad and head-tracking.
+Innovative procedural content tool - Player has a power to create new objects. Special tool which is based on procedural content generation allows user to instantly create and design objects from scratch. These objects are then send to server database and added to AtlasCity store. This way the player can earn additional credits and increase their user experience points.
+XP points - Every time player reaches new experience level, additional features in the AtlasCity are unlocked, i.e. the possibility of adding extensions (such as stairs, balcony, terrace, roof garden, peer), purchasing boats, using custom images in pictures and more. When player has enough credits, he can also buy completely new apartment on a new location. All the apartments can also be sold on the market.
+Maintaining the apartment is an important aspect of the game. When player visits their apartment (day after day), he receives credits for returning. He is also given a few tasks such as feeding the fish, watering the plants, etc., receiving additional credits and experience points.
+Social networking - A large part of the game is also its social aspect. Player can send and receive invites from other players and neighbors to visit their apartments. When visiting others player can get new design ideas, takes snapshots, like and leave feedback. Players can also exchange gifts such as objects and AtlasCredits.
+AtlasCity VR game is made for GearVR platform from the ground up. Game utilizes head tracking and touch-pad in an intuitive way. Special care is taken to provide a smooth enjoyable experience. 
+http://atlascityvr.com
+Milestone 2 Update
+Added 2 new screenshots (showing procedurally generated content)
+Generating content tools are done, now working on GUI, mechanics, gameplay.
+Milestone 3 Update
+Added new screenshot (materials wheel) + Video (youtube)
+Finalizing work on GUI and gameplay
+Milestone 4 Updae
+Added new screenshots + new Video
+Uploaded .apk

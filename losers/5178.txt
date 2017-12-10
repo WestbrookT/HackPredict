@@ -1,0 +1,6 @@
+Dsync is an immersive two player co-op puzzle game.  The game is set in a space station where time teleportation experiments are conducted.  After repairing a damaged teleporter, one player is transported to a time long after the space station had been abandoned.  
+After transporting to the future, the teleporter breaks.  With one player stuck in the present and the other stuck in the future, they must communicate across time to guide each other through the station to reach an alternate teleporter.  
+Navigating through the station isn’t easy though.  Time has taken its toll on the facility and has created many unexpected challenges.  Will you be able to re-sync before the oxygen runs out?
+Upon completing the first puzzle, each player will be in a different environment set in either the present or future
+Players must communicate effectively about the differences in their environments (present/future) in order to solve puzzles
+Let your teammate know what you see so you can solve whatever puzzle is blocking you from progressing to the next room.

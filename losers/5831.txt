@@ -1,0 +1,6 @@
+We needed it at NewSpace.NYC to do diligence for companies entering our incubator.
+We use FullContact API to get a person's social accounts, scrape those, process them through personality insights, and result a due diligence report. 
+Our first API choice (ClearBit) didn't return the data we needed. 
+Our team is good people, good times. 
+More bluemix, more watson, more fun.
+Continue scraping more and more info and build out the report's thoroughness.

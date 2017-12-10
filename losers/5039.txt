@@ -1,0 +1,1 @@
+It supports all kinds of quote lengths and types! Please make a PR if you see bugs, I'm not good at JS or web dev.

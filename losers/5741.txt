@@ -1,0 +1,5 @@
+Me and my friends are often wondering how much money do we need if we want to go on vacation. I know the data is available on the internet but there's no easy way to sum it when planning. With this app you can get the estimated cost of a trip with just a few simple clicks.
+The user answers to basic questions like, how many persons are going to travel, how many days, if he is staying in either an hotel, hostel, bnb or friends, and the app makes an estimate of the total cost based on those answers, on the flight price, on the average meal price in that city, etc.
+We had to use different sources and API's to retrieve all the information we needed, like: flight prices, hotel prices, average meal and beer prices, etc.
+We connected to several API's in order to retrieve prices for flights, hotels and meals.
+The next step would be to allow the user search destinations based on budget and to book his entire trip with one click.

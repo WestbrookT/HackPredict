@@ -1,0 +1,6 @@
+CONTACT is a short story about a father and son (the user) who live in a Stahl House-esque home on a terraformed Mars in the not too distant future. The story is told through a series of frozen moments between father and son. The story begins with the user being woken up by their father's smiling face on the morning on their 16th birthday. From here we jump to blowing out the candles on their birthday cake, before they are given a chance to fly their father's spacecraft for the first time. 
+In each scene the father makes eye contact with user during a frozen moment in the story. In total there will be 14 scenes through which a complete story will be told. 
+MILESTONE 2 UPDATE:
+I've been having issues keeping the polycount low while maintaining the quality of the photoscanned head. Also trying to light the scene well without using real time lights means that I'm learning about lightmapping for the first time which has been a bit slow to get working. Optimizing is tough!
+I also used my Unity Asset Store credit to buy a skin shader but I'm not sure how it will look with a lightmapped scene (you can see it in a new screenshot). 
+All the scenes and story are final now, I just hope I'll have enough time to finish it all!

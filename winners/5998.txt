@@ -1,0 +1,7 @@
+We think this is a way to make data sets more visual and useful in specific circumstances. The inspiration for the app came from one of Gordon's ideas.
+Depending on which service (or services) is selected, the app will produce a heat map following a color scheme. The more services in an area, the more "heat".
+We decided not to implement our former idea. That meant that we had to start over the day of the competition.
+Communication between the different "departments" was good (e.g. it was easy to ask for specific graphic features needed in the app).
+Time constraints don't allow for overambitious projects. The choice of the right tools and right members is fundamental.
+Implement online and offline maps, implement a "hamburger" menu with icons and title, integrate more data sets from other cities, more user friendly UI. Many other features could be added to this app.
+Android App

@@ -1,0 +1,6 @@
+As a Production Engineer its always a challenge to automate application stack bootsrapping from scratch which involves provisioning of the server, dns entry updates, Cluster/loadbalancer udpates, app setup per Env etc. We're trying to solve this with a complete automation in place using opensource technologies.
+When we provision a server, we configure it to run a post install with some necessary params which is required in further steps of making this server fit for production.   In brief, these are the steps
+We could achieve a good progress on complete automation with just one day. We realised that this can be made even more beautiful with improved error handling 
+Learned more about zookeeper, salt, vagrant,
+*DNS entry addition automation
+*Choose a better inventory management software (with apis) to store the states of servers. 

@@ -1,0 +1,1 @@
+VR Video Player for GearVR. Allow play local and streamed videos in 2D and 3D. Allow view Panoramic photos. Multiuser expierence.

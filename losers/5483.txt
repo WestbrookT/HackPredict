@@ -1,0 +1,3 @@
+This App is an interactive educational app about dinosaurs:
+It shows in full Virtual Reality:
+The uniqueness of this app is its graphical storytelling and interactivity. A user can put the app in its storytelling mode or move a cursor around an object to discover information about that part ofthe object.

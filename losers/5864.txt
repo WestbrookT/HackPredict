@@ -1,0 +1,8 @@
+We met during the IBM Watson Hackathon.  
+We had several challenges.
+We are proud of getting here, learning new things and staying to the plan and accomplishing a real usable tool that can save time and help people.
+We learned more about IBM Watson world especially Bluemix and Alchemy.  Also learned about working as a team and staying focused can result in success
+ClinicalMatch will pilot this with Georgia Tech, will make edits and revisions if needed.  Then,  if successful we will offer it for free for other researchers.  This can be used in other areas such as drug research and general diseases.  With the new EHR's and patients ability to choose to share their electronic information for research and US Govt's Project Blue Button also offering the same for Medicare and VA patients there are many new places this can be used.   If there is a market for it then a V2 will be released that can be purchased 
+Atlanta Clinical and Translational Science Institute
+ACTSI PubMed Publications Search
+ClinicalMatch used data from the PubMed Publication Search application, developed by the Tracking and Evaluation program of the Atlanta Clinical and Translational Science Institute (ACTSI) NIH grant number UL1 TR000454.

@@ -1,0 +1,5 @@
+You are playing as a hero who is trying to save kitties that jumped from a fire building. When the hero saves kitties, he will need to avoid hitting by bricks dropped. The goal is rescuing kitties as many as you can, and high score will be stored. Players can move the hero by pressing the left and right buttons on the bottom of the screen, and use the swiping gesture to clean the smoke.
+The game has been published to iOS App Store.
+This game was developed by our team of 5.
+I was in charge of making back end supporting utilities such as score calculations and implementing the mechanic of the final score scene. 
+I learned Swift during the process of development.

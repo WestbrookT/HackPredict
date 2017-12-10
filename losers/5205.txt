@@ -1,0 +1,16 @@
+.
+Gaze & Game pad controller.
+With one's dominant eye, one can take aim aligning the front and back sights, and this provides innovative play and unique VR experiences.  
+Planning to develop various game modes on top of the basic system above
+in order to give players many choices for their own tastes.
+Each of the game modes has the game length of 5-10 minutes considered to be proper for VR.
+During the time, players can compete with each other for world rankings.
+Also planning to make this game realistic using with the aiming system, but not that realistic but somewhat casual for light gamers who don't know about VR or FPS Games, excluding complicated things like Ballistics.
+To reduce VR Sick and give comfort to players, shooting will be possible only in the fixed position.
+.
+.
+.
+Coins collected during the game can be used to purchase various guns.
+A player can experience the different feeling of guns, such as power, kick, scope.
+Also can upgrade the guns, throw grenades, do close combat(fist, war-knives, spears, weapons of every description).
+Items for HP, AMMO, time-stopping are provided during the game, and can be purchased in the item shop as well.

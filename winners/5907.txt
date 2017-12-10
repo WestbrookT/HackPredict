@@ -1,0 +1,6 @@
+When I'm not at hackathons or , I'm a fitness instructor. I teach a high intensity interval training class called 30/60/90 at several gyms in NYC 
+Gyms hire people to count attendance at every class
+Tekscan Flexiforce sensors connected to an Arduino connected to a Adafruit Bluefruit breakout board communicating with an ios app which collects user info through facebook login and communicates with a node.js server using socket.io
+Problems with bluetooth naming and connectivity. Learning swift for the first time. Issues around hardware robustness
+We got it working!
+Building analytics for gyms and course owners

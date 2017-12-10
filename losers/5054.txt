@@ -1,0 +1,5 @@
+I love writing on whiteboard, but it lacks memory, I want to save all my whiteboarding moments
+It works by sensing touch using ir frame that is mounted on a normal whiteboard
+Resolution of ir touch is low. drawing perfect curve with low resolution data was the challenge.
+I learnt about different touch technologies and how they work, I learnt coffee script
+Making this whiteboard ready for market

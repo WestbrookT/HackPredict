@@ -1,0 +1,7 @@
+We wanted to turn the Internet from the Wild Wild West back to the World Wide Web.
+When a webpage contains a word on your blacklist, it will show the user a popup warning them about the contents of the site.
+We made our program into a Chrome extension to be compatible on any platform. We used Chrome Storage Sync to store the block list client-side.
+Most of our team members were novices and very little experience with web development. It was also difficult to accomplish some JavaScript tasks.
+We made a simplistic website for the first time and a chrome extension for the first time.
+Bill and Joey learned basic front-end, Feng and Samyar learned how to make a minimal chrome extension.
+We want to implement warnings for the visually impaired using the internet to make it safer for everyone.

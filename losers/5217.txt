@@ -1,0 +1,8 @@
+We've finished a new version of Kangaroo Dash that will be available on the GearVR shortly.
+In the game Kangaroo Dash you find yourself stranded in a unknown world that consists of multiple floating islands. In order to find your way back home you will need to visit multiple islands, overcome obstacles and avoid deadly traps in order to collect the vital information needed to repair your ship and  begin the voyage home.
+Since traversing and exploring large open worlds in a first person view is one of the most difficult things to undertake in virtual reality we first need to solve two problems.
+In Kangaroo Dash I have solved these issues in one single blow.
+Jumping.
+To keep the game running at a cool 60 frames per seconds the game uses low poly aesthetics combined with baked textures to keep the draw call and vertex count to a minimum.
+The video was recorded at my "real job" during the final week of the jam. All but one had only had brief encounters with VR before.
+As a .NET programmer by day and a game developer / heavy metal enthusiast by night I entered the 2013 VR Jam with the somewhat successful game V^Bert. This time I'm back for revenge (and the possibility to quit my day job).

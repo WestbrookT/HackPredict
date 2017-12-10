@@ -1,0 +1,27 @@
+Guns N' Dragons is a slice of Dungeon Crawler that lets you explore the main mechanics in a short timeframe of 5-15 minutes depending on your playstyle. While the final game will be build around the idea of generated dungeons, this is very guided and handdesigned. 
+It was build almost exclusively with the help of the Unity assetstore - art, sound and even code. 
+The controls are very simple as you can only move and all interactions as well as battles are automatic and initiated by walking into them. This still leaves a lot of room for player decisions, though to make sure the Jam build will be enjoyable it has no real punishments aside from a player position reset at death.
+Each dungeon consists of 9 rooms and there are no tight corridors, they demonstrate elements to give a dungeon labyrinth like effect without disturbing the open basic design.
+In the final game you will be able to save and exit at any time, but you will always lose the progress on the dungeon you are currently exploring. That way I combine the requirements of shorter sessions with the ability to still allow for deeper gameplay.
+It was also a good way to manage the amount of objects being rendered as the player can never see more than two rooms at the same time.
+Controls:
+turn with your head
+touchpad tap/hold: move forward
+gamepad button 1: move forward
+Future versions will offer optional turning by stick or swivel chair!
+Innovation on Controls:
+Instead of using a stick to turn you use your gaze to turn. This feels fairly natural and is a great alternative to the established solutions. I did not enable the normal swivel-chair controls to get more feedback before I launch the 
+title as a commercial game in a few months.
+Making use of a cockpit (a healthbar and a headless body) I expect that most people should be able to play it as a comfortable experience.
+Aside from Gaze Turn I also added a "travel button" to the gamepad controls (button 2). When riding in a car or anything that might take turns you can press a button and the game is paused, the screen gets black and on release the 
+Gear is recentered and you will look straight ahead just as before the turn.
+This hopefully will help with gaming while traveling with plane, train or car/bus.
+Mechanics:
+The demo uses standard dungeon crawler mechanics and Guns and Dragons are used as "special weapons" in the game.
+When the dragon attacks the enemy will look towards the point where the dragon will appear and it is just a reflex to follow his gaze.
+At other times I guide the player into the right position to see where an explosion happens. It is impossible to miss as the player can only move forward.
+Innovation:
+Innovation is not only found in obvious things like the gaze turn, but also in a lot of details. I tried to remove as many HUD elements as possible and the gameworld is full of minor details for the player to notice and make use of. 
+There are cloths hanging from the walls that help with orientation as walls facing a direction (north, west ...) always have the same cloths next to the doors. 
+As the walls do not reach to the ceiling you can see the light from other rooms. Each corner of the dungeon has a distinct color to it, that is not only useful to get the dragons help with a correct colored dragon egg, it also helps with reorientation after death. From the center (respawn point) you can see every colored corner room and know where you stopped (if you paid attention, which we will have to learn again in games in VR).
+WARNING: does not seem to work with Lollipop! Needs Kitkat!

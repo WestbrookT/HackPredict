@@ -1,0 +1,2 @@
+A first-person road-crossing arcade game. Move by tapping very, very quickly on the headset. High score for lanes crossed, getting hit restarts the game. Before you die, your life flashes before your eyes while a sentimental song plays, and after you die a new headstone appears in the graveyard.
+The act of looking back and forth across the road as cars barrel towards you and furiously tapping to get across is really fun, and even dying is fun for a while.

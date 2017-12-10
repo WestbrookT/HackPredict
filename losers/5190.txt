@@ -1,0 +1,9 @@
+Intro
+Our VR experience "A most peculiar dream" is an interactive journey through a dream. It features a full cycle starting from falling asleep, through multiple dream environments, to waking up. Our goal is to create a pleasant immersive experience, attracting a broad audience to appreciate the power of VR by exploring and interacting with strangely beautiful and captivating environments.
+It is unique in that it attempts to create an immersive experience while completely breaking the boundaries of the known physical world, taking the user into extraordinary and exceptional places and exposing their unique and entertaining laws and logic.
+We chose this setting since it offers the artistic freedom to explore the full capabilities of VR without being too restricted by physical laws. We see the advantages of the experience over a game in that the main focus is not the completion of a task but purely the exploration of the environment. The VR experience should convey a sense of participation by allowing the user to freely roam and interact with the environment full of abstractions, illusions, and user-triggered actions.
+Content
+The experience starts with the user falling asleep, and carries the user through a series of dream environments. The user explores the fantasy worlds (through a first person perspective) by floating (or walking) and interacting with elements of the scenes, either by using the touchpad or head motion.
+Conclusion
+Through hints and guided interactions, the user reaches points of progression to the next environment (portals, though not in a literal sense). The dream is accomplished by the user finishing all environments and waking up.
+While the format of a dream gave us a lot of artistic freedom, the main challenge was to make sure that our unorthodox environments full of fantastic interactions pull the users in, keep them on their toes, and make them want to see more.

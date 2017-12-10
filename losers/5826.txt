@@ -1,0 +1,6 @@
+Say a cat has pushed the mouse off your desk. You simply press a single key to and a grid of options appear simply select a point and your mouse will click it. This can easily be used for power-users to enhance their productivity
+We used threads to implement a invisible window, and use python libraries to handle key events.
+We originally wanted to try to do the same thing that Vimium did with only display letters for things to click but we simply didn't have the means to implement that.
+Very powerful simple and markable product.
+I personally have learned a little python from this project.
+We hope to eventually implement this to closely match Vimium

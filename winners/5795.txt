@@ -1,0 +1,5 @@
+85% of the world's transactions happen via cash. 
+Have you ever been to a convenience store or restaurant where they only accept cash? that comes with one of those sketchy ATMs that charges 3 dollars per transaction?
+We wanted to build a hack to solve this problem
+Imagine a bank account that lives on the cloud, and anyone with a smartphone around you could be an ATM that lets you withdraw and deposit cash. 
+The app allows you to broadcast cash requests to nearby users, and users around you can respond to your requests. After a cash hand off, money is automatically settled on the cloud through a peer-to-peer payment service. 

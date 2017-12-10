@@ -1,0 +1,4 @@
+People who want to save fare when taking uber. 
+During rush hour, the surge multiplier could be high and go up and down frequently. You probably don't want to spend 7× times of regular price on a Uber ride. Instead, you are willing to wait a couple of minutes for surge multiplier to come down.
+In case that you have a limited budget on a uber rider and you also want to chalk up some steps to stay fit. You might want to take a walk towards your destination until the estimated price hits your budget.
+We have our backend service monitor the Uber rider fare price for you. Once it hits your budget, it will send out a notification to you. Then our app will deep link you to the Uber app to book a ride.

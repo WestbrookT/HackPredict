@@ -1,0 +1,27 @@
+I created this website with the Harlem Tech Community in mind. This responsive wordpress site offers plenty of open source plugins to enhance the experience for both active members and those interested in learning more about Harlem Tech. All of the features that have been programmed into the site include additional options, offering scalability as your site grows.
+These are just some of the many tools available with this CMS:
+Tweets
+AccessPress Twitter Feed to easily add tweets to any page
+Team
+Organize team members or groups for experts and speakers
+Memberships
+WP Membership to manage users and even offer paid subscriptions to exclusive content on the site
+Events
+Organize upcoming events
+News
+Organize news items in posts
+Workspaces
+Rentals to add available workspaces 
+Shortcodes
+Easily add columns, buttons, and more
+Countdown Clock
+Add a count down timer to any page to highlight special kick-off dates
+Masonry Grid
+Create a grid in seconds for any page by dynamically pulling news or workspace entries
+MailChimp
+Easily create sign up forms to handle newsletters from subscriber sign ups, an account has even been setup for you!
+Juicer for Social Media
+Also included in your CMS is the ability to add a streaming grid of social entries, simply log into the account that has been setup for you and use the short code provided to add a stream to any page!
+And more...
+A doc file (silicon-harlem-access.doc) has been included to offer credential access to the CMS back-end and any miscellaneous accounts setup for this demo.
+You can fork this project from the GitHub link provided, also included is a sample database and configuration file to install this on a local machine.

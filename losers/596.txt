@@ -1,0 +1,7 @@
+We are all musicians frustrated by existing music practice tools available online
+Provide a combined tool for practicing your timing and speed
+Initially we built a metronome from scratch, delivering between 20 to 330 BPM. We used the metronome to build a game which improves your speed by using the microphone to listen to drum beats and compare them to the increasing internal tempo.
+Differentiating between background noise and drum beats. We spent many hours trying to use machine learning for this purpose.
+Having something to present..
+Meteor.js, HTML5 web audio, JS
+Perfecting the metronome and game, adding additional features.

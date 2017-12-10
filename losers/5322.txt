@@ -1,0 +1,42 @@
+Milestone #3:
+You know in movies when the 3rd act places the character into a situation that seems impossible.  Welcome to the third act.
+Down to the last week of this challenge and hitting a few weird scale issues in Unity.  I'm confident when they've been worked out many things will become much simpler.
+This week will be focused on a great many things including a great deal of character animation and possibly bird drool.  Wish me luck!
+Note:  Pigeons were being uncooperative.  We've moved on to BIRDS and changed the title of this entry accordingly.  Nomenclature is important.
+Milestone #2 Update:
+After a fair bit of trial and error - not to mention some new learning in a few dozen different areas, things are starting to come together.
+Gameplay Update:
+Gameplay is evolving on a pretty regular basis, here's the latest:
+When player starts level, a varying number of blue birds will arrive and start to wander on scene.  When a blue bird is successfully fed, it will fly away.  The goal of each level is to clear the play field of all birds.
+Blue birds are on a timer and if left unfed, will rapidly turn red.  Red indicates a hungry bird.  Hungry birds are slower and stupider than blue birds and will have trouble keeping up with them.  Careful bread throwing is required to ensure birds are fed evenly.  Unfed redbirds will turn black and horrible and advance on the player.
+When a bird eats, it will flash for 20 seconds and be hyper aggressive and faster, feeding an aggressive bird multiple times will cause unwanted mutations and dominant fat birds.
+Two weeks to go!
+Sit on a park bench and feed the birds.  Your life depends upon it.
+What might look like a calm day feeding the birds to the casual observer is actually a life and death struggle.  You play as an elderly woman feeding the birds on a park bench.  You've come prepared with a some left over toast from breakfast, but NOTHING could prepare you for the challenge you are about to face.
+This is a balancing act.  Feed the birds, feed all of the birds but don't feed the wrong ones, oh and don't feed the ones that have already been fed because the seem to be getting larger and more aggressive and.. oh God.. did that bird just eat your shoe?!?!? 
+Game mechanics:
+• Look around
+• Throw bread
+• Pray
+More game mechanics:
+• Bonus emergency food, what else do you have in your purse?  Maybe Tic Tacs?  Do birds like Tic Tacs?
+• Bird dynamics.  birds are really stupid, and will go after bread no matter where you put it, even if it just might endanger them.  Speeding cars, leashed dogs, water hazards.
+• Try to ignore the birds by reading a good book instead.
+• Birds whisper things to you in an attempt to undermine your sanity.
+• Bonus Power:  Yell "shooooo" and "get out of it!", sometimes wave things around.
+Two playable characters:
+• Old lady
+• [BONUS UNLOCKABLE CHARACTER!!!!]  Old man.
+Technical Challenges:
+• Lots of birds, and only one poor Android device to power them all.
+Of Technical Interest to Oculus and VR:
+• Focus on a game object and the game will provide a VERY close up and detailed view, some light music and a chance to give yourself a break from the torment that you find yourself subjected to.  VR Steady Gaze Mechanic.
+• Experimental bifocal reading mode.
+• really bad bird physics.
+• horrible bird recombination and mutation 
+Current Challenge:
+• Finding a voice actor that doesn't look disappointed in me.
+What level can you reach?  How long can you survive??? Will you doze off in the warm sun?  NOT LIKELY!
+Do you know that other things, that live in the dark corners of the world and reek of brimstone ALSO like to eat cold toast crusts?  
+They are coming.... and worse.
+@id_r_mcgregor

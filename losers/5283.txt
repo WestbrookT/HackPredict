@@ -1,0 +1,33 @@
+!!! Attention - NO LOLLIPOP !!!
+Start Game by looking at Mages Delight Logo and pressing Touchpad.
+Mages Delight is a:
+● Virtual Reality Arcade Game
+● Game Type: Skill-based Game
+● Goal: Last Man Standing
+● Input: Head Tracking, Touchpad and wireless controller
+Basic Gameplay
+● Balance a sphere on top of th game board
+● Collect powerups for speed and HP
+● Use magic to win
+Winning Condition
+● Survive on the gameboard and collect all 20 Levelpoints
+Innovation:
+● In Game GUI
+● Incorporation of Touchpad and Gamepad simultaneousely
+● 3D Audio
+About the Gameboard
+● Is constructed for top-down or brid´s eye view
+● Easy to learn, hard to master
+Reason to play
+● Immerse yourself in the world of a mage
+● Imagine you are bored, because there are no foes left to slay
+● You go to a secret place in the woods where mages meet to play a game
+● Mages are cool !!!
+Story:
+You are a battle-worn mage. Half of your life has been spent on the battlefield for the good of mankind. Many foes painfully witnessed the strength of the magic you casted upon them before they died.
+But!
+On the second day of the battle for the drarfen stronghold Iron Guard the inevitable happens. Right in the middle of a fierce fight for the western gate an arrow pierces your heart ... and you die.
+....
+After a long time in the void of death you open your eyes and find yourself in an old library high atop a mountain range. You stand up and walk over to a lange hole in the ground. A strange mechanism inside the hole catches your attention.
+You focus and try to find a way to activate the machine. After some time you understand, that you´re here to activate the machine and fight your path back into life.
+Welcome to Mage´s Delight ...

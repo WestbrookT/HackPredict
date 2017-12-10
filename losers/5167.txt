@@ -1,0 +1,6 @@
+Player uses his head to control his voxel car by pointing driving target on the ground. Takes part in various missions, races and other enjoyable activities.
+The game is fully playable with Gear VR, no extra control accessories are needed.   
+The cars have full physics and collision detection with obstacles.
+During the gameplay user can unlock new vehicles and race tracks (new cars and tracks will be added in updates). The game takes place in a colorful voxel world. 
+User controls cars in virtual reality space with his head movement. The car goes where player looks. Watching car interactions with environment around the player creates unique layer of immersion which ensures joyful and thrilling experience.
+The main aim of Voxel Cars VR game is to be fun to play for everyone :)

@@ -1,0 +1,4 @@
+The goal of Ride with Us, was to be able to view a web page of a place you want to go, on a browser, and have a quick, Uber request made.
+There was quite a bit of work setting up the architecture to work well with Uber's Authorization flow (which we successfully handled) via the Settings page of the Chrome Extension.
+We're able to log in and make requests, which is great! However, the project still needs some work in polishing the look & feel (to fit within Uber guidelines) as well as finalize the request work flow and estimates.
+You should see an Uber icon in your browser. Now if you click that on any page, it should display a popup window with the name of the website, the address, and the location

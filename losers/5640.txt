@@ -1,0 +1,4 @@
+In the dark, easy-to-render future, there are only cubes.
+Defend yourself against a multitude of six-sided solids as they hurtle towards you at mostly manageable speeds. 
+I hope to include the following features:
+I hope to make a very simple game that experiments with different features of VR, which will show how menus, interactions, sound and turrets can be used in this new medium. 

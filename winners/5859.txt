@@ -1,0 +1,4 @@
+This is a team whose life mission is to improve the baseline quality of life around the world.  Outside of this hackathon, many of us devote our lives to the pursuit of improving the physical and psychological human experience.  
+Welcome to the $1 internet plan using gigabit network.  The price is $1 per week per device across the city of San Francisco.  The network will utilize all existing home and office routers to project 5 mb/s into a 'public' wifi grid covering the entire city (which collectively has a wifi density strong enough to support all inhabitants).
+City Residents will have guaranteed access to working internet, pay as they go, and access from any street corner with no upfront costs.  
+The social impact of creating affordable $1 basic internet is:

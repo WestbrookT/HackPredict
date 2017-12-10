@@ -1,0 +1,6 @@
+It shows the municipalities of Puerto Rico and the number of incidents reported in that area.
+I built it by hooking to the AEE API made by Danny del Rio et al. and displaying it in a menu on the Pebble Smartwatch.
+JavaScript is a very tedious language.
+I was able to build a functional app in a language I had never tried before!
+Google is a man's best friend.
+I would like to publish this app to the Pebble App Store, make it display some more info in regards to each Incident report, and push notifications to the user whenever a new incident is reported.

@@ -1,0 +1,6 @@
+Data was collected from Microsoft Band 2 and sent to a mobile phone. The phone sends data to Azure server where it is displayed on the canvas on web page.
+Integrating Microsoft Azure data with web application, deciding on database being used. 
+Facebook authentication using firebase
+Visualization of sensor data on website
+Streaming data to Azure server
+More about Microsoft Azure

@@ -1,0 +1,2 @@
+There are around 453 high school in New York and around 75,000 students that apply for those schools every year. 10% of students don't end up at their preferred school so we wan to help parents see other insights from high schools for their child to help them select. 
+The tool uses the Watson Personality insights to analyze the students personality and then finds schools with similar "personality" traits. We use Watson Tradeoff Analytics for the parents to be able to compare between schools. In the future we plan to have other school data and school faculty information. 

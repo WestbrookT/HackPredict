@@ -1,0 +1,5 @@
+There are very few apps on the playstore which holistically covered the pre-natal care that a woman might need & so this was pretty much n uncharted territory. Thus, as soon as we saw this theme, a myriad of ideas came to our heads and so we went out and made this project.
+It does 3 things:
+Implemented the chat and timer sections using php alone (whose code was very ambiguous online. And so this was pretty much my idea in itself).
+The various functions related to date and time in PHP.
+Well, we have decided we will complete this project outside of this  hackathon too. But we really hope that we win this first. 

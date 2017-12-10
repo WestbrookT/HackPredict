@@ -1,0 +1,41 @@
+Genre: VR Horror Adventure
+-Concept-
+Using sound to enhance the visual VR experience in order to create an experience with a higher level of immersion.
+1: Echoing Audio
+Whenever you make a sound, it will echo within the VR world. In usual VR worlds, when you move your field of vision, the game instantly responds to that. This never existed before VR, and is one of the revolutionary aspects of VR experiences. This project aims to add audio feedback on top of that to create an even higher level of immersion. 
+Any vocal noise the player makes will echo within the VR world, acting as a bridge to the real world in order to enhance the feeling of really existing in the virtual space.
+2: Horror Atmosphere
+This is a horror experience that will make people shout and scream. In order to fully utilize the aspects of the first part of our concept, we decided to go with a horror experience. Within the VR world, the player gets taken to creepy castle and starts wandering around. If they get startled or scared and end up making a sound, they'll be able to hear their own voice echo within the castle.
+3: Vocal Choices
+Within the castle, there are various branches where the player must vocally choose a direction to continue in. Since the players are forced to speak, they'll be able to experience the echoing audio there too.
+-Challenges and Innovations-
+1: A VR experience focused around visual and audio input
+The greatest characteristic of VR is how it can 'make you feel like you're really there.' We want to try and add the audio level on top of this to create an even deeper level of immersion. One of our biggest challenges will be making sure that this goal is actually accomplished.
+2: Audio Controls
+One of the hardest things to deal with in VR are button controls, since they take away from the immersion. This is why we've decided to do away with them and go with audio controls instead. It also matches perfectly with our concept, since we can make the audio echo to add to the atmosphere. 
+-Summary-
+1: Visual immersion + audio immersion = overwhelming immersion
+2: We decided to avoid one of the weak points of VR (button controls) by using audio controls instead.
+3: We think our world design, which will make people make noise unexpectedly, fits perfectly with our ideas for echo immersion and audio controls.
+-Screenshot Details-
+The echoes change depending on whether you're in a cramped passage or a wide open room.
+You can choose which direction to continue down with voice input.
+A slew of frightening scenarios will fill you with fear and make you want to scream.
+-Progress Update (Milestone 3)-
+*Map walkthrough implemented.
+*Vocal route selection implemented.
+*Now implementing the different events of the experience.
+*Now implementing sound features.
+*Now implementing voice echo system.
+-Progress Update (Milestone 4)-
+Controls
+-When the experience begins, you will start to move automatically.
+-You can look around freely.
+-In order to choose a path whenever you reach an intersection, say "Go Right" or "Go Left."
+-Earphone Recommended.
+-Wi-Fi required.
+The Experience and New Innovations
+-This is a horror VR experience. Our innovation was to try and create unique auditory elements that could add to the visual immersion of VR in order to create an even more horrifying experience.
+Things we weren't able to do
+-We tried to make the user's voice echo within the game, but we couldn't find a way to overcome the technical problems of modifying the audio in real time and problems with delay.
+In the end, we didn't end up with results that were satisfying enough, so we gave up on implementing it within the game.

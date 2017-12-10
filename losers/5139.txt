@@ -1,0 +1,11 @@
+A perfect tool for pitching illustrations. Keep track of the scores of both individual and teams with SCOREO.
+Key features:
+-for 3-15 players per game
+-multiple rounds possible for each game
+-multiple judges
+-idea attachments (all file-types supported!)
+-player profiles
+-judge notes
+-easy-to-share - links for the audience
+-versatile reporting: idea and player ranking with notes.
+-easy-to-export (excel etc.)

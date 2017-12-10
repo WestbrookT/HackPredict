@@ -1,0 +1,1 @@
+The current New York Subway map is based upon approximate distances between stops that often isn't even correct. We think it would be even more useful for the subway to be scaled based upon the time between stops so you can know at a glance how long it will take to get to your destination.

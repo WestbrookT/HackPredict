@@ -1,0 +1,12 @@
+Brijesh's Back.
+Force sensitive resistors to determine if you are sitting in an ergonomic position at your workstation
+Buggy libraries
+Interfacing hardware and software
+Pivoting in our implementation when necessary
+Parsing byte arrays in plain text request
+Getting through Chrome's rather finicky security policies 
+Open source is a double edged sword
+Anything is possible if you have enough duct tape
+Red bull is the key to all solutions
+More use cases of sloppy postures ( more techniques of sensing sloppy postures)
+Scaling to the entire workstation not just the chair

@@ -1,0 +1,6 @@
+We were inspired by HBO's Silicon Valley, specifically the startup company featured in the show. 
+It does seamless compression to photos (and videos in the future), just like how it was in the show.  Our algorithm makes it possible to compress image files to half the existing size with very the most minimal loss of quality
+Creating the algorithm and completed the hack in 24 hours
+We've build the real Pied Piper.
+Anything is possible
+Get funding from Russ Hanneman

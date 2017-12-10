@@ -1,0 +1,7 @@
+One day we spent 1 hour to park in NY streets.
+Now we decided to stop this hustle and make your life to be more dedicated to living not trying to park
+Based on street signs database we built a map, adjust it with ArcGIS data, ESRI data, OpenStreetMap data we built a street parking map which shows you current street parking status based on your location. It takes into account date, time, location, street block and other important data to define if it possible, show the most loaded streets, provides ability to mark parking location, receive notification on parking expiration and let other people know when and where you left the spot.
+Renders thousands map pushpins and polyline at once, redraw polylines, polyline sectors, match blocks with real street geodesic lines. And of course the biggest challenge it to parse street parking signs!
+Every challenges we were able to solve is a great accomplishment that we are proud of.
+The longer it takes to develop, less likely it is to launch. That is why hackathon is our choice to develop ideas.
+Crowd sources parking data, feed, socialization

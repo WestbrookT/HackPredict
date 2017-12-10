@@ -1,0 +1,10 @@
+I was inspired to build Markplek after visiting other schools in which students, especially those in poverty, struggled to attain the necessary school materials to maintain their education. Every year, we buy new prep books or textbooks to use; however, after the year the books generally remain sitting around in our closet. Why not keep the materials moving in a constant, never ending cycle of supply and demand.
+It essentially serves as a student marketplace between students of one school. It connects those who are looking for books and other resources with others, previously unseen, who have them just lying around. It allows them to find each other, meet, communicate, arrange a meeting place, and confirm the item has been received.
+I utilized basic html and css and javascript along with bootstrap to create a good looking front end for the website. Then I ran these values in through java on the backend and stored values in a relational database, mySQL, through Amazon Web Services. Brought them back in jsp files.
+Essentially the backend together as a whole
+I spent too much time trying to perfect the front end that it left me gasping for time to complete the actual logic. Getting the login and sign in working in as well as confirming the student email was difficult at first.
+I am very proud that I created a functional web application.
+It looks very neat and clean, but especially getting some things on the backend, which I am not too familiar with, done felt very good. 
+I was surprised and VERY happy that I was able to stay up and make a working application in such a short amount of time.
+I leaned how to use JSP files basically, which deliver the  server side customized content through Java back to the webpage using servlets. I had almost no idea how to do so before.
+I really want to go forward with this idea and actually implement it after making some tweaks, as I feel it is a problem we do need to solve. I would implement a search function to search through the numerous items, possibly a club functionality, and more.

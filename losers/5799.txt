@@ -1,0 +1,17 @@
+Our inspiration behind making this website was to provide a common platform that could be used by everyone related to  education so that don’t have to go through a number of websites
+This platform will tremendously help students, parents,  teachers, and institutions. Since, all the resources are  being provided at a common location.
+Students:
+All information regarding all the subjects from A to Z will  be made available on the portal by linking important  playlists of YouTube, Wikipedia pages and other  information sharing related sites.
+Parents:
+Parent will have great opportunities learning new skills  online through this portal, website such as Duolingo will be  linked to this website and also it will be informative having  links with eHow, wikiHow,Howcast etc.
+• Teachers: Teachers will find things related to the syllabus and will also find ways to improve their way of teaching.
+• Any information that is not present in our website will almost surely be found out through the links that we provided at various places.
+• Our website is based upon the php framework. Although we have only provided the front end template of what we intend to make as we still have to work a lot in our back-end programming. We intend to make the back-end in php and then run it through the XAMPP server.
+• XAMPP is basically a web development framework for php that provides a server for us to run our code in it as if we were running when the website is live.
+• The database that we haven’t made will be based upon SQL database.
+• We have created the front-end template of what we will see. 
+• This is made with the help of HTML, CSS AND JAVASCRIPT.
+The biggest challenge before us was and still is that none of us knew back-end programming as a result of which we could only create a template of what the website would look like when it is fully functional with the databases.
+We always knew that we would never be able to accomplish the main objective of the problem but we still hung in there for around more than 20 hrs as a result of which we were able to finally make the template of the website.
+There were a great no. of things that we have learned. Things such as git repository which were previously unheard of came into our knowledge. We even got know about our mental strenght when it came to long competitions like this.
+After EDUINFO  surely we would master our back-end programming and then would thereby takeup and develop other projects and hence would want to win the hackathon in the coming years.

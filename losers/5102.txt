@@ -1,0 +1,6 @@
+Giselle inspiration comes from the common need during travel for a daily itinerary. Everyone can build a route map from Google maps, connecting each itinerary stop. Now with the Uber API, Giselle can be used to request a Ride by Uber from any of these itinerary stops.   
+Giselle is an iPhone app that uses the basic iPhone UI navigation and list functionality to display a list of itineraries for the user to add, edit and delete. Each itinerary segues to its list of locations of interest. Each itinerary location includes a Rides By Uber button for the user to request an Uber ride. Giselle 1.0 includes the first endpoint for products. Giselle 2.0 will include the estimated price and estimated time endpoints. Giselle 3.0 will include the request endpoint.
+The Uber Request Hackathon inspired me to build my very first iPhone app. Giselle 1.0 includes a successful API call to the Uber endpoint for Products, and displays the available product in the app UI per the user's location. 
+The Uber Request Hackathon inspired me to learn how to use several valuable tools available today: Swift, GitHub, the Uber API and JSON. Without these tools, I would not have been able to make my dream come true of providing an easy free itinerary app tool for anyone to use on any trip.
+Giselle 2.0 Estimated Time and Price endpoint support.
+Giselle 3.0 Requests endpoint support.

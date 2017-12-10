@@ -1,0 +1,3 @@
+Hermes is an app that tells the user the most convenient hospital to go to in case of an emergency. It factors in distance, number of current patients, number of open beds, and which hospitals are covered with your insurance. 
+We used HTML, CSS, and JavaScript to create the user interface and connect the user with our database. We used Google Firebase and the Google Maps API. 
+Initially, we had planned to make a Android App, however after multiple tries and many hours of trying to implement the Google Geolocation, we decided to switch to a Javascript structure.

@@ -1,0 +1,6 @@
+I was inspired by diagnosing a child in a remote area by listening to his heartbeats over phone. The child had pneumonia and the diagnosis probably saved the child's life. 
+Authoritative diagnostic procedures and knowledge are available from  definitive sources like Medical Boards and Associations. These are analyzed by a natural language processing program to create a diagnostic model. Watson Q and A 's upcoming version will have classifier tools to be able to aid in that.  Watson Speech to Text and Text to Speech were used to tie Twilio to the system.
+It was difficult to debug a speech application with music in the background :) . Also not having a publicly accessible server on my development machine slowed down the debugging process
+Creating an application that can serve as the launching pad of making medical care more accessible and at a lower cost is something I am proud of.
+I learned a lot about Watson and Bluemix services.
+We plan to increase the natural language acquisition process and the knowledge models underlying the diagnostic process. Machine translation makes the knowledge accessible all over the world irrespective of the language it was acquired in.

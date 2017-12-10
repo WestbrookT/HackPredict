@@ -1,0 +1,15 @@
+People today find it difficult to visit Worship Spaces due to time, space, physical or lifestyle constraints. Infrequent visits therefore become a mere ritual to be accomplished. Finding the connection to our spiritual core, the true purpose of such spaces, remains elusive.
+Virtual Worship gives you Immersive 3D Virtual Worlds where you can experientially practice your faith. You can perform faith based Rituals in a rich & engaging 3D world. These worship spaces can be concepted based on mythology or based on real world locations that are visited by devotees.
+With Virtual Worship, we wish for Experiential Faith Practice to become part of today’s connected lifestyle. The Immersive 3D worship spaces aim to recreate the same experience of devotion, community and spiritual connectedness that temples, churches and mosques do.
+Kedarnath Temple
+Our initial app is based on one of the holiest Hindu temple of Kedarnath which is dedicated to Lord Shiva and is located in the Himalayas. Due to extreme weather conditions the temple is accessible only during the months of April and November. The temple is not accessible directly but instead has to be reached via a 14 km long trek. This makes it very difficult for many people to actually visit the temple.
+Our idea is to recreate the temple as it was in the 8th century, without any of the man made structures built around it.
+Some images showing how it was around 100-150 years back:
+And how it is today:
+In addition, we aim to provide the 'pooja' ritual that is common to all Hindu temples via a simulation of offerings like vermillion paste, flowers, milk etc.
+These experiences are very much emotional and prayer & faith form the mainstay of these acts. Through VR, we aim to recreate the same feeling of reverence and peace that people experience in their real lives during worship.
+Milestone 2 Update:
+Temple Content Creation: Screenshots uploaded
+Meditation Room: To really bring about the benefit of VR, we are adding a meditation room to the app that will allow a 3-5 minute meditation experience. We are working on the mechanics for this but it will be something where you interact with the environment and it adapts to your level of concentration.
+UI: According to earlier plans, we were going to add a menu for the 'pooja' ritual but now have decided to forgo that in favour of a pre-defined set of animations. This will allow us focus more on the meditation 'gameplay'.
+Milestone 3 Update:

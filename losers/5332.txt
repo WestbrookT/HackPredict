@@ -1,0 +1,3 @@
+Befallen Is a first person puzzle game where you navigate a labyrinth befallen by nature through completing puzzles to open new areas.
+The action of pulling and pushing objects takes advantage of the depth that VR, allowing it to stand out more, and causing it to feel much more natural to the user. The depth also makes for easier aiming without any form or reticle, the player just looks to where they want to aim.
+The telekinesis-like mechanic of picking up objects allows the player to directly interact with the physics of the game, and the rotational tracking gives it a much more tactile feel.

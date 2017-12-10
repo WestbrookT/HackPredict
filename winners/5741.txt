@@ -1,0 +1,7 @@
+Inspiration: WE LOVE SYSTEMS ENGINEERING
+What it does: Remote operated turret, mounted on a car. Followed by a sumo robot battle buddy with extra ammo.
+How it was built: Solder, laser cutting, duct tape, super glue, friction fits, rubber bands, circuit components, acrylic, servo, sumo robot, remote control, wireless receiver
+Challenges: Coming up with an idea. Scrapping original idea. Getting sumo robot code to work
+Accomplishment: Having a working finished produce, function over form. Ability to be extended for a variety of applications.
+What I learned: Arduino code, remote control wireless receiving & light sensor tracking
+What's next for Battle Bot - Ian Sean: Aesthetics, potentially a second cannon on the sumo bot, further range for firing.

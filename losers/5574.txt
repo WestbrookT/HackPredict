@@ -1,0 +1,27 @@
+Scenes (created using Threejs, blender
+figure 1
+Simple spatial mind map, 5 nodes, 5 connections (manipulate all in many ways: select, move, hide, rotate, go inside, etc)
+The Torah inside a cabinet with tables, and pointer (to be taken out, opened, and read)
+page of the Torah
+Use of left and right hands
+a bookcase to represent a spatial menu
+A note (“first Mitzvah of 613 commandments) missing an arrow to the node or a connection
+Golden calf
+inscences alter in the holy of hollies
+menorah
+snake from the Tree of Knowledge
+(sound would include chanting, etc.)
+figure:2
+Kabbalah: Light (G-d’s transmission or purpose) transmits from the apertures (video coming) of Adam Kadmon to 1 sefirot (“ayin:nothingness”) of 10 and to another (cochmah: wisdom)
+figure 3
+Kabbalah: 10 sefirot represent as 10 concentric surrounding lights (general providence).
+Kabbalah: The circular and linear sefirot contained in five worlds.
+figure 4
+Multiple windows that the system as set up for this weeks learning (top to bottom).  All data is stored in a semantic database:
+    A specific URL for a specific reading
+    A summary of Genesis
+    A video
+    The detail versus from 1 of the translations this one with Rashi (scholar) commentary
+    Frames contents are mobile, extensible, sharable, and persistent. 
+figure 5
+Inside the Mishkan ( mobile temple in the desert during the exodus) and in the holy of hollies: menorah on the left on the pedestal, incense alter in the front, showbread on the right, ark in the back on the left, curtain has been removed

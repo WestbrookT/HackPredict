@@ -1,0 +1,6 @@
+Nuance has a great speech recognition AI, so we thought it could help to find out if Tim Hortons still has a specific snack on its stack
+Tells you how much is left on the stack of items/products, more like a real time inventory
+Trying to integrate speech recognition into posting on dynamodb
+It works and looks nice
+Nuance, React, socket.io
+More use cases, like gathering data, or expanding to more places, not just Tim Hortons

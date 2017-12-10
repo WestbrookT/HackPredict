@@ -1,0 +1,5 @@
+Heat Zeeker : VR allows a player to put on his helmet (VR headset) and jump into the battlefield. The game design is inspired by the original GTA, the original Comanche and the series Command and Conquer.
+The game will allow to build a base as a commander. It will also allow to command a single unit, who can then use a jeep, a tank or a comanche to fight.
+The rooms for the base can also be built underground, where the game features impssible rooms, inspired by the game, Portal.
+// Abstractatech Canada Ltd.
+https://www.youtube.com/watch?v=k5KpFfUdpKw

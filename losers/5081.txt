@@ -1,0 +1,4 @@
+Most of the enterprises are moving to cloud. The biggest issue while moving to cloud is migrating existing datacenter to cloud.
+Apache CloudStack is open source software designed to deploy and manage large networks of virtual machines, as a highly available, highly scalable Infrastructure as a Service (IaaS) cloud computing platform.
+The regular way to onboard a datacenter to CloudStack is very tedious.
+We aimed to solve this problem by on-boarding an existing datacenter to Apache CloudStack running cloud with no downtime.

@@ -1,0 +1,19 @@
+Most engineering students have the following problems that this app aims to resolve:
+Unavailabilty of resources under one platform
+No categorisation of quality resources
+No proper discussion forum for student-teacher and student-student interaction
+Most engineering students have the following problems that this app aims to resolve:
+Unavailabilty of resources under one platform
+No categorisation of quality resources
+No proper discussion forum for student-teacher and student-student interaction
+This application:
+Categorises quality information available under single platform and stores the frequently viewed resources for offline access.
+Addresses the interaction problem through a discussion platform named ‘Doubts Corner’
+Provides a Test platform for students to check their tech aptitude.
+The initial mockups were decided and architecture was discussed with the team mates. We came into the conclusion that making an android app would be the best solution for this. We finalised the backend to be made using PhP. 
+We divided our modules and finalised the work divisions. The initial steps were easy to build as we had prior experience in coding the necessary modules. We had finalised some modules to be made which we had no prior experience on. Those made things a bit tricky.
+It is the first time we have participated in a hackathon. So it was a bit tough to manage the pressure and code all through the time.
+We managed to code the major parts of the app in such a short time. We learnt a lot many techniques to code our modules in efficient ways.
+Platform to provide for competitive sessions between students.
+Provide for detailed analytics of progress of a student
+Provide added functionality to teacher for one to one interaction between students.

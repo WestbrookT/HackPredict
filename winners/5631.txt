@@ -1,0 +1,6 @@
+Mostly games I used to play like SimCity.
+First, it gets the fastest route that had less accidents compared to alternate routes of similar duration. Then, you can use a (very smart) chatbot to answer questions interesting questions about the route. Like "how much gas will this trip cost me?" or "what's the probability there will be 10 accidents this month?"
+Dealing with the many edge cases in a chatbot application and searching for safe routes quickly.
+The application searches for the safest route.
+I learned how wit.ai works.
+Expanding the lexicon, adding crime data, adding data related to other geolocation attributes.

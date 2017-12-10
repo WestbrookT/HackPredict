@@ -1,0 +1,13 @@
+The team was inspired by Esri's ArcGIS suite of geospatial processing programs and their application to virtual reality.  Esri (Environmental Systems Research Institute) is an international supplier of Geographic Information System (GIS) software used primarily to view, edit, create, and analyze geospatial data.
+Using Cardboard VR and Esri’s arcgis data, you can explore data for a specific location using a virtual reality user experience.
+How it works:
+Get a Cardboard VR kit (or build your own)
+Download VR Map Explorer from Google Playstore 
+Challenges:
+Using toolkits that were not designed to work together.  Combining the Google cardboard API and calls in java android with Esri android API.  Formatting the data from Esri into the display format for cardboard VR.  Had a challenge with Android 5.1 and OpenGL, due to changes in Android 5.1.
+Accomplishments that I'm proud of:
+Fast track learning of Open GL shaders.  
+What I learned
+How to combine the Google Cardboard SDK and Esri SDKs (on Android) to create VR views.
+What's next for ArcVRCardboard?
+In 6 months, Esri will have 3D data, and the buildings were rise from 2D images on a 360 VR view.  It will be super cool!

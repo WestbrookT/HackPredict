@@ -1,0 +1,7 @@
+Using a water rocket to get a lifeline to a drowning person.
+It is a water rocket with a handheld launcher that propels a life line to a considerable distance. It can potentially save the life of someone who has fallen into the water - off a boat, or from the rocks, or who is caught in a rip, or someone being swept away by flood waters.
+We used Blender and 3D printing to construct the part. The rocket nozzle  and release mechanism was constructed from hose fittings.
+Getting the rocket aero-dynamics right too some experimentation. The release trigger mechanism also took a bit of trial and error to get right.
+Original idea. Designed and built from stretch in two days at Hackagong. 
+How design and build a water rocket and launcher.  
+We are already working in RocketLine Mark II - bigger and better!

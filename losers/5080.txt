@@ -1,0 +1,65 @@
+Description of the Business 
+Polymath Computer Solutions (PCS) is a virtual reality company that specializes in building 
+custom VR environments for real estate projects. PCS builds cutting-edge marketing products 
+and accompanying services that aid property developers. By targeting developers selling pre-
+construction real estate projects, PCS integrates into existing sales protocols. From a 
+consumers perspective, PCS creates interactive and immersive VR experiences that enables 
+home buyers to visualize their future home. 
+In Toronto and other major North American cities, the residential real estate market is 
+predicated on pre-sales. In large urban centres, construction doesn't begin until 70% of the units 
+are sold. If a property developer cannot sell a future-building, they simply can't finance large 
+projects.  Incumbents prioritize marketing and search for novel ways to sell real estate.
+On a micro level, large property developers invest in retail 'sales centres' near the 
+construction site to showcase their models. They budget between $250,000 and $900,000 per 
+showroom on top of a marketing budget of 2-4% of gross sales -which can be millions of 
+dollars. A large property developer can have a dozen or more sales centres in a big city. 
+These showrooms employ sales reps who educate and sell to potential homebuyers.
+PCS builds custom VR environments for property developers to use as a marketing asset to sell 
+pre-construction real estate projects. PCS creates an immersive VR experience for homebuyers 
+to visualize their potential future home. The product is a bundled VR experience that integrates 
+into existing sales centres.
+1) VR creation
+The client sends basic floor plans of models suites, show rooms, and amenities (gym, pool, 
+lobby etc.) before PCS vectorizes plans and adding artwork, shading, texturing and lighting.
+The in-house team works with the clients marketing department to decorate and furnish the 
+rooms with digital assets from PCS’s library. Additionally high resolution backdrops are provided 
+to showcase the view and to implement night/day/sunset/sunrise time previews. Lastly, stills, 
+recorded simulations and flyover footage are provided on demand.
+The end result is fully rendered VR environments in Unity. This enables homebuyers to 
+experience the tour with an Oculus Rift, Android tablet or a Unity enabled browser.
+2) Tablet Integration 
+Each client receives a custom android app for sales reps to guide homebuyers through the 
+digital tour.
+Current implementation allows the sales agent to customize the interior on the fly while the 
+buyer is wearing the Rift. This includes paint colour, flooring, countertops, cabinetry, furniture 
+and accessories. This granular functionality helps homebuyers build an emotional attachment to 
+their potential future home - and ultimately influences the purchase decision.
+3) Service 
+Included in the product bundle is training, hardware rentals (headset, computer, tablet) and an 
+on-site kiosk.
+Pamela
+PCS is building disruptive software and machine learning algorithms that aim to automate the 
+human component of real estate sales.  By Q3 2015 PCS technology will bundle services with 
+a digital sales agent named Pamela. Pamela is an engaging, interactive, data-gathering 
+avatar that lives inside PCS’s guided digital tour in VR.  She also talks to the homebuyer, just 
+like a live agent.
+i) Virtual Tour Guide 
+“Hello, I’m Pamela, your virtual tour guide and I'm excited to show you your future home!"  
+Pamela can improve pre construction condo sales by digitally optimizing colour (what shade 
+of grey to paint the master bedroom), room viewing order, interior design (what countertops 
+20 something female homebuyers typically like in the kitchen) and even herself by A/B testing 
+her avatar with Sue, Nelson and Ai Ching.
+ii) Furnishings 
+"Did you like the paint and furniture in the living room? Great! I'll make sure the exact paint 
+shade and sofa set is furnished for you by move-in day next February! But before you say 
+yes, let me show you this cute new recliner from BO furniture..."
+Instead paying for the interior add-ons up front, Pamela will tack it on to the mortgage. 
+iii) Build your own condo 
+"Your Facebook graph is telling me you prefer open concept design! Lets go ahead and bash 
+down that living room wall. I'll go ahead and query the builder to update the blueprints"
+iv) Finance 
+"Now let me introduce you to Henry your virtual mortgage advisor, he is going to recommend 
+our most trusted banking partner to get you the best variable rate!"
+Through machine learning and customization, PCS believes data can provide a superior 
+customer experience.  This is especially the case considering a home is often the biggest 
+investment consumers ever make.

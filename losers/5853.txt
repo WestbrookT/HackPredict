@@ -1,0 +1,6 @@
+We love Drones and wanted to do something different
+For one, we don't have a huge drone, so for the scope of this hack we are using a minidrone.
+Getting the communication together!
+Getting the UDID of the Parrot Drone to work!
+We definitely learned to work as a team to get things accomplished quickly.
+Who knows! Mo' Drones, Mo' Problems

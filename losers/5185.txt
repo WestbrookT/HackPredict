@@ -1,0 +1,8 @@
+Here´s our Build for Android!
+ 
+2 Weeks before the jam has begun we have pitched some of our ideas to ourselfes and we decided to do do a journey game with a budgie. 
+On first day of the jam we started concepting the first impressions und ideas. 
+We worked as fast as possible and where able to present the first prototype of BIRDFREE! on Milestone 1. 
+Now the prototype has evolved into a playable game with an amazing immersive feeling and headspinning heights.
+We are designing our game with the Unreal Engine 4,
+because of the Blueprints, the visual scripting language included. This empowered our artists to participate in the gameplay design, events and mechanics.

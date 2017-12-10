@@ -1,0 +1,23 @@
+I believe this is the first attempt to allow a human to exist in VR as an A.I.
+Self Driving Cars are on the verge of being available to the public. They are at the forefront of A.I. technology. Now you get to be one.
+This is not an easy project, the most difficult will be visualizing the laser tracking system with particles. It generates millions of data points a second. This data is merged will all other sensor data to create a representation of reality. 
+The other challenge is representing A.I. knowledge in a way that a human can understand and interact with. It will require novel user interface design.
+I just finished A.I. Robotics at GeorgiaTech by Dr. Thrun - where we studied the six key algorithms required to enable self driving cars. I intend to visualize all six if possible. I am pursing a Masters in A.I.
+I am doing this project to show the world what an A.I. really is.
+Should be fun! - Geoff
+The Project A.I.V.R.E will be pushing the limits of the Note 4. Above all we must maintain FPS. 
+The great thing about the Gear VR's mobile device, the Samsung Note 4 is that it is effectively an XBOX 360. You get a similar GFLOP performance but it only uses 4 watts. It also comes with a significant video memory for textures.  Which means the simulation will look amazing, even with a low poly count. The low poly count is key to maintaining the frame rate.
+Unity 5 provides multithreading of the physics. This is critical as large sets particles are going be needed to simulate the sensor systems of the AI. We need Unity 5.
+One of the unforeseen complications is Unity is in a state of transition. Even through Unity 5 is released and is the recommended tool for the project, many of the 3rd party libraries have not been upgraded.  Upgrading is an automated process and its not always working. :)
+The key AI algorithms are written in Python and use optimized libraries like numpy. Fortunately Unity offers Boo, a python variant. They are:
+Monte Carlo, Kalman Filters, Particle Systems, aStar & Dynamic Programming, PID, SLAM
+Imagine a kid running out on the street being a parked car, Kalman filters allow the AI to see the child's legs and predict the action. Today's self driving cars can update 70 times / second.
+In the image for this week the arrows are a type of path planning. The graph on the left shows bother a correlation and gaussian distribution. As the AI's confidence in accuracy of something increases, the gaussian will become tall and thin. If its wide or shallow, that means its guessing. These graphs will update in real time and they change as you look at different active items with the VR.
+Until next week - Cheers Geoff
+The semester is done and marks are coming in:  Class AI Robotics - 98%, Machine Learning - Markov Decision Process project - 100% :) 
+Now I can finally focus on the VRJam, its due in 10 days, its going to be tight! 
+Further testing of the Gear VR puts the upper limit for rendering a scene at about 150K polygons. I uploaded half a dozen projects into the Gear for performance analysis - and great news, the high res textures work awesome. The wireless debugging is working. Unfortunately when it crashes its not so easy to find out why.
+The difference in third party libraries from V4 to V5 is still causing issues and using up time. Every problem is solvable, its just a function of how much time it will take. i.e. fixing the video capture command because it had the wrong file permissions to run :)
+The other two algorithms I will not directly demonstrate in this release. PID is used to smooth our A*Star paths and Monte Carlo helps a robot find where thing are, just like Kalman Filters and Particle Systems. They are somewhat redundant and time it tight.
+I created I pretty awesome video trailer showing what I am trying to build. It was created with iMovie. Enjoy!
+Now Sprint to the Finish. - Cheers - Geoff

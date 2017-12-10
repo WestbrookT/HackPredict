@@ -1,0 +1,2 @@
+When you input any text to chat, our server will pass the message through several levels of Google translate, and return it in English. We also replace some words with their synonyms before translating.
+We will game-ify the application by allowing the others to guess what the original sender meant, and give them an accuracy score for how close they got. 

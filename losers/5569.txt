@@ -1,0 +1,4 @@
+OpMazes lets you immersively navigate through mazes that are procedurally generated from 2D optical art illusions - in an oldskool style. It’s innovative in its combination of AR with VR - and also tying back to classic game graphics.  
+The user can browse through a book of op-art and see these mazes raise-up-from-the-page from an aerial view - and also option to "enter" each maze in a first person perspective in the guise of a classic game dungeon. 
+Milestone 2: Designed QR Bugs enemies and mobile teleporters! (And also turned the Cube floor into a QR code)
+Milestone 3: Please excuse the horrible quality of currently buggy gameplay video. It's a few builds behind. 

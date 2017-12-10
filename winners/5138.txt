@@ -1,0 +1,7 @@
+Our team has always been interested with working on a machine learning project. 
+Triggerbot is a twitterbot that analyzes if a photo posted on twitter is offensive. A twitter user will post #IsThisOffensive or #AmIOffensive.  
+We started by obtaining pictures to train our AI. Next we used Clarifai to train our AI; the purpose of the training was to identify if an image was offensive or not. Finally using the Tweepy Python Library, Triggerbot was able to interact with other twitter users, as well as asynchronously stream and analyze new tweets.
+The initial choice for our AI was Tenserflow, however we switched to Clarifai because it has a higher level of abstraction from the machine learning code. 
+Our team was able to utilize a machine learning program capable of analyzing photographs. Also, our group is proud that we are helping the fight in ending online harassment.
+Our team learned to use Python libraries in machine learning applications, along with working together on a project through Git Repositories.
+The next feature we will add would be to allow for others to post #IsThisOffensive on another persons tweet and Triggerbot will determine if this picture is offensive, also there is always room for improving our AI.

@@ -1,0 +1,6 @@
+Journalism has been taking a toll, too many news now are just opinions, and from those thoughts of the MainStream Media tends to drive the public opinions.  We take a deeper insight through Watson's big data to give users to have an unbiased analytic on what they are reading.
+Through Google Chrome Plugin, user can analyze their news by a simple click of a chrome extension
+Running multiple Watson technologies at the same time, learning node.js
+I combined Text to Speech, Personality and Alchemy API in one
+How powerful Watson big data analytics are
+Publish into chrome extension and charge people monthly fee

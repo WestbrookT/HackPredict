@@ -1,0 +1,8 @@
+Ruins of Chronos is a 3D platformer set in a peculiar alien planet, home to the ruins of a past but advanced civilization.  You must find the hidden treasure and sophisticated technology they left behind- but you’re not alone in the search.
+Controls:  A controller is required for this game.  A swivel chair is recommended.
+Player movement is controlled by a teleport mechanic.  Within a certain range, the player may press R1 to target and press again to instantly teleport to that spot.  This movement mechanic is intended to allow fast movement without motion sickness or disorientation.  It also allows for navigational puzzles and sequences in which time is slowed to allow "jumps" From target to target.
+The player also begins with an ability to grab and move specific pillars with telepathy.  By pressing circle and using head tracking, special platforms can be moved for navigational puzzles.  The player can also grab and throw bombs with this mechanic.
+The first weapon found in the world is the boomerang.  Using head tracking, the player can target multiple enemies at one time.  The boomerang can kill bats and stun larger enemies.  Stunned enemies can be used as platforms to teleport onto.
+The other weapon found is the slingshot.  The slingshot fires a ball of energy on an arc using physics.
+All of these mechanics are focused on taking advantage of VR head tracking control and eliminating any possible motion sickness.  The focus of our innovativation was the teleport mechanic.  With teleporting as the basis for movement, the other mechanics were chosen to make the most use of VR head tracking controls for classic 3d platforming and combat.
+Build Note - Press start to reload the level and get both weapons

@@ -1,0 +1,6 @@
+Dodge your enemies using headtilt controls.
+Powerups are placed in the arena to kill your foes. Picking them up will automatically activate them, so there are no buttons required to play.
+Picking up the powerups on the beat of the music increases your sync bonus for higher scores.
+At the end of the song you score will be recorded, if you can make it that far.
+Controls
+Innovation

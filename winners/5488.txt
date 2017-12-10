@@ -1,0 +1,7 @@
+IBM watson demo
+breaks gifs into jepgs to analyse
+Java
+converting gifs to jpeg
+works kinda
+ImageIO
+adding more positive training

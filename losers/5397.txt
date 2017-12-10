@@ -1,0 +1,8 @@
+We got a lot accomplished in just a few weeks. Despite setbacks the have a proof of concept as of today. Stay tuned!
+-cb
+The player inhabits a vantage point overlooking a besieged city. They can dispatch of incoming dangers via a gaze based aiming mechanic. The Sky-Based Hud allows for situational awareness, and will be used for selection of a direct action weapon. Rounds provide a break in the action for storytelling and base upgrades. 
+Currently debating whether to upgrade to unity 5, as pre-baking the lighting seems like the only way to go (some profiling would be nice too). Still need to finish the weapon selection menu and upgrade menu. Basic Pathfinding, damage dealing, spawning and level loading have been implemented.
+This is a game about managing resources in order to defend a base. The currently planned resource is a short term resource for a direct action weapon and a long term resource used for base upgrades. Potentially a marriage of strategy, immersion, and visual gratification.
+How do you see the whole base without moving the player or making the units too small to see?
+How do you manage base upgrades elegantly?
+Handling the deployment of resources with limited input devices.

@@ -1,0 +1,6 @@
+I wanted to have a To Do list by my side wherever I go, laptop or mobile devices. Also, I want to bring house chores to a whole new level of fun.
+The backend is built using Firebase. Frontend is built with HTML5, CSS3, jQuery and bootstrap.
+Some backend updating issues.
+My clean UI.
+Firebase can save a lot of time.
+Building and improving the new features

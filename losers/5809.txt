@@ -1,0 +1,6 @@
+GUI and CLI Tool to easily create resized copies of an Image to use as an android resource.
+gui:
+cli:
+To build use the following maven cli command:
+It will generate two files:
+Special thanks to the creators of these libraries:

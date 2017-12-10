@@ -1,0 +1,4 @@
+As libraries and API's become increasingly powerful we wanted to contribute to those with visual impairments to understand their surroundings
+By pressing anywhere on the screen, the app takes a picture and dictates single words to let the user know what is near them.
+We learned to design a product for a market that does not include either of us. This forced us to think from another's perspective.
+We are looking forward to submitting the app in the Apple App Store!

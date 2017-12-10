@@ -1,0 +1,6 @@
+Dance Dance Revolution is a great game. Several PC clones exist for your hands, but applying the Myo Armband to the game allows for a new interactive experience.
+A DDR clone was created in Unity, and Myo gestures were mapped to hotkeys W, A, S,and D, which control which arrow is being hit.
+Dropping the arrows in a sequence as opposed to all of them falling at once was a large part of the problem. Specifically, since no one in our group had ever used Unity, the learning curve was incredibly steep. The majority of the hackathon was spent learning how to create objects in Unity and how to code in C#.
+Our group learned how to handle a game engine over the course of a day and a half, which is difficult for any level of programmer. Additionally, three of the four people in our group had never worked with C#, and two of those three had never programmed anything in their lives. In fact, Brienne headed the Unity programming despite never having written a single program in her life.
+Unity, C#.
+The game has several bug fixes needed for functionality to be optimized. Firstly, sequenced arrow falling needs to be fixed. Secondly, the arrows need to be timed according to the playing song. Finally, additional songs could be added to a library, allowing for easy expansion and actual playability.

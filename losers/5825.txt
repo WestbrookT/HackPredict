@@ -1,0 +1,6 @@
+We’re plagued by a social media epidemic.
+Self reflection and private thoughts are pervaded by the relentless stream of distractions we have come to consider normal.
+Measures of happiness are usurped by possibilities of external validation of self.
+Don’t trust the evaluation of others. Trust Microsoft’s Cognitive Services. For the first time you can experience true validation free from bias or grudge.
+It’s a network with you, yourself and, most importantly, yourself.
+In essence, this diary is just for you. It uses sentiment analysis to, with unbeatable precision, evaluate your mood. It will also find the high points of your day and represent them with a complex array of emojis and related images. The scrolling timeline of entries is the best and only way to see your progression through life.

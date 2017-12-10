@@ -1,0 +1,14 @@
+Wanted to try something i haven't seen done before
+1) convert plaintext from file into a binary string 
+ 2) generate a random key (in the form of a binary string) and produce the encrypted data (also bin str) using a bit- wise exclusive or operation (xor)  to transmit over sound 
+ 3) remote log in (still in python) to my atlantic.net ubuntu server and store the private key as a text file 
+ 4) produce a stream of audio data through my speakers that represents the encrypted data 
+ -first python script ends as the next one begins- 
+ 5) in real time- listens to the audio stream through my mic and reproduces the encrypted data in the form of a bin str 
+ 6) remote logs in to my ubuntu server and reads in the private key to the running python script 
+ 7) preforms binary xor operation on the key and the encrypted data to reproduce the original binary string 
+ 8) converts that binary string back into the original plaintext 
+literally everything. mostly trying to figure out what to make of the raw audio data
+actually able to transmit meaningful data across a sound medium and recompose it on the other side with 100% accuracy 
+a lot about python audio processing and bit-wise math
+optimizing it to be faster and work more dynamically 

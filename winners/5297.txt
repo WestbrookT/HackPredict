@@ -1,0 +1,10 @@
+For the average American couple, Valentine's Day is a time to eat chocolate, give flowers, and enjoy the company of a partner and loved ones. However, for many men, women, and non-gender-conforming people the holiday is a confusing and terrible time of abuse and seemingly-regretful partners.
+One day visiting family court with a friend, I heard a woman's harrowing testimony of her ex-partner invading her home and assaulting her. She had been in similar situations before with him, and had set up cameras around her house to record evidence because, without it, none of her previous accusations had led to arrests or convictions. She played the recordings for the judge and her abuser was found guilty and his rights to custody of their child suspended.
+It was with this brave woman's story that I thought of Your Healthy Valentine -- a website for those being abused by their partners to store evidence (video, images, etc.) of their abuse in a confidential way that would not show up in search history as being related to abuse. This way, those being abused can document what is happening while they save up money or prepare to leave.
+Website built with HTML and CSS with links to an online "bank."
+Using basic HTML and CSS.
+Also included an Open Source License using the MIT license on GitHub!
+Building the actual bank portion of the website proved to be really, really difficult and every option I saw for online cloud storage cost money. I eventually decided to nix that portion of the project.
+Building my first website and actually getting a basic grasp on what the Internet is and how GitHub works. As a beginner programmer, these are things I just kind of assumed it'd be too dumb to ask about and I'm glad I finally learned the hard way!
+I had never touched HTML or CSS before this project, so I learned a lot about how that code works together. I also learned that domain.com does not have a redirect function for their .com domains -- so my yourhealthyvalentine.com domain wasn't actually able to get integrated with my github website.
+Building out the bank portion of the website using a free API for online cloud storage, which I'm still on the hunt for.

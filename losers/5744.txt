@@ -1,0 +1,5 @@
+Working with travel leaders' data, using their API is challenging and also interesting tasks.
+It provides much better user experiences than any other booking websites.
+The only challenge for us was the limit of the time. Other hands everything is possible.
+We are proud of the whole project.
+Probably the next steps is to clean up a code a little bit, however it's not that bad at all.

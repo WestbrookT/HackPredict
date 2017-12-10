@@ -1,0 +1,5 @@
+Controls - The app is a shooting game. The app uses the head tracking and the touch pad. When a user moves his/her head, a airplane in the app also changes its direction. So a user feels like he/she controls the airplane. Also a user can shoot a missile by touching the touch pad. 
+Mechanics - We try to bring an airplane simulation into the Gear VR. A user can experience a wide sky in the app and moves an airplane as he/she wants. A user feels he/she is in a battle field while avoiding enemy airplanes missiles and shooting them down! To clear the game, a user needs to destroy a boss, a big ship in the app. We hope a user enjoys our app.
+Innovation - My team focuses on creating a comfortable and realistic experience. It was a challenge to minimize the VR sickness. We adjusted the rotation speed of the airplane and limited the rotation range of the airplane. A user immerses oneself in the VR environment with our app. We also integrated AI for enemy airplanes. The AI brings more thrilling experience. 
+Thanks for everyone and our team members. We finally finish the project! 
+It's an awesome experience to participate the jam. 

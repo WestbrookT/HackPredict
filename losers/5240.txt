@@ -1,0 +1,14 @@
+We are building an app for surgeons and surgeons in training to learn or review quickly surgical procedures.
+For these reasons, we think mobile VR will be in the next year a very affordable and very efficient way to train new surgeons at a global scale.
+Our experience is built around a surgery. We’re focusing here on a facial reconstruction after a tongue tumor extraction, known as a "free-flap" procedure, performed by Pr Albert. The surgeon extracts some tissue from the patient's arm to reconstruct his face following the tumor removal. We should note that we had of course the signed consent of the patient before filming any footage. He was actually enthusiastic about our idea and got out of the hospital safely last week.
+This experience puts you in the shoes of the surgeon, by viewing the content filmed through two gopros put on Pr Albert's head.
+This experience is not a simulation : you don't influence the results of the surgery. It is more related with a process cognitive sciences researchers call "mental practice" : observation with a minimal "cognitive load" allows for very efficient learning. Traditional surgical videos are often very low FOV, because they're meant to be seen on small screens, and they  lack precious information on the surgeon’s posture, and are captured for a different position than the surgeon's.
+We put a lot of work in the UX.
+When we were discussing with surgeons, we understood that they remember surgeries as a series of instructions, so we implemented chaptering in the experience. By sliding on the trackpad, you move to the next chapter. By keeping you finger on the trackpad, you browse through the different chapters.  We had first a parabola displaying the different chapters but we found out that the circular metaphor was more coherent with our approach.
+The trackpad is our swiss army knife to interact with the different objects, as we didn’t want to have another control device You can interact with the additional content that we put on the experience with that, rotate 3D scan, navigate through 2D CT-scans, etc.
+We encountered several engineering challenges in the process of designing our app. 
+We're working hard on enhancing the app. Stereoscopy is such a complex matter...
+We're thinking of dropping the parabola for a more classic "sphere" UX, because of visibility problems with the Gear on.
+Work on the engineering part ; stabilization now works!
+Refactored the text of the project presentation to show the stakes in more detail.
+We had a lot of difficulties in the last steps, especially to make a build that works! But we're submitting a (hopefully) working version, and we just need to sleep right now...

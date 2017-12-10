@@ -1,0 +1,7 @@
+we all have a great problem missing our station when we are coming back tired from work or college while we use to take a nap.
+it wakes you up before like 0.5 KM of the desired station that you have choosed in the android app using your pebble
+we have built an app using google maps apis to take care of distance calculations & also to communicate with pebble to open up the wakup app on pebble
+well it was our first time to develop apps using maps apis & also the first time to work on cloud pebble
+we have a working app & we managed to solve the problem using our idea implemented in a real app using the amazing pebble platform
+how to develop on pebble, how to work on a new technology under pressure & get things work
+The app makes sure you can nap in the bus on your home. Based on your destination address you set on your Google maps, the app lets you sleep and it stays awake. It checks your location and when you're a kilometre, or user defined distance, it vibrates your Pebble Watch to wake up, and you can also allow your phone to ring and vibrate until you dismiss it so we will publish our apps to the store after the hackathon, wish us luck !

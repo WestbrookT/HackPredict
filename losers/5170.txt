@@ -1,0 +1,19 @@
+S.P.Y. Robot 
+A unique mix of Stealh, Hacking, Puzzle and Action for VR Headsets.
+AWARDS
+THE GAME
+You pilot an unarmed Robot S.P.Y. (Synthetical Private eYe) designed for private investigations through your companies test chambers for final QA. In each level you have to hack a mainframe in a green target zone somewhere in the level. To hack something you need free sight on it. Target it with your WIFI crosshair. It starts to blink  if hacking is possible. Specific hack skills can be found or downloaded in the level to solve puzzles or let you use the abilities of the enemy robots. 
+In the moment these hack skills are:
+Video Stream - Lets you see through the hacked object (wall camera, enemy robot etc.)
+Explode Sequence - Brings the object to self destruction
+Target Marker - Mark the object as an enemy for the other security devices. They will attack it.
+Shutdown System - Shutdown the target device. 
+Boot System - Startup the target device
+Faction Switch - The target switches from the security faction to the hacker faction. It will attack your enemies.
+More Hack Skills are about to come. The actual version contains a tutorial and an procedural level generator aka "Career Mode". Each level will have different room layout, enemy positions and patrol routes. In  the Career Mode you will advance through many levels and optimize your character and his hacking skills. 
+The actual secturity devices are:
+Security Camera  - Hack them to see around corners etc.
+Laser Barrier  - They open for members of the security faction. Use this for your advantage
+S.P.Y.D.E.R Robot - A small recon robot which gives alarm and sends your position to the Fightbots.
+Fightbot  - Big Baddies which shoot you on sight. Hide behind crates to eg. to not be seen.
+More security devices are about to come with more threats and but also possibilities to use them for your advantage. The final version will contain special achievements (like rasing no alarm eg.) and an detailed event log and leaderboard.

@@ -1,0 +1,17 @@
+We’ve combined the exhilaration of parachuting with an eye for accuracy. Our virtual gaming application is sure to provide limitless hours of immersive play. From home you can experience the fun of flying your virtual parachute.   
+Peering through your virtual reality goggles provides a 360 degree view of flight under a parachute.  Look up and see your virtual parachute.  Look to the left or right and your virtual hands are controlling the toggles and direction of your virtual parachute path.  Look at the altimeter on your left wrist to check your altitude.  Look down at your virtual self, harnessed and soaring above earth. Couple your VR gamepad and you have the control to steer your parachute. 
+Listen to the sound of your canopy flapping as you fly or the sound of the roaring Niagara Falls. 
+Friends coming over?  Select the number of players and your landing zone.   Think you’ve got what it takes to ace a landing right on target in New York's Niagara Falls?  Next to the Colorado River in the Grand Canyon?  How about Yosemite?  On top of a Fjord in Norway? 
+Our application records each persons score:  the distance from their landing point to the center of the target.   
+Make sure you have WiFi enabled! 
+Controls: 
+Our game is controlled via Gaze/Gear VR Touchpad in the Menu Room, and with a Samsung Gamepad for Gameplay. 
+Menu Room: 
+Look around to place the Gaze icon onto any menu item.  To choose a place to fly, click the arrows on the left or the right of a Scene icon to rotate the carousel.  Move the Gaze Icon over the number of divers to choose how many players, and then tap the Gear VR Touchpad with your Gaze icon on GO of the Scene where you want to parachute.   Patiently wait a few seconds and the Scene will load!
+Future enhancements we're working on: 
+Select a skydiving site anywhere on the globe (even your own back yard!) 
+Select challenging wind and site conditions and time of day (even night time!) 
+As your skills grow, select from a range of parachutes with more performance 
+Have remote friends with their own VR goggles compete over an internet 
+connection 
+Select the colors of your parachute 

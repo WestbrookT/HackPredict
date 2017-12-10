@@ -1,0 +1,2 @@
+Allow tour guides to tailor presentations to specific groups. Also help keep personalized messages private.
+Using Bluetooth on Plantronics, broadcast voice from the tour guide to the group, and from individuals in the group to the group and tour guide.

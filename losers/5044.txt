@@ -1,0 +1,19 @@
+Crashland Reborn is an action-packed FPS that aims to play to mobile VR’s untethered strengths.
+In the game you find yourself marooned on a hostile alien planet. Armed with only a smart pistol, teleporter and motion scanner, you have to defend against waves of increasingly ferocious aliens. The only aim is to survive long enough for rescue to arrive.
+Crashland Reborn uses a novel control scheme that’s a hybrid of head tracking and decoupled aiming.  The aim is to show that it’s possible to create an intuitive and comfortable FPS on mobile that adheres to VR best practices, without compromising gameplay. 
+If using the default Samsung Gamepad, it is recommended that you mostly use head tracked aiming. Controllers like the Moga Pro allow for more precise stick aiming.
+Full controls can be found by turning around at the game’s title screen.
+The game takes place in an open desert environment.
+The aim is to survive for eight minutes until rescue.
+Increasingly dangerous insectoid aliens will spawn as the game progresses.
+Killing aliens awards credits. 
+Credits can be spent on power-ups for the pistol: 
+Firing modes (single shot, three round burst, full auto, rockets). 
+Stat boosts (damage, reload, accuracy, capacity).
+Power-ups are purchased via a HUD using the Gear VR’s touchpad. 
+Power-ups are delivered via mortars launched from orbit. These land in the general vicinity to encourage movement.
+The motion scanner is integral to survival, as it can track approaching aliens and locate power-up drops. 
+Hellfire rockets can catapult aliens into the air. Finishing off airborne aliens with the pistol yields double credits! 
+Credits also double as the game's scoring system. 
+Here are three salient features of my entry.
+The gameplay loop is designed to invoke a constant arms race between the player and the attacking aliens. It will be completely up to the player how they upgrade their smart pistol, enabling many builds, strategies and meta-gameplay.  The aim is to encourage  “just one more go”.

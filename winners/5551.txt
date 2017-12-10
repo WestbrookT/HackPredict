@@ -1,0 +1,6 @@
+Mark Zuckerberg has Jarvis tell him who is at his door, and we wanted that for ourselves
+When you ask Alexa who is at the door, a picture is taken of whoever is at the door and runs facial recognition from your Facebook friends, and so Alexa can tell you who is at your door
+We integrated Alexa, Node.js application running on a raspberry pi, and Facebook image recognition to find out who is currently at the door
+The Facebook API was very hard to work with, so we had to create a workaround to get the facial image recognition.
+While this is not the first time this app has been made, our code works instantly and immediately out of the box, rather than using training models which take multiple visits to learn
+We learned how to work with the Facebook API as well as some very important computer vision techniques.

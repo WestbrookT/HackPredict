@@ -1,0 +1,6 @@
+Whenever I go out of town, I never know what's going on. If I'm headed out for a conference, I can never find events and what's going on in town. What if there was some magical way to make it all happen? That's exactly what locale does.
+Locale uses the phone's GeoPoints to pinpoint the user's location and, when filled with enough events, will display events within the user's vicinity.  From here, the user can easily access, update, and see events that he/she wants to attend.
+I ran into Issues with location, UIFont (just annoying), setting up the backend and properly configuring it, images, logos, names, etc!
+I built it rather quickly! Yay!! There's still a ton coming, but I'm proud of our design - I think we matched the right colors with the right logos and everything fell in place.
+I learned I've experimented with location and geopoints in the past for projects such as viper, but it seems no matter how much experience you have with these guys, there's always something new.
+We plan on shipping Locale and making it bigger and better than ever. We want to get users on it as such we plan on releasing it to the app store in the coming weeks.

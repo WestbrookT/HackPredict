@@ -1,0 +1,12 @@
+Initial Description
+Play through a series of dream sequences that will guide you through the real, the surreal, and the magical. 
+Background
+Comes from lucid dreaming, where dreams tend to flow into one another without making much sense but the transition feel natural even with a dramatic shift.
+Controls
+The player will look and click to select or interact with objects in the scene or any menu controls.
+Goals
+We will be avoiding a scoring, pass/fail, or death system. The goals of the player will be to find the path to the next dream area by interacting with the environment.
+Dream Example(Doors)
+When walking through a portal or doorway from another dreamstate, the player will step into a hallway where they will hear the air conditioner running on high in a long empty corridor. Hearing doors open from one direction to the other, they will be able to see someone or thing running between doors. The player will have to look at the appropriate door and click to open the door before it runs between other sets of doors. To travel up and down the hallway, there we will use the google street view method of ground based directional arrows.
+Finalized Flow
+The player will start in a familiar room as things will start to change and feel odd, off, or out of place. After which, the player will find the world drastically changing from while being swept away into a series of interactive events that will ultimately bring the player back full circle.
